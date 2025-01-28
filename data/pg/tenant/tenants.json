@@ -31869,9 +31869,9 @@
         "contactNumber": "8277504375"
     },
     {
-        "code": "pg.ágarakhed",
-        "name": "Ágarakhed",
-        "description": "Ágarakhed",
+        "code": "pg.agarakhed",
+        "name": "Agarakhed",
+        "description": "Agarakhed",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -31884,12 +31884,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Ágarakhed",
+            "name": "Agarakhed",
             "localName": null,
             "districtCode": "VIJAYAPURA",
             "districtName": "Vijayapura",
             "blockCode": "vijayapura.indi",
-            "districtTenantCode": "pg.ágarakhed",
+            "districtTenantCode": "pg.agarakhed",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,

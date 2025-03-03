@@ -35,7 +35,8 @@
         {
           "name": "applicationNumber",
           "path": "Data.incident.incidentId.keyword",
-          "isMandatory": false
+          "isMandatory": false,
+          "operator": "WILDCARD"
         },
         {
           "name": "fromDate",

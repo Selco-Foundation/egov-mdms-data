@@ -55,6 +55,12 @@
           "path": "sla_comparison",
           "isMandatory": false,
           "operator": "LTE"
+        },
+        {
+          "name": "search",
+          "path": "Data.incident.incidentId, Data.incident.district, Data.incident.reporter.userName",
+          "isMandatory": false,
+          "operator": "MULTI_MATCH"
         }
       ],
       "sortBy": {

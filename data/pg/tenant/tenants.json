@@ -11911,7 +11911,7 @@
         "contactNumber": "9008555159"
     },
     {
-        "code": "pg.ram nagar",
+        "code": "pg.ramnagar",
         "name": "Ram Nagar",
         "description": "Ram Nagar",
         "centreType": "UHC",
@@ -13033,7 +13033,7 @@
         "contactNumber": "6360316597"
     },
     {
-        "code": "pg.rkmini nagar",
+        "code": "pg.rkmininagar",
         "name": "Rkmini Nagar",
         "description": "Rkmini Nagar",
         "centreType": "UHC",
@@ -15107,7 +15107,7 @@
         "contactNumber": "9980918790"
     },
     {
-        "code": "pg.hallikhed k",
+        "code": "pg.hallikhedk",
         "name": "Hallikhed K",
         "description": "Hallikhed K",
         "centreType": "PHC",
@@ -15379,7 +15379,7 @@
         "contactNumber": "9483615051"
     },
     {
-        "code": "pg.ranjol kheni",
+        "code": "pg.ranjolkheni",
         "name": "Ranjol Kheni",
         "description": "Ranjol Kheni",
         "centreType": "PHC",
@@ -20479,7 +20479,7 @@
         "contactNumber": "9481729132"
     },
     {
-        "code": "pg.jantli shirur",
+        "code": "pg.jantlishirur",
         "name": "Jantli Shirur",
         "description": "Jantli Shirur",
         "centreType": "PHC",
@@ -22859,7 +22859,7 @@
         "contactNumber": "7975873170"
     },
     {
-        "code": "pg.awrad b",
+        "code": "pg.awradb",
         "name": "Awrad B",
         "description": "Awrad B",
         "centreType": "PHC",
@@ -23063,7 +23063,7 @@
         "contactNumber": "9686843383"
     },
     {
-        "code": "pg.shriinivasa saradagi",
+        "code": "pg.shriinivasasaradagi",
         "name": "Shriinivasa Saradagi",
         "description": "Shriinivasa Saradagi",
         "centreType": "PHC",
@@ -23131,7 +23131,7 @@
         "contactNumber": "8904325956"
     },
     {
-        "code": "pg.nandor b",
+        "code": "pg.nandorb",
         "name": "Nandor B",
         "description": "Nandor B",
         "centreType": "PHC",
@@ -23199,7 +23199,7 @@
         "contactNumber": "9448678090"
     },
     {
-        "code": "pg.hire savalgi",
+        "code": "pg.hiresavalgi",
         "name": "Hire Savalgi",
         "description": "Hire Savalgi",
         "centreType": "PHC",
@@ -24321,7 +24321,7 @@
         "contactNumber": "8618952106"
     },
     {
-        "code": "pg.biryal b",
+        "code": "pg.biryalb",
         "name": "Biryal B",
         "description": "Biryal B",
         "centreType": "PHC",
@@ -26667,7 +26667,7 @@
         "contactNumber": "8277498545"
     },
     {
-        "code": "pg.hosakera daggi",
+        "code": "pg.hosakeradaggi",
         "name": "Hosakera Daggi",
         "description": "Hosakera Daggi",
         "centreType": "PHC",
@@ -30407,7 +30407,7 @@
         "contactNumber": "8105560004"
     },
     {
-        "code": "pg.kamath halli",
+        "code": "pg.kamathhalli",
         "name": "Kamath Halli",
         "description": "Kamath Halli",
         "centreType": "PHC",
@@ -32345,7 +32345,7 @@
         "contactNumber": "9886936753"
     },
     {
-        "code": "pg.loni b k",
+        "code": "pg.lonibk",
         "name": "Loni B K",
         "description": "Loni B K",
         "centreType": "PHC",
@@ -32787,7 +32787,7 @@
         "contactNumber": "9901912672"
     },
     {
-        "code": "pg.gutti basaveshwar",
+        "code": "pg.guttibasaveshwar",
         "name": "Gutti Basaveshwar",
         "description": "Gutti Basaveshwar",
         "centreType": "PHC",
@@ -32855,7 +32855,7 @@
         "contactNumber": "9148886837"
     },
     {
-        "code": "pg.shrinivan pura",
+        "code": "pg.shrinivanpura",
         "name": "Shrinivan Pura",
         "description": "Shrinivan Pura",
         "centreType": "PHC",

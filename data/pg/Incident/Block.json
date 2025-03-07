@@ -671,8 +671,8 @@
             "active": true
         },
         {
-            "code": "bagalkote.hunagund ",
-            "name": "Hunagund ",
+            "code": "bagalkote.hunagund",
+            "name": "Hunagund",
             "districtCode": "BAGALKOTE",
             "active": true
         },
@@ -1013,8 +1013,8 @@
             "active": true
         },
         {
-            "code": "kalaburagi.aland ",
-            "name": "Aland ",
+            "code": "kalaburagi.aland",
+            "name": "Aland",
             "districtCode": "KALABURAGI",
             "active": true
         },
@@ -1192,8 +1192,8 @@
             "active": true
         },
         {
-            "code": "vijayapura.babaleshwar ",
-            "name": "Babaleshwar ",
+            "code": "vijayapura.babaleshwar",
+            "name": "Babaleshwar",
             "districtCode": "VIJAYAPURA",
             "active": true
         },

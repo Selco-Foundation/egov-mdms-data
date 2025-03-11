@@ -3914,12 +3914,6 @@
         {
           "code": "pg.urbanmaternityhealthcenter"
         },
-         {
-          "code": "pg.dummy"
-        },
-        {
-          "code": "pg.dummya"
-        },
         {
           "code": "pg.ragimangaddaurbanprimaryhealthcentre"
         },
@@ -3958,11 +3952,7 @@
         },
         {
           "code": "pg.ganadhal"
-        },
-        {
-          "code": "pg.musturphc"
-        },
-        
+        },        
         {
           "code": "pg.kopparsc"
         },
@@ -4374,9 +4364,6 @@
         },
         {
             "code": "pg.sadapur"
-        },
-        {
-            "code": "pg.sangapurphc"
         },
         {
             "code": "pg.tadkalsc"
@@ -7150,6 +7137,69 @@
     },
     {
         "code": "pg.surapurtalukshospitals"
+    },
+    { 
+        "code": "pg.tadkal"
+    },
+    { 
+        "code": "pg.ukhanapurhukkeri"
+    },
+    { 
+        "code": "pg.gunjahallisc"
+    },
+    { 
+        "code": "pg.idapanursc"
+    },
+    { 
+        "code": "pg.chougalewaditilakwadi"
+    },
+    { 
+        "code": "pg.ramdurga247"
+    },
+    { 
+        "code": "pg.pothnalphc"
+    },
+    { 
+        "code": "pg.thoranadinniphc"
+    },
+    { 
+        "code": "pg.idapanurphc"
+    },
+    { 
+        "code": "pg.masarkalsc"
+    },
+    { 
+        "code": "pg.yapaldinnisc"
+    },
+    { 
+        "code": "pg.yapaldinniphc"
+    },
+    { 
+        "code": "pg.sangapur"
+    },
+    { 
+        "code": "pg.pothnaldrroomsubcentre"
+    },
+    { 
+        "code": "pg.mustur"
+    },
+    { 
+        "code": "pg.ukhanapur"
+    },
+    { 
+        "code": "pg.hosur"
+    },
+    { 
+        "code": "pg.gunjahalliphc"
+    },
+    { 
+        "code": "pg.pamankallurphc"
+    },
+    { 
+        "code": "pg.gabbur"
+    },
+    { 
+        "code": "pg.pamankallur"
     }
       
       ]

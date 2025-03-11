@@ -1,0 +1,112 @@
+{
+  "tenantId": "ml",
+  "moduleName": "tenant",
+  "tenants": 
+  [
+    {
+      "code": "ml",
+      "name": "Meghalaya State",
+      "description": "Meghalaya State",
+      "logoId": null,
+      "centreType": "Sub Centre",
+      "pincode": null,
+      "domainUrl": "www.stae.gov.in",
+      "type": "CITY",
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ml.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Meghalaya State",
+        "localName": "Meghalaya State",
+        "districtCode": null,
+        "districtName": null,
+        "blockCode": null,
+        "districtTenantCode": "ml",
+        "regionName": "State - Region",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
+    },
+    {
+      "code": "ml.dummy",
+      "name": "Dummy Primary Health Centre",
+      "description": "Dummy Primary Health Centre",
+      "centreType": "Primary Health Centre",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "PHC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Dummy",
+        "localName": null,
+        "districtCode": "RAICHUR",
+        "districtName": "Raichur",
+        "blockCode": "raichur.raichur",
+        "districtTenantCode": "ml.dummy",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "ML-RCH-123",
+        "centreCode": "ML-111-03-185",
+        "ddrName": null
+      },
+      "address": "Meghalaya",
+      "contactNumber": "9986067450"
+    },
+    {
+      "code": "ml.dummya",
+      "name": "DummyA Primary Health Centre",
+      "description": "DummyA Primary Health Centre",
+      "centreType": "Primary Health Centre",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "PHC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Dummy A",
+        "localName": null,
+        "districtCode": "RAICHUR",
+        "districtName": "Raichur",
+        "blockCode": "raichur.raichur",
+        "districtTenantCode": "ml.dummya",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "ML-RCH-163",
+        "centreCode": "ML-111-03-185",
+        "ddrName": null
+      },
+      "address": "Meghalaya",
+      "contactNumber": "9986067450"
+    }
+  ]
+}

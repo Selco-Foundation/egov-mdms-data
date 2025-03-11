@@ -1,0 +1,12 @@
+{
+    "tenantId": "ml",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+      {
+        "businessService": "Incident",
+        "active": "true",
+        "isStatelevel": "true"
+      }
+        
+    ]
+  }

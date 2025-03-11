@@ -1,0 +1,12 @@
+{
+  "tenantId": "ml",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "raichur.raichur",
+      "name": "Raichur",
+      "districtCode": "RAICHUR",
+      "active": true
+    }
+  ]
+}

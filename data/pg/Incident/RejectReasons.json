@@ -1,16 +1,27 @@
 {
-    "tenantId": "pg",
-    "moduleName": "Incident",
-    "RejectReasons": [
+  "tenantId": "pg",
+  "moduleName": "Incident",
+  "RejectReasons": [
+    {
+      "name": "Duplicate Ticket",
+      "code": "DUPLICATE_TICKET",
+      "active": true
+    },
+    {
+      "name": "Educated End User",
+      "code": "EDUCATED_END_USER",
+      "active": true
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true,
+      "additionalInputs": [
         {
-            "name": "Duplicate Ticket",
-            "code": "DUPLICATE_TICKET",
-            "active": true
-        },
-        {
-            "name": "Educated End User",
-            "code": "EDUCATED_END_USER",
-            "active": true
+          "type": "textarea",
+          "key": "subReason"
         }
-    ]
+      ]
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "ml",
   "moduleName": "INBOX",
   "InboxQueryConfiguration": [
     {

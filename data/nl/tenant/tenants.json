@@ -2213,9 +2213,9 @@
       "contactNumber": "7005118080"
     },
     {
-      "code": "nl.chobama/tsupfumehwcsc",
-      "name": "Chobama/Tsupfume\nHwc SC",
-      "description": "Chobama/Tsupfume\nHwc SC",
+      "code": "nl.chobamatsupfumehwcsc",
+      "name": "Chobama/Tsupfume Hwc SC",
+      "description": "Chobama/Tsupfume Hwc SC",
       "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -2228,12 +2228,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Chobama/Tsupfume\nHwc SC",
+        "name": "Chobama/Tsupfume Hwc SC",
         "localName": null,
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.chobama/tsupfumehwcsc",
+        "districtTenantCode": "nl.chobamatsupfumehwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2553,7 +2553,7 @@
       "contactNumber": "8732025749"
     },
     {
-      "code": "nl.khumis\u00fcahwc",
+      "code": "nl.khumisuahwc",
       "name": "Khumis\u00fc AHWC",
       "description": "Khumis\u00fc AHWC",
       "centreType": "SC",
@@ -2573,7 +2573,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.khumis\u00fcahwc",
+        "districtTenantCode": "nl.khumisuahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3777,7 +3777,7 @@
       "contactNumber": "8794489418"
     },
     {
-      "code": "nl.socunomasc-hwc",
+      "code": "nl.socunomaschwc",
       "name": "Socunoma SC-HWC",
       "description": "Socunoma SC-HWC",
       "centreType": "HWC",
@@ -3797,7 +3797,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.socunomasc-hwc",
+        "districtTenantCode": "nl.socunomaschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3913,7 +3913,7 @@
       "contactNumber": "7630832505"
     },
     {
-      "code": "nl.7thmilehwc",
+      "code": "nl.seventhmilehwc",
       "name": "7th mile HWC",
       "description": "7th mile HWC",
       "centreType": "HWC",
@@ -3933,7 +3933,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.7thmilehwc",
+        "districtTenantCode": "nl.seventhmilehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4151,7 +4151,7 @@
       "contactNumber": "8258964501"
     },
     {
-      "code": "nl.setts\u00fchwc",
+      "code": "nl.settsuhwc",
       "name": "Setts\u00fc HWC",
       "description": "Setts\u00fc HWC",
       "centreType": "HWC",
@@ -4171,7 +4171,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.setts\u00fchwc",
+        "districtTenantCode": "nl.settsuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5817,7 +5817,7 @@
       "contactNumber": "9089334698"
     },
     {
-      "code": "nl.meriyansc-hwc",
+      "code": "nl.meriyanschwc",
       "name": "Meriyan SC-HWC",
       "description": "Meriyan SC-HWC",
       "centreType": "HWC",
@@ -5837,7 +5837,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.wozhuro",
-        "districtTenantCode": "nl.meriyansc-hwc",
+        "districtTenantCode": "nl.meriyanschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5885,7 +5885,7 @@
       "contactNumber": "9612174539"
     },
     {
-      "code": "nl.morakjos/c",
+      "code": "nl.morakjosc",
       "name": "Morakjo s/c",
       "description": "Morakjo s/c",
       "centreType": "SC",
@@ -5905,7 +5905,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.sanis",
-        "districtTenantCode": "nl.morakjos/c",
+        "districtTenantCode": "nl.morakjosc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,

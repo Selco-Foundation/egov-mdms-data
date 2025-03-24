@@ -1,0 +1,16 @@
+{
+  "tenantId": "nl",
+  "moduleName": "Workflow",
+  "AutoEscalation": [
+    {
+      "businessService": "Incident",
+      "module": "im-services",
+      "state": "RESOLVED",
+      "action": "CLOSE",
+      "active": "true",
+      "stateSLA": 3.0,
+      "businessSLA": null,
+      "topic": "im-auto-escalation"
+    }
+  ]
+}

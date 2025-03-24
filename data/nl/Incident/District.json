@@ -1,0 +1,81 @@
+{
+  "tenant_id": "nl",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "DIMAPUR",
+      "name": "Dimapur",
+      "active": true
+    },
+    {
+      "code": "NIULAND",
+      "name": "Niuland",
+      "active": true
+    },
+    {
+      "code": "PEREN",
+      "name": "Peren",
+      "active": true
+    },
+    {
+      "code": "KOHIMA",
+      "name": "Kohima",
+      "active": true
+    },
+    {
+      "code": "ZUNHEBOTO",
+      "name": "Zunheboto",
+      "active": true
+    },
+    {
+      "code": "PHEK",
+      "name": "Phek",
+      "active": true
+    },
+    {
+      "code": "KIPHIRE",
+      "name": "Kiphire",
+      "active": true
+    },
+    {
+      "code": "MON",
+      "name": "Mon",
+      "active": true
+    },
+    {
+      "code": "CHUMOUKEDIMA",
+      "name": "Chumoukedima",
+      "active": true
+    },
+    {
+      "code": "MOKOKCHUNG",
+      "name": "Mokokchung",
+      "active": true
+    },
+    {
+      "code": "TUENSANG",
+      "name": "Tuensang",
+      "active": true
+    },
+    {
+      "code": "WOKHA",
+      "name": "Wokha",
+      "active": true
+    },
+    {
+      "code": "LONGLENG",
+      "name": "Longleng",
+      "active": true
+    },
+    {
+      "code": "NOKLAK",
+      "name": "Noklak",
+      "active": true
+    },
+    {
+      "code": "TSEMINYU",
+      "name": "Tseminyu",
+      "active": true
+    }
+  ]
+}

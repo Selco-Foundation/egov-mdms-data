@@ -1,0 +1,416 @@
+{
+  "tenant_id": "nl",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "dimapur.dimapur",
+      "name": "Dimapur",
+      "districtCode": "DIMAPUR"
+    },
+    {
+      "code": "dimapur.medziphema",
+      "name": "Medziphema",
+      "districtCode": "DIMAPUR"
+    },
+    {
+      "code": "niuland.niuland",
+      "name": "Niuland",
+      "districtCode": "NIULAND"
+    },
+    {
+      "code": "peren.tening",
+      "name": "Tening",
+      "districtCode": "PEREN"
+    },
+    {
+      "code": "peren.peren",
+      "name": "Peren",
+      "districtCode": "PEREN"
+    },
+    {
+      "code": "peren.ahthibung",
+      "name": "Ahthibung",
+      "districtCode": "PEREN"
+    },
+    {
+      "code": "peren.jalukie",
+      "name": "Jalukie",
+      "districtCode": "PEREN"
+    },
+    {
+      "code": "kohima.kohima",
+      "name": "Kohima",
+      "districtCode": "KOHIMA"
+    },
+    {
+      "code": "zunheboto.atoizu",
+      "name": "Atoizu",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.sadar",
+      "name": "Sadar",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.zunhebotosadar",
+      "name": "Zunheboto Sadar",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.pughoboto",
+      "name": "Pughoboto",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.satakha",
+      "name": "Satakha",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.pughobotochc",
+      "name": "Pughoboto Chc",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.suruhoto",
+      "name": "Suruhoto",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.aghunato",
+      "name": "Aghunato",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.akuluto",
+      "name": "Akuluto",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.zunheboto",
+      "name": "Zunheboto",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.akuhaito",
+      "name": "Akuhaito",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "zunheboto.suruhuto",
+      "name": "Suruhuto",
+      "districtCode": "ZUNHEBOTO"
+    },
+    {
+      "code": "phek.melure",
+      "name": "Melure",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.meluri",
+      "name": "Meluri",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.pheksardar",
+      "name": "Phek Sardar",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.chozuba",
+      "name": "Chozuba",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.pfutsero",
+      "name": "Pfutsero",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.pheksadar",
+      "name": "Phek Sadar",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.phek",
+      "name": "Phek",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "phek.kikruma",
+      "name": "Kikruma",
+      "districtCode": "PHEK"
+    },
+    {
+      "code": "kiphire.pungro",
+      "name": "Pungro",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "kiphire.seyochung/sitimi",
+      "name": "Seyochung/ Sitimi",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "kiphire.seyochung",
+      "name": "Seyochung",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "kiphire.amahator",
+      "name": "Amahator",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "kiphire.kiphiresadar",
+      "name": "Kiphire Sadar",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "kiphire.sitimi/seyochung",
+      "name": "Sitimi/Seyochung",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "kiphire.sitimi",
+      "name": "Sitimi",
+      "districtCode": "KIPHIRE"
+    },
+    {
+      "code": "mon.aboi",
+      "name": "Aboi",
+      "districtCode": "MON"
+    },
+    {
+      "code": "chumoukedima.chumoukedima",
+      "name": "Chumoukedima",
+      "districtCode": "CHUMOUKEDIMA"
+    },
+    {
+      "code": "chumoukedima.medziphema",
+      "name": "Medziphema",
+      "districtCode": "CHUMOUKEDIMA"
+    },
+    {
+      "code": "mokokchung.tuli",
+      "name": "Tuli",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.changtongya",
+      "name": "Changtongya",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.ongpangkong",
+      "name": "Ongpangkong",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.tsurangkong",
+      "name": "Tsurangkong",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.tzurangkong",
+      "name": "Tzurangkong",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.ongpangkongnorth",
+      "name": "Ongpangkong North",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.ongbangkong",
+      "name": "Ongbangkong",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.alongkima",
+      "name": "Alongkima",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.mokokchung",
+      "name": "Mokokchung",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.ongpangkongsouth",
+      "name": "Ongpangkong South",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.onpangkong",
+      "name": "Onpangkong",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.longchem",
+      "name": "Longchem",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "mokokchung.mangkolemba",
+      "name": "Mangkolemba",
+      "districtCode": "MOKOKCHUNG"
+    },
+    {
+      "code": "tuensang.tuensangsadar",
+      "name": "Tuensang sadar",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "tuensang.shamator",
+      "name": "Shamator",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "tuensang.sadar",
+      "name": "Sadar",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "tuensang.chare",
+      "name": "Chare",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "tuensang.noksen",
+      "name": "Noksen",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "tuensang.chessore",
+      "name": "Chessore",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "tuensang.longkhim",
+      "name": "Longkhim",
+      "districtCode": "TUENSANG"
+    },
+    {
+      "code": "wokha.chukitong",
+      "name": "Chukitong",
+      "districtCode": "WOKHA"
+    },
+    {
+      "code": "wokha.wozhuro",
+      "name": "Wozhuro",
+      "districtCode": "WOKHA"
+    },
+    {
+      "code": "wokha.sanis",
+      "name": "Sanis",
+      "districtCode": "WOKHA"
+    },
+    {
+      "code": "wokha.bhandari",
+      "name": "Bhandari",
+      "districtCode": "WOKHA"
+    },
+    {
+      "code": "wokha.wozhuro/ralan",
+      "name": "Wozhuro/Ralan",
+      "districtCode": "WOKHA"
+    },
+    {
+      "code": "wokha.wokhasadar",
+      "name": "Wokha sadar",
+      "districtCode": "WOKHA"
+    },
+    {
+      "code": "kohima.jakhama",
+      "name": "Jakhama",
+      "districtCode": "KOHIMA"
+    },
+    {
+      "code": "kohima.chiephobozou",
+      "name": "Chiephobozou",
+      "districtCode": "KOHIMA"
+    },
+    {
+      "code": "kohima.kohimasadar",
+      "name": "Kohima Sadar",
+      "districtCode": "KOHIMA"
+    },
+    {
+      "code": "kohima.sechu",
+      "name": "Sechu",
+      "districtCode": "KOHIMA"
+    },
+    {
+      "code": "mon.mon",
+      "name": "Mon",
+      "districtCode": "MON"
+    },
+    {
+      "code": "mon.tobu",
+      "name": "Tobu",
+      "districtCode": "MON"
+    },
+    {
+      "code": "longleng.longleng",
+      "name": "Longleng",
+      "districtCode": "LONGLENG"
+    },
+    {
+      "code": "longleng.yongnyah",
+      "name": "Yongnyah",
+      "districtCode": "LONGLENG"
+    },
+    {
+      "code": "noklak.panso",
+      "name": "Panso",
+      "districtCode": "NOKLAK"
+    },
+    {
+      "code": "noklak.nokhu",
+      "name": "Nokhu",
+      "districtCode": "NOKLAK"
+    },
+    {
+      "code": "noklak.noklak",
+      "name": "Noklak",
+      "districtCode": "NOKLAK"
+    },
+    {
+      "code": "noklak.thonoknyu",
+      "name": "Thonoknyu",
+      "districtCode": "NOKLAK"
+    },
+    {
+      "code": "tseminyu.tseminyu",
+      "name": "Tseminyu",
+      "districtCode": "TSEMINYU"
+    },
+    {
+      "code": "mon.chen",
+      "name": "Chen",
+      "districtCode": "MON"
+    },
+    {
+      "code": "mon.wakching",
+      "name": "Wakching",
+      "districtCode": "MON"
+    },
+    {
+      "code": "mon.tizit",
+      "name": "Tizit",
+      "districtCode": "MON"
+    },
+    {
+      "code": "mon.pomching",
+      "name": "Pomching",
+      "districtCode": "MON"
+    },
+    {
+      "code": "mon.angjangyang",
+      "name": "Angjangyang",
+      "districtCode": "MON"
+    }
+  ]
+}

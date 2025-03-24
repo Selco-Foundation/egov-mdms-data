@@ -37,7 +37,7 @@
       "contactNumber": null
     },
     {
-      "code": "nl.aoyimkum-hwc",
+      "code": "nl.aoyimkumhwc",
       "name": "Aoyimkum HWC",
       "description": "Aoyimkum HWC",
       "centreType": "HWC",
@@ -57,7 +57,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.aoyimkum-hwc",
+        "districtTenantCode": "nl.aoyimkumhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -71,7 +71,7 @@
       "contactNumber": "7085842919"
     },
     {
-      "code": "nl.aoyimti-hwc",
+      "code": "nl.aoyimtihwc",
       "name": "Aoyimti HWC",
       "description": "Aoyimti HWC",
       "centreType": "HWC",
@@ -91,7 +91,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.aoyimti-hwc",
+        "districtTenantCode": "nl.aoyimtihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -105,7 +105,7 @@
       "contactNumber": "9366252269"
     },
     {
-      "code": "nl.lengrijan-sc",
+      "code": "nl.lengrijansc",
       "name": "Lengrijan SC",
       "description": "Lengrijan SC",
       "centreType": "SC",
@@ -125,7 +125,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.lengrijan-sc",
+        "districtTenantCode": "nl.lengrijansc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -139,7 +139,7 @@
       "contactNumber": "9862011456"
     },
     {
-      "code": "nl.pherima-phc",
+      "code": "nl.pherimaphc",
       "name": "Pherima PHC",
       "description": "Pherima PHC",
       "centreType": "PHC",
@@ -159,7 +159,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.medziphema",
-        "districtTenantCode": "nl.pherima-phc",
+        "districtTenantCode": "nl.pherimaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -173,7 +173,7 @@
       "contactNumber": "7085177847"
     },
     {
-      "code": "nl.rilan-hwc",
+      "code": "nl.rilanhwc",
       "name": "Rilan HWC",
       "description": "Rilan HWC",
       "centreType": "HWC",
@@ -193,7 +193,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.rilan-hwc",
+        "districtTenantCode": "nl.rilanhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -207,7 +207,7 @@
       "contactNumber": "9886266012"
     },
     {
-      "code": "nl.samaguri-hwc",
+      "code": "nl.samagurihwc",
       "name": "Samaguri HWC",
       "description": "Samaguri HWC",
       "centreType": "HWC",
@@ -227,7 +227,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.samaguri-hwc",
+        "districtTenantCode": "nl.samagurihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -241,7 +241,7 @@
       "contactNumber": "8787403778"
     },
     {
-      "code": "nl.signal-angami-sc",
+      "code": "nl.signalangamisc",
       "name": "Signal Angami SC",
       "description": "Signal Angami SC",
       "centreType": "SC",
@@ -261,7 +261,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.signal-angami-sc",
+        "districtTenantCode": "nl.signalangamisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -275,7 +275,7 @@
       "contactNumber": "8132896152"
     },
     {
-      "code": "nl.town-sc",
+      "code": "nl.townsc",
       "name": "Town SC",
       "description": "Town SC",
       "centreType": "SC",
@@ -295,7 +295,7 @@
         "districtCode": "DIMAPUR",
         "districtName": "Dimapur",
         "blockCode": "dimapur.dimapur",
-        "districtTenantCode": "nl.town-sc",
+        "districtTenantCode": "nl.townsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -309,7 +309,7 @@
       "contactNumber": "7005564754"
     },
     {
-      "code": "nl.akito-phc",
+      "code": "nl.akitophc",
       "name": "Akito PHC",
       "description": "Akito PHC",
       "centreType": "PHC",
@@ -329,7 +329,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.akito-phc",
+        "districtTenantCode": "nl.akitophc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -343,7 +343,7 @@
       "contactNumber": "7085613549"
     },
     {
-      "code": "nl.hovishe-hwc",
+      "code": "nl.hovishehwc",
       "name": "Hovishe HWC",
       "description": "Hovishe HWC",
       "centreType": "HWC",
@@ -363,7 +363,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.hovishe-hwc",
+        "districtTenantCode": "nl.hovishehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -377,7 +377,7 @@
       "contactNumber": "9612163416"
     },
     {
-      "code": "nl.khaghaboto-hwc",
+      "code": "nl.khaghabotohwc",
       "name": "Khaghaboto HWC",
       "description": "Khaghaboto HWC",
       "centreType": "HWC",
@@ -397,7 +397,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.khaghaboto-hwc",
+        "districtTenantCode": "nl.khaghabotohwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -411,7 +411,7 @@
       "contactNumber": "7595827775"
     },
     {
-      "code": "nl.l-vihoto-hwc",
+      "code": "nl.lvihotohwc",
       "name": "L Vihoto HWC",
       "description": "L Vihoto HWC",
       "centreType": "HWC",
@@ -431,7 +431,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.l-vihoto-hwc",
+        "districtTenantCode": "nl.lvihotohwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -445,7 +445,7 @@
       "contactNumber": "9612541309"
     },
     {
-      "code": "nl.old-showuba-sc",
+      "code": "nl.oldshowubasc",
       "name": "Old Showuba SC",
       "description": "Old Showuba SC",
       "centreType": "SC",
@@ -465,7 +465,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.old-showuba-sc",
+        "districtTenantCode": "nl.oldshowubasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -479,7 +479,7 @@
       "contactNumber": "8787765106"
     },
     {
-      "code": "nl.zukihe-hwc",
+      "code": "nl.zukihehwc",
       "name": "Zukihe HWC",
       "description": "Zukihe HWC",
       "centreType": "HWC",
@@ -499,7 +499,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.zukihe-hwc",
+        "districtTenantCode": "nl.zukihehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -513,7 +513,7 @@
       "contactNumber": "8974851645"
     },
     {
-      "code": "nl.zutoi-hwc",
+      "code": "nl.zutoihwc",
       "name": "Zutoi HWC",
       "description": "Zutoi HWC",
       "centreType": "HWC",
@@ -533,7 +533,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.zutoi-hwc",
+        "districtTenantCode": "nl.zutoihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -547,7 +547,7 @@
       "contactNumber": "7036024116"
     },
     {
-      "code": "nl.zuvukhu-sc",
+      "code": "nl.zuvukhusc",
       "name": "Zuvukhu SC",
       "description": "Zuvukhu SC",
       "centreType": "SC",
@@ -567,7 +567,7 @@
         "districtCode": "NIULAND",
         "districtName": "Niuland",
         "blockCode": "niuland.niuland",
-        "districtTenantCode": "nl.zuvukhu-sc",
+        "districtTenantCode": "nl.zuvukhusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -581,7 +581,7 @@
       "contactNumber": "9856323861"
     },
     {
-      "code": "nl.azailong-phc",
+      "code": "nl.azailongphc",
       "name": "Azailong PHC",
       "description": "Azailong PHC",
       "centreType": "PHC",
@@ -601,7 +601,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.tening",
-        "districtTenantCode": "nl.azailong-phc",
+        "districtTenantCode": "nl.azailongphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -615,7 +615,7 @@
       "contactNumber": "9436003282"
     },
     {
-      "code": "nl.benreu-hwc",
+      "code": "nl.benreuhwc",
       "name": "Benreu HWC",
       "description": "Benreu HWC",
       "centreType": "HWC",
@@ -635,7 +635,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.peren",
-        "districtTenantCode": "nl.benreu-hwc",
+        "districtTenantCode": "nl.benreuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -649,7 +649,7 @@
       "contactNumber": "6033855744"
     },
     {
-      "code": "nl.ikiesingra-hwc",
+      "code": "nl.ikiesingrahwc",
       "name": "Ikiesingra HWC",
       "description": "Ikiesingra HWC",
       "centreType": "HWC",
@@ -669,7 +669,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.ahthibung",
-        "districtTenantCode": "nl.ikiesingra-hwc",
+        "districtTenantCode": "nl.ikiesingrahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -683,7 +683,7 @@
       "contactNumber": "8413841175"
     },
     {
-      "code": "nl.jalukie-zangdi-hwc",
+      "code": "nl.jalukiezangdihwc",
       "name": "Jalukie Zangdi HWC",
       "description": "Jalukie Zangdi HWC",
       "centreType": "HWC",
@@ -703,7 +703,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.jalukie",
-        "districtTenantCode": "nl.jalukie-zangdi-hwc",
+        "districtTenantCode": "nl.jalukiezangdihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -717,7 +717,7 @@
       "contactNumber": "9706421727"
     },
     {
-      "code": "nl.lalong-sc",
+      "code": "nl.lalongsc",
       "name": "Lalong SC",
       "description": "Lalong SC",
       "centreType": "SC",
@@ -737,7 +737,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.tening",
-        "districtTenantCode": "nl.lalong-sc",
+        "districtTenantCode": "nl.lalongsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -751,7 +751,7 @@
       "contactNumber": "9383087376"
     },
     {
-      "code": "nl.mbaulwa-phc",
+      "code": "nl.mbaulwaphc",
       "name": "Mbaulwa PHC",
       "description": "Mbaulwa PHC",
       "centreType": "PHC",
@@ -771,7 +771,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.tening",
-        "districtTenantCode": "nl.mbaulwa-phc",
+        "districtTenantCode": "nl.mbaulwaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -785,7 +785,7 @@
       "contactNumber": "9856870852"
     },
     {
-      "code": "nl.mpai-ahwc",
+      "code": "nl.mpaiahwc",
       "name": "Mpai AHWC",
       "description": "Mpai AHWC",
       "centreType": "HWC",
@@ -805,7 +805,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.peren",
-        "districtTenantCode": "nl.mpai-ahwc",
+        "districtTenantCode": "nl.mpaiahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -819,7 +819,7 @@
       "contactNumber": "6009584169"
     },
     {
-      "code": "nl.nsong-hwc",
+      "code": "nl.nsonghwc",
       "name": "Nsong HWC",
       "description": "Nsong HWC",
       "centreType": "HWC",
@@ -839,7 +839,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.tening",
-        "districtTenantCode": "nl.nsong-hwc",
+        "districtTenantCode": "nl.nsonghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -853,7 +853,7 @@
       "contactNumber": "8413086362"
     },
     {
-      "code": "nl.pedi-hwc",
+      "code": "nl.pedihwc",
       "name": "Pedi HWC",
       "description": "Pedi HWC",
       "centreType": "HWC",
@@ -873,7 +873,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.peren",
-        "districtTenantCode": "nl.pedi-hwc",
+        "districtTenantCode": "nl.pedihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -887,7 +887,7 @@
       "contactNumber": "7085682315"
     },
     {
-      "code": "nl.punglwa-hwc",
+      "code": "nl.punglwahwc",
       "name": "Punglwa HWC",
       "description": "Punglwa HWC",
       "centreType": "HWC",
@@ -907,7 +907,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.jalukie",
-        "districtTenantCode": "nl.punglwa-hwc",
+        "districtTenantCode": "nl.punglwahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -921,7 +921,7 @@
       "contactNumber": "9378062217"
     },
     {
-      "code": "nl.saijang-sc",
+      "code": "nl.saijangsc",
       "name": "Saijang SC",
       "description": "Saijang SC",
       "centreType": "SC",
@@ -941,7 +941,7 @@
         "districtCode": "PEREN",
         "districtName": "Peren",
         "blockCode": "peren.jalukie",
-        "districtTenantCode": "nl.saijang-sc",
+        "districtTenantCode": "nl.saijangsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -955,7 +955,7 @@
       "contactNumber": "9398756046"
     },
     {
-      "code": "nl.chedema-hwc",
+      "code": "nl.chedemahwc",
       "name": "Chedema HWC",
       "description": "Chedema HWC",
       "centreType": "HWC",
@@ -975,7 +975,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.kohima",
-        "districtTenantCode": "nl.chedema-hwc",
+        "districtTenantCode": "nl.chedemahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -989,7 +989,7 @@
       "contactNumber": "9366654266"
     },
     {
-      "code": "nl.apukito-sc",
+      "code": "nl.apukitosc",
       "name": "Apukito SC",
       "description": "Apukito SC",
       "centreType": "SC",
@@ -1009,7 +1009,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.atoizu",
-        "districtTenantCode": "nl.apukito-sc",
+        "districtTenantCode": "nl.apukitosc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1023,7 +1023,7 @@
       "contactNumber": "8837012757"
     },
     {
-      "code": "nl.asukhomi-sc",
+      "code": "nl.asukhomisc",
       "name": "Asukhomi SC",
       "description": "Asukhomi SC",
       "centreType": "SC",
@@ -1043,7 +1043,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.sadar",
-        "districtTenantCode": "nl.asukhomi-sc",
+        "districtTenantCode": "nl.asukhomisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1057,7 +1057,7 @@
       "contactNumber": "9366180035"
     },
     {
-      "code": "nl.asukhuto-sc-hwc",
+      "code": "nl.asukhutoschwc",
       "name": "Asukhuto SC HWC",
       "description": "Asukhuto SC HWC",
       "centreType": "HWC",
@@ -1076,8 +1076,8 @@
         "localName": null,
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
-        "blockCode": "zunheboto.zunheboto-sadar",
-        "districtTenantCode": "nl.asukhuto-sc-hwc",
+        "blockCode": "zunheboto.zunhebotosadar",
+        "districtTenantCode": "nl.asukhutoschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1091,7 +1091,7 @@
       "contactNumber": "6009441662"
     },
     {
-      "code": "nl.asukiqa-hwc",
+      "code": "nl.asukiqahwc",
       "name": "Asukiqa HWC",
       "description": "Asukiqa HWC",
       "centreType": "HWC",
@@ -1111,7 +1111,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.pughoboto",
-        "districtTenantCode": "nl.asukiqa-hwc",
+        "districtTenantCode": "nl.asukiqahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1125,7 +1125,7 @@
       "contactNumber": "9774938855"
     },
     {
-      "code": "nl.ghokhuvi-sc-hwc",
+      "code": "nl.ghokhuvischwc",
       "name": "Ghokhuvi SC HWC",
       "description": "Ghokhuvi SC HWC",
       "centreType": "HWC",
@@ -1145,7 +1145,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.satakha",
-        "districtTenantCode": "nl.ghokhuvi-sc-hwc",
+        "districtTenantCode": "nl.ghokhuvischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1159,7 +1159,7 @@
       "contactNumber": "9366261486"
     },
     {
-      "code": "nl.ghokimi-sc",
+      "code": "nl.ghokimisc",
       "name": "Ghokimi SC",
       "description": "Ghokimi SC",
       "centreType": "SC",
@@ -1178,8 +1178,8 @@
         "localName": null,
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
-        "blockCode": "zunheboto.pughoboto-chc",
-        "districtTenantCode": "nl.ghokimi-sc",
+        "blockCode": "zunheboto.pughobotochc",
+        "districtTenantCode": "nl.ghokimisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1193,7 +1193,7 @@
       "contactNumber": "8731889590"
     },
     {
-      "code": "nl.kathara-sc",
+      "code": "nl.katharasc",
       "name": "Kathara SC",
       "description": "Kathara SC",
       "centreType": "SC",
@@ -1213,7 +1213,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.suruhoto",
-        "districtTenantCode": "nl.kathara-sc",
+        "districtTenantCode": "nl.katharasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1227,7 +1227,7 @@
       "contactNumber": "7005459112"
     },
     {
-      "code": "nl.khukishe-sc-hwc",
+      "code": "nl.khukisheschwc",
       "name": "Khukishe SC HWC",
       "description": "Khukishe SC HWC",
       "centreType": "HWC",
@@ -1247,7 +1247,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.aghunato",
-        "districtTenantCode": "nl.khukishe-sc-hwc",
+        "districtTenantCode": "nl.khukisheschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1261,7 +1261,7 @@
       "contactNumber": "8974797189"
     },
     {
-      "code": "nl.kichilimi-hwc",
+      "code": "nl.kichilimihwc",
       "name": "Kichilimi HWC",
       "description": "Kichilimi HWC",
       "centreType": "HWC",
@@ -1281,7 +1281,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.pughoboto",
-        "districtTenantCode": "nl.kichilimi-hwc",
+        "districtTenantCode": "nl.kichilimihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1295,7 +1295,7 @@
       "contactNumber": "9863553937"
     },
     {
-      "code": "nl.kitami-sc",
+      "code": "nl.kitamisc",
       "name": "Kitami SC",
       "description": "Kitami SC",
       "centreType": "SC",
@@ -1315,7 +1315,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.pughoboto",
-        "districtTenantCode": "nl.kitami-sc",
+        "districtTenantCode": "nl.kitamisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1329,7 +1329,7 @@
       "contactNumber": "7005490692"
     },
     {
-      "code": "nl.kivikhu-sc-hwc",
+      "code": "nl.kivikhuschwc",
       "name": "Kivikhu SC HWC",
       "description": "Kivikhu SC HWC",
       "centreType": "HWC",
@@ -1349,7 +1349,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.satakha",
-        "districtTenantCode": "nl.kivikhu-sc-hwc",
+        "districtTenantCode": "nl.kivikhuschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1363,7 +1363,7 @@
       "contactNumber": "8787432456"
     },
     {
-      "code": "nl.littami-sc-hwc",
+      "code": "nl.littamischwc",
       "name": "Littami SC HWC",
       "description": "Littami SC HWC",
       "centreType": "HWC",
@@ -1383,7 +1383,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.akuluto",
-        "districtTenantCode": "nl.littami-sc-hwc",
+        "districtTenantCode": "nl.littamischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1397,7 +1397,7 @@
       "contactNumber": "9077517703"
     },
     {
-      "code": "nl.lizumi-sc",
+      "code": "nl.lizumisc",
       "name": "Lizumi SC",
       "description": "Lizumi SC",
       "centreType": "SC",
@@ -1417,7 +1417,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.zunheboto",
-        "districtTenantCode": "nl.lizumi-sc",
+        "districtTenantCode": "nl.lizumisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1431,7 +1431,7 @@
       "contactNumber": "9612215208"
     },
     {
-      "code": "nl.lumami-sc-hwc",
+      "code": "nl.lumamischwc",
       "name": "Lumami SC HWC",
       "description": "Lumami SC HWC",
       "centreType": "HWC",
@@ -1451,7 +1451,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.akuluto",
-        "districtTenantCode": "nl.lumami-sc-hwc",
+        "districtTenantCode": "nl.lumamischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1465,7 +1465,7 @@
       "contactNumber": "9362873303"
     },
     {
-      "code": "nl.lutshumi-sc",
+      "code": "nl.lutshumisc",
       "name": "Lutshumi SC",
       "description": "Lutshumi SC",
       "centreType": "SC",
@@ -1485,7 +1485,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.aghunato",
-        "districtTenantCode": "nl.lutshumi-sc",
+        "districtTenantCode": "nl.lutshumisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1499,7 +1499,7 @@
       "contactNumber": "8731889590"
     },
     {
-      "code": "nl.natsumi-hwc",
+      "code": "nl.natsumihwc",
       "name": "Natsumi HWC",
       "description": "Natsumi HWC",
       "centreType": "HWC",
@@ -1519,7 +1519,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.pughoboto",
-        "districtTenantCode": "nl.natsumi-hwc",
+        "districtTenantCode": "nl.natsumihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1533,7 +1533,7 @@
       "contactNumber": "8794780039"
     },
     {
-      "code": "nl.philimi-sc",
+      "code": "nl.philimisc",
       "name": "Philimi SC",
       "description": "Philimi SC",
       "centreType": "SC",
@@ -1553,7 +1553,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.akuhaito",
-        "districtTenantCode": "nl.philimi-sc",
+        "districtTenantCode": "nl.philimisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1567,7 +1567,7 @@
       "contactNumber": "8414837667"
     },
     {
-      "code": "nl.phuyetomi-sc",
+      "code": "nl.phuyetomisc",
       "name": "Phuyetomi SC",
       "description": "Phuyetomi SC",
       "centreType": "SC",
@@ -1587,7 +1587,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.suruhoto",
-        "districtTenantCode": "nl.phuyetomi-sc",
+        "districtTenantCode": "nl.phuyetomisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1601,7 +1601,7 @@
       "contactNumber": "9856392768"
     },
     {
-      "code": "nl.sapotimi-ahwc",
+      "code": "nl.sapotimiahwc",
       "name": "Sapotimi AHWC",
       "description": "Sapotimi AHWC",
       "centreType": "SC",
@@ -1621,7 +1621,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.suruhuto",
-        "districtTenantCode": "nl.sapotimi-ahwc",
+        "districtTenantCode": "nl.sapotimiahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1635,7 +1635,7 @@
       "contactNumber": "8095486895"
     },
     {
-      "code": "nl.saptiqa-phc",
+      "code": "nl.saptiqaphc",
       "name": "Saptiqa PHC",
       "description": "Saptiqa PHC",
       "centreType": "PHC",
@@ -1655,7 +1655,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.satakha",
-        "districtTenantCode": "nl.saptiqa-phc",
+        "districtTenantCode": "nl.saptiqaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1669,7 +1669,7 @@
       "contactNumber": "8787699553"
     },
     {
-      "code": "nl.satami-hwc",
+      "code": "nl.satamihwc",
       "name": "Satami HWC",
       "description": "Satami HWC",
       "centreType": "HWC",
@@ -1689,7 +1689,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.aghunato",
-        "districtTenantCode": "nl.satami-hwc",
+        "districtTenantCode": "nl.satamihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1703,7 +1703,7 @@
       "contactNumber": "9366523902"
     },
     {
-      "code": "nl.shesulimi-hwc",
+      "code": "nl.shesulimihwc",
       "name": "Shesulimi HWC",
       "description": "Shesulimi HWC",
       "centreType": "HWC",
@@ -1723,7 +1723,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.pughoboto",
-        "districtTenantCode": "nl.shesulimi-hwc",
+        "districtTenantCode": "nl.shesulimihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1737,7 +1737,7 @@
       "contactNumber": "7005540249"
     },
     {
-      "code": "nl.shitsumi-hwc",
+      "code": "nl.shitsumihwc",
       "name": "Shitsumi HWC",
       "description": "Shitsumi HWC",
       "centreType": "HWC",
@@ -1757,7 +1757,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.akuluto",
-        "districtTenantCode": "nl.shitsumi-hwc",
+        "districtTenantCode": "nl.shitsumihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1771,7 +1771,7 @@
       "contactNumber": "7628856012"
     },
     {
-      "code": "nl.shoipu-schwc",
+      "code": "nl.shoipuschwc",
       "name": "Shoipu SCHWC",
       "description": "Shoipu SCHWC",
       "centreType": "HWC",
@@ -1791,7 +1791,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.satakha",
-        "districtTenantCode": "nl.shoipu-schwc",
+        "districtTenantCode": "nl.shoipuschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1805,7 +1805,7 @@
       "contactNumber": "9581326074"
     },
     {
-      "code": "nl.sukhai-sc",
+      "code": "nl.sukhaisc",
       "name": "Sukhai SC",
       "description": "Sukhai SC",
       "centreType": "SC",
@@ -1825,7 +1825,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.satakha",
-        "districtTenantCode": "nl.sukhai-sc",
+        "districtTenantCode": "nl.sukhaisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1839,7 +1839,7 @@
       "contactNumber": "9436653283"
     },
     {
-      "code": "nl.thakiye-sc",
+      "code": "nl.thakiyesc",
       "name": "Thakiye SC",
       "description": "Thakiye SC",
       "centreType": "SC",
@@ -1859,7 +1859,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.satakha",
-        "districtTenantCode": "nl.thakiye-sc",
+        "districtTenantCode": "nl.thakiyesc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1873,7 +1873,7 @@
       "contactNumber": "9863028780"
     },
     {
-      "code": "nl.tokiye-phc",
+      "code": "nl.tokiyephc",
       "name": "Tokiye PHC",
       "description": "Tokiye PHC",
       "centreType": "PHC",
@@ -1893,7 +1893,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.aghunato",
-        "districtTenantCode": "nl.tokiye-phc",
+        "districtTenantCode": "nl.tokiyephc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1907,7 +1907,7 @@
       "contactNumber": "9862716961"
     },
     {
-      "code": "nl.tokizhe-sc",
+      "code": "nl.tokizhesc",
       "name": "Tokizhe SC",
       "description": "Tokizhe SC",
       "centreType": "SC",
@@ -1927,7 +1927,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.suruhuto",
-        "districtTenantCode": "nl.tokizhe-sc",
+        "districtTenantCode": "nl.tokizhesc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1941,7 +1941,7 @@
       "contactNumber": "8730007773"
     },
     {
-      "code": "nl.tsaphimi-sc",
+      "code": "nl.tsaphimisc",
       "name": "Tsaphimi SC",
       "description": "Tsaphimi SC",
       "centreType": "SC",
@@ -1961,7 +1961,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.pughoboto",
-        "districtTenantCode": "nl.tsaphimi-sc",
+        "districtTenantCode": "nl.tsaphimisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -1975,7 +1975,7 @@
       "contactNumber": "9366975937"
     },
     {
-      "code": "nl.sukhalu-hwc",
+      "code": "nl.sukhaluhwc",
       "name": "Sukhalu HWC",
       "description": "Sukhalu HWC",
       "centreType": "SC",
@@ -1995,7 +1995,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.zunheboto",
-        "districtTenantCode": "nl.sukhalu-hwc",
+        "districtTenantCode": "nl.sukhaluhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2009,7 +2009,7 @@
       "contactNumber": "8794507937"
     },
     {
-      "code": "nl.yehemi-hwc",
+      "code": "nl.yehemihwc",
       "name": "Yehemi HWC",
       "description": "Yehemi HWC",
       "centreType": "HWC",
@@ -2029,7 +2029,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.suruhuto",
-        "districtTenantCode": "nl.yehemi-hwc",
+        "districtTenantCode": "nl.yehemihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2043,7 +2043,7 @@
       "contactNumber": "8787332264"
     },
     {
-      "code": "nl.yezashimi-sc",
+      "code": "nl.yezashimisc",
       "name": "Yezashimi SC",
       "description": "Yezashimi SC",
       "centreType": "SC",
@@ -2063,7 +2063,7 @@
         "districtCode": "ZUNHEBOTO",
         "districtName": "Zunheboto",
         "blockCode": "zunheboto.aghunato",
-        "districtTenantCode": "nl.yezashimi-sc",
+        "districtTenantCode": "nl.yezashimisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2077,7 +2077,7 @@
       "contactNumber": "6009355954"
     },
     {
-      "code": "nl.akhegwo-phc",
+      "code": "nl.akhegwophc",
       "name": "Akhegwo PHC",
       "description": "Akhegwo PHC",
       "centreType": "PHC",
@@ -2097,7 +2097,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.melure",
-        "districtTenantCode": "nl.akhegwo-phc",
+        "districtTenantCode": "nl.akhegwophc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2111,7 +2111,7 @@
       "contactNumber": "7005065008"
     },
     {
-      "code": "nl.avakhung-sc",
+      "code": "nl.avakhungsc",
       "name": "Avakhung SC",
       "description": "Avakhung SC",
       "centreType": "SC",
@@ -2131,7 +2131,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.avakhung-sc",
+        "districtTenantCode": "nl.avakhungsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2145,7 +2145,7 @@
       "contactNumber": "8732872205"
     },
     {
-      "code": "nl.chepoketa-hwc",
+      "code": "nl.chepoketahwc",
       "name": "Chepoketa HWC",
       "description": "Chepoketa HWC",
       "centreType": "HWC",
@@ -2164,8 +2164,8 @@
         "localName": null,
         "districtCode": "PHEK",
         "districtName": "Phek",
-        "blockCode": "phek.phek-sardar",
-        "districtTenantCode": "nl.chepoketa-hwc",
+        "blockCode": "phek.pheksardar",
+        "districtTenantCode": "nl.chepoketahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2179,7 +2179,7 @@
       "contactNumber": "9089308788"
     },
     {
-      "code": "nl.chetheba-phc",
+      "code": "nl.chethebaphc",
       "name": "Chetheba PHC",
       "description": "Chetheba PHC",
       "centreType": "PHC",
@@ -2199,7 +2199,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.chozuba",
-        "districtTenantCode": "nl.chetheba-phc",
+        "districtTenantCode": "nl.chethebaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2213,7 +2213,7 @@
       "contactNumber": "7005118080"
     },
     {
-      "code": "nl.chobama/tsupfume-hwc-sc",
+      "code": "nl.chobama/tsupfumehwcsc",
       "name": "Chobama/Tsupfume\nHwc SC",
       "description": "Chobama/Tsupfume\nHwc SC",
       "centreType": "HWC",
@@ -2233,7 +2233,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.chobama/tsupfume-hwc-sc",
+        "districtTenantCode": "nl.chobama/tsupfumehwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2247,7 +2247,7 @@
       "contactNumber": "9383085921"
     },
     {
-      "code": "nl.chokriba-hwc",
+      "code": "nl.chokribahwc",
       "name": "Chokriba HWC",
       "description": "Chokriba HWC",
       "centreType": "HWC",
@@ -2267,7 +2267,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.chozuba",
-        "districtTenantCode": "nl.chokriba-hwc",
+        "districtTenantCode": "nl.chokribahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2281,7 +2281,7 @@
       "contactNumber": "9863010247"
     },
     {
-      "code": "nl.gidemi-sc",
+      "code": "nl.gidemisc",
       "name": "Gidemi SC",
       "description": "Gidemi SC",
       "centreType": "SC",
@@ -2301,7 +2301,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.gidemi-sc",
+        "districtTenantCode": "nl.gidemisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2315,7 +2315,7 @@
       "contactNumber": "8732884821"
     },
     {
-      "code": "nl.hutsu-phc",
+      "code": "nl.hutsuphc",
       "name": "Hutsu PHC",
       "description": "Hutsu PHC",
       "centreType": "PHC",
@@ -2335,7 +2335,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.hutsu-phc",
+        "districtTenantCode": "nl.hutsuphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2349,7 +2349,7 @@
       "contactNumber": "7005216053"
     },
     {
-      "code": "nl.k.bawe-ahwc",
+      "code": "nl.k.baweahwc",
       "name": "K.Bawe AHWC",
       "description": "K.Bawe AHWC",
       "centreType": "SC",
@@ -2369,7 +2369,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.chozuba",
-        "districtTenantCode": "nl.k.bawe-ahwc",
+        "districtTenantCode": "nl.k.baweahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2383,7 +2383,7 @@
       "contactNumber": "8486538923"
     },
     {
-      "code": "nl.kanjang-schwc",
+      "code": "nl.kanjangschwc",
       "name": "Kanjang SCHWC",
       "description": "Kanjang SCHWC",
       "centreType": "HWC",
@@ -2403,7 +2403,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.kanjang-schwc",
+        "districtTenantCode": "nl.kanjangschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2417,7 +2417,7 @@
       "contactNumber": "7578940465"
     },
     {
-      "code": "nl.ketsapo-hwc-sc",
+      "code": "nl.ketsapohwcsc",
       "name": "Ketsapo HWC SC",
       "description": "Ketsapo HWC SC",
       "centreType": "HWC",
@@ -2436,8 +2436,8 @@
         "localName": null,
         "districtCode": "PHEK",
         "districtName": "Phek",
-        "blockCode": "phek.phek-sadar",
-        "districtTenantCode": "nl.ketsapo-hwc-sc",
+        "blockCode": "phek.pheksadar",
+        "districtTenantCode": "nl.ketsapohwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2451,7 +2451,7 @@
       "contactNumber": "7005795770"
     },
     {
-      "code": "nl.khesomi-village-sc",
+      "code": "nl.khesomivillagesc",
       "name": "Khesomi Village SC",
       "description": "Khesomi Village SC",
       "centreType": "SC",
@@ -2471,7 +2471,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.chozuba",
-        "districtTenantCode": "nl.khesomi-village-sc",
+        "districtTenantCode": "nl.khesomivillagesc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2485,7 +2485,7 @@
       "contactNumber": "8787615697"
     },
     {
-      "code": "nl.khezhakeno-phc",
+      "code": "nl.khezhakenophc",
       "name": "Khezhakeno PHC",
       "description": "Khezhakeno PHC",
       "centreType": "PHC",
@@ -2505,7 +2505,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.khezhakeno-phc",
+        "districtTenantCode": "nl.khezhakenophc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2519,7 +2519,7 @@
       "contactNumber": "8837371959"
     },
     {
-      "code": "nl.khomi-middle-hwc",
+      "code": "nl.khomimiddlehwc",
       "name": "Khomi Middle HWC",
       "description": "Khomi Middle HWC",
       "centreType": "HWC",
@@ -2539,7 +2539,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.phek",
-        "districtTenantCode": "nl.khomi-middle-hwc",
+        "districtTenantCode": "nl.khomimiddlehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2553,7 +2553,7 @@
       "contactNumber": "8732025749"
     },
     {
-      "code": "nl.khumis\u00fc-ahwc",
+      "code": "nl.khumis\u00fcahwc",
       "name": "Khumis\u00fc AHWC",
       "description": "Khumis\u00fc AHWC",
       "centreType": "SC",
@@ -2573,7 +2573,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.khumis\u00fc-ahwc",
+        "districtTenantCode": "nl.khumis\u00fcahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2587,7 +2587,7 @@
       "contactNumber": "9774316951"
     },
     {
-      "code": "nl.khutsokhuno-sc",
+      "code": "nl.khutsokhunosc",
       "name": "Khutsokhuno SC",
       "description": "Khutsokhuno SC",
       "centreType": "SC",
@@ -2606,8 +2606,8 @@
         "localName": null,
         "districtCode": "PHEK",
         "districtName": "Phek",
-        "blockCode": "phek.phek-sadar",
-        "districtTenantCode": "nl.khutsokhuno-sc",
+        "blockCode": "phek.pheksadar",
+        "districtTenantCode": "nl.khutsokhunosc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2621,7 +2621,7 @@
       "contactNumber": "6909146606"
     },
     {
-      "code": "nl.khuza-phc",
+      "code": "nl.khuzaphc",
       "name": "Khuza PHC",
       "description": "Khuza PHC",
       "centreType": "PHC",
@@ -2641,7 +2641,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.phek",
-        "districtTenantCode": "nl.khuza-phc",
+        "districtTenantCode": "nl.khuzaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2655,7 +2655,7 @@
       "contactNumber": "8257851681"
     },
     {
-      "code": "nl.kikruma-phc",
+      "code": "nl.kikrumaphc",
       "name": "Kikruma PHC",
       "description": "Kikruma PHC",
       "centreType": "PHC",
@@ -2675,7 +2675,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.kikruma",
-        "districtTenantCode": "nl.kikruma-phc",
+        "districtTenantCode": "nl.kikrumaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2689,7 +2689,7 @@
       "contactNumber": "8420474334"
     },
     {
-      "code": "nl.kizari-schwc",
+      "code": "nl.kizarischwc",
       "name": "Kizari SCHWC",
       "description": "Kizari SCHWC",
       "centreType": "HWC",
@@ -2709,7 +2709,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.phek",
-        "districtTenantCode": "nl.kizari-schwc",
+        "districtTenantCode": "nl.kizarischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2723,7 +2723,7 @@
       "contactNumber": "8131952443"
     },
     {
-      "code": "nl.l.-kami-hwc",
+      "code": "nl.l.kamihwc",
       "name": "L. Kami HWC",
       "description": "L. Kami HWC",
       "centreType": "HWC",
@@ -2743,7 +2743,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.kikruma",
-        "districtTenantCode": "nl.l.-kami-hwc",
+        "districtTenantCode": "nl.l.kamihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2757,7 +2757,7 @@
       "contactNumber": "8730939188"
     },
     {
-      "code": "nl.lanezho-sc",
+      "code": "nl.lanezhosc",
       "name": "Lanezho SC",
       "description": "Lanezho SC",
       "centreType": "SC",
@@ -2777,7 +2777,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.phek",
-        "districtTenantCode": "nl.lanezho-sc",
+        "districtTenantCode": "nl.lanezhosc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2791,7 +2791,7 @@
       "contactNumber": "9612960890"
     },
     {
-      "code": "nl.lephori-phc",
+      "code": "nl.lephoriphc",
       "name": "Lephori PHC",
       "description": "Lephori PHC",
       "centreType": "PHC",
@@ -2811,7 +2811,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.lephori-phc",
+        "districtTenantCode": "nl.lephoriphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2825,7 +2825,7 @@
       "contactNumber": "8731800233"
     },
     {
-      "code": "nl.leshemi-sc-hwc",
+      "code": "nl.leshemischwc",
       "name": "Leshemi SC HWC",
       "description": "Leshemi SC HWC",
       "centreType": "HWC",
@@ -2845,7 +2845,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.kikruma",
-        "districtTenantCode": "nl.leshemi-sc-hwc",
+        "districtTenantCode": "nl.leshemischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2859,7 +2859,7 @@
       "contactNumber": "8974839331"
     },
     {
-      "code": "nl.losami-sc-hwc",
+      "code": "nl.losamischwc",
       "name": "Losami SC HWC",
       "description": "Losami SC HWC",
       "centreType": "HWC",
@@ -2878,8 +2878,8 @@
         "localName": null,
         "districtCode": "PHEK",
         "districtName": "Phek",
-        "blockCode": "phek.phek-sadar",
-        "districtTenantCode": "nl.losami-sc-hwc",
+        "blockCode": "phek.pheksadar",
+        "districtTenantCode": "nl.losamischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2893,7 +2893,7 @@
       "contactNumber": "9862884480"
     },
     {
-      "code": "nl.matikhru-hwc",
+      "code": "nl.matikhruhwc",
       "name": "Matikhru HWC",
       "description": "Matikhru HWC",
       "centreType": "HWC",
@@ -2913,7 +2913,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.matikhru-hwc",
+        "districtTenantCode": "nl.matikhruhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2927,7 +2927,7 @@
       "contactNumber": "8974320848"
     },
     {
-      "code": "nl.metsale-schwc",
+      "code": "nl.metsaleschwc",
       "name": "Metsale SCHWC",
       "description": "Metsale SCHWC",
       "centreType": "HWC",
@@ -2947,7 +2947,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.phek",
-        "districtTenantCode": "nl.metsale-schwc",
+        "districtTenantCode": "nl.metsaleschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2961,7 +2961,7 @@
       "contactNumber": "9612185351"
     },
     {
-      "code": "nl.north-kikruma-ahwc",
+      "code": "nl.northkikrumaahwc",
       "name": "North Kikruma\nAHWC",
       "description": "North Kikruma\nAHWC",
       "centreType": "HWC",
@@ -2981,7 +2981,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.north-kikruma-ahwc",
+        "districtTenantCode": "nl.northkikrumaahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -2995,7 +2995,7 @@
       "contactNumber": "8420474334"
     },
     {
-      "code": "nl.phek-village-hwc",
+      "code": "nl.phekvillagehwc",
       "name": "Phek Village HWC",
       "description": "Phek Village HWC",
       "centreType": "HWC",
@@ -3014,8 +3014,8 @@
         "localName": null,
         "districtCode": "PHEK",
         "districtName": "Phek",
-        "blockCode": "phek.phek-sadar",
-        "districtTenantCode": "nl.phek-village-hwc",
+        "blockCode": "phek.pheksadar",
+        "districtTenantCode": "nl.phekvillagehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3029,7 +3029,7 @@
       "contactNumber": "8974882035"
     },
     {
-      "code": "nl.phokhungri-hwc-sc",
+      "code": "nl.phokhungrihwcsc",
       "name": "Phokhungri HWC SC",
       "description": "Phokhungri HWC SC",
       "centreType": "HWC",
@@ -3049,7 +3049,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.phokhungri-hwc-sc",
+        "districtTenantCode": "nl.phokhungrihwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3063,7 +3063,7 @@
       "contactNumber": "7085231500"
     },
     {
-      "code": "nl.reguri-schwc",
+      "code": "nl.regurischwc",
       "name": "Reguri SCHWC",
       "description": "Reguri SCHWC",
       "centreType": "HWC",
@@ -3083,7 +3083,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.reguri-schwc",
+        "districtTenantCode": "nl.regurischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3097,7 +3097,7 @@
       "contactNumber": "8974521283"
     },
     {
-      "code": "nl.suthotsu-sc",
+      "code": "nl.suthotsusc",
       "name": "Suthotsu SC",
       "description": "Suthotsu SC",
       "centreType": "SC",
@@ -3117,7 +3117,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.phek",
-        "districtTenantCode": "nl.suthotsu-sc",
+        "districtTenantCode": "nl.suthotsusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3131,7 +3131,7 @@
       "contactNumber": "9366265609"
     },
     {
-      "code": "nl.suthozu-nawe-hwc",
+      "code": "nl.suthozunawehwc",
       "name": "Suthozu Nawe HWC",
       "description": "Suthozu Nawe HWC",
       "centreType": "HWC",
@@ -3151,7 +3151,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.chozuba",
-        "districtTenantCode": "nl.suthozu-nawe-hwc",
+        "districtTenantCode": "nl.suthozunawehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3165,7 +3165,7 @@
       "contactNumber": "9402478521"
     },
     {
-      "code": "nl.sutsu-phc",
+      "code": "nl.sutsuphc",
       "name": "Sutsu PHC",
       "description": "Sutsu PHC",
       "centreType": "PHC",
@@ -3185,7 +3185,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.meluri",
-        "districtTenantCode": "nl.sutsu-phc",
+        "districtTenantCode": "nl.sutsuphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3199,7 +3199,7 @@
       "contactNumber": "8730866980"
     },
     {
-      "code": "nl.thetsumi-phc",
+      "code": "nl.thetsumiphc",
       "name": "Thetsumi PHC",
       "description": "Thetsumi PHC",
       "centreType": "PHC",
@@ -3219,7 +3219,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.thetsumi-phc",
+        "districtTenantCode": "nl.thetsumiphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3233,7 +3233,7 @@
       "contactNumber": "8731058660"
     },
     {
-      "code": "nl.zelome-sc",
+      "code": "nl.zelomesc",
       "name": "Zelome SC",
       "description": "Zelome SC",
       "centreType": "SC",
@@ -3253,7 +3253,7 @@
         "districtCode": "PHEK",
         "districtName": "Phek",
         "blockCode": "phek.pfutsero",
-        "districtTenantCode": "nl.zelome-sc",
+        "districtTenantCode": "nl.zelomesc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3267,7 +3267,7 @@
       "contactNumber": "7085445138"
     },
     {
-      "code": "nl.chomi-hwc",
+      "code": "nl.chomihwc",
       "name": "Chomi HWC",
       "description": "Chomi HWC",
       "centreType": "HWC",
@@ -3287,7 +3287,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.pungro",
-        "districtTenantCode": "nl.chomi-hwc",
+        "districtTenantCode": "nl.chomihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3335,7 +3335,7 @@
       "contactNumber": "9862242275"
     },
     {
-      "code": "nl.longya-sc",
+      "code": "nl.longyasc",
       "name": "Longya SC",
       "description": "Longya SC",
       "centreType": "SC",
@@ -3354,8 +3354,8 @@
         "localName": null,
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
-        "blockCode": "kiphire.seyochung/-sitimi",
-        "districtTenantCode": "nl.longya-sc",
+        "blockCode": "kiphire.seyochung/sitimi",
+        "districtTenantCode": "nl.longyasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3369,7 +3369,7 @@
       "contactNumber": "8415908412"
     },
     {
-      "code": "nl.metonger-sc",
+      "code": "nl.metongersc",
       "name": "Metonger SC",
       "description": "Metonger SC",
       "centreType": "SC",
@@ -3389,7 +3389,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.pungro",
-        "districtTenantCode": "nl.metonger-sc",
+        "districtTenantCode": "nl.metongersc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3403,7 +3403,7 @@
       "contactNumber": "8732848971"
     },
     {
-      "code": "nl.phisami-hwc",
+      "code": "nl.phisamihwc",
       "name": "Phisami HWC",
       "description": "Phisami HWC",
       "centreType": "HWC",
@@ -3423,7 +3423,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.seyochung",
-        "districtTenantCode": "nl.phisami-hwc",
+        "districtTenantCode": "nl.phisamihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3437,7 +3437,7 @@
       "contactNumber": "9863279029"
     },
     {
-      "code": "nl.pokphur-hwc",
+      "code": "nl.pokphurhwc",
       "name": "Pokphur HWC",
       "description": "Pokphur HWC",
       "centreType": "HWC",
@@ -3457,7 +3457,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.pungro",
-        "districtTenantCode": "nl.pokphur-hwc",
+        "districtTenantCode": "nl.pokphurhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3471,7 +3471,7 @@
       "contactNumber": "8787797694"
     },
     {
-      "code": "nl.purrur-hwc",
+      "code": "nl.purrurhwc",
       "name": "Purrur HWC",
       "description": "Purrur HWC",
       "centreType": "HWC",
@@ -3491,7 +3491,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.amahator",
-        "districtTenantCode": "nl.purrur-hwc",
+        "districtTenantCode": "nl.purrurhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3505,7 +3505,7 @@
       "contactNumber": "6009062208"
     },
     {
-      "code": "nl.sangkhumti-hwc",
+      "code": "nl.sangkhumtihwc",
       "name": "Sangkhumti HWC",
       "description": "Sangkhumti HWC",
       "centreType": "HWC",
@@ -3525,7 +3525,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.pungro",
-        "districtTenantCode": "nl.sangkhumti-hwc",
+        "districtTenantCode": "nl.sangkhumtihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3539,7 +3539,7 @@
       "contactNumber": "8837358898"
     },
     {
-      "code": "nl.sanphure-hwc",
+      "code": "nl.sanphurehwc",
       "name": "Sanphure HWC",
       "description": "Sanphure HWC",
       "centreType": "HWC",
@@ -3558,8 +3558,8 @@
         "localName": null,
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
-        "blockCode": "kiphire.kiphire-sadar",
-        "districtTenantCode": "nl.sanphure-hwc",
+        "blockCode": "kiphire.kiphiresadar",
+        "districtTenantCode": "nl.sanphurehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3573,7 +3573,7 @@
       "contactNumber": "7627927652"
     },
     {
-      "code": "nl.seyochung-village-hwc",
+      "code": "nl.seyochungvillagehwc",
       "name": "Seyochung Village HWC",
       "description": "Seyochung Village HWC",
       "centreType": "HWC",
@@ -3592,8 +3592,8 @@
         "localName": null,
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
-        "blockCode": "kiphire.seyochung/-sitimi",
-        "districtTenantCode": "nl.seyochung-village-hwc",
+        "blockCode": "kiphire.seyochung/sitimi",
+        "districtTenantCode": "nl.seyochungvillagehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3607,7 +3607,7 @@
       "contactNumber": "8416056207"
     },
     {
-      "code": "nl.sitimi-phc",
+      "code": "nl.sitimiphc",
       "name": "Sitimi PHC",
       "description": "Sitimi PHC",
       "centreType": "PHC",
@@ -3627,7 +3627,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.sitimi/seyochung",
-        "districtTenantCode": "nl.sitimi-phc",
+        "districtTenantCode": "nl.sitimiphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3641,7 +3641,7 @@
       "contactNumber": "9362419252"
     },
     {
-      "code": "nl.thazuvi-hwc",
+      "code": "nl.thazuvihwc",
       "name": "Thazuvi HWC",
       "description": "Thazuvi HWC",
       "centreType": "HWC",
@@ -3661,7 +3661,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.sitimi",
-        "districtTenantCode": "nl.thazuvi-hwc",
+        "districtTenantCode": "nl.thazuvihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3675,7 +3675,7 @@
       "contactNumber": "7005437381"
     },
     {
-      "code": "nl.yingshikiur-ahwc",
+      "code": "nl.yingshikiurahwc",
       "name": "Yingshikiur AHWC",
       "description": "Yingshikiur AHWC",
       "centreType": "HWC",
@@ -3695,7 +3695,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.amahator",
-        "districtTenantCode": "nl.yingshikiur-ahwc",
+        "districtTenantCode": "nl.yingshikiurahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3709,7 +3709,7 @@
       "contactNumber": "6909151322"
     },
     {
-      "code": "nl.zimkiur-sc",
+      "code": "nl.zimkiursc",
       "name": "Zimkiur SC",
       "description": "Zimkiur SC",
       "centreType": "SC",
@@ -3729,7 +3729,7 @@
         "districtCode": "KIPHIRE",
         "districtName": "Kiphire",
         "blockCode": "kiphire.pungro",
-        "districtTenantCode": "nl.zimkiur-sc",
+        "districtTenantCode": "nl.zimkiursc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3743,7 +3743,7 @@
       "contactNumber": "9024059103"
     },
     {
-      "code": "nl.choknyu-hwc",
+      "code": "nl.choknyuhwc",
       "name": "Choknyu HWC",
       "description": "Choknyu HWC",
       "centreType": "HWC",
@@ -3763,7 +3763,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.choknyu-hwc",
+        "districtTenantCode": "nl.choknyuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3777,7 +3777,7 @@
       "contactNumber": "8794489418"
     },
     {
-      "code": "nl.socunoma-sc-hwc",
+      "code": "nl.socunomasc-hwc",
       "name": "Socunoma SC-HWC",
       "description": "Socunoma SC-HWC",
       "centreType": "HWC",
@@ -3797,7 +3797,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.socunoma-sc-hwc",
+        "districtTenantCode": "nl.socunomasc-hwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3811,7 +3811,7 @@
       "contactNumber": "8131813913"
     },
     {
-      "code": "nl.tsiepama-hwc",
+      "code": "nl.tsiepamahwc",
       "name": "TSIEPAMA HWC",
       "description": "TSIEPAMA HWC",
       "centreType": "HWC",
@@ -3831,7 +3831,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.medziphema",
-        "districtTenantCode": "nl.tsiepama-hwc",
+        "districtTenantCode": "nl.tsiepamahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3879,7 +3879,7 @@
       "contactNumber": "8787679393"
     },
     {
-      "code": "nl.vidima-hwc",
+      "code": "nl.vidimahwc",
       "name": "Vidima HWC",
       "description": "Vidima HWC",
       "centreType": "HWC",
@@ -3899,7 +3899,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.vidima-hwc",
+        "districtTenantCode": "nl.vidimahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3913,7 +3913,7 @@
       "contactNumber": "7630832505"
     },
     {
-      "code": "nl.7th-mile-hwc",
+      "code": "nl.7thmilehwc",
       "name": "7th mile HWC",
       "description": "7th mile HWC",
       "centreType": "HWC",
@@ -3933,7 +3933,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.7th-mile-hwc",
+        "districtTenantCode": "nl.7thmilehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3947,7 +3947,7 @@
       "contactNumber": "8794778406"
     },
     {
-      "code": "nl.tenyiphe-i-hwc",
+      "code": "nl.tenyipheihwc",
       "name": "Tenyiphe I HWC",
       "description": "Tenyiphe I HWC",
       "centreType": "HWC",
@@ -3967,7 +3967,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.tenyiphe-i-hwc",
+        "districtTenantCode": "nl.tenyipheihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3981,7 +3981,7 @@
       "contactNumber": "9383024022"
     },
     {
-      "code": "nl.thilixu-hwc",
+      "code": "nl.thilixuhwc",
       "name": "Thilixu HWC",
       "description": "Thilixu HWC",
       "centreType": "HWC",
@@ -4001,7 +4001,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.thilixu-hwc",
+        "districtTenantCode": "nl.thilixuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4015,7 +4015,7 @@
       "contactNumber": "9612342963"
     },
     {
-      "code": "nl.diphupar-a-hwc",
+      "code": "nl.diphuparahwc",
       "name": "Diphupar A HWC",
       "description": "Diphupar A HWC",
       "centreType": "HWC",
@@ -4035,7 +4035,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.chumoukedima",
-        "districtTenantCode": "nl.diphupar-a-hwc",
+        "districtTenantCode": "nl.diphuparahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4049,7 +4049,7 @@
       "contactNumber": "8787853481"
     },
     {
-      "code": "nl.zhuikhu-phc",
+      "code": "nl.zhuikhuphc",
       "name": "Zhuikhu PHC",
       "description": "Zhuikhu PHC",
       "centreType": "PHC",
@@ -4069,7 +4069,7 @@
         "districtCode": "CHUMOUKEDIMA",
         "districtName": "Chumoukedima",
         "blockCode": "chumoukedima.medziphema",
-        "districtTenantCode": "nl.zhuikhu-phc",
+        "districtTenantCode": "nl.zhuikhuphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4083,7 +4083,7 @@
       "contactNumber": "9901912155"
     },
     {
-      "code": "nl.yajang-c-hwc",
+      "code": "nl.yajangchwc",
       "name": "Yajang C HWC",
       "description": "Yajang C HWC",
       "centreType": "HWC",
@@ -4103,7 +4103,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.tuli",
-        "districtTenantCode": "nl.yajang-c-hwc",
+        "districtTenantCode": "nl.yajangchwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4117,7 +4117,7 @@
       "contactNumber": "8974180669"
     },
     {
-      "code": "nl.kubolong-hwc",
+      "code": "nl.kubolonghwc",
       "name": "Kubolong HWC",
       "description": "Kubolong HWC",
       "centreType": "HWC",
@@ -4137,7 +4137,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.changtongya",
-        "districtTenantCode": "nl.kubolong-hwc",
+        "districtTenantCode": "nl.kubolonghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4151,7 +4151,7 @@
       "contactNumber": "8258964501"
     },
     {
-      "code": "nl.setts\u00fc-hwc",
+      "code": "nl.setts\u00fchwc",
       "name": "Setts\u00fc HWC",
       "description": "Setts\u00fc HWC",
       "centreType": "HWC",
@@ -4171,7 +4171,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.setts\u00fc-hwc",
+        "districtTenantCode": "nl.setts\u00fchwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4185,7 +4185,7 @@
       "contactNumber": "9366425542"
     },
     {
-      "code": "nl.moayimti-sc",
+      "code": "nl.moayimtisc",
       "name": "Moayimti SC",
       "description": "Moayimti SC",
       "centreType": "SC",
@@ -4205,7 +4205,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.tsurangkong",
-        "districtTenantCode": "nl.moayimti-sc",
+        "districtTenantCode": "nl.moayimtisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4219,7 +4219,7 @@
       "contactNumber": "8413821993"
     },
     {
-      "code": "nl.medemyim-sc",
+      "code": "nl.medemyimsc",
       "name": "Medemyim SC",
       "description": "Medemyim SC",
       "centreType": "SC",
@@ -4239,7 +4239,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.tzurangkong",
-        "districtTenantCode": "nl.medemyim-sc",
+        "districtTenantCode": "nl.medemyimsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4253,7 +4253,7 @@
       "contactNumber": "9366028606"
     },
     {
-      "code": "nl.meyilong-sc",
+      "code": "nl.meyilongsc",
       "name": "Meyilong SC",
       "description": "Meyilong SC",
       "centreType": "SC",
@@ -4272,8 +4272,8 @@
         "localName": null,
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
-        "blockCode": "mokokchung.ongpangkong-north",
-        "districtTenantCode": "nl.meyilong-sc",
+        "blockCode": "mokokchung.ongpangkongnorth",
+        "districtTenantCode": "nl.meyilongsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4287,7 +4287,7 @@
       "contactNumber": "9436217731"
     },
     {
-      "code": "nl.moalenden-sc",
+      "code": "nl.moalendensc",
       "name": "MOALENDEN SC",
       "description": "MOALENDEN SC",
       "centreType": "SC",
@@ -4307,7 +4307,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongbangkong",
-        "districtTenantCode": "nl.moalenden-sc",
+        "districtTenantCode": "nl.moalendensc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4321,7 +4321,7 @@
       "contactNumber": "9856656491"
     },
     {
-      "code": "nl.aongza-sc",
+      "code": "nl.aongzasc",
       "name": "Aongza SC",
       "description": "Aongza SC",
       "centreType": "SC",
@@ -4341,7 +4341,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.aongza-sc",
+        "districtTenantCode": "nl.aongzasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4355,7 +4355,7 @@
       "contactNumber": "9612629140"
     },
     {
-      "code": "nl.mongchen-ahwc",
+      "code": "nl.mongchenahwc",
       "name": "Mongchen AHWC",
       "description": "Mongchen AHWC",
       "centreType": "HWC",
@@ -4375,7 +4375,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.alongkima",
-        "districtTenantCode": "nl.mongchen-ahwc",
+        "districtTenantCode": "nl.mongchenahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4389,7 +4389,7 @@
       "contactNumber": "7005044245"
     },
     {
-      "code": "nl.yisemyong-hwc",
+      "code": "nl.yisemyonghwc",
       "name": "Yisemyong HWC",
       "description": "Yisemyong HWC",
       "centreType": "HWC",
@@ -4409,7 +4409,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.changtongya",
-        "districtTenantCode": "nl.yisemyong-hwc",
+        "districtTenantCode": "nl.yisemyonghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4423,7 +4423,7 @@
       "contactNumber": "8575392040"
     },
     {
-      "code": "nl.changtongya-hwc",
+      "code": "nl.changtongyahwc",
       "name": "Changtongya HWC",
       "description": "Changtongya HWC",
       "centreType": "HWC",
@@ -4443,7 +4443,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.changtongya",
-        "districtTenantCode": "nl.changtongya-hwc",
+        "districtTenantCode": "nl.changtongyahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4457,7 +4457,7 @@
       "contactNumber": "8471873611"
     },
     {
-      "code": "nl.chungliyimsen-bd-sc",
+      "code": "nl.chungliyimsenbdsc",
       "name": "Chungliyimsen BD\nSC",
       "description": "Chungliyimsen BD\nSC",
       "centreType": "SC",
@@ -4477,7 +4477,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.mokokchung",
-        "districtTenantCode": "nl.chungliyimsen-bd-sc",
+        "districtTenantCode": "nl.chungliyimsenbdsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4491,7 +4491,7 @@
       "contactNumber": "9862652938"
     },
     {
-      "code": "nl.sungkomen-sc",
+      "code": "nl.sungkomensc",
       "name": "Sungkomen SC",
       "description": "Sungkomen SC",
       "centreType": "SC",
@@ -4511,7 +4511,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.sungkomen-sc",
+        "districtTenantCode": "nl.sungkomensc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4525,7 +4525,7 @@
       "contactNumber": "8787675840"
     },
     {
-      "code": "nl.kupza-awhc",
+      "code": "nl.kupzaawhc",
       "name": "Kupza AWHC",
       "description": "Kupza AWHC",
       "centreType": "HWC",
@@ -4544,8 +4544,8 @@
         "localName": null,
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
-        "blockCode": "mokokchung.ongpangkong-north",
-        "districtTenantCode": "nl.kupza-awhc",
+        "blockCode": "mokokchung.ongpangkongnorth",
+        "districtTenantCode": "nl.kupzaawhc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4559,7 +4559,7 @@
       "contactNumber": "9767323808"
     },
     {
-      "code": "nl.kumlong-sc-ahwc",
+      "code": "nl.kumlongscahwc",
       "name": "Kumlong SC AHWC",
       "description": "Kumlong SC AHWC",
       "centreType": "HWC",
@@ -4579,7 +4579,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.kumlong-sc-ahwc",
+        "districtTenantCode": "nl.kumlongscahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4593,7 +4593,7 @@
       "contactNumber": "7204318036"
     },
     {
-      "code": "nl.aosenden-hwc",
+      "code": "nl.aosendenhwc",
       "name": "Aosenden HWC",
       "description": "Aosenden HWC",
       "centreType": "HWC",
@@ -4613,7 +4613,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.tsurangkong",
-        "districtTenantCode": "nl.aosenden-hwc",
+        "districtTenantCode": "nl.aosendenhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4627,7 +4627,7 @@
       "contactNumber": "8413832454"
     },
     {
-      "code": "nl.khensa-sc-hwc",
+      "code": "nl.khensaschwc",
       "name": "Khensa SC HWC",
       "description": "Khensa SC HWC",
       "centreType": "HWC",
@@ -4646,8 +4646,8 @@
         "localName": null,
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
-        "blockCode": "mokokchung.ongpangkong-south",
-        "districtTenantCode": "nl.khensa-sc-hwc",
+        "blockCode": "mokokchung.ongpangkongsouth",
+        "districtTenantCode": "nl.khensaschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4661,7 +4661,7 @@
       "contactNumber": "8919859266"
     },
     {
-      "code": "nl.longnak-hwc",
+      "code": "nl.longnakhwc",
       "name": "Longnak HWC",
       "description": "Longnak HWC",
       "centreType": "HWC",
@@ -4681,7 +4681,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.tsurangkong",
-        "districtTenantCode": "nl.longnak-hwc",
+        "districtTenantCode": "nl.longnakhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4695,7 +4695,7 @@
       "contactNumber": "9612456269"
     },
     {
-      "code": "nl.satsu-sc",
+      "code": "nl.satsusc",
       "name": "Satsu SC",
       "description": "Satsu SC",
       "centreType": "SC",
@@ -4715,7 +4715,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.onpangkong",
-        "districtTenantCode": "nl.satsu-sc",
+        "districtTenantCode": "nl.satsusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4729,7 +4729,7 @@
       "contactNumber": "8837241640"
     },
     {
-      "code": "nl.kelingmen-ahwc",
+      "code": "nl.kelingmenahwc",
       "name": "Kelingmen AHWC",
       "description": "Kelingmen AHWC",
       "centreType": "HWC",
@@ -4749,7 +4749,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.changtongya",
-        "districtTenantCode": "nl.kelingmen-ahwc",
+        "districtTenantCode": "nl.kelingmenahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4763,7 +4763,7 @@
       "contactNumber": "8837345652"
     },
     {
-      "code": "nl.nokpu-hwc",
+      "code": "nl.nokpuhwc",
       "name": "Nokpu HWC",
       "description": "Nokpu HWC",
       "centreType": "HWC",
@@ -4783,7 +4783,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.longchem",
-        "districtTenantCode": "nl.nokpu-hwc",
+        "districtTenantCode": "nl.nokpuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4797,7 +4797,7 @@
       "contactNumber": "8142764710"
     },
     {
-      "code": "nl.lirmen-hwc",
+      "code": "nl.lirmenhwc",
       "name": "Lirmen HWC",
       "description": "Lirmen HWC",
       "centreType": "HWC",
@@ -4817,7 +4817,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.longchem",
-        "districtTenantCode": "nl.lirmen-hwc",
+        "districtTenantCode": "nl.lirmenhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4831,7 +4831,7 @@
       "contactNumber": "8119052755"
     },
     {
-      "code": "nl.chuchuyimpang-big-dispensary-sc",
+      "code": "nl.chuchuyimpangbigdispensarysc",
       "name": "Chuchuyimpang Big\nDispensary SC",
       "description": "Chuchuyimpang Big\nDispensary SC",
       "centreType": "SC",
@@ -4851,7 +4851,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.chuchuyimpang-big-dispensary-sc",
+        "districtTenantCode": "nl.chuchuyimpangbigdispensarysc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4865,7 +4865,7 @@
       "contactNumber": "7005497335"
     },
     {
-      "code": "nl.waromung-hwc",
+      "code": "nl.waromunghwc",
       "name": "Waromung HWC",
       "description": "Waromung HWC",
       "centreType": "HWC",
@@ -4885,7 +4885,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.alongkima",
-        "districtTenantCode": "nl.waromung-hwc",
+        "districtTenantCode": "nl.waromunghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4899,7 +4899,7 @@
       "contactNumber": "8575273268"
     },
     {
-      "code": "nl.salulamang-hwc",
+      "code": "nl.salulamanghwc",
       "name": "Salulamang HWC",
       "description": "Salulamang HWC",
       "centreType": "HWC",
@@ -4919,7 +4919,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.changtongya",
-        "districtTenantCode": "nl.salulamang-hwc",
+        "districtTenantCode": "nl.salulamanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4933,7 +4933,7 @@
       "contactNumber": "8132890349"
     },
     {
-      "code": "nl.kinunger-sc",
+      "code": "nl.kinungersc",
       "name": "Kinunger SC",
       "description": "Kinunger SC",
       "centreType": "SC",
@@ -4952,8 +4952,8 @@
         "localName": null,
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
-        "blockCode": "mokokchung.ongpangkong-south",
-        "districtTenantCode": "nl.kinunger-sc",
+        "blockCode": "mokokchung.ongpangkongsouth",
+        "districtTenantCode": "nl.kinungersc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4967,7 +4967,7 @@
       "contactNumber": "8787580938"
     },
     {
-      "code": "nl.longkhum-phc",
+      "code": "nl.longkhumphc",
       "name": "Longkhum PHC",
       "description": "Longkhum PHC",
       "centreType": "PHC",
@@ -4987,7 +4987,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.longkhum-phc",
+        "districtTenantCode": "nl.longkhumphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5001,7 +5001,7 @@
       "contactNumber": "9863987675"
     },
     {
-      "code": "nl.tsurangkong-phc",
+      "code": "nl.tsurangkongphc",
       "name": "Tsurangkong PHC",
       "description": "Tsurangkong PHC",
       "centreType": "PHC",
@@ -5021,7 +5021,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.tsurangkong",
-        "districtTenantCode": "nl.tsurangkong-phc",
+        "districtTenantCode": "nl.tsurangkongphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5035,7 +5035,7 @@
       "contactNumber": "9674454476"
     },
     {
-      "code": "nl.mangmetong-phc",
+      "code": "nl.mangmetongphc",
       "name": "Mangmetong PHC",
       "description": "Mangmetong PHC",
       "centreType": "PHC",
@@ -5055,7 +5055,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.ongpangkong",
-        "districtTenantCode": "nl.mangmetong-phc",
+        "districtTenantCode": "nl.mangmetongphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5069,7 +5069,7 @@
       "contactNumber": "8837001673"
     },
     {
-      "code": "nl.lakhuni-phc",
+      "code": "nl.lakhuniphc",
       "name": "Lakhuni PHC",
       "description": "Lakhuni PHC",
       "centreType": "PHC",
@@ -5089,7 +5089,7 @@
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
         "blockCode": "mokokchung.mangkolemba",
-        "districtTenantCode": "nl.lakhuni-phc",
+        "districtTenantCode": "nl.lakhuniphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5103,7 +5103,7 @@
       "contactNumber": "9863117262"
     },
     {
-      "code": "nl.longsa-phc",
+      "code": "nl.longsaphc",
       "name": "Longsa PHC",
       "description": "Longsa PHC",
       "centreType": "PHC",
@@ -5122,8 +5122,8 @@
         "localName": null,
         "districtCode": "MOKOKCHUNG",
         "districtName": "Mokokchung",
-        "blockCode": "mokokchung.ongpangkong-north",
-        "districtTenantCode": "nl.longsa-phc",
+        "blockCode": "mokokchung.ongpangkongnorth",
+        "districtTenantCode": "nl.longsaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5137,7 +5137,7 @@
       "contactNumber": "6909733593"
     },
     {
-      "code": "nl.yimpang-hwc",
+      "code": "nl.yimpanghwc",
       "name": "Yimpang HWC",
       "description": "Yimpang HWC",
       "centreType": "HWC",
@@ -5156,8 +5156,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.yimpang-hwc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.yimpanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5171,7 +5171,7 @@
       "contactNumber": "9366781684"
     },
     {
-      "code": "nl.tsurongto-schwc",
+      "code": "nl.tsurongtoschwc",
       "name": "Tsurongto SCHWC",
       "description": "Tsurongto SCHWC",
       "centreType": "HWC",
@@ -5191,7 +5191,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.shamator",
-        "districtTenantCode": "nl.tsurongto-schwc",
+        "districtTenantCode": "nl.tsurongtoschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5205,7 +5205,7 @@
       "contactNumber": "9089461824"
     },
     {
-      "code": "nl.hakchang-hwc",
+      "code": "nl.hakchanghwc",
       "name": "Hakchang HWC",
       "description": "Hakchang HWC",
       "centreType": "HWC",
@@ -5225,7 +5225,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.sadar",
-        "districtTenantCode": "nl.hakchang-hwc",
+        "districtTenantCode": "nl.hakchanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5239,7 +5239,7 @@
       "contactNumber": "8014167740"
     },
     {
-      "code": "nl.trongar-hwc",
+      "code": "nl.trongarhwc",
       "name": "Trongar HWC",
       "description": "Trongar HWC",
       "centreType": "HWC",
@@ -5259,7 +5259,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.chare",
-        "districtTenantCode": "nl.trongar-hwc",
+        "districtTenantCode": "nl.trongarhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5273,7 +5273,7 @@
       "contactNumber": "8014941287"
     },
     {
-      "code": "nl.sangchen-schwc",
+      "code": "nl.sangchenschwc",
       "name": "Sangchen SCHWC",
       "description": "Sangchen SCHWC",
       "centreType": "HWC",
@@ -5292,8 +5292,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.sangchen-schwc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.sangchenschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5307,7 +5307,7 @@
       "contactNumber": "7005963969"
     },
     {
-      "code": "nl.konya-sc",
+      "code": "nl.konyasc",
       "name": "Konya SC",
       "description": "Konya SC",
       "centreType": "SC",
@@ -5326,8 +5326,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.konya-sc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.konyasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5341,7 +5341,7 @@
       "contactNumber": "8731829836"
     },
     {
-      "code": "nl.sipongsang-sc",
+      "code": "nl.sipongsangsc",
       "name": "Sipongsang SC",
       "description": "Sipongsang SC",
       "centreType": "SC",
@@ -5360,8 +5360,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.sipongsang-sc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.sipongsangsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5375,7 +5375,7 @@
       "contactNumber": "8787374534"
     },
     {
-      "code": "nl.yali-sc",
+      "code": "nl.yalisc",
       "name": "Yali SC",
       "description": "Yali SC",
       "centreType": "SC",
@@ -5395,7 +5395,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.noksen",
-        "districtTenantCode": "nl.yali-sc",
+        "districtTenantCode": "nl.yalisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5409,7 +5409,7 @@
       "contactNumber": "9366017821"
     },
     {
-      "code": "nl.khudei-sc-hwc",
+      "code": "nl.khudeischwc",
       "name": "Khudei SC HWC",
       "description": "Khudei SC HWC",
       "centreType": "HWC",
@@ -5428,8 +5428,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.khudei-sc-hwc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.khudeischwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5443,7 +5443,7 @@
       "contactNumber": "8257811046"
     },
     {
-      "code": "nl.alisopur-sc",
+      "code": "nl.alisopursc",
       "name": "Alisopur SC",
       "description": "Alisopur SC",
       "centreType": "SC",
@@ -5463,7 +5463,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.chare",
-        "districtTenantCode": "nl.alisopur-sc",
+        "districtTenantCode": "nl.alisopursc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5477,7 +5477,7 @@
       "contactNumber": "9366933038"
     },
     {
-      "code": "nl.y.anner-sc-hwc",
+      "code": "nl.y.annerschwc",
       "name": "Y.Anner SC HWC",
       "description": "Y.Anner SC HWC",
       "centreType": "HWC",
@@ -5497,7 +5497,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.chessore",
-        "districtTenantCode": "nl.y.anner-sc-hwc",
+        "districtTenantCode": "nl.y.annerschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5511,7 +5511,7 @@
       "contactNumber": "9366646072"
     },
     {
-      "code": "nl.uhc-sc",
+      "code": "nl.uhcsc",
       "name": "UHC SC",
       "description": "UHC SC",
       "centreType": "SC",
@@ -5530,8 +5530,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.uhc-sc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.uhcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5545,7 +5545,7 @@
       "contactNumber": "8974998733"
     },
     {
-      "code": "nl.helipong-schwc",
+      "code": "nl.helipongschwc",
       "name": "Helipong SCHWC",
       "description": "Helipong SCHWC",
       "centreType": "HWC",
@@ -5564,8 +5564,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.helipong-schwc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.helipongschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5579,7 +5579,7 @@
       "contactNumber": "8837200187"
     },
     {
-      "code": "nl.kejok-schwc",
+      "code": "nl.kejokschwc",
       "name": "KEJOK SCHWC",
       "description": "KEJOK SCHWC",
       "centreType": "HWC",
@@ -5598,8 +5598,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.kejok-schwc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.kejokschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5613,7 +5613,7 @@
       "contactNumber": "9233257288"
     },
     {
-      "code": "nl.holongba-hwc",
+      "code": "nl.holongbahwc",
       "name": "Holongba HWC",
       "description": "Holongba HWC",
       "centreType": "HWC",
@@ -5633,7 +5633,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.longkhim",
-        "districtTenantCode": "nl.holongba-hwc",
+        "districtTenantCode": "nl.holongbahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5647,7 +5647,7 @@
       "contactNumber": "6001227330"
     },
     {
-      "code": "nl.chungtor-schwc",
+      "code": "nl.chungtorschwc",
       "name": "Chungtor SCHWC",
       "description": "Chungtor SCHWC",
       "centreType": "HWC",
@@ -5667,7 +5667,7 @@
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
         "blockCode": "tuensang.longkhim",
-        "districtTenantCode": "nl.chungtor-schwc",
+        "districtTenantCode": "nl.chungtorschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5681,7 +5681,7 @@
       "contactNumber": "8974696883"
     },
     {
-      "code": "nl.chingmelen-sc",
+      "code": "nl.chingmelensc",
       "name": "Chingmelen SC",
       "description": "Chingmelen SC",
       "centreType": "SC",
@@ -5700,8 +5700,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.chingmelen-sc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.chingmelensc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5715,7 +5715,7 @@
       "contactNumber": "9863019225"
     },
     {
-      "code": "nl.taknyu-sc",
+      "code": "nl.taknyusc",
       "name": "Taknyu SC",
       "description": "Taknyu SC",
       "centreType": "SC",
@@ -5734,8 +5734,8 @@
         "localName": null,
         "districtCode": "TUENSANG",
         "districtName": "Tuensang",
-        "blockCode": "tuensang.tuensang-sadar",
-        "districtTenantCode": "nl.taknyu-sc",
+        "blockCode": "tuensang.tuensangsadar",
+        "districtTenantCode": "nl.taknyusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5749,7 +5749,7 @@
       "contactNumber": "7630024934"
     },
     {
-      "code": "nl.yikhum-hwc",
+      "code": "nl.yikhumhwc",
       "name": "Yikhum HWC",
       "description": "Yikhum HWC",
       "centreType": "HWC",
@@ -5769,7 +5769,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.chukitong",
-        "districtTenantCode": "nl.yikhum-hwc",
+        "districtTenantCode": "nl.yikhumhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5783,7 +5783,7 @@
       "contactNumber": "8974517995"
     },
     {
-      "code": "nl.old-riphyim-hwc",
+      "code": "nl.oldriphyimhwc",
       "name": "Old Riphyim HWC",
       "description": "Old Riphyim HWC",
       "centreType": "HWC",
@@ -5803,7 +5803,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.chukitong",
-        "districtTenantCode": "nl.old-riphyim-hwc",
+        "districtTenantCode": "nl.oldriphyimhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5817,7 +5817,7 @@
       "contactNumber": "9089334698"
     },
     {
-      "code": "nl.meriyan-sc-hwc",
+      "code": "nl.meriyansc-hwc",
       "name": "Meriyan SC-HWC",
       "description": "Meriyan SC-HWC",
       "centreType": "HWC",
@@ -5837,7 +5837,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.wozhuro",
-        "districtTenantCode": "nl.meriyan-sc-hwc",
+        "districtTenantCode": "nl.meriyansc-hwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5851,7 +5851,7 @@
       "contactNumber": "8732814159"
     },
     {
-      "code": "nl.tsopo-sub-centre",
+      "code": "nl.tsoposubcentre",
       "name": "Tsopo sub centre",
       "description": "Tsopo sub centre",
       "centreType": "SC",
@@ -5871,7 +5871,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.sanis",
-        "districtTenantCode": "nl.tsopo-sub-centre",
+        "districtTenantCode": "nl.tsoposubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5885,7 +5885,7 @@
       "contactNumber": "9612174539"
     },
     {
-      "code": "nl.morakjo-s/c",
+      "code": "nl.morakjos/c",
       "name": "Morakjo s/c",
       "description": "Morakjo s/c",
       "centreType": "SC",
@@ -5905,7 +5905,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.sanis",
-        "districtTenantCode": "nl.morakjo-s/c",
+        "districtTenantCode": "nl.morakjos/c",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5919,7 +5919,7 @@
       "contactNumber": "6009770058"
     },
     {
-      "code": "nl.yonchucho-sc",
+      "code": "nl.yonchuchosc",
       "name": "Yonchucho SC",
       "description": "Yonchucho SC",
       "centreType": "SC",
@@ -5939,7 +5939,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.sanis",
-        "districtTenantCode": "nl.yonchucho-sc",
+        "districtTenantCode": "nl.yonchuchosc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5953,7 +5953,7 @@
       "contactNumber": "9856448479"
     },
     {
-      "code": "nl.new-tssori-hwc",
+      "code": "nl.newtssorihwc",
       "name": "New Tssori HWC",
       "description": "New Tssori HWC",
       "centreType": "HWC",
@@ -5973,7 +5973,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.bhandari",
-        "districtTenantCode": "nl.new-tssori-hwc",
+        "districtTenantCode": "nl.newtssorihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5987,7 +5987,7 @@
       "contactNumber": "8132877553"
     },
     {
-      "code": "nl.sankiton-sc",
+      "code": "nl.sankitonsc",
       "name": "Sankiton SC",
       "description": "Sankiton SC",
       "centreType": "SC",
@@ -6007,7 +6007,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.wozhuro/ralan",
-        "districtTenantCode": "nl.sankiton-sc",
+        "districtTenantCode": "nl.sankitonsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6040,7 +6040,7 @@
         "localName": null,
         "districtCode": "WOKHA",
         "districtName": "Wokha",
-        "blockCode": "wokha.wokha-sadar",
+        "blockCode": "wokha.wokhasadar",
         "districtTenantCode": "nl.elumyo",
         "regionName": null,
         "ulbGrade": null,
@@ -6089,7 +6089,7 @@
       "contactNumber": "9366930773"
     },
     {
-      "code": "nl.changpang-hwc",
+      "code": "nl.changpanghwc",
       "name": "Changpang HWC",
       "description": "Changpang HWC",
       "centreType": "HWC",
@@ -6109,7 +6109,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.bhandari",
-        "districtTenantCode": "nl.changpang-hwc",
+        "districtTenantCode": "nl.changpanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6123,7 +6123,7 @@
       "contactNumber": "9383381708"
     },
     {
-      "code": "nl.mungya-hwc",
+      "code": "nl.mungyahwc",
       "name": "Mungya HWC",
       "description": "Mungya HWC",
       "centreType": "HWC",
@@ -6143,7 +6143,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.chukitong",
-        "districtTenantCode": "nl.mungya-hwc",
+        "districtTenantCode": "nl.mungyahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6191,7 +6191,7 @@
       "contactNumber": "7838660561"
     },
     {
-      "code": "nl.wokha-uphc",
+      "code": "nl.wokhauphc",
       "name": "WOKHA UPHC",
       "description": "WOKHA UPHC",
       "centreType": "PHC",
@@ -6211,7 +6211,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.sanis",
-        "districtTenantCode": "nl.wokha-uphc",
+        "districtTenantCode": "nl.wokhauphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6225,7 +6225,7 @@
       "contactNumber": "9572859153"
     },
     {
-      "code": "nl.yanmhon-phc",
+      "code": "nl.yanmhonphc",
       "name": "Yanmhon PHC",
       "description": "Yanmhon PHC",
       "centreType": "PHC",
@@ -6245,7 +6245,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.bhandari",
-        "districtTenantCode": "nl.yanmhon-phc",
+        "districtTenantCode": "nl.yanmhonphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6259,7 +6259,7 @@
       "contactNumber": "9366380373"
     },
     {
-      "code": "nl.yimpang-phc",
+      "code": "nl.yimpangphc",
       "name": "YIMPANG PHC",
       "description": "YIMPANG PHC",
       "centreType": "PHC",
@@ -6279,7 +6279,7 @@
         "districtCode": "WOKHA",
         "districtName": "Wokha",
         "blockCode": "wokha.bhandari",
-        "districtTenantCode": "nl.yimpang-phc",
+        "districtTenantCode": "nl.yimpangphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6293,7 +6293,7 @@
       "contactNumber": "8729875831"
     },
     {
-      "code": "nl.phc-nyiro",
+      "code": "nl.phcnyiro",
       "name": "PHC NYIRO",
       "description": "PHC NYIRO",
       "centreType": "PHC",
@@ -6312,8 +6312,8 @@
         "localName": null,
         "districtCode": "WOKHA",
         "districtName": "Wokha",
-        "blockCode": "wokha.wokha-sadar",
-        "districtTenantCode": "nl.phc-nyiro",
+        "blockCode": "wokha.wokhasadar",
+        "districtTenantCode": "nl.phcnyiro",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6327,7 +6327,7 @@
       "contactNumber": "8414849561"
     },
     {
-      "code": "nl.kezo-town-ahwc",
+      "code": "nl.kezotownahwc",
       "name": "KEZO TOWN AHWC",
       "description": "KEZO TOWN AHWC",
       "centreType": "HWC",
@@ -6347,7 +6347,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.jakhama",
-        "districtTenantCode": "nl.kezo-town-ahwc",
+        "districtTenantCode": "nl.kezotownahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6361,7 +6361,7 @@
       "contactNumber": "9890961671"
     },
     {
-      "code": "nl.tseisema-hwc",
+      "code": "nl.tseisemahwc",
       "name": "Tseisema HWC",
       "description": "Tseisema HWC",
       "centreType": "HWC",
@@ -6381,7 +6381,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.chiephobozou",
-        "districtTenantCode": "nl.tseisema-hwc",
+        "districtTenantCode": "nl.tseisemahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6395,7 +6395,7 @@
       "contactNumber": "8132880532"
     },
     {
-      "code": "nl.seiyhama-hwc",
+      "code": "nl.seiyhamahwc",
       "name": "Seiyhama HWC",
       "description": "Seiyhama HWC",
       "centreType": "HWC",
@@ -6415,7 +6415,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.chiephobozou",
-        "districtTenantCode": "nl.seiyhama-hwc",
+        "districtTenantCode": "nl.seiyhamahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6429,7 +6429,7 @@
       "contactNumber": "8798878705"
     },
     {
-      "code": "nl.phekerkriema-hwc",
+      "code": "nl.phekerkriemahwc",
       "name": "Phekerkriema HWC",
       "description": "Phekerkriema HWC",
       "centreType": "HWC",
@@ -6449,7 +6449,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.chiephobozou",
-        "districtTenantCode": "nl.phekerkriema-hwc",
+        "districtTenantCode": "nl.phekerkriemahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6463,7 +6463,7 @@
       "contactNumber": "9856329717"
     },
     {
-      "code": "nl.gariphema-hwc",
+      "code": "nl.gariphemahwc",
       "name": "Gariphema HWC",
       "description": "Gariphema HWC",
       "centreType": "HWC",
@@ -6483,7 +6483,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.chiephobozou",
-        "districtTenantCode": "nl.gariphema-hwc",
+        "districtTenantCode": "nl.gariphemahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6497,7 +6497,7 @@
       "contactNumber": "8837259510"
     },
     {
-      "code": "nl.nerhema-hwc",
+      "code": "nl.nerhemahwc",
       "name": "Nerhema HWC",
       "description": "Nerhema HWC",
       "centreType": "HWC",
@@ -6517,7 +6517,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.chiephobozou",
-        "districtTenantCode": "nl.nerhema-hwc",
+        "districtTenantCode": "nl.nerhemahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6531,7 +6531,7 @@
       "contactNumber": "7005413514"
     },
     {
-      "code": "nl.keyake-ahwc-sc",
+      "code": "nl.keyakeahwcsc",
       "name": "KEYAKE AHWC SC",
       "description": "KEYAKE AHWC SC",
       "centreType": "HWC",
@@ -6550,8 +6550,8 @@
         "localName": null,
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
-        "blockCode": "kohima.kohima-sadar",
-        "districtTenantCode": "nl.keyake-ahwc-sc",
+        "blockCode": "kohima.kohimasadar",
+        "districtTenantCode": "nl.keyakeahwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6565,7 +6565,7 @@
       "contactNumber": "8837262260"
     },
     {
-      "code": "nl.seithogei-sc",
+      "code": "nl.seithogeisc",
       "name": "Seithogei SC",
       "description": "Seithogei SC",
       "centreType": "SC",
@@ -6585,7 +6585,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.sechu",
-        "districtTenantCode": "nl.seithogei-sc",
+        "districtTenantCode": "nl.seithogeisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6599,7 +6599,7 @@
       "contactNumber": "9436601382"
     },
     {
-      "code": "nl.mima-hwc",
+      "code": "nl.mimahwc",
       "name": "MIMA HWC",
       "description": "MIMA HWC",
       "centreType": "HWC",
@@ -6619,7 +6619,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.jakhama",
-        "districtTenantCode": "nl.mima-hwc",
+        "districtTenantCode": "nl.mimahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6633,7 +6633,7 @@
       "contactNumber": "8575423044"
     },
     {
-      "code": "nl.thizama-hwc-sc",
+      "code": "nl.thizamahwcsc",
       "name": "THIZAMA HWC SC",
       "description": "THIZAMA HWC SC",
       "centreType": "HWC",
@@ -6652,8 +6652,8 @@
         "localName": null,
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
-        "blockCode": "kohima.kohima-sadar",
-        "districtTenantCode": "nl.thizama-hwc-sc",
+        "blockCode": "kohima.kohimasadar",
+        "districtTenantCode": "nl.thizamahwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6667,7 +6667,7 @@
       "contactNumber": "9366211922"
     },
     {
-      "code": "nl.meriema-hwc-sc",
+      "code": "nl.meriemahwcsc",
       "name": "MERIEMA HWC SC",
       "description": "MERIEMA HWC SC",
       "centreType": "HWC",
@@ -6686,8 +6686,8 @@
         "localName": null,
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
-        "blockCode": "kohima.kohima-sadar",
-        "districtTenantCode": "nl.meriema-hwc-sc",
+        "blockCode": "kohima.kohimasadar",
+        "districtTenantCode": "nl.meriemahwcsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6701,7 +6701,7 @@
       "contactNumber": "8732003041"
     },
     {
-      "code": "nl.sc.-college-hwc",
+      "code": "nl.sc.collegehwc",
       "name": "Sc. College HWC",
       "description": "Sc. College HWC",
       "centreType": "HWC",
@@ -6721,7 +6721,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.sechu",
-        "districtTenantCode": "nl.sc.-college-hwc",
+        "districtTenantCode": "nl.sc.collegehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6735,7 +6735,7 @@
       "contactNumber": "9366144728"
     },
     {
-      "code": "nl.peducha-hwc",
+      "code": "nl.peduchahwc",
       "name": "Peducha HWC",
       "description": "Peducha HWC",
       "centreType": "HWC",
@@ -6755,7 +6755,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.sechu",
-        "districtTenantCode": "nl.peducha-hwc",
+        "districtTenantCode": "nl.peduchahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6769,7 +6769,7 @@
       "contactNumber": "8413808293"
     },
     {
-      "code": "nl.kidima-hwc",
+      "code": "nl.kidimahwc",
       "name": "Kidima HWC",
       "description": "Kidima HWC",
       "centreType": "HWC",
@@ -6789,7 +6789,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.jakhama",
-        "districtTenantCode": "nl.kidima-hwc",
+        "districtTenantCode": "nl.kidimahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6803,7 +6803,7 @@
       "contactNumber": "8413991543"
     },
     {
-      "code": "nl.ziezou-phc",
+      "code": "nl.ziezouphc",
       "name": "Ziezou PHC",
       "description": "Ziezou PHC",
       "centreType": "PHC",
@@ -6823,7 +6823,7 @@
         "districtCode": "KOHIMA",
         "districtName": "Kohima",
         "blockCode": "kohima.chiephobozou",
-        "districtTenantCode": "nl.ziezou-phc",
+        "districtTenantCode": "nl.ziezouphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6837,7 +6837,7 @@
       "contactNumber": "9856188624"
     },
     {
-      "code": "nl.mon-village-hwc",
+      "code": "nl.monvillagehwc",
       "name": "Mon village HWC",
       "description": "Mon village HWC",
       "centreType": "HWC",
@@ -6857,7 +6857,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.mon",
-        "districtTenantCode": "nl.mon-village-hwc",
+        "districtTenantCode": "nl.monvillagehwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6871,7 +6871,7 @@
       "contactNumber": "9612419572"
     },
     {
-      "code": "nl.shinnyu-sc",
+      "code": "nl.shinnyusc",
       "name": "Shinnyu SC",
       "description": "Shinnyu SC",
       "centreType": "SC",
@@ -6891,7 +6891,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.shinnyu-sc",
+        "districtTenantCode": "nl.shinnyusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6905,7 +6905,7 @@
       "contactNumber": "9862706006"
     },
     {
-      "code": "nl.chingkao-chingha-hwc",
+      "code": "nl.chingkaochinghahwc",
       "name": "Chingkao Chingha\nHWC",
       "description": "Chingkao Chingha\nHWC",
       "centreType": "HWC",
@@ -6925,7 +6925,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.chingkao-chingha-hwc",
+        "districtTenantCode": "nl.chingkaochinghahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6939,7 +6939,7 @@
       "contactNumber": "7085749328"
     },
     {
-      "code": "nl.yei-sc",
+      "code": "nl.yeisc",
       "name": "Yei SC",
       "description": "Yei SC",
       "centreType": "SC",
@@ -6959,7 +6959,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.yei-sc",
+        "districtTenantCode": "nl.yeisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6973,7 +6973,7 @@
       "contactNumber": "9366621699"
     },
     {
-      "code": "nl.pongching-sc",
+      "code": "nl.pongchingsc",
       "name": "Pongching SC",
       "description": "Pongching SC",
       "centreType": "SC",
@@ -6993,7 +6993,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.pongching-sc",
+        "districtTenantCode": "nl.pongchingsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7007,7 +7007,7 @@
       "contactNumber": "9612583532"
     },
     {
-      "code": "nl.hukphang-sc",
+      "code": "nl.hukphangsc",
       "name": "Hukphang SC",
       "description": "Hukphang SC",
       "centreType": "SC",
@@ -7027,7 +7027,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.hukphang-sc",
+        "districtTenantCode": "nl.hukphangsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7041,7 +7041,7 @@
       "contactNumber": "8729916871"
     },
     {
-      "code": "nl.oushok-sc",
+      "code": "nl.oushoksc",
       "name": "Oushok SC",
       "description": "Oushok SC",
       "centreType": "SC",
@@ -7061,7 +7061,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.oushok-sc",
+        "districtTenantCode": "nl.oushoksc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7075,7 +7075,7 @@
       "contactNumber": "7627939097"
     },
     {
-      "code": "nl.orangkong-sc",
+      "code": "nl.orangkongsc",
       "name": "Orangkong SC",
       "description": "Orangkong SC",
       "centreType": "SC",
@@ -7095,7 +7095,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.orangkong-sc",
+        "districtTenantCode": "nl.orangkongsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7109,7 +7109,7 @@
       "contactNumber": "8974418873"
     },
     {
-      "code": "nl.nyang-sc-hwc",
+      "code": "nl.nyangschwc",
       "name": "Nyang SC HWC",
       "description": "Nyang SC HWC",
       "centreType": "HWC",
@@ -7129,7 +7129,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.nyang-sc-hwc",
+        "districtTenantCode": "nl.nyangschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7143,7 +7143,7 @@
       "contactNumber": "9366252269"
     },
     {
-      "code": "nl.bhumnyu-hwc",
+      "code": "nl.bhumnyuhwc",
       "name": "Bhumnyu HWC",
       "description": "Bhumnyu HWC",
       "centreType": "HWC",
@@ -7163,7 +7163,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.bhumnyu-hwc",
+        "districtTenantCode": "nl.bhumnyuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7177,7 +7177,7 @@
       "contactNumber": "8730068141"
     },
     {
-      "code": "nl.yongshei-hwc",
+      "code": "nl.yongsheihwc",
       "name": "Yongshei HWC",
       "description": "Yongshei HWC",
       "centreType": "HWC",
@@ -7197,7 +7197,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.yongnyah",
-        "districtTenantCode": "nl.yongshei-hwc",
+        "districtTenantCode": "nl.yongsheihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7211,7 +7211,7 @@
       "contactNumber": "9366373026"
     },
     {
-      "code": "nl.yangching-hwc",
+      "code": "nl.yangchinghwc",
       "name": "Yangching HWC",
       "description": "Yangching HWC",
       "centreType": "HWC",
@@ -7231,7 +7231,7 @@
         "districtCode": "LONGLENG",
         "districtName": "Longleng",
         "blockCode": "longleng.longleng",
-        "districtTenantCode": "nl.yangching-hwc",
+        "districtTenantCode": "nl.yangchinghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7245,7 +7245,7 @@
       "contactNumber": "8014121385"
     },
     {
-      "code": "nl.yokao-sc-hwc",
+      "code": "nl.yokaoschwc",
       "name": "Yokao SC HWC",
       "description": "Yokao SC HWC",
       "centreType": "HWC",
@@ -7265,7 +7265,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.panso",
-        "districtTenantCode": "nl.yokao-sc-hwc",
+        "districtTenantCode": "nl.yokaoschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7279,7 +7279,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.langnok-sc-hwc",
+      "code": "nl.langnokschwc",
       "name": "Langnok SC HWC",
       "description": "Langnok SC HWC",
       "centreType": "HWC",
@@ -7299,7 +7299,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.nokhu",
-        "districtTenantCode": "nl.langnok-sc-hwc",
+        "districtTenantCode": "nl.langnokschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7313,7 +7313,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.high-school-sc",
+      "code": "nl.highschoolsc",
       "name": "High SChool SC",
       "description": "High SChool SC",
       "centreType": "SC",
@@ -7333,7 +7333,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.noklak",
-        "districtTenantCode": "nl.high-school-sc",
+        "districtTenantCode": "nl.highschoolsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7347,7 +7347,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.noklak-village-sc",
+      "code": "nl.noklakvillagesc",
       "name": "Noklak village SC",
       "description": "Noklak village SC",
       "centreType": "SC",
@@ -7367,7 +7367,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.noklak",
-        "districtTenantCode": "nl.noklak-village-sc",
+        "districtTenantCode": "nl.noklakvillagesc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7381,7 +7381,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.thoktsur-sc-hwc",
+      "code": "nl.thoktsurschwc",
       "name": "Thoktsur SC HWC",
       "description": "Thoktsur SC HWC",
       "centreType": "HWC",
@@ -7401,7 +7401,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.thonoknyu",
-        "districtTenantCode": "nl.thoktsur-sc-hwc",
+        "districtTenantCode": "nl.thoktsurschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7415,7 +7415,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.kingniu-sc-hwc",
+      "code": "nl.kingniuschwc",
       "name": "Kingniu SC HWC",
       "description": "Kingniu SC HWC",
       "centreType": "HWC",
@@ -7435,7 +7435,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.noklak",
-        "districtTenantCode": "nl.kingniu-sc-hwc",
+        "districtTenantCode": "nl.kingniuschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7449,7 +7449,7 @@
       "contactNumber": "8974876423"
     },
     {
-      "code": "nl.choklangan-sc-hwc",
+      "code": "nl.choklanganschwc",
       "name": "Choklangan SC HWC",
       "description": "Choklangan SC HWC",
       "centreType": "HWC",
@@ -7469,7 +7469,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.nokhu",
-        "districtTenantCode": "nl.choklangan-sc-hwc",
+        "districtTenantCode": "nl.choklanganschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7483,7 +7483,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.peshu-sc-hwc",
+      "code": "nl.peshuschwc",
       "name": "Peshu SC HWC",
       "description": "Peshu SC HWC",
       "centreType": "HWC",
@@ -7503,7 +7503,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.thonoknyu",
-        "districtTenantCode": "nl.peshu-sc-hwc",
+        "districtTenantCode": "nl.peshuschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7517,7 +7517,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.lengnyu-sc-hwc",
+      "code": "nl.lengnyuschwc",
       "name": "Lengnyu SC HWC",
       "description": "Lengnyu SC HWC",
       "centreType": "HWC",
@@ -7537,7 +7537,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.panso",
-        "districtTenantCode": "nl.lengnyu-sc-hwc",
+        "districtTenantCode": "nl.lengnyuschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7551,7 +7551,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.thonoknyu-village-sc",
+      "code": "nl.thonoknyuvillagesc",
       "name": "Thonoknyu village\nSC",
       "description": "Thonoknyu village\nSC",
       "centreType": "SC",
@@ -7571,7 +7571,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.thonoknyu",
-        "districtTenantCode": "nl.thonoknyu-village-sc",
+        "districtTenantCode": "nl.thonoknyuvillagesc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7585,7 +7585,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.pang-sc-hwc",
+      "code": "nl.pangschwc",
       "name": "PANG SC HWC",
       "description": "PANG SC HWC",
       "centreType": "HWC",
@@ -7605,7 +7605,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.thonoknyu",
-        "districtTenantCode": "nl.pang-sc-hwc",
+        "districtTenantCode": "nl.pangschwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7619,7 +7619,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.aniashu-ahwc",
+      "code": "nl.aniashuahwc",
       "name": "Aniashu AHWC",
       "description": "Aniashu AHWC",
       "centreType": "HWC",
@@ -7639,7 +7639,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.nokhu",
-        "districtTenantCode": "nl.aniashu-ahwc",
+        "districtTenantCode": "nl.aniashuahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7653,7 +7653,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.dan-phc",
+      "code": "nl.danphc",
       "name": "Dan PHC",
       "description": "Dan PHC",
       "centreType": "PHC",
@@ -7673,7 +7673,7 @@
         "districtCode": "NOKLAK",
         "districtName": "Noklak",
         "blockCode": "noklak.noklak",
-        "districtTenantCode": "nl.dan-phc",
+        "districtTenantCode": "nl.danphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7687,7 +7687,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.nsunyu-sc",
+      "code": "nl.nsunyusc",
       "name": "Nsunyu SC",
       "description": "Nsunyu SC",
       "centreType": "SC",
@@ -7707,7 +7707,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.nsunyu-sc",
+        "districtTenantCode": "nl.nsunyusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7721,7 +7721,7 @@
       "contactNumber": "8974573793"
     },
     {
-      "code": "nl.rengmapani-hwc",
+      "code": "nl.rengmapanihwc",
       "name": "Rengmapani HWC",
       "description": "Rengmapani HWC",
       "centreType": "HWC",
@@ -7741,7 +7741,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.rengmapani-hwc",
+        "districtTenantCode": "nl.rengmapanihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7755,7 +7755,7 @@
       "contactNumber": "9856930347"
     },
     {
-      "code": "nl.tsosinyu-hwc",
+      "code": "nl.tsosinyuhwc",
       "name": "Tsosinyu HWC",
       "description": "Tsosinyu HWC",
       "centreType": "HWC",
@@ -7775,7 +7775,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.tsosinyu-hwc",
+        "districtTenantCode": "nl.tsosinyuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7789,7 +7789,7 @@
       "contactNumber": "9089316148"
     },
     {
-      "code": "nl.ehunnu-hwc",
+      "code": "nl.ehunnuhwc",
       "name": "Ehunnu HWC",
       "description": "Ehunnu HWC",
       "centreType": "HWC",
@@ -7809,7 +7809,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.ehunnu-hwc",
+        "districtTenantCode": "nl.ehunnuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7823,7 +7823,7 @@
       "contactNumber": "8876871653"
     },
     {
-      "code": "nl.sendenyu-hwc",
+      "code": "nl.sendenyuhwc",
       "name": "Sendenyu HWC",
       "description": "Sendenyu HWC",
       "centreType": "HWC",
@@ -7843,7 +7843,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.sendenyu-hwc",
+        "districtTenantCode": "nl.sendenyuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7857,7 +7857,7 @@
       "contactNumber": "8309349382"
     },
     {
-      "code": "nl.kandinu-ahwc",
+      "code": "nl.kandinuahwc",
       "name": "Kandinu AHWC",
       "description": "Kandinu AHWC",
       "centreType": "HWC",
@@ -7877,7 +7877,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.kandinu-ahwc",
+        "districtTenantCode": "nl.kandinuahwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7891,7 +7891,7 @@
       "contactNumber": "9366417561"
     },
     {
-      "code": "nl.phenwhenyu-hwc",
+      "code": "nl.phenwhenyuhwc",
       "name": "Phenwhenyu HWC",
       "description": "Phenwhenyu HWC",
       "centreType": "HWC",
@@ -7911,7 +7911,7 @@
         "districtCode": "TSEMINYU",
         "districtName": "Tseminyu",
         "blockCode": "tseminyu.tseminyu",
-        "districtTenantCode": "nl.phenwhenyu-hwc",
+        "districtTenantCode": "nl.phenwhenyuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7925,7 +7925,7 @@
       "contactNumber": "9383235372"
     },
     {
-      "code": "nl.changnyu-sub-centre",
+      "code": "nl.changnyusubcentre",
       "name": "Changnyu Sub Centre",
       "description": "Changnyu Sub Centre",
       "centreType": "SC",
@@ -7945,7 +7945,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.changnyu-sub-centre",
+        "districtTenantCode": "nl.changnyusubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7959,7 +7959,7 @@
       "contactNumber": "9862549372"
     },
     {
-      "code": "nl.chenwetnyu-sub-centre",
+      "code": "nl.chenwetnyusubcentre",
       "name": "Chenwetnyu Sub Centre",
       "description": "Chenwetnyu Sub Centre",
       "centreType": "SC",
@@ -7979,7 +7979,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.chen",
-        "districtTenantCode": "nl.chenwetnyu-sub-centre",
+        "districtTenantCode": "nl.chenwetnyusubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7993,7 +7993,7 @@
       "contactNumber": "9612855276"
     },
     {
-      "code": "nl.chingdang-sub-centre",
+      "code": "nl.chingdangsubcentre",
       "name": "Chingdang Sub Centre",
       "description": "Chingdang Sub Centre",
       "centreType": "SC",
@@ -8013,7 +8013,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.wakching",
-        "districtTenantCode": "nl.chingdang-sub-centre",
+        "districtTenantCode": "nl.chingdangsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8027,7 +8027,7 @@
       "contactNumber": "8732008169"
     },
     {
-      "code": "nl.chinglong-sub-centre",
+      "code": "nl.chinglongsubcentre",
       "name": "Chinglong Sub Centre",
       "description": "Chinglong Sub Centre",
       "centreType": "SC",
@@ -8047,7 +8047,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.chinglong-sub-centre",
+        "districtTenantCode": "nl.chinglongsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8061,7 +8061,7 @@
       "contactNumber": "9612878578"
     },
     {
-      "code": "nl.choknyu-sub-centre",
+      "code": "nl.choknyusubcentre",
       "name": "Choknyu Sub Centre",
       "description": "Choknyu Sub Centre",
       "centreType": "SC",
@@ -8081,7 +8081,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.choknyu-sub-centre",
+        "districtTenantCode": "nl.choknyusubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8095,7 +8095,7 @@
       "contactNumber": "8794489418"
     },
     {
-      "code": "nl.chui-sub-centre",
+      "code": "nl.chuisubcentre",
       "name": "Chui Sub Centre",
       "description": "Chui Sub Centre",
       "centreType": "SC",
@@ -8115,7 +8115,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.mon",
-        "districtTenantCode": "nl.chui-sub-centre",
+        "districtTenantCode": "nl.chuisubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8129,7 +8129,7 @@
       "contactNumber": "7085898119"
     },
     {
-      "code": "nl.jaboka-sub-centre",
+      "code": "nl.jabokasubcentre",
       "name": "Jaboka Sub Centre",
       "description": "Jaboka Sub Centre",
       "centreType": "SC",
@@ -8149,7 +8149,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tizit",
-        "districtTenantCode": "nl.jaboka-sub-centre",
+        "districtTenantCode": "nl.jabokasubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8163,7 +8163,7 @@
       "contactNumber": "6009186481"
     },
     {
-      "code": "nl.lampongsheanglah-sub-centre",
+      "code": "nl.lampongsheanglahsubcentre",
       "name": "Lampongsheanglah Sub Centre",
       "description": "Lampongsheanglah Sub Centre",
       "centreType": "SC",
@@ -8183,7 +8183,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.mon",
-        "districtTenantCode": "nl.lampongsheanglah-sub-centre",
+        "districtTenantCode": "nl.lampongsheanglahsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8197,7 +8197,7 @@
       "contactNumber": "9862533693"
     },
     {
-      "code": "nl.langmeang-sub-centre",
+      "code": "nl.langmeangsubcentre",
       "name": "Langmeang Sub Centre",
       "description": "Langmeang Sub Centre",
       "centreType": "SC",
@@ -8217,7 +8217,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.langmeang-sub-centre",
+        "districtTenantCode": "nl.langmeangsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8231,7 +8231,7 @@
       "contactNumber": "9612419453"
     },
     {
-      "code": "nl.longshen-sub-centre",
+      "code": "nl.longshensubcentre",
       "name": "Longshen Sub Centre",
       "description": "Longshen Sub Centre",
       "centreType": "SC",
@@ -8251,7 +8251,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.pomching",
-        "districtTenantCode": "nl.longshen-sub-centre",
+        "districtTenantCode": "nl.longshensubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8265,7 +8265,7 @@
       "contactNumber": "8413985772"
     },
     {
-      "code": "nl.longzang-sub-centre",
+      "code": "nl.longzangsubcentre",
       "name": "Longzang Sub Centre",
       "description": "Longzang Sub Centre",
       "centreType": "SC",
@@ -8285,7 +8285,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.pomching",
-        "districtTenantCode": "nl.longzang-sub-centre",
+        "districtTenantCode": "nl.longzangsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8299,7 +8299,7 @@
       "contactNumber": "9612077568"
     },
     {
-      "code": "nl.nokyan-sub-centre",
+      "code": "nl.nokyansubcentre",
       "name": "Nokyan Sub Centre",
       "description": "Nokyan Sub Centre",
       "centreType": "SC",
@@ -8319,7 +8319,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tizit",
-        "districtTenantCode": "nl.nokyan-sub-centre",
+        "districtTenantCode": "nl.nokyansubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8333,7 +8333,7 @@
       "contactNumber": "7085598192"
     },
     {
-      "code": "nl.tanhai-sub-centre",
+      "code": "nl.tanhaisubcentre",
       "name": "Tanhai Sub Centre",
       "description": "Tanhai Sub Centre",
       "centreType": "SC",
@@ -8353,7 +8353,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.wakching",
-        "districtTenantCode": "nl.tanhai-sub-centre",
+        "districtTenantCode": "nl.tanhaisubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8367,7 +8367,7 @@
       "contactNumber": "9612098078"
     },
     {
-      "code": "nl.uppertiru-sub-centre",
+      "code": "nl.uppertirusubcentre",
       "name": "Uppertiru Sub Centre",
       "description": "Uppertiru Sub Centre",
       "centreType": "SC",
@@ -8387,7 +8387,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.wakching",
-        "districtTenantCode": "nl.uppertiru-sub-centre",
+        "districtTenantCode": "nl.uppertirusubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8401,7 +8401,7 @@
       "contactNumber": "9862719793"
     },
     {
-      "code": "nl.wangla-sub-centre",
+      "code": "nl.wanglasubcentre",
       "name": "Wangla Sub Centre",
       "description": "Wangla Sub Centre",
       "centreType": "SC",
@@ -8421,7 +8421,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.mon",
-        "districtTenantCode": "nl.wangla-sub-centre",
+        "districtTenantCode": "nl.wanglasubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8435,7 +8435,7 @@
       "contactNumber": "7085611828"
     },
     {
-      "code": "nl.wakching-chingla",
+      "code": "nl.wakchingchingla",
       "name": "Wakching Chingla",
       "description": "Wakching Chingla",
       "centreType": "SC",
@@ -8455,7 +8455,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.wakching",
-        "districtTenantCode": "nl.wakching-chingla",
+        "districtTenantCode": "nl.wakchingchingla",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8469,7 +8469,7 @@
       "contactNumber": "7085899515"
     },
     {
-      "code": "nl.aopao-hwc",
+      "code": "nl.aopaohwc",
       "name": "Aopao HWC",
       "description": "Aopao HWC",
       "centreType": "HWC",
@@ -8489,7 +8489,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.aopao-hwc",
+        "districtTenantCode": "nl.aopaohwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8503,7 +8503,7 @@
       "contactNumber": "7641908067"
     },
     {
-      "code": "nl.changlang-hwc",
+      "code": "nl.changlanghwc",
       "name": "Changlang HWC",
       "description": "Changlang HWC",
       "centreType": "HWC",
@@ -8523,7 +8523,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.changlang-hwc",
+        "districtTenantCode": "nl.changlanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8537,7 +8537,7 @@
       "contactNumber": "9366741733"
     },
     {
-      "code": "nl.chaohachingnyu-hwc",
+      "code": "nl.chaohachingnyuhwc",
       "name": "Chaohachingnyu HWC",
       "description": "Chaohachingnyu HWC",
       "centreType": "HWC",
@@ -8557,7 +8557,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.aboi",
-        "districtTenantCode": "nl.chaohachingnyu-hwc",
+        "districtTenantCode": "nl.chaohachingnyuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8571,7 +8571,7 @@
       "contactNumber": "8974682255"
     },
     {
-      "code": "nl.chenloisho-hwc",
+      "code": "nl.chenloishohwc",
       "name": "Chenloisho HWC",
       "description": "Chenloisho HWC",
       "centreType": "HWC",
@@ -8591,7 +8591,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.chen",
-        "districtTenantCode": "nl.chenloisho-hwc",
+        "districtTenantCode": "nl.chenloishohwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8605,7 +8605,7 @@
       "contactNumber": "9862383369"
     },
     {
-      "code": "nl.jakphang-hwc",
+      "code": "nl.jakphanghwc",
       "name": "Jakphang HWC",
       "description": "Jakphang HWC",
       "centreType": "HWC",
@@ -8625,7 +8625,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.angjangyang",
-        "districtTenantCode": "nl.jakphang-hwc",
+        "districtTenantCode": "nl.jakphanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8639,7 +8639,7 @@
       "contactNumber": "7629844025"
     },
     {
-      "code": "nl.mohung-hwc",
+      "code": "nl.mohunghwc",
       "name": "Mohung HWC",
       "description": "Mohung HWC",
       "centreType": "HWC",
@@ -8659,7 +8659,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.angjangyang",
-        "districtTenantCode": "nl.mohung-hwc",
+        "districtTenantCode": "nl.mohunghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8673,7 +8673,7 @@
       "contactNumber": "9862224715"
     },
     {
-      "code": "nl.tamkoang-hwc",
+      "code": "nl.tamkoanghwc",
       "name": "Tamkoang HWC",
       "description": "Tamkoang HWC",
       "centreType": "HWC",
@@ -8693,7 +8693,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.tamkoang-hwc",
+        "districtTenantCode": "nl.tamkoanghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8707,7 +8707,7 @@
       "contactNumber": "8794464346"
     },
     {
-      "code": "nl.wangti-hwc",
+      "code": "nl.wangtihwc",
       "name": "Wangti HWC",
       "description": "Wangti HWC",
       "centreType": "HWC",
@@ -8727,7 +8727,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.chen",
-        "districtTenantCode": "nl.wangti-hwc",
+        "districtTenantCode": "nl.wangtihwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8741,7 +8741,7 @@
       "contactNumber": "9366291807"
     },
     {
-      "code": "nl.yannu-hwc",
+      "code": "nl.yannuhwc",
       "name": "Yannu HWC",
       "description": "Yannu HWC",
       "centreType": "HWC",
@@ -8761,7 +8761,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tizit",
-        "districtTenantCode": "nl.yannu-hwc",
+        "districtTenantCode": "nl.yannuhwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8775,7 +8775,7 @@
       "contactNumber": "9362364559"
     },
     {
-      "code": "nl.yonghong-hwc",
+      "code": "nl.yonghonghwc",
       "name": "Yonghong HWC",
       "description": "Yonghong HWC",
       "centreType": "HWC",
@@ -8795,7 +8795,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.yonghong-hwc",
+        "districtTenantCode": "nl.yonghonghwc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8809,7 +8809,7 @@
       "contactNumber": "8619090960"
     },
     {
-      "code": "nl.chingkao-phc",
+      "code": "nl.chingkaophc",
       "name": "Chingkao PHC",
       "description": "Chingkao PHC",
       "centreType": "PHC",
@@ -8829,7 +8829,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.chen",
-        "districtTenantCode": "nl.chingkao-phc",
+        "districtTenantCode": "nl.chingkaophc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8843,7 +8843,7 @@
       "contactNumber": "6009048512"
     },
     {
-      "code": "nl.shangnyu-phc",
+      "code": "nl.shangnyuphc",
       "name": "Shangnyu PHC",
       "description": "Shangnyu PHC",
       "centreType": "PHC",
@@ -8863,7 +8863,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.mon",
-        "districtTenantCode": "nl.shangnyu-phc",
+        "districtTenantCode": "nl.shangnyuphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8877,7 +8877,7 @@
       "contactNumber": "9383380913"
     },
     {
-      "code": "nl.yongkhao-phc",
+      "code": "nl.yongkhaophc",
       "name": "Yongkhao PHC",
       "description": "Yongkhao PHC",
       "centreType": "PHC",
@@ -8897,7 +8897,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.yongkhao-phc",
+        "districtTenantCode": "nl.yongkhaophc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8911,7 +8911,7 @@
       "contactNumber": "8974153550"
     },
     {
-      "code": "nl.tokok-chingnyu-sc",
+      "code": "nl.tokokchingnyusc",
       "name": "Tokok Chingnyu SC",
       "description": "Tokok Chingnyu SC",
       "centreType": "SC",
@@ -8931,7 +8931,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.mon",
-        "districtTenantCode": "nl.tokok-chingnyu-sc",
+        "districtTenantCode": "nl.tokokchingnyusc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8945,7 +8945,7 @@
       "contactNumber": "6009345323"
     },
     {
-      "code": "nl.angphang-phc",
+      "code": "nl.angphangphc",
       "name": "Angphang PHC",
       "description": "Angphang PHC",
       "centreType": "PHC",
@@ -8965,7 +8965,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.angjangyang",
-        "districtTenantCode": "nl.angphang-phc",
+        "districtTenantCode": "nl.angphangphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8979,7 +8979,7 @@
       "contactNumber": "8131930106"
     },
     {
-      "code": "nl.changlangshu-phc",
+      "code": "nl.changlangshuphc",
       "name": "Changlangshu PHC",
       "description": "Changlangshu PHC",
       "centreType": "PHC",
@@ -8999,7 +8999,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.changlangshu-phc",
+        "districtTenantCode": "nl.changlangshuphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -9013,7 +9013,7 @@
       "contactNumber": "9633738997"
     },
     {
-      "code": "nl.mopong-phc",
+      "code": "nl.mopongphc",
       "name": "Mopong PHC",
       "description": "Mopong PHC",
       "centreType": "PHC",
@@ -9033,7 +9033,7 @@
         "districtCode": "MON",
         "districtName": "Mon",
         "blockCode": "mon.tobu",
-        "districtTenantCode": "nl.mopong-phc",
+        "districtTenantCode": "nl.mopongphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,

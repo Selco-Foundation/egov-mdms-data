@@ -5,412 +5,494 @@
     {
       "code": "dimapur.dimapur",
       "name": "Dimapur",
-      "districtCode": "DIMAPUR"
+      "districtCode": "DIMAPUR",
+      "active": true
     },
     {
       "code": "dimapur.medziphema",
       "name": "Medziphema",
-      "districtCode": "DIMAPUR"
+      "districtCode": "DIMAPUR",
+      "active": true
     },
     {
       "code": "niuland.niuland",
       "name": "Niuland",
-      "districtCode": "NIULAND"
+      "districtCode": "NIULAND",
+      "active": true
     },
     {
       "code": "peren.tening",
       "name": "Tening",
-      "districtCode": "PEREN"
+      "districtCode": "PEREN",
+      "active": true
     },
     {
       "code": "peren.peren",
       "name": "Peren",
-      "districtCode": "PEREN"
+      "districtCode": "PEREN",
+      "active": true
     },
     {
       "code": "peren.ahthibung",
       "name": "Ahthibung",
-      "districtCode": "PEREN"
+      "districtCode": "PEREN",
+      "active": true
     },
     {
       "code": "peren.jalukie",
       "name": "Jalukie",
-      "districtCode": "PEREN"
+      "districtCode": "PEREN",
+      "active": true
     },
     {
       "code": "kohima.kohima",
       "name": "Kohima",
-      "districtCode": "KOHIMA"
+      "districtCode": "KOHIMA",
+      "active": true
     },
     {
       "code": "zunheboto.atoizu",
       "name": "Atoizu",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.sadar",
       "name": "Sadar",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.zunhebotosadar",
       "name": "Zunheboto Sadar",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.pughoboto",
       "name": "Pughoboto",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.satakha",
       "name": "Satakha",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.pughobotochc",
       "name": "Pughoboto Chc",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.suruhoto",
       "name": "Suruhoto",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.aghunato",
       "name": "Aghunato",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.akuluto",
       "name": "Akuluto",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.zunheboto",
       "name": "Zunheboto",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.akuhaito",
       "name": "Akuhaito",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "zunheboto.suruhuto",
       "name": "Suruhuto",
-      "districtCode": "ZUNHEBOTO"
+      "districtCode": "ZUNHEBOTO",
+      "active": true
     },
     {
       "code": "phek.melure",
       "name": "Melure",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.meluri",
       "name": "Meluri",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.pheksardar",
       "name": "Phek Sardar",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.chozuba",
       "name": "Chozuba",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.pfutsero",
       "name": "Pfutsero",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.pheksadar",
       "name": "Phek Sadar",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.phek",
       "name": "Phek",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "phek.kikruma",
       "name": "Kikruma",
-      "districtCode": "PHEK"
+      "districtCode": "PHEK",
+      "active": true
     },
     {
       "code": "kiphire.pungro",
       "name": "Pungro",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "kiphire.seyochungsitimi",
       "name": "Seyochung/ Sitimi",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "kiphire.seyochung",
       "name": "Seyochung",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "kiphire.amahator",
       "name": "Amahator",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "kiphire.kiphiresadar",
       "name": "Kiphire Sadar",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "kiphire.sitimiseyochung",
       "name": "Sitimi/Seyochung",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "kiphire.sitimi",
       "name": "Sitimi",
-      "districtCode": "KIPHIRE"
+      "districtCode": "KIPHIRE",
+      "active": true
     },
     {
       "code": "mon.aboi",
       "name": "Aboi",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "chumoukedima.chumoukedima",
       "name": "Chumoukedima",
-      "districtCode": "CHUMOUKEDIMA"
+      "districtCode": "CHUMOUKEDIMA",
+      "active": true
     },
     {
       "code": "chumoukedima.medziphema",
       "name": "Medziphema",
-      "districtCode": "CHUMOUKEDIMA"
+      "districtCode": "CHUMOUKEDIMA",
+      "active": true
     },
     {
       "code": "mokokchung.tuli",
       "name": "Tuli",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.changtongya",
       "name": "Changtongya",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.ongpangkong",
       "name": "Ongpangkong",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.tsurangkong",
       "name": "Tsurangkong",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.tzurangkong",
       "name": "Tzurangkong",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.ongpangkongnorth",
       "name": "Ongpangkong North",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.ongbangkong",
       "name": "Ongbangkong",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.alongkima",
       "name": "Alongkima",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.mokokchung",
       "name": "Mokokchung",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.ongpangkongsouth",
       "name": "Ongpangkong South",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.onpangkong",
       "name": "Onpangkong",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.longchem",
       "name": "Longchem",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "mokokchung.mangkolemba",
       "name": "Mangkolemba",
-      "districtCode": "MOKOKCHUNG"
+      "districtCode": "MOKOKCHUNG",
+      "active": true
     },
     {
       "code": "tuensang.tuensangsadar",
       "name": "Tuensang sadar",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "tuensang.shamator",
       "name": "Shamator",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "tuensang.sadar",
       "name": "Sadar",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "tuensang.chare",
       "name": "Chare",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "tuensang.noksen",
       "name": "Noksen",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "tuensang.chessore",
       "name": "Chessore",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "tuensang.longkhim",
       "name": "Longkhim",
-      "districtCode": "TUENSANG"
+      "districtCode": "TUENSANG",
+      "active": true
     },
     {
       "code": "wokha.chukitong",
       "name": "Chukitong",
-      "districtCode": "WOKHA"
+      "districtCode": "WOKHA",
+      "active": true
     },
     {
       "code": "wokha.wozhuro",
       "name": "Wozhuro",
-      "districtCode": "WOKHA"
+      "districtCode": "WOKHA",
+      "active": true
     },
     {
       "code": "wokha.sanis",
       "name": "Sanis",
-      "districtCode": "WOKHA"
+      "districtCode": "WOKHA",
+      "active": true
     },
     {
       "code": "wokha.bhandari",
       "name": "Bhandari",
-      "districtCode": "WOKHA"
+      "districtCode": "WOKHA",
+      "active": true
     },
     {
       "code": "wokha.wozhuroralan",
       "name": "Wozhuro/Ralan",
-      "districtCode": "WOKHA"
+      "districtCode": "WOKHA",
+      "active": true
     },
     {
       "code": "wokha.wokhasadar",
       "name": "Wokha sadar",
-      "districtCode": "WOKHA"
+      "districtCode": "WOKHA",
+      "active": true
     },
     {
       "code": "kohima.jakhama",
       "name": "Jakhama",
-      "districtCode": "KOHIMA"
+      "districtCode": "KOHIMA",
+      "active": true
     },
     {
       "code": "kohima.chiephobozou",
       "name": "Chiephobozou",
-      "districtCode": "KOHIMA"
+      "districtCode": "KOHIMA",
+      "active": true
     },
     {
       "code": "kohima.kohimasadar",
       "name": "Kohima Sadar",
-      "districtCode": "KOHIMA"
+      "districtCode": "KOHIMA",
+      "active": true
     },
     {
       "code": "kohima.sechu",
       "name": "Sechu",
-      "districtCode": "KOHIMA"
+      "districtCode": "KOHIMA",
+      "active": true
     },
     {
       "code": "mon.mon",
       "name": "Mon",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "mon.tobu",
       "name": "Tobu",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "longleng.longleng",
       "name": "Longleng",
-      "districtCode": "LONGLENG"
+      "districtCode": "LONGLENG",
+      "active": true
     },
     {
       "code": "longleng.yongnyah",
       "name": "Yongnyah",
-      "districtCode": "LONGLENG"
+      "districtCode": "LONGLENG",
+      "active": true
     },
     {
       "code": "noklak.panso",
       "name": "Panso",
-      "districtCode": "NOKLAK"
+      "districtCode": "NOKLAK",
+      "active": true
     },
     {
       "code": "noklak.nokhu",
       "name": "Nokhu",
-      "districtCode": "NOKLAK"
+      "districtCode": "NOKLAK",
+      "active": true
     },
     {
       "code": "noklak.noklak",
       "name": "Noklak",
-      "districtCode": "NOKLAK"
+      "districtCode": "NOKLAK",
+      "active": true
     },
     {
       "code": "noklak.thonoknyu",
       "name": "Thonoknyu",
-      "districtCode": "NOKLAK"
+      "districtCode": "NOKLAK",
+      "active": true
     },
     {
       "code": "tseminyu.tseminyu",
       "name": "Tseminyu",
-      "districtCode": "TSEMINYU"
+      "districtCode": "TSEMINYU",
+      "active": true
     },
     {
       "code": "mon.chen",
       "name": "Chen",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "mon.wakching",
       "name": "Wakching",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "mon.tizit",
       "name": "Tizit",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "mon.pomching",
       "name": "Pomching",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     },
     {
       "code": "mon.angjangyang",
       "name": "Angjangyang",
-      "districtCode": "MON"
+      "districtCode": "MON",
+      "active": true
     }
   ]
 }

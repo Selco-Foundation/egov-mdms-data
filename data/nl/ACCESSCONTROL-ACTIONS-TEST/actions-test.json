@@ -2963,7 +2963,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Home",
-      "navigationURL": "/digit-ui/employee",
+      "navigationURL": "/nagaland-ui/employee",
       "leftIcon": "action:home",
       "rightIcon": ""
     },
@@ -2978,7 +2978,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.MyComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/nagaland-ui/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -3008,7 +3008,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "/nagaland-ui/employee/pgr/complaint/create",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
@@ -3211,7 +3211,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/nagaland-ui/employee/pt/inbox",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -4469,7 +4469,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/nagaland-ui/employee/tl/inbox",
       "path": "TradeLicense.Search",
       "leftIcon": "places:business-center"
     },
@@ -5530,7 +5530,7 @@
       "enabled": false,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "/nagaland-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -5545,7 +5545,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/nagaland-ui/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -5561,7 +5561,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/nagaland-ui/employee/pt/inbox",
       "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
@@ -5577,7 +5577,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/nagaland-ui/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -5593,7 +5593,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "/nagaland-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -5879,7 +5879,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints",
-      "navigationURL": "/digit-ui/citizen/pgr/complaints",
+      "navigationURL": "/nagaland-ui/citizen/pgr/complaints",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },
@@ -5894,7 +5894,7 @@
       "enabled": false,
       "serviceCode": "",
       "path": "Property Tax",
-      "navigationURL": "/digit-ui/citizen",
+      "navigationURL": "/nagaland-ui/citizen",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -5908,7 +5908,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/citizen/",
+      "navigationURL": "/nagaland-ui/citizen/",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -5991,7 +5991,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen",
+      "navigationURL": "/nagaland-ui/citizen",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
@@ -6007,7 +6007,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen",
+      "navigationURL": "/nagaland-ui/citizen",
       "leftIcon": "custom:home-city-outline",
       "rightIcon": "",
       "queryParams": ""
@@ -6023,7 +6023,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/",
+      "navigationURL": "/nagaland-ui/citizen/",
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
       "queryParams": ""
@@ -6321,7 +6321,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "navigationURL": "/nagaland-ui/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -6833,7 +6833,7 @@
       "serviceCode": "wns",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws-home",
+      "navigationURL": "/nagaland-ui/citizen/ws-home",
       "leftIcon": "custom:water-tap",
       "rightIcon": "",
       "queryParams": ""
@@ -6848,7 +6848,7 @@
       "enabled": false,
       "serviceCode": "wns",
       "code": "null",
-      "navigationURL": "/digit-ui/citizen/ws-home",
+      "navigationURL": "/nagaland-ui/citizen/ws-home",
       "path": "wns",
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
@@ -7010,7 +7010,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Ws",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/ws",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/ws",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -7261,7 +7261,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "/nagaland-ui/employee/pgr/complaint/create",
       "quickAction": false,
       "leftIcon": "content:add",
       "rightIcon": ""
@@ -7282,7 +7282,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess And Search Properties",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/nagaland-ui/employee/pt/inbox",
       "quickAction": false,
       "leftIcon": "communication:business",
       "rightIcon": ""
@@ -7298,7 +7298,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/nagaland-ui/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -7314,7 +7314,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/nagaland-ui/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -7329,7 +7329,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "navigationURL": "/nagaland-ui/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -7582,7 +7582,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/bpa-home",
+      "navigationURL": "/nagaland-ui/citizen/bpa-home",
       "leftIcon": "communication:business",
       "rightIcon": "",
       "queryParams": ""
@@ -8697,7 +8697,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "AllComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/nagaland-ui/employee/pgr/inbox",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
@@ -9029,7 +9029,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/",
+      "navigationURL": "/nagaland-ui/employee/",
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
@@ -9045,7 +9045,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/fstp-inbox",
+      "navigationURL": "/nagaland-ui/employee/fstp-inbox",
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
@@ -9086,7 +9086,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE EDIT APPLICATION",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/modify-application/:id",
+      "navigationURL": "/nagaland-ui/employee/fsm/modify-application/:id",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9100,7 +9100,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE COLLECT PAYMENT",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/collect-payment",
+      "navigationURL": "/nagaland-ui/employee/fsm/collect-payment",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9114,7 +9114,7 @@
       "url": "url",
       "name": "FSM FSTP INBOX",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/fstp-inbox",
+      "navigationURL": "/nagaland-ui/employee/fsm/fstp-inbox",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9128,7 +9128,7 @@
       "url": "url",
       "name": "FSM FSTP DETAILS",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
+      "navigationURL": "/nagaland-ui/employee/fsm/fstp-operator-details/:id",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9142,7 +9142,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE SEARCH APPLICATION",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/search",
+      "navigationURL": "/nagaland-ui/employee/fsm/search",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9156,7 +9156,7 @@
       "url": "url",
       "name": "FSM DSO DASHBOARD",
       "enabled": false,
-      "navigationURL": "/digit-ui/citizen/dso-dashboard",
+      "navigationURL": "/nagaland-ui/citizen/dso-dashboard",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9276,7 +9276,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "",
-      "navigationURL": "/digit-ui/employee/mcollect/new-application",
+      "navigationURL": "/nagaland-ui/employee/mcollect/new-application",
       "path": "",
       "leftIcon": "image:collections-bookmark"
     },
@@ -9513,7 +9513,7 @@
       "serviceCode": "UC",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/nagaland-ui/employee/mcollect/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -9528,7 +9528,7 @@
       "enabled": false,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/nagaland-ui/employee/mcollect/inbox",
       "path": "",
       "leftIcon": "places:business-center"
     },
@@ -9553,7 +9553,7 @@
       "enabled": false,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/nagaland-ui/employee/mcollect/inbox",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -9578,7 +9578,7 @@
       "enabled": false,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/nagaland-ui/employee/mcollect/inbox",
       "path": "UC.Search",
       "leftIcon": "image:collections-bookmark"
     },
@@ -9990,7 +9990,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/receipts/inbox",
+      "navigationURL": "/nagaland-ui/employee/receipts/inbox",
       "path": "PTreceipt",
       "leftIcon": "action:receipt"
     },
@@ -10005,7 +10005,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/receipts/inbox",
+      "navigationURL": "/nagaland-ui/employee/receipts/inbox",
       "leftIcon": "action:receipt",
       "rightIcon": "",
       "queryParams": ""
@@ -10340,7 +10340,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.FSM",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -11828,7 +11828,7 @@
       "url": "quickAction",
       "name": "FSM EMPLOYEE SEARCH APPLICATION",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/search",
+      "navigationURL": "/nagaland-ui/employee/fsm/search",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -11845,7 +11845,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/",
+      "navigationURL": "/nagaland-ui/citizen/",
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
@@ -12080,7 +12080,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.PropertyTax",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-propertytax",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-propertytax",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12107,7 +12107,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Home",
-      "navigationURL": "/digit-ui/employee/payment/integration/dss/NURT_DASHBOARD",
+      "navigationURL": "/nagaland-ui/employee/payment/integration/dss/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12134,7 +12134,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FireNoc",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-firenoc",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-firenoc",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12161,7 +12161,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Water&Sewerage",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-ws",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-ws",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12176,7 +12176,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.MCollect",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-mcollect",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-mcollect",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12203,7 +12203,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.TradeLicense",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-tradelicense",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-tradelicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12230,7 +12230,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.OBPS",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/obps",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/obps",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12245,7 +12245,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.OBPS",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/nss-obps",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/nss-obps",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12260,7 +12260,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.PGR",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-pgr",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12275,7 +12275,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Firenoc",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/noc",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/noc",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12290,7 +12290,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.mCollect",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/mCollect",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/mCollect",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12317,7 +12317,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Overview",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-overview",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/national-overview",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12332,7 +12332,7 @@
       "serviceCode": "integration",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/payment/integration/dss/NURT_DASHBOARD",
+      "navigationURL": "/nagaland-ui/employee/payment/integration/dss/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -12547,7 +12547,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Birth and Death",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/birth-death",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/birth-death",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13063,7 +13063,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.BND",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/nss-birth-death",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/nss-birth-death",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13238,12 +13238,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/tl-faq",
+      "navigationURL": "/nagaland-ui/citizen/tl-faq",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/tl-home"
+      "sidebarURL": "/nagaland-ui/citizen/tl-home"
     },
     {
       "id": 2423,
@@ -13256,12 +13256,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt-how-it-works",
+      "navigationURL": "/nagaland-ui/citizen/pt-how-it-works",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2424,
@@ -13274,12 +13274,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt-faq",
+      "navigationURL": "/nagaland-ui/citizen/pt-faq",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2425,
@@ -13463,12 +13463,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-payments",
+      "navigationURL": "/nagaland-ui/citizen/pt/property/my-payments",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2438,
@@ -13481,7 +13481,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.About",
-      "navigationURL": "/digit-ui/employee/dss/national-about",
+      "navigationURL": "/nagaland-ui/employee/dss/national-about",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13496,7 +13496,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FAQs",
-      "navigationURL": "/digit-ui/employee/dss/national-faqs",
+      "navigationURL": "/nagaland-ui/employee/dss/national-faqs",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13511,12 +13511,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws/my-bills",
+      "navigationURL": "/nagaland-ui/citizen/ws/my-bills",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2441,
@@ -13529,12 +13529,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws/my-payments",
+      "navigationURL": "/nagaland-ui/citizen/ws/my-payments",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2442,
@@ -13547,12 +13547,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws/create-application/docs-required",
+      "navigationURL": "/nagaland-ui/citizen/ws/create-application/docs-required",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2443,
@@ -13565,12 +13565,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws/search",
+      "navigationURL": "/nagaland-ui/citizen/ws/search",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2444,
@@ -13583,12 +13583,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws/my-applications",
+      "navigationURL": "/nagaland-ui/citizen/ws/my-applications",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2445,
@@ -13601,12 +13601,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws/my-connections",
+      "navigationURL": "/nagaland-ui/citizen/ws/my-connections",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2446,
@@ -13619,12 +13619,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/mcollect/search",
+      "navigationURL": "/nagaland-ui/citizen/mcollect/search",
       "leftIcon": "MCollectIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/mcollect-home"
+      "sidebarURL": "/nagaland-ui/citizen/mcollect-home"
     },
     {
       "id": 2447,
@@ -13637,12 +13637,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/mcollect/My-Challans",
+      "navigationURL": "/nagaland-ui/citizen/mcollect/My-Challans",
       "leftIcon": "MCollectIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/mcollect-home"
+      "sidebarURL": "/nagaland-ui/citizen/mcollect-home"
     },
     {
       "id": 2448,
@@ -13655,12 +13655,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/fsm/new-application",
+      "navigationURL": "/nagaland-ui/citizen/fsm/new-application",
       "leftIcon": "FSMIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/fsm-home"
+      "sidebarURL": "/nagaland-ui/citizen/fsm-home"
     },
     {
       "id": 2449,
@@ -13673,12 +13673,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/fsm/my-applications",
+      "navigationURL": "/nagaland-ui/citizen/fsm/my-applications",
       "leftIcon": "FSMIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/fsm-home"
+      "sidebarURL": "/nagaland-ui/citizen/fsm-home"
     },
     {
       "id": 2450,
@@ -13691,12 +13691,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pgr/create-complaint/complaint-type",
+      "navigationURL": "/nagaland-ui/citizen/pgr/create-complaint/complaint-type",
       "leftIcon": "PGRIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pgr-home"
+      "sidebarURL": "/nagaland-ui/citizen/pgr-home"
     },
     {
       "id": 2451,
@@ -13709,12 +13709,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pgr/complaints",
+      "navigationURL": "/nagaland-ui/citizen/pgr/complaints",
       "leftIcon": "PGRIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pgr-home"
+      "sidebarURL": "/nagaland-ui/citizen/pgr-home"
     },
     {
       "id": 2452,
@@ -13727,12 +13727,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/tl/tradelicence/new-application",
+      "navigationURL": "/nagaland-ui/citizen/tl/tradelicence/new-application",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/tl-home"
+      "sidebarURL": "/nagaland-ui/citizen/tl-home"
     },
     {
       "id": 2453,
@@ -13745,12 +13745,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/tl/tradelicence/renewal-list",
+      "navigationURL": "/nagaland-ui/citizen/tl/tradelicence/renewal-list",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/tl-home"
+      "sidebarURL": "/nagaland-ui/citizen/tl-home"
     },
     {
       "id": 2454,
@@ -13763,12 +13763,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/tl/tradelicence/my-application",
+      "navigationURL": "/nagaland-ui/citizen/tl/tradelicence/my-application",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/tl-home"
+      "sidebarURL": "/nagaland-ui/citizen/tl-home"
     },
     {
       "id": 2455,
@@ -13781,12 +13781,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/my-applications",
+      "navigationURL": "/nagaland-ui/citizen/obps/my-applications",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
+      "sidebarURL": "/nagaland-ui/citizen/obps-home"
     },
     {
       "id": 2456,
@@ -13799,12 +13799,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/stakeholder/apply/stakeholder-docs-required",
+      "navigationURL": "/nagaland-ui/citizen/obps/stakeholder/apply/stakeholder-docs-required",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
+      "sidebarURL": "/nagaland-ui/citizen/obps-home"
     },
     {
       "id": 2457,
@@ -13817,12 +13817,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/home",
+      "navigationURL": "/nagaland-ui/citizen/obps/home",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
+      "sidebarURL": "/nagaland-ui/citizen/obps-home"
     },
     {
       "id": 2458,
@@ -13835,12 +13835,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/commonpt/property/citizen-search",
+      "navigationURL": "/nagaland-ui/citizen/commonpt/property/citizen-search",
       "leftIcon": "CommonPTIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/commonpt-home"
+      "sidebarURL": "/nagaland-ui/citizen/commonpt-home"
     },
     {
       "id": 2459,
@@ -13853,12 +13853,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/commonpt/property/new-application",
+      "navigationURL": "/nagaland-ui/citizen/commonpt/property/new-application",
       "leftIcon": "CommonPTIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/commonpt-home"
+      "sidebarURL": "/nagaland-ui/citizen/commonpt-home"
     },
     {
       "id": 2460,
@@ -13871,12 +13871,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/bills/billSearch",
+      "navigationURL": "/nagaland-ui/citizen/bills/billSearch",
       "leftIcon": "BillsIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/bills-home"
+      "sidebarURL": "/nagaland-ui/citizen/bills-home"
     },
     {
       "id": 2461,
@@ -13889,7 +13889,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Home",
-      "navigationURL": "/digit-ui/employee/dss/landing/NURT_DASHBOARD",
+      "navigationURL": "/nagaland-ui/employee/dss/landing/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13952,12 +13952,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/Audit",
+      "navigationURL": "/nagaland-ui/citizen/Audit",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2467,
@@ -13981,12 +13981,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/mcollect-faq",
+      "navigationURL": "/nagaland-ui/citizen/mcollect-faq",
       "leftIcon": "MCollectIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/mcollect-home"
+      "sidebarURL": "/nagaland-ui/citizen/mcollect-home"
     },
     {
       "id": 2469,
@@ -13999,12 +13999,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/ws-faq",
+      "navigationURL": "/nagaland-ui/citizen/ws-faq",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ws-home"
+      "sidebarURL": "/nagaland-ui/citizen/ws-home"
     },
     {
       "id": 2470,
@@ -14017,12 +14017,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-applications",
+      "navigationURL": "/nagaland-ui/citizen/pt/property/my-applications",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2471,
@@ -14035,12 +14035,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-properties",
+      "navigationURL": "/nagaland-ui/citizen/pt/property/my-properties",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2472,
@@ -14053,12 +14053,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/property-mutation/search-property",
+      "navigationURL": "/nagaland-ui/citizen/pt/property/property-mutation/search-property",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
 
     {
@@ -14072,12 +14072,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/obps-faq",
+      "navigationURL": "/nagaland-ui/citizen/obps-faq",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
+      "sidebarURL": "/nagaland-ui/citizen/obps-home"
     },
     {
       "id": 2474,
@@ -14090,12 +14090,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/payment/my-bills/PT",
+      "navigationURL": "/nagaland-ui/citizen/payment/my-bills/PT",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2350,
@@ -14108,12 +14108,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/citizen-search",
+      "navigationURL": "/nagaland-ui/citizen/pt/property/citizen-search",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2351,
@@ -14126,12 +14126,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/new-application/info",
+      "navigationURL": "/nagaland-ui/citizen/pt/property/new-application/info",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
+      "sidebarURL": "/nagaland-ui/citizen/pt-home"
     },
     {
       "id": 2475,
@@ -14475,7 +14475,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Finance",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/finance",
+      "navigationURL": "/nagaland-ui/employee/dss/dashboard/finance",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -14944,7 +14944,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.SearchTicket",
-      "navigationURL": "/digit-ui/employee/im/inbox",
+      "navigationURL": "/nagaland-ui/employee/im/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -14959,7 +14959,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.New Ticket",
-      "navigationURL": "/digit-ui/employee/im/incident/create",
+      "navigationURL": "/nagaland-ui/employee/im/incident/create",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },

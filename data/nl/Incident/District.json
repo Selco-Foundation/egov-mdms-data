@@ -1,5 +1,5 @@
 {
-  "tenant_id": "nl",
+  "tenantId": "nl",
   "moduleName": "Incident",
   "District": [
     {

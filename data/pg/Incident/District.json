@@ -184,6 +184,11 @@
         "code": "YADGIR",
         "name": "Yadgir",
         "active": true
+    },
+    {
+        "code": "UTTARA KANNADA",
+        "name": "Uttara Kannada",
+        "active": true
     }
 
   ]

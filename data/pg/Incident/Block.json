@@ -1240,13 +1240,6 @@
             "active": true
         },
         {
-            "code": "yadgir.shahapur",
-            "name": "Shahapur",
-            "districtCode": "YADGIR",
-            "active": true
-        },
-        
-        {
             "code": "yadgir.hunasagi",
             "name": "Hunasagi",
             "districtCode": "YADGIR",

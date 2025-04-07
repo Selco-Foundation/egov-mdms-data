@@ -260,7 +260,7 @@
       "slaHours": 264,
       "menuPath": "Battery - Electrical/safety problem",
       "active": true,
-      "deprecated": false
+      "deprecated": true
     },
     {
       "serviceCode": "BatteryGetsTooHotDuringUse",

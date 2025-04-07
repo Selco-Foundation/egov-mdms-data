@@ -1,0 +1,1469 @@
+{
+  "tenantId": "mn",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mn"
+        },
+        {
+          "code": "mn.ithai"
+        },
+        {
+          "code": "mn.leimapokpam"
+        },
+        {
+          "code": "mn.moirang"
+        },
+        {
+          "code": "mn.nambol"
+        },
+        {
+          "code": "mn.ningthoukhong"
+        },
+        {
+          "code": "mn.analkhullen"
+        },
+        {
+          "code": "mn.chakpikarong"
+        },
+        {
+          "code": "mn.chandeldh"
+        },
+        {
+          "code": "mn.khengjoi"
+        },
+        {
+          "code": "mn.khubungkhullen"
+        },
+        {
+          "code": "mn.khudeikhunou"
+        },
+        {
+          "code": "mn.komlathabi"
+        },
+        {
+          "code": "mn.larong"
+        },
+        {
+          "code": "mn.leingangching"
+        },
+        {
+          "code": "mn.paraolon"
+        },
+        {
+          "code": "mn.purumtampak"
+        },
+        {
+          "code": "mn.saiboljoupi"
+        },
+        {
+          "code": "mn.sajiktampak"
+        },
+        {
+          "code": "mn.sehlon"
+        },
+        {
+          "code": "mn.songiang"
+        },
+        {
+          "code": "mn.taraolaimanal"
+        },
+        {
+          "code": "mn.unopat"
+        },
+        {
+          "code": "mn.jangoulen"
+        },
+        {
+          "code": "mn.aibulon"
+        },
+        {
+          "code": "mn.behiang"
+        },
+        {
+          "code": "mn.bunglon"
+        },
+        {
+          "code": "mn.bungpilon"
+        },
+        {
+          "code": "mn.charoikhullen"
+        },
+        {
+          "code": "mn.churachandpurdh"
+        },
+        {
+          "code": "mn.geljang"
+        },
+        {
+          "code": "mn.henglep"
+        },
+        {
+          "code": "mn.hiangmual"
+        },
+        {
+          "code": "mn.hiangtamk"
+        },
+        {
+          "code": "mn.kaihlam"
+        },
+        {
+          "code": "mn.khoirentak"
+        },
+        {
+          "code": "mn.khonomphai"
+        },
+        {
+          "code": "mn.komkeirap"
+        },
+        {
+          "code": "mn.kumbipukhri"
+        },
+        {
+          "code": "mn.lalpha"
+        },
+        {
+          "code": "mn.lkhengjang"
+        },
+        {
+          "code": "mn.lamzang"
+        },
+        {
+          "code": "mn.leisang"
+        },
+        {
+          "code": "mn.lungthule"
+        },
+        {
+          "code": "mn.mata"
+        },
+        {
+          "code": "mn.missioncompound"
+        },
+        {
+          "code": "mn.newlamka"
+        },
+        {
+          "code": "mn.ngarian"
+        },
+        {
+          "code": "mn.pearsonmun"
+        },
+        {
+          "code": "mn.sagang"
+        },
+        {
+          "code": "mn.saikot"
+        },
+        {
+          "code": "mn.saipum"
+        },
+        {
+          "code": "mn.senpangjar"
+        },
+        {
+          "code": "mn.siden"
+        },
+        {
+          "code": "mn.singngat"
+        },
+        {
+          "code": "mn.sinzawl"
+        },
+        {
+          "code": "mn.songtal"
+        },
+        {
+          "code": "mn.suangdoh"
+        },
+        {
+          "code": "mn.sumchinvum"
+        },
+        {
+          "code": "mn.thingkangphai"
+        },
+        {
+          "code": "mn.tuaitengphai"
+        },
+        {
+          "code": "mn.tuilaphai"
+        },
+        {
+          "code": "mn.ukhaloikhai"
+        },
+        {
+          "code": "mn.zezaw"
+        },
+        {
+          "code": "mn.akampat"
+        },
+        {
+          "code": "mn.angtha"
+        },
+        {
+          "code": "mn.bashikhong"
+        },
+        {
+          "code": "mn.chanamsandrok"
+        },
+        {
+          "code": "mn.chingkhusambei"
+        },
+        {
+          "code": "mn.huikap"
+        },
+        {
+          "code": "mn.irilbung"
+        },
+        {
+          "code": "mn.kairangmuslim"
+        },
+        {
+          "code": "mn.keiraomakting"
+        },
+        {
+          "code": "mn.keiraowangkhem"
+        },
+        {
+          "code": "mn.khabeisoi"
+        },
+        {
+          "code": "mn.khuraiheikrumakhong"
+        },
+        {
+          "code": "mn.khuraiheinoumakhong"
+        },
+        {
+          "code": "mn.kiyamgeikhagibazar"
+        },
+        {
+          "code": "mn.kongba"
+        },
+        {
+          "code": "mn.laiphamkhunou"
+        },
+        {
+          "code": "mn.mantripikhri"
+        },
+        {
+          "code": "mn.moirangkampu"
+        },
+        {
+          "code": "mn.naharupmakhapat"
+        },
+        {
+          "code": "mn.ningomthongjao"
+        },
+        {
+          "code": "mn.nongpokkeithelmanbi"
+        },
+        {
+          "code": "mn.oksu"
+        },
+        {
+          "code": "mn.sagolmang"
+        },
+        {
+          "code": "mn.sanjenbam"
+        },
+        {
+          "code": "mn.seijang"
+        },
+        {
+          "code": "mn.sekta"
+        },
+        {
+          "code": "mn.takhel"
+        },
+        {
+          "code": "mn.tellouchana"
+        },
+        {
+          "code": "mn.thambalkong"
+        },
+        {
+          "code": "mn.topchingtha"
+        },
+        {
+          "code": "mn.uchekon"
+        },
+        {
+          "code": "mn.uchekonlaikon"
+        },
+        {
+          "code": "mn.urup"
+        },
+        {
+          "code": "mn.waithouchirou"
+        },
+        {
+          "code": "mn.waiton"
+        },
+        {
+          "code": "mn.yumnamkhunou"
+        },
+        {
+          "code": "mn.konokkhongnangkhong"
+        },
+        {
+          "code": "mn.awangjiri"
+        },
+        {
+          "code": "mn.awangkhunou"
+        },
+        {
+          "code": "mn.awangwabagai"
+        },
+        {
+          "code": "mn.bamdiar"
+        },
+        {
+          "code": "mn.bengoon"
+        },
+        {
+          "code": "mn.chirai"
+        },
+        {
+          "code": "mn.govindagram"
+        },
+        {
+          "code": "mn.haorangsabaldispensary"
+        },
+        {
+          "code": "mn.heigrujam"
+        },
+        {
+          "code": "mn.hiyangthang"
+        },
+        {
+          "code": "mn.iroisemba"
+        },
+        {
+          "code": "mn.irommeijrao"
+        },
+        {
+          "code": "mn.kakwa"
+        },
+        {
+          "code": "mn.khabithangtek"
+        },
+        {
+          "code": "mn.khamnambazar"
+        },
+        {
+          "code": "mn.khonghampat"
+        },
+        {
+          "code": "mn.khumbong"
+        },
+        {
+          "code": "mn.kokchai"
+        },
+        {
+          "code": "mn.komlakhong"
+        },
+        {
+          "code": "mn.konthoujam"
+        },
+        {
+          "code": "mn.kwakeithelheinoukhongnembi"
+        },
+        {
+          "code": "mn.lamdeng"
+        },
+        {
+          "code": "mn.langoltarung"
+        },
+        {
+          "code": "mn.laphupattera"
+        },
+        {
+          "code": "mn.maklang"
+        },
+        {
+          "code": "mn.malomtuliyaima"
+        },
+        {
+          "code": "mn.mayangimphal"
+        },
+        {
+          "code": "mn.mekola"
+        },
+        {
+          "code": "mn.mutumphibou"
+        },
+        {
+          "code": "mn.naoremchaprou"
+        },
+        {
+          "code": "mn.naoriyapakhanglakpa"
+        },
+        {
+          "code": "mn.ningombam"
+        },
+        {
+          "code": "mn.nongchupkameng"
+        },
+        {
+          "code": "mn.phumlou"
+        },
+        {
+          "code": "mn.sagolbandlamkhai"
+        },
+        {
+          "code": "mn.salam"
+        },
+        {
+          "code": "mn.sangaiporou"
+        },
+        {
+          "code": "mn.sekmai"
+        },
+        {
+          "code": "mn.singjamei"
+        },
+        {
+          "code": "mn.takyelkhongbal"
+        },
+        {
+          "code": "mn.waiselmapal"
+        },
+        {
+          "code": "mn.wangoi"
+        },
+        {
+          "code": "mn.yumnamhuidrom"
+        },
+        {
+          "code": "mn.yurembam"
+        },
+        {
+          "code": "mn.kakching"
+        },
+        {
+          "code": "mn.langmeidong"
+        },
+        {
+          "code": "mn.serou"
+        },
+        {
+          "code": "mn.sugnu"
+        },
+        {
+          "code": "mn.grihang"
+        },
+        {
+          "code": "mn.kamjong"
+        },
+        {
+          "code": "mn.kasom"
+        },
+        {
+          "code": "mn.lamlai"
+        },
+        {
+          "code": "mn.mawai"
+        },
+        {
+          "code": "mn.nambisha"
+        },
+        {
+          "code": "mn.ningthi"
+        },
+        {
+          "code": "mn.phungyar"
+        },
+        {
+          "code": "mn.shingkap"
+        },
+        {
+          "code": "mn.sorbung"
+        },
+        {
+          "code": "mn.thundung"
+        },
+        {
+          "code": "mn.kangpokpi"
+        },
+        {
+          "code": "mn.saikul"
+        },
+        {
+          "code": "mn.twaichong"
+        },
+        {
+          "code": "mn.dolang"
+        },
+        {
+          "code": "mn.haochong"
+        },
+        {
+          "code": "mn.khoupum"
+        },
+        {
+          "code": "mn.noney"
+        },
+        {
+          "code": "mn.nungba"
+        },
+        {
+          "code": "mn.nungleibam"
+        },
+        {
+          "code": "mn.thangal"
+        },
+        {
+          "code": "mn.bukpi"
+        },
+        {
+          "code": "mn.parbung"
+        },
+        {
+          "code": "mn.patpuihmun"
+        },
+        {
+          "code": "mn.sainoujang"
+        },
+        {
+          "code": "mn.senvom"
+        },
+        {
+          "code": "mn.sibapurikhal"
+        },
+        {
+          "code": "mn.thanlon"
+        },
+        {
+          "code": "mn.bendramei"
+        },
+        {
+          "code": "mn.karong"
+        },
+        {
+          "code": "mn.keize"
+        },
+        {
+          "code": "mn.khongdei"
+        },
+        {
+          "code": "mn.koide"
+        },
+        {
+          "code": "mn.laii"
+        },
+        {
+          "code": "mn.maiba"
+        },
+        {
+          "code": "mn.mao"
+        },
+        {
+          "code": "mn.maram"
+        },
+        {
+          "code": "mn.maramkhullen"
+        },
+        {
+          "code": "mn.oklong"
+        },
+        {
+          "code": "mn.paomata"
+        },
+        {
+          "code": "mn.phaibung"
+        },
+        {
+          "code": "mn.pudunamai"
+        },
+        {
+          "code": "mn.punanamei"
+        },
+        {
+          "code": "mn.rajamei"
+        },
+        {
+          "code": "mn.ramlung"
+        },
+        {
+          "code": "mn.sadim"
+        },
+        {
+          "code": "mn.tadubi"
+        },
+        {
+          "code": "mn.tingbakhullen"
+        },
+        {
+          "code": "mn.tobumai"
+        },
+        {
+          "code": "mn.tungjoy"
+        },
+        {
+          "code": "mn.aben"
+        },
+        {
+          "code": "mn.akhui"
+        },
+        {
+          "code": "mn.atengba"
+        },
+        {
+          "code": "mn.chaton"
+        },
+        {
+          "code": "mn.dailong"
+        },
+        {
+          "code": "mn.tamenglongdh"
+        },
+        {
+          "code": "mn.inrenglong"
+        },
+        {
+          "code": "mn.kabonram"
+        },
+        {
+          "code": "mn.lenglong"
+        },
+        {
+          "code": "mn.namtiram"
+        },
+        {
+          "code": "mn.newkaiphundai"
+        },
+        {
+          "code": "mn.nurathel"
+        },
+        {
+          "code": "mn.oniamlong"
+        },
+        {
+          "code": "mn.tamei"
+        },
+        {
+          "code": "mn.taningjam"
+        },
+        {
+          "code": "mn.tousem"
+        },
+        {
+          "code": "mn.wairangba"
+        },
+        {
+          "code": "mn.aimoltampak"
+        },
+        {
+          "code": "mn.kwatha"
+        },
+        {
+          "code": "mn.machi"
+        },
+        {
+          "code": "mn.moreh"
+        },
+        {
+          "code": "mn.saivom"
+        },
+        {
+          "code": "mn.sita"
+        },
+        {
+          "code": "mn.tengnoupal"
+        },
+        {
+          "code": "mn.heirok"
+        },
+        {
+          "code": "mn.khoirom"
+        },
+        {
+          "code": "mn.leisangthem"
+        },
+        {
+          "code": "mn.lilonghoureibi"
+        },
+        {
+          "code": "mn.sangaiyumpham"
+        },
+        {
+          "code": "mn.yairipok"
+        },
+        {
+          "code": "mn.awangkasom"
+        },
+        {
+          "code": "mn.chingai"
+        },
+        {
+          "code": "mn.ukhruldh"
+        },
+        {
+          "code": "mn.jessami"
+        },
+        {
+          "code": "mn.khangkhuikhullen"
+        },
+        {
+          "code": "mn.lambui"
+        },
+        {
+          "code": "mn.mongkotchepu"
+        },
+        {
+          "code": "mn.phungcham"
+        },
+        {
+          "code": "mn.somdal"
+        },
+        {
+          "code": "mn.tolloi"
+        },
+        {
+          "code": "mn.sinakeithei"
+        },
+        {
+          "code": "mn.shirui"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mn"
+        },
+        {
+          "code": "mn.ithai"
+        },
+        {
+          "code": "mn.leimapokpam"
+        },
+        {
+          "code": "mn.moirang"
+        },
+        {
+          "code": "mn.nambol"
+        },
+        {
+          "code": "mn.ningthoukhong"
+        },
+        {
+          "code": "mn.analkhullen"
+        },
+        {
+          "code": "mn.chakpikarong"
+        },
+        {
+          "code": "mn.chandeldh"
+        },
+        {
+          "code": "mn.khengjoi"
+        },
+        {
+          "code": "mn.khubungkhullen"
+        },
+        {
+          "code": "mn.khudeikhunou"
+        },
+        {
+          "code": "mn.komlathabi"
+        },
+        {
+          "code": "mn.larong"
+        },
+        {
+          "code": "mn.leingangching"
+        },
+        {
+          "code": "mn.paraolon"
+        },
+        {
+          "code": "mn.purumtampak"
+        },
+        {
+          "code": "mn.saiboljoupi"
+        },
+        {
+          "code": "mn.sajiktampak"
+        },
+        {
+          "code": "mn.sehlon"
+        },
+        {
+          "code": "mn.songiang"
+        },
+        {
+          "code": "mn.taraolaimanal"
+        },
+        {
+          "code": "mn.unopat"
+        },
+        {
+          "code": "mn.jangoulen"
+        },
+        {
+          "code": "mn.aibulon"
+        },
+        {
+          "code": "mn.behiang"
+        },
+        {
+          "code": "mn.bunglon"
+        },
+        {
+          "code": "mn.bungpilon"
+        },
+        {
+          "code": "mn.charoikhullen"
+        },
+        {
+          "code": "mn.churachandpurdh"
+        },
+        {
+          "code": "mn.geljang"
+        },
+        {
+          "code": "mn.henglep"
+        },
+        {
+          "code": "mn.hiangmual"
+        },
+        {
+          "code": "mn.hiangtamk"
+        },
+        {
+          "code": "mn.kaihlam"
+        },
+        {
+          "code": "mn.khoirentak"
+        },
+        {
+          "code": "mn.khonomphai"
+        },
+        {
+          "code": "mn.komkeirap"
+        },
+        {
+          "code": "mn.kumbipukhri"
+        },
+        {
+          "code": "mn.lalpha"
+        },
+        {
+          "code": "mn.lkhengjang"
+        },
+        {
+          "code": "mn.lamzang"
+        },
+        {
+          "code": "mn.leisang"
+        },
+        {
+          "code": "mn.lungthule"
+        },
+        {
+          "code": "mn.mata"
+        },
+        {
+          "code": "mn.missioncompound"
+        },
+        {
+          "code": "mn.newlamka"
+        },
+        {
+          "code": "mn.ngarian"
+        },
+        {
+          "code": "mn.pearsonmun"
+        },
+        {
+          "code": "mn.sagang"
+        },
+        {
+          "code": "mn.saikot"
+        },
+        {
+          "code": "mn.saipum"
+        },
+        {
+          "code": "mn.senpangjar"
+        },
+        {
+          "code": "mn.siden"
+        },
+        {
+          "code": "mn.singngat"
+        },
+        {
+          "code": "mn.sinzawl"
+        },
+        {
+          "code": "mn.songtal"
+        },
+        {
+          "code": "mn.suangdoh"
+        },
+        {
+          "code": "mn.sumchinvum"
+        },
+        {
+          "code": "mn.thingkangphai"
+        },
+        {
+          "code": "mn.tuaitengphai"
+        },
+        {
+          "code": "mn.tuilaphai"
+        },
+        {
+          "code": "mn.ukhaloikhai"
+        },
+        {
+          "code": "mn.zezaw"
+        },
+        {
+          "code": "mn.akampat"
+        },
+        {
+          "code": "mn.angtha"
+        },
+        {
+          "code": "mn.bashikhong"
+        },
+        {
+          "code": "mn.chanamsandrok"
+        },
+        {
+          "code": "mn.chingkhusambei"
+        },
+        {
+          "code": "mn.huikap"
+        },
+        {
+          "code": "mn.irilbung"
+        },
+        {
+          "code": "mn.kairangmuslim"
+        },
+        {
+          "code": "mn.keiraomakting"
+        },
+        {
+          "code": "mn.keiraowangkhem"
+        },
+        {
+          "code": "mn.khabeisoi"
+        },
+        {
+          "code": "mn.khuraiheikrumakhong"
+        },
+        {
+          "code": "mn.khuraiheinoumakhong"
+        },
+        {
+          "code": "mn.kiyamgeikhagibazar"
+        },
+        {
+          "code": "mn.kongba"
+        },
+        {
+          "code": "mn.laiphamkhunou"
+        },
+        {
+          "code": "mn.mantripikhri"
+        },
+        {
+          "code": "mn.moirangkampu"
+        },
+        {
+          "code": "mn.naharupmakhapat"
+        },
+        {
+          "code": "mn.ningomthongjao"
+        },
+        {
+          "code": "mn.nongpokkeithelmanbi"
+        },
+        {
+          "code": "mn.oksu"
+        },
+        {
+          "code": "mn.sagolmang"
+        },
+        {
+          "code": "mn.sanjenbam"
+        },
+        {
+          "code": "mn.seijang"
+        },
+        {
+          "code": "mn.sekta"
+        },
+        {
+          "code": "mn.takhel"
+        },
+        {
+          "code": "mn.tellouchana"
+        },
+        {
+          "code": "mn.thambalkong"
+        },
+        {
+          "code": "mn.topchingtha"
+        },
+        {
+          "code": "mn.uchekon"
+        },
+        {
+          "code": "mn.uchekonlaikon"
+        },
+        {
+          "code": "mn.urup"
+        },
+        {
+          "code": "mn.waithouchirou"
+        },
+        {
+          "code": "mn.waiton"
+        },
+        {
+          "code": "mn.yumnamkhunou"
+        },
+        {
+          "code": "mn.konokkhongnangkhong"
+        },
+        {
+          "code": "mn.awangjiri"
+        },
+        {
+          "code": "mn.awangkhunou"
+        },
+        {
+          "code": "mn.awangwabagai"
+        },
+        {
+          "code": "mn.bamdiar"
+        },
+        {
+          "code": "mn.bengoon"
+        },
+        {
+          "code": "mn.chirai"
+        },
+        {
+          "code": "mn.govindagram"
+        },
+        {
+          "code": "mn.haorangsabaldispensary"
+        },
+        {
+          "code": "mn.heigrujam"
+        },
+        {
+          "code": "mn.hiyangthang"
+        },
+        {
+          "code": "mn.iroisemba"
+        },
+        {
+          "code": "mn.irommeijrao"
+        },
+        {
+          "code": "mn.kakwa"
+        },
+        {
+          "code": "mn.khabithangtek"
+        },
+        {
+          "code": "mn.khamnambazar"
+        },
+        {
+          "code": "mn.khonghampat"
+        },
+        {
+          "code": "mn.khumbong"
+        },
+        {
+          "code": "mn.kokchai"
+        },
+        {
+          "code": "mn.komlakhong"
+        },
+        {
+          "code": "mn.konthoujam"
+        },
+        {
+          "code": "mn.kwakeithelheinoukhongnembi"
+        },
+        {
+          "code": "mn.lamdeng"
+        },
+        {
+          "code": "mn.langoltarung"
+        },
+        {
+          "code": "mn.laphupattera"
+        },
+        {
+          "code": "mn.maklang"
+        },
+        {
+          "code": "mn.malomtuliyaima"
+        },
+        {
+          "code": "mn.mayangimphal"
+        },
+        {
+          "code": "mn.mekola"
+        },
+        {
+          "code": "mn.mutumphibou"
+        },
+        {
+          "code": "mn.naoremchaprou"
+        },
+        {
+          "code": "mn.naoriyapakhanglakpa"
+        },
+        {
+          "code": "mn.ningombam"
+        },
+        {
+          "code": "mn.nongchupkameng"
+        },
+        {
+          "code": "mn.phumlou"
+        },
+        {
+          "code": "mn.sagolbandlamkhai"
+        },
+        {
+          "code": "mn.salam"
+        },
+        {
+          "code": "mn.sangaiporou"
+        },
+        {
+          "code": "mn.sekmai"
+        },
+        {
+          "code": "mn.singjamei"
+        },
+        {
+          "code": "mn.takyelkhongbal"
+        },
+        {
+          "code": "mn.waiselmapal"
+        },
+        {
+          "code": "mn.wangoi"
+        },
+        {
+          "code": "mn.yumnamhuidrom"
+        },
+        {
+          "code": "mn.yurembam"
+        },
+        {
+          "code": "mn.kakching"
+        },
+        {
+          "code": "mn.langmeidong"
+        },
+        {
+          "code": "mn.serou"
+        },
+        {
+          "code": "mn.sugnu"
+        },
+        {
+          "code": "mn.grihang"
+        },
+        {
+          "code": "mn.kamjong"
+        },
+        {
+          "code": "mn.kasom"
+        },
+        {
+          "code": "mn.lamlai"
+        },
+        {
+          "code": "mn.mawai"
+        },
+        {
+          "code": "mn.nambisha"
+        },
+        {
+          "code": "mn.ningthi"
+        },
+        {
+          "code": "mn.phungyar"
+        },
+        {
+          "code": "mn.shingkap"
+        },
+        {
+          "code": "mn.sorbung"
+        },
+        {
+          "code": "mn.thundung"
+        },
+        {
+          "code": "mn.kangpokpi"
+        },
+        {
+          "code": "mn.saikul"
+        },
+        {
+          "code": "mn.twaichong"
+        },
+        {
+          "code": "mn.dolang"
+        },
+        {
+          "code": "mn.haochong"
+        },
+        {
+          "code": "mn.khoupum"
+        },
+        {
+          "code": "mn.noney"
+        },
+        {
+          "code": "mn.nungba"
+        },
+        {
+          "code": "mn.nungleibam"
+        },
+        {
+          "code": "mn.thangal"
+        },
+        {
+          "code": "mn.bukpi"
+        },
+        {
+          "code": "mn.parbung"
+        },
+        {
+          "code": "mn.patpuihmun"
+        },
+        {
+          "code": "mn.sainoujang"
+        },
+        {
+          "code": "mn.senvom"
+        },
+        {
+          "code": "mn.sibapurikhal"
+        },
+        {
+          "code": "mn.thanlon"
+        },
+        {
+          "code": "mn.bendramei"
+        },
+        {
+          "code": "mn.karong"
+        },
+        {
+          "code": "mn.keize"
+        },
+        {
+          "code": "mn.khongdei"
+        },
+        {
+          "code": "mn.koide"
+        },
+        {
+          "code": "mn.laii"
+        },
+        {
+          "code": "mn.maiba"
+        },
+        {
+          "code": "mn.mao"
+        },
+        {
+          "code": "mn.maram"
+        },
+        {
+          "code": "mn.maramkhullen"
+        },
+        {
+          "code": "mn.oklong"
+        },
+        {
+          "code": "mn.paomata"
+        },
+        {
+          "code": "mn.phaibung"
+        },
+        {
+          "code": "mn.pudunamai"
+        },
+        {
+          "code": "mn.punanamei"
+        },
+        {
+          "code": "mn.rajamei"
+        },
+        {
+          "code": "mn.ramlung"
+        },
+        {
+          "code": "mn.sadim"
+        },
+        {
+          "code": "mn.tadubi"
+        },
+        {
+          "code": "mn.tingbakhullen"
+        },
+        {
+          "code": "mn.tobumai"
+        },
+        {
+          "code": "mn.tungjoy"
+        },
+        {
+          "code": "mn.aben"
+        },
+        {
+          "code": "mn.akhui"
+        },
+        {
+          "code": "mn.atengba"
+        },
+        {
+          "code": "mn.chaton"
+        },
+        {
+          "code": "mn.dailong"
+        },
+        {
+          "code": "mn.tamenglongdh"
+        },
+        {
+          "code": "mn.inrenglong"
+        },
+        {
+          "code": "mn.kabonram"
+        },
+        {
+          "code": "mn.lenglong"
+        },
+        {
+          "code": "mn.namtiram"
+        },
+        {
+          "code": "mn.newkaiphundai"
+        },
+        {
+          "code": "mn.nurathel"
+        },
+        {
+          "code": "mn.oniamlong"
+        },
+        {
+          "code": "mn.tamei"
+        },
+        {
+          "code": "mn.taningjam"
+        },
+        {
+          "code": "mn.tousem"
+        },
+        {
+          "code": "mn.wairangba"
+        },
+        {
+          "code": "mn.aimoltampak"
+        },
+        {
+          "code": "mn.kwatha"
+        },
+        {
+          "code": "mn.machi"
+        },
+        {
+          "code": "mn.moreh"
+        },
+        {
+          "code": "mn.saivom"
+        },
+        {
+          "code": "mn.sita"
+        },
+        {
+          "code": "mn.tengnoupal"
+        },
+        {
+          "code": "mn.heirok"
+        },
+        {
+          "code": "mn.khoirom"
+        },
+        {
+          "code": "mn.leisangthem"
+        },
+        {
+          "code": "mn.lilonghoureibi"
+        },
+        {
+          "code": "mn.sangaiyumpham"
+        },
+        {
+          "code": "mn.yairipok"
+        },
+        {
+          "code": "mn.awangkasom"
+        },
+        {
+          "code": "mn.chingai"
+        },
+        {
+          "code": "mn.ukhruldh"
+        },
+        {
+          "code": "mn.jessami"
+        },
+        {
+          "code": "mn.khangkhuikhullen"
+        },
+        {
+          "code": "mn.lambui"
+        },
+        {
+          "code": "mn.mongkotchepu"
+        },
+        {
+          "code": "mn.phungcham"
+        },
+        {
+          "code": "mn.somdal"
+        },
+        {
+          "code": "mn.tolloi"
+        },
+        {
+          "code": "mn.sinakeithei"
+        },
+        {
+          "code": "mn.shirui"
+        }
+      ]
+    }
+  ]
+}

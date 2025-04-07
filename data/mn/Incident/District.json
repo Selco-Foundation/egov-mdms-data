@@ -1,0 +1,81 @@
+{
+  "tenantId": "mn",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "BISHNUPUR",
+      "name": "Bishnupur",
+      "active": true
+    },
+    {
+      "code": "CHANDEL",
+      "name": "Chandel",
+      "active": true
+    },
+    {
+      "code": "CHURACHANDPUR",
+      "name": "Churachandpur",
+      "active": true
+    },
+    {
+      "code": "IMPHAL EAST",
+      "name": "Imphal East",
+      "active": true
+    },
+    {
+      "code": "IMPHAL WEST",
+      "name": "Imphal West",
+      "active": true
+    },
+    {
+      "code": "KAKCHING",
+      "name": "Kakching",
+      "active": true
+    },
+    {
+      "code": "KAMJONG",
+      "name": "Kamjong",
+      "active": true
+    },
+    {
+      "code": "KANGPOKPI",
+      "name": "Kangpokpi",
+      "active": true
+    },
+    {
+      "code": "NONEY",
+      "name": "Noney",
+      "active": true
+    },
+    {
+      "code": "PHERZAWL",
+      "name": "Pherzawl",
+      "active": true
+    },
+    {
+      "code": "SENAPATI",
+      "name": "Senapati",
+      "active": true
+    },
+    {
+      "code": "TAMENGLONG",
+      "name": "Tamenglong",
+      "active": true
+    },
+    {
+      "code": "TENGNOUPAL",
+      "name": "Tengnoupal",
+      "active": true
+    },
+    {
+      "code": "THOUBAL",
+      "name": "Thoubal",
+      "active": true
+    },
+    {
+      "code": "UKHRUL",
+      "name": "Ukhrul",
+      "active": true
+    }
+  ]
+}

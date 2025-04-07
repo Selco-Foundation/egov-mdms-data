@@ -1,0 +1,384 @@
+{
+  "tenantId": "mn",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "bishnupur.bishnupur",
+      "name": "Bishnupur",
+      "districtCode": "BISHNUPUR",
+      "active": true
+    },
+    {
+      "code": "chandel.chandel",
+      "name": "Chandel",
+      "districtCode": "CHANDEL",
+      "active": true
+    },
+    {
+      "code": "chandel.chakpikarong",
+      "name": "Chakpikarong",
+      "districtCode": "CHANDEL",
+      "active": true
+    },
+    {
+      "code": "chandel.khengjoy",
+      "name": "Khengjoy",
+      "districtCode": "CHANDEL",
+      "active": true
+    },
+    {
+      "code": "churachandpur.thanlon",
+      "name": "Thanlon",
+      "districtCode": "CHURACHANDPUR",
+      "active": true
+    },
+    {
+      "code": "churachandpur.singngat",
+      "name": "Singngat",
+      "districtCode": "CHURACHANDPUR",
+      "active": true
+    },
+    {
+      "code": "churachandpur.henglep",
+      "name": "Henglep",
+      "districtCode": "CHURACHANDPUR",
+      "active": true
+    },
+    {
+      "code": "churachandpur.churachandpur",
+      "name": "Churachandpur",
+      "districtCode": "CHURACHANDPUR",
+      "active": true
+    },
+    {
+      "code": "churachandpur.samulamlan",
+      "name": "Samulamlan",
+      "districtCode": "CHURACHANDPUR",
+      "active": true
+    },
+    {
+      "code": "imphaleast.imphaleast",
+      "name": "Imphal East",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.keiraobitra",
+      "name": "Keiraobitra",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.imphalwest",
+      "name": "Imphal West",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.sawombung",
+      "name": "Sawombung",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.porompat",
+      "name": "Porompat",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.kairabitra",
+      "name": "Kairabitra",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.khongsaiveng",
+      "name": "Khongsai Veng",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.kairaobitra",
+      "name": "Kairaobitra",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.lamleikendra",
+      "name": "Lamlei kendra",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphaleast.kairao",
+      "name": "Kairao",
+      "districtCode": "IMPHALEAST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.imphalwest",
+      "name": "Imphal West",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.khumbong",
+      "name": "Khumbong",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.wangoi",
+      "name": "Wangoi",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.haorangsabal",
+      "name": "Haorangsabal",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.sekmai",
+      "name": "Sekmai",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.awangsabal",
+      "name": "Awangsabal",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.khourangthabal",
+      "name": "Khourangthabal",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.haorangfabal",
+      "name": "Haorang Fabal",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "imphalwest.patsoi",
+      "name": "Patsoi",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "kakching.kakching",
+      "name": "Kakching",
+      "districtCode": "KAKCHING",
+      "active": true
+    },
+    {
+      "code": "kakching.langmeidong",
+      "name": "Langmeidong",
+      "districtCode": "KAKCHING",
+      "active": true
+    },
+    {
+      "code": "kakching.waikhong",
+      "name": "Waikhong",
+      "districtCode": "KAKCHING",
+      "active": true
+    },
+    {
+      "code": "kamjong.kamjong",
+      "name": "Kamjong",
+      "districtCode": "KAMJONG",
+      "active": true
+    },
+    {
+      "code": "kamjong.phungyar",
+      "name": "Phungyar",
+      "districtCode": "KAMJONG",
+      "active": true
+    },
+    {
+      "code": "kangpokpi.kangpokpi",
+      "name": "Kangpokpi",
+      "districtCode": "KANGPOKPI",
+      "active": true
+    },
+    {
+      "code": "noney.noney",
+      "name": "Noney",
+      "districtCode": "NONEY",
+      "active": true
+    },
+    {
+      "code": "noney.nungba",
+      "name": "Nungba",
+      "districtCode": "NONEY",
+      "active": true
+    },
+    {
+      "code": "pherzawl.pherzawl",
+      "name": "Pherzawl",
+      "districtCode": "PHERZAWL",
+      "active": true
+    },
+    {
+      "code": "pherzawl.pherzwal",
+      "name": "Pherzwal",
+      "districtCode": "PHERZAWL",
+      "active": true
+    },
+    {
+      "code": "senapati.mao",
+      "name": "Mao",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.maomaram",
+      "name": "Mao Maram",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.oinamhill",
+      "name": "Oinam Hill",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.khongdei",
+      "name": "Khongdei",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.purul",
+      "name": "Purul",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.senapati",
+      "name": "Senapati",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.paomata",
+      "name": "Paomata",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.maram",
+      "name": "Maram",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.tadubi",
+      "name": "Tadubi",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.wilong",
+      "name": "Wilong",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.songsong",
+      "name": "Songsong",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.poamata",
+      "name": "Poamata",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "tamenglong.tousem",
+      "name": "Tousem",
+      "districtCode": "TAMENGLONG",
+      "active": true
+    },
+    {
+      "code": "tamenglong.tamenglong",
+      "name": "Tamenglong",
+      "districtCode": "TAMENGLONG",
+      "active": true
+    },
+    {
+      "code": "tamenglong.tamei",
+      "name": "Tamei",
+      "districtCode": "TAMENGLONG",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.chandel",
+      "name": "Chandel",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.chakpikarong",
+      "name": "Chakpikarong",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.machi",
+      "name": "Machi",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.moreh",
+      "name": "Moreh",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.kakching",
+      "name": "Kakching",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.waikhong",
+      "name": "Waikhong",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "tengnoupal.tengnoupal",
+      "name": "Tengnoupal",
+      "districtCode": "TENGNOUPAL",
+      "active": true
+    },
+    {
+      "code": "thoubal.thoubal",
+      "name": "Thoubal",
+      "districtCode": "THOUBAL",
+      "active": true
+    },
+    {
+      "code": "ukhrul.ukhrul",
+      "name": "Ukhrul",
+      "districtCode": "UKHRUL",
+      "active": true
+    },
+    {
+      "code": "ukhrul.jessami",
+      "name": "Jessami",
+      "districtCode": "UKHRUL",
+      "active": true
+    }
+  ]
+}

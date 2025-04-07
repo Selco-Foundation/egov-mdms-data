@@ -3199,40 +3199,6 @@
       "contactNumber": "9383351696"
     },
     {
-      "code": "mn.uchekon",
-      "name": "Uchekon",
-      "description": "Uchekon",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Uchekon",
-        "localName": null,
-        "districtCode": "IMPHALEAST",
-        "districtName": "Imphal East",
-        "blockCode": "imphaleast.keiraobitra",
-        "districtTenantCode": "mn.uchekon",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MN-4161325131",
-        "ddrName": null
-      },
-      "address": "Nagaland",
-      "contactNumber": "8787765953"
-    },
-    {
       "code": "mn.uchekonlaikon",
       "name": "Uchekon Laikon",
       "description": "Uchekon Laikon",
@@ -7277,40 +7243,6 @@
       },
       "address": "Nagaland",
       "contactNumber": "9366291681"
-    },
-    {
-      "code": "mn.tousem",
-      "name": "Tousem",
-      "description": "Tousem",
-      "centreType": "PHC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Tousem",
-        "localName": null,
-        "districtCode": "TAMENGLONG",
-        "districtName": "Tamenglong",
-        "blockCode": "tamenglong.tousem",
-        "districtTenantCode": "mn.tousem",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MN-3142132228",
-        "ddrName": null
-      },
-      "address": "Nagaland",
-      "contactNumber": "8730933343"
     },
     {
       "code": "mn.wairangba",

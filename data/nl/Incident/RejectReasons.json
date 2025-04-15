@@ -11,6 +11,17 @@
       "name": "Educated End User",
       "code": "EDUCATED_END_USER",
       "active": true
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true,
+      "additionalInputs": [
+        {
+          "type": "textarea",
+          "key": "subReason"
+        }
+      ]
     }
   ]
 }

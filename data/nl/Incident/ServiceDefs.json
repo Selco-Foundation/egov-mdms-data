@@ -9,7 +9,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 99
     },
     {
       "serviceCode": "CrackPanelTree",
@@ -18,7 +20,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 100
     },
     {
       "serviceCode": "CrackPanelMonkey",
@@ -27,7 +31,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 101
     },
     {
       "serviceCode": "HotspotOnPanels",
@@ -36,7 +42,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 102
     },
     {
       "serviceCode": "CrackPanelOther",
@@ -45,7 +53,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 103
     },
     {
       "serviceCode": "DustOnPanels",
@@ -54,7 +64,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 104
     },
     {
       "serviceCode": "PaneldisplacedWind",
@@ -63,7 +75,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 105
     },
     {
       "serviceCode": "PaneldisplacedCentre",
@@ -72,7 +86,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 106
     },
     {
       "serviceCode": "ShadeOnPanels",
@@ -81,7 +97,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 107
     },
     {
       "serviceCode": "Theft",
@@ -90,7 +108,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 108
     },
     {
       "serviceCode": "Other",
@@ -99,7 +119,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 109
     },
     {
       "serviceCode": "LowpowerGeneration",
@@ -108,7 +130,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 110
     },
     {
       "serviceCode": "Nopowergeneration",
@@ -117,7 +141,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 111
     },
     {
       "serviceCode": "Shifting",
@@ -126,7 +152,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 112
     },
     {
       "serviceCode": "electricalshocks",
@@ -135,7 +163,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "PANEL",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 113
     },
     {
       "serviceCode": "ShutdownLightning",
@@ -144,7 +174,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 114
     },
     {
       "serviceCode": "ShutDownGrid",
@@ -153,7 +185,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 115
     },
     {
       "serviceCode": "TrippingGridIssues",
@@ -162,7 +196,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 116
     },
     {
       "serviceCode": "TrippingMCBIssue",
@@ -171,7 +207,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 117
     },
     {
       "serviceCode": "TrippingExtraLoads",
@@ -180,7 +218,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 118
     },
     {
       "serviceCode": "DisplayNotWorking",
@@ -189,7 +229,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 119
     },
     {
       "serviceCode": "FanNotWorking",
@@ -198,7 +240,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 120
     },
     {
       "serviceCode": "ContinuousBuzzer",
@@ -207,7 +251,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 121
     },
     {
       "serviceCode": "AbnormalSound",
@@ -216,7 +262,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 122
     },
     {
       "serviceCode": "Errorondisplay",
@@ -225,7 +273,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 123
     },
     {
       "serviceCode": "Theft",
@@ -234,7 +284,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 124
     },
     {
       "serviceCode": "Other",
@@ -243,7 +295,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 125
     },
     {
       "serviceCode": "Shifting",
@@ -252,7 +306,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 126
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -261,7 +317,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 127
     },
     {
       "serviceCode": "Electricalshocks",
@@ -270,7 +328,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "INVERTER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 128
     },
     {
       "serviceCode": "BatteryShortCircuit",
@@ -279,7 +339,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 129
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -288,7 +350,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 130
     },
     {
       "serviceCode": "BlastedShortCircuit",
@@ -297,7 +361,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 131
     },
     {
       "serviceCode": "BlastduetoLightning",
@@ -306,7 +372,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 132
     },
     {
       "serviceCode": "NoPetroleumGel",
@@ -315,7 +383,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 133
     },
     {
       "serviceCode": "LowBatteryWaterLevel",
@@ -324,7 +394,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 134
     },
     {
       "serviceCode": "BreakageofCaps",
@@ -333,7 +405,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 135
     },
     {
       "serviceCode": "Physicaldamagebatteries",
@@ -342,7 +416,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 136
     },
     {
       "serviceCode": "Physicaldamage",
@@ -351,7 +427,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 137
     },
     {
       "serviceCode": "BatteryRackDamage",
@@ -360,7 +438,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 138
     },
     {
       "serviceCode": "LooseCablesBatteryConnections",
@@ -369,7 +449,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 139
     },
     {
       "serviceCode": "Dust",
@@ -378,7 +460,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 140
     },
     {
       "serviceCode": "DeepDischarge",
@@ -387,7 +471,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 141
     },
     {
       "serviceCode": "Lowbackup",
@@ -396,7 +482,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 142
     },
     {
       "serviceCode": "Theft",
@@ -405,7 +493,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 143
     },
     {
       "serviceCode": "Acidleakage",
@@ -414,7 +504,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 144
     },
     {
       "serviceCode": "Other",
@@ -423,7 +515,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 145
     },
     {
       "serviceCode": "Shifting",
@@ -432,7 +526,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 146
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -441,7 +537,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 147
     },
     {
       "serviceCode": "FastDrainingofDistilledwater",
@@ -450,7 +548,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 148
     },
     {
       "serviceCode": "Electricalshocks",
@@ -459,7 +559,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "BATTERY",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 149
     },
     {
       "serviceCode": "BurnedIndoorlights",
@@ -468,7 +570,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 150
     },
     {
       "serviceCode": "Notworkingindoorlights",
@@ -477,7 +581,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 151
     },
     {
       "serviceCode": "SwitchissueIndoorlights",
@@ -486,7 +592,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 152
     },
     {
       "serviceCode": "Burnedoutdoorlights",
@@ -495,7 +603,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 153
     },
     {
       "serviceCode": "NotworkingOutdoorlights",
@@ -504,7 +614,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 154
     },
     {
       "serviceCode": "Switchissue_Outdoorlights",
@@ -513,7 +625,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 155
     },
     {
       "serviceCode": "Not working_Street lights",
@@ -522,7 +636,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 156
     },
     {
       "serviceCode": "Switchissuestreetlights",
@@ -531,7 +647,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 157
     },
     {
       "serviceCode": "TheftLights",
@@ -540,7 +658,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 158
     },
     {
       "serviceCode": "otherlights",
@@ -549,7 +669,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 159
     },
     {
       "serviceCode": "burnedfans",
@@ -558,7 +680,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 160
     },
     {
       "serviceCode": "Notworkingfans",
@@ -567,7 +691,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 161
     },
     {
       "serviceCode": "fanSwitchNotworking",
@@ -576,7 +702,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 162
     },
     {
       "serviceCode": "RegulatorIssueFans",
@@ -585,7 +713,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 163
     },
     {
       "serviceCode": "lowspeedfans",
@@ -594,7 +724,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 164
     },
     {
       "serviceCode": "theftfans",
@@ -603,7 +735,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 165
     },
     {
       "serviceCode": "OtherFans",
@@ -612,7 +746,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 166
     },
     {
       "serviceCode": "ShiftingoftheLightsAndFans",
@@ -621,7 +757,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 167
     },
     {
       "serviceCode": "InstallationAndcommissioningissues",
@@ -630,7 +768,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 168
     },
     {
       "serviceCode": "Electricalshocks",
@@ -639,7 +779,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 169
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -648,7 +790,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 170
     },
     {
       "serviceCode": "burnedshortcircuit",
@@ -657,7 +801,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 171
     },
     {
       "serviceCode": "burnedother",
@@ -666,7 +812,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 172
     },
     {
       "serviceCode": "NotWorking",
@@ -675,7 +823,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 173
     },
     {
       "serviceCode": "loosecables",
@@ -684,7 +834,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 174
     },
     {
       "serviceCode": "abnormalsound",
@@ -693,7 +845,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 175
     },
     {
       "serviceCode": "Theft",
@@ -702,7 +856,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 176
     },
     {
       "serviceCode": "Others",
@@ -711,7 +867,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 177
     },
     {
       "serviceCode": "Shifting",
@@ -720,7 +878,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 178
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -729,7 +889,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 179
     },
     {
       "serviceCode": "Electricalshocks",
@@ -738,7 +900,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER HEATER",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 180
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -747,7 +911,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 181
     },
     {
       "serviceCode": "burnedshortcircuit",
@@ -756,7 +922,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 182
     },
     {
       "serviceCode": "burnedother",
@@ -765,7 +933,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 183
     },
     {
       "serviceCode": "NotWorking",
@@ -774,7 +944,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 184
     },
     {
       "serviceCode": "loosecables",
@@ -783,7 +955,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 185
     },
     {
       "serviceCode": "abnormalsound",
@@ -792,7 +966,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 186
     },
     {
       "serviceCode": "Theft",
@@ -801,7 +977,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 187
     },
     {
       "serviceCode": "Others",
@@ -810,7 +988,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 188
     },
     {
       "serviceCode": "Shifting",
@@ -819,7 +999,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 189
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -828,7 +1010,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 190
     },
     {
       "serviceCode": "Electricalshocks",
@@ -837,7 +1021,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "SOLAR WATER PUMP",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 191
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -846,7 +1032,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 192
     },
     {
       "serviceCode": "Burnedshortcircuit",
@@ -855,7 +1043,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 193
     },
     {
       "serviceCode": "Burnedother",
@@ -864,7 +1054,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 194
     },
     {
       "serviceCode": "Broken",
@@ -873,7 +1065,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 195
     },
     {
       "serviceCode": "Theft",
@@ -882,7 +1076,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 196
     },
     {
       "serviceCode": "Other",
@@ -891,7 +1087,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 197
     },
     {
       "serviceCode": "Shifting",
@@ -900,7 +1098,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 198
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -909,7 +1109,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 199
     },
     {
       "serviceCode": "Electricalshocks",
@@ -918,7 +1120,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 200
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -927,7 +1131,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 201
     },
     {
       "serviceCode": "Burnedshortcircuit",
@@ -936,7 +1142,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 202
     },
     {
       "serviceCode": "Burnedother",
@@ -945,7 +1153,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 203
     },
     {
       "serviceCode": "Broken",
@@ -954,7 +1164,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 204
     },
     {
       "serviceCode": "Theft",
@@ -963,7 +1175,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 205
     },
     {
       "serviceCode": "Other",
@@ -972,7 +1186,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 206
     },
     {
       "serviceCode": "Shifting",
@@ -981,7 +1197,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 207
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -990,7 +1208,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 208
     },
     {
       "serviceCode": "Electricalshocks",
@@ -999,7 +1219,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 209
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -1008,7 +1230,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 210
     },
     {
       "serviceCode": "Burnedshortcircuit",
@@ -1017,7 +1241,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 211
     },
     {
       "serviceCode": "Burnedother",
@@ -1026,7 +1252,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 212
     },
     {
       "serviceCode": "Theft",
@@ -1035,7 +1263,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 213
     },
     {
       "serviceCode": "Other",
@@ -1044,7 +1274,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 214
     },
     {
       "serviceCode": "Shifting",
@@ -1053,7 +1285,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 215
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -1062,7 +1296,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 216
     },
     {
       "serviceCode": "Electricalshocks",
@@ -1071,7 +1307,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 217
     },
     {
       "serviceCode": "Tripping",
@@ -1080,7 +1318,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 218
     },
     {
       "serviceCode": "MCBOff",
@@ -1089,7 +1329,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "GIPB",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 219
     },
     {
       "serviceCode": "Burnedduetolightning",
@@ -1098,7 +1340,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 220
     },
     {
       "serviceCode": "Burnedshortcircuit",
@@ -1107,7 +1351,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 221
     },
     {
       "serviceCode": "Burnedother",
@@ -1116,7 +1362,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 222
     },
     {
       "serviceCode": "Theft",
@@ -1125,7 +1373,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 223
     },
     {
       "serviceCode": "Other",
@@ -1134,7 +1384,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 224
     },
     {
       "serviceCode": "Tripping",
@@ -1143,7 +1395,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 225
     },
     {
       "serviceCode": "MCBOff",
@@ -1152,7 +1406,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 226
     },
     {
       "serviceCode": "NoSPD",
@@ -1161,7 +1417,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 227
     },
     {
       "serviceCode": "Shifting",
@@ -1170,7 +1428,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 228
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -1179,7 +1439,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 229
     },
     {
       "serviceCode": "Electricalshocks",
@@ -1188,7 +1450,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 230
     },
     {
       "serviceCode": "SPDFailure",
@@ -1197,7 +1461,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "ARRAY JUNCTION BOX",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 231
     },
     {
       "serviceCode": "Burnedshortcircuit",
@@ -1206,7 +1472,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 232
     },
     {
       "serviceCode": "Spotlight",
@@ -1215,7 +1483,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 233
     },
     {
       "serviceCode": "RadiantWarmerNotWorking",
@@ -1224,7 +1494,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 234
     },
     {
       "serviceCode": "SuctionapparatusNotWorking",
@@ -1233,7 +1505,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 235
     },
     {
       "serviceCode": "Labourtable",
@@ -1242,7 +1516,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 236
     },
     {
       "serviceCode": "Deliverykit",
@@ -1251,7 +1527,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 237
     },
     {
       "serviceCode": "Footstep",
@@ -1260,7 +1538,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 238
     },
     {
       "serviceCode": "Trolley",
@@ -1269,7 +1549,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 239
     },
     {
       "serviceCode": "Portablevaccinecarrier",
@@ -1278,7 +1560,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 240
     },
     {
       "serviceCode": "ILR",
@@ -1287,7 +1571,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 241
     },
     {
       "serviceCode": "Refrigerator",
@@ -1296,7 +1582,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 242
     },
     {
       "serviceCode": "AutomatedExternal Defibrillator",
@@ -1305,7 +1593,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 243
     },
     {
       "serviceCode": "CBCMachine",
@@ -1314,7 +1604,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 244
     },
     {
       "serviceCode": "Autoclave",
@@ -1323,7 +1615,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 245
     },
     {
       "serviceCode": "Centrifuge",
@@ -1332,7 +1626,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 246
     },
     {
       "serviceCode": "ECG",
@@ -1341,7 +1637,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 247
     },
     {
       "serviceCode": "Hematologyanalyser",
@@ -1350,7 +1648,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 248
     },
     {
       "serviceCode": "Biochemistryanalyser",
@@ -1359,7 +1659,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 249
     },
     {
       "serviceCode": "Microscope",
@@ -1368,7 +1670,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 250
     },
     {
       "serviceCode": "Multiparamonitor",
@@ -1377,7 +1681,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 251
     },
     {
       "serviceCode": "Nebulisermachine",
@@ -1386,7 +1692,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 252
     },
     {
       "serviceCode": "USGPortable",
@@ -1395,7 +1703,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 253
     },
     {
       "serviceCode": "Needlecutter",
@@ -1404,7 +1714,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 254
     },
     {
       "serviceCode": "OxygenConcentrator",
@@ -1413,7 +1725,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 255
     },
     {
       "serviceCode": "Waterpurifier",
@@ -1422,7 +1736,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 256
     },
     {
       "serviceCode": "printer",
@@ -1431,7 +1747,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 257
     },
     {
       "serviceCode": "phototherapyunit",
@@ -1440,7 +1758,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 258
     },
     {
       "serviceCode": "OTlight",
@@ -1449,7 +1769,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 259
     },
     {
       "serviceCode": "InstallationAndCommissioningissues",
@@ -1458,7 +1780,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 260
     },
     {
       "serviceCode": "Electricalshocks",
@@ -1467,7 +1791,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MEDICAL EQUIPMENTS",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 261
     },
     {
       "serviceCode": "Assemblyissues",
@@ -1476,7 +1802,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 262
     },
     {
       "serviceCode": "Rusting",
@@ -1485,7 +1813,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 263
     },
     {
       "serviceCode": "Shifting",
@@ -1494,7 +1824,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 264
     },
     {
       "serviceCode": "Theft",
@@ -1503,7 +1835,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 265
     },
     {
       "serviceCode": "Other",
@@ -1512,7 +1846,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 266
     },
     {
       "serviceCode": "Physicaldamage",
@@ -1521,7 +1857,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 267
     },
     {
       "serviceCode": "DisplacedbyHeavyWind",
@@ -1530,7 +1868,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "MOUNTING STRUCTURE",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 268
     },
     {
       "serviceCode": "Wrongsizes",
@@ -1539,7 +1879,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 269
     },
     {
       "serviceCode": "Wrongconnection",
@@ -1548,7 +1890,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 270
     },
     {
       "serviceCode": "WithoutProperRouting",
@@ -1557,7 +1901,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 271
     },
     {
       "serviceCode": "WithoutConduitPipes",
@@ -1566,7 +1912,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 272
     },
     {
       "serviceCode": "Disconnected",
@@ -1575,7 +1923,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 273
     },
     {
       "serviceCode": "JointsontheCableRouting",
@@ -1584,7 +1934,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 274
     },
     {
       "serviceCode": "LoadWiringissues",
@@ -1593,7 +1945,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 275
     },
     {
       "serviceCode": "Theft",
@@ -1602,7 +1956,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 276
     },
     {
       "serviceCode": "Other",
@@ -1611,7 +1967,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 277
     },
     {
       "serviceCode": "Shifting",
@@ -1620,7 +1978,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 278
     },
     {
       "serviceCode": "Electricalshocks",
@@ -1629,7 +1989,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 279
     },
     {
       "serviceCode": "AdditionalcableRouting",
@@ -1638,7 +2000,9 @@
       "department": "O&M",
       "slaHours": 264,
       "menuPath": "CABLES",
-      "active": true
+      "active": true,
+      "deprecated": false,
+      "id": 280
     }
   ]
 }

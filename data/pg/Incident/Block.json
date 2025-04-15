@@ -1347,6 +1347,60 @@
             "name": "Yellapur",
             "districtCode": "UTTARAKANNADA",
             "active": true
+        },
+        {
+            "code": "belagavi.ramdurga",
+            "name": "Ramdurga",
+            "districtCode": "BELAGAVI",
+            "active": true
+        },
+        {
+            "code": "dharwad.hubballi",
+            "name": "Hubballi",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "dharwad.kalghatagi",
+            "name": "Kalghatagi",
+            "districtCode": "DHARWAD",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.karwar",
+            "name": "Karwar",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.bhatkal",
+            "name": "Bhatkal",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.sirsi",
+            "name": "Sirsi",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "uttarakannada.sirasi",
+            "name": "Sirasi",
+            "districtCode": "UTTARAKANNADA",
+            "active": true
+        },
+        {
+            "code": "yadgir.shahpur",
+            "name": "Shahpur",
+            "districtCode": "YADGIR",
+            "active": true
+        },
+        {
+            "code": "yadgir.shorapur",
+            "name": "Shorapur",
+            "districtCode": "YADGIR",
+            "active": true
         }
   ]
 }

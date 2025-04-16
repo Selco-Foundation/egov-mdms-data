@@ -3,6 +3,40 @@
   "moduleName": "tenant",
   "tenants": [
     {
+      "code": "nl",
+      "name": "State",
+      "description": "State",
+      "centreType": "CITY",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "CITY",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "blockCode": null,
+        "districtTenantCode": "nl",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "Nagaland",
+      "contactNumber": "0111-1111111"
+    },
+    {
       "code": "nl.aoyimkumhwc",
       "name": "Aoyimkum HWC",
       "description": "Aoyimkum HWC",

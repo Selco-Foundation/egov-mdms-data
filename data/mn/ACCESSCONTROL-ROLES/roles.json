@@ -18,31 +18,6 @@
       "description": "System Administrator. Can change all master data and has access to all the system screens."
     },
     {
-      "code": "ASSET_ADMINISTRATOR",
-      "name": "Asset Administrator",
-      "description": "Asset Administrator"
-    },
-    {
-      "code": "ULB_OPERATOR",
-      "name": "ULB Operator",
-      "description": "ULB Operator"
-    },
-    {
-      "code": "EMPLOYEE_ADMIN",
-      "name": "EMPLOYEE ADMIN",
-      "description": "EMPLOYEE ADMIN"
-    },
-    {
-      "code": "ANONYMOUS",
-      "name": "Anonymous User",
-      "description": "Anonymous User to be used in case of no auth"
-    },
-    {
-      "code": "CFC",
-      "name": "Citizen Feedback Centre",
-      "description": "Citizen Feedback Centre"
-    },
-    {
       "code": "HRMS_ADMIN",
       "name": "HRMS Admin",
       "description": "HRMS Admin"
@@ -51,16 +26,6 @@
       "code": "QA_AUTOMATION",
       "name": "QA Automation",
       "description": "QA Automation"
-    },
-    {
-      "code": "UC_EMP",
-      "name": "Universal Collection Employee",
-      "description": "Universal Miscellaneous Collection Employee"
-    },
-    {
-      "code": "CR_PT",
-      "name": "Property Tax Receipt Cancellator",
-      "description": "Property Tax Receipt Cancelling Employee"
     },
     {
       "code": "AUTO_ESCALATE",
@@ -78,11 +43,6 @@
       "description": "System user role"
     },
     {
-      "code": "NATADMIN",
-      "name": "National Dashboard Admin",
-      "description": "Admin role that as access over a Nation"
-    },
-    {
       "code": "COMMON_EMPLOYEE",
       "name": "Basic employee roles",
       "description": "Basic employee roles"
@@ -96,11 +56,6 @@
       "code": "REINDEXING_ROLE",
       "name": "Reindexing Role",
       "description": "Role for reindexing for encrypted data access"
-    },
-    {
-      "code": "NDA_SYSTEM",
-      "name": "National Dashboard Systeme user",
-      "description": "Push data through adopter for all states"
     },
     {
       "code": "MDMS_ADMIN",
@@ -127,7 +82,7 @@
       "name": "Complaint Resolver",
       "description": "One who will resolve complaints"
     },
-	{
+    {
       "code": "TICKET_REPORT_VIEWER",
       "name": "Report Viewer",
       "description": "One who will view the reports of tickets"

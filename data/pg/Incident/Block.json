@@ -580,12 +580,6 @@
           "active": true
       },
       {
-          "code": "uttarakannada.bhatkal",
-          "name": "Bhatkal",
-          "districtCode": "UTTARAKANNADA",
-          "active": true
-      },
-      {
           "code": "uttarakannada.haliyal",
           "name": "Haliyal",
           "districtCode": "UTTARAKANNADA",
@@ -606,18 +600,6 @@
       {
           "code": "uttarakannada.siddapura",
           "name": "Siddapura",
-          "districtCode": "UTTARAKANNADA",
-          "active": true
-      },
-      {
-          "code": "uttarakannada.sirsi",
-          "name": "Sirsi",
-          "districtCode": "UTTARAKANNADA",
-          "active": true
-      },
-      {
-          "code": "uttarakannada.joida",
-          "name": "Joida",
           "districtCode": "UTTARAKANNADA",
           "active": true
       },
@@ -1093,12 +1075,6 @@
             "active": true
         },
         {
-            "code": "uttarakannada.karwar",
-            "name": "Karwar",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
             "code": "uttarakannada.honnavar",
             "name": "Honnavar",
             "districtCode": "UTTARAKANNADA",
@@ -1258,20 +1234,8 @@
             "active": true
         },
         {
-            "code": "uttarakannada.karwar",
-            "name": "Karwar",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
             "code": "uttarakannada.bhatkal",
             "name": "Bhatkal",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.sirsi",
-            "name": "Sirsi",
             "districtCode": "UTTARAKANNADA",
             "active": true
         },
@@ -1288,44 +1252,8 @@
             "active": true
         },
         {
-            "code": "uttarakannada.mundgod",
-            "name": "Mundgod",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.yellapur",
-            "name": "Yellapur",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
             "code": "uttarakannada.karwar",
             "name": "Karwar",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.bhatkal",
-            "name": "Bhatkal",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.sirsi",
-            "name": "Sirsi",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.sirasi",
-            "name": "Sirasi",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.joida",
-            "name": "Joida",
             "districtCode": "UTTARAKANNADA",
             "active": true
         },
@@ -1360,26 +1288,8 @@
             "active": true
         },
         {
-            "code": "uttarakannada.karwar",
-            "name": "Karwar",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.bhatkal",
-            "name": "Bhatkal",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
             "code": "uttarakannada.sirsi",
             "name": "Sirsi",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
-        {
-            "code": "uttarakannada.sirasi",
-            "name": "Sirasi",
             "districtCode": "UTTARAKANNADA",
             "active": true
         },

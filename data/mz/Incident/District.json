@@ -1,0 +1,61 @@
+{
+  "tenantId": "mz",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "AIZAWL",
+      "name": "Aizawl",
+      "active": true
+    },
+    {
+      "code": "KOLASIB",
+      "name": "Kolasib",
+      "active": true
+    },
+    {
+      "code": "MAMIT",
+      "name": "Mamit",
+      "active": true
+    },
+    {
+      "code": "CHAMPHAI",
+      "name": "Champhai",
+      "active": true
+    },
+    {
+      "code": "KHAWZAWL",
+      "name": "Khawzawl",
+      "active": true
+    },
+    {
+      "code": "SERCHHIP",
+      "name": "Serchhip",
+      "active": true
+    },
+    {
+      "code": "LUNGLEI",
+      "name": "Lunglei",
+      "active": true
+    },
+    {
+      "code": "HNAHTHIAL",
+      "name": "Hnahthial",
+      "active": true
+    },
+    {
+      "code": "LAWNGTLAI",
+      "name": "Lawngtlai",
+      "active": true
+    },
+    {
+      "code": "SIAHA",
+      "name": "Siaha",
+      "active": true
+    },
+    {
+      "code": "SAITUAL",
+      "name": "Saitual",
+      "active": true
+    }
+  ]
+}

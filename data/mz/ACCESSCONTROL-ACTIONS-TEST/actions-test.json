@@ -2963,7 +2963,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Home",
-      "navigationURL": "/digit-ui/employee",
+      "navigationURL": "/mizoram/employee",
       "leftIcon": "action:home",
       "rightIcon": ""
     },
@@ -2978,7 +2978,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.MyComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/mizoram/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -3008,7 +3008,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "/mizoram/employee/pgr/complaint/create",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
@@ -3211,7 +3211,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/mizoram/employee/pt/inbox",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -4469,7 +4469,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/mizoram/employee/tl/inbox",
       "path": "TradeLicense.Search",
       "leftIcon": "places:business-center"
     },
@@ -5530,7 +5530,7 @@
       "enabled": false,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "/mizoram/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -5545,7 +5545,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/mizoram/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -5561,7 +5561,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/mizoram/employee/pt/inbox",
       "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
@@ -5577,7 +5577,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/mizoram/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -5593,7 +5593,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "/mizoram/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -6321,7 +6321,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "navigationURL": "/mizoram/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -7010,7 +7010,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Ws",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/ws",
+      "navigationURL": "/mizoram/employee/dss/dashboard/ws",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -7261,7 +7261,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "/mizoram/employee/pgr/complaint/create",
       "quickAction": false,
       "leftIcon": "content:add",
       "rightIcon": ""
@@ -7282,7 +7282,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess And Search Properties",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/mizoram/employee/pt/inbox",
       "quickAction": false,
       "leftIcon": "communication:business",
       "rightIcon": ""
@@ -7298,7 +7298,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/mizoram/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -7314,7 +7314,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/mizoram/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -7329,7 +7329,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "navigationURL": "/mizoram/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -8697,7 +8697,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "AllComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/mizoram/employee/pgr/inbox",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
@@ -9029,7 +9029,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/",
+      "navigationURL": "/mizoram/employee/",
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
@@ -9045,7 +9045,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/fstp-inbox",
+      "navigationURL": "/mizoram/employee/fstp-inbox",
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
@@ -9058,7 +9058,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": false,
-      "navigationURL": "digit-ui/employee/fsm/new-application",
+      "navigationURL": "mizoram/employee/fsm/new-application",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9072,7 +9072,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE INBOX",
       "enabled": false,
-      "navigationURL": "digit-ui/employee/fsm/Inbox",
+      "navigationURL": "mizoram/employee/fsm/Inbox",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9086,7 +9086,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE EDIT APPLICATION",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/modify-application/:id",
+      "navigationURL": "/mizoram/employee/fsm/modify-application/:id",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9100,7 +9100,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE COLLECT PAYMENT",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/collect-payment",
+      "navigationURL": "/mizoram/employee/fsm/collect-payment",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9114,7 +9114,7 @@
       "url": "url",
       "name": "FSM FSTP INBOX",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/fstp-inbox",
+      "navigationURL": "/mizoram/employee/fsm/fstp-inbox",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9128,7 +9128,7 @@
       "url": "url",
       "name": "FSM FSTP DETAILS",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
+      "navigationURL": "/mizoram/employee/fsm/fstp-operator-details/:id",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9142,7 +9142,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE SEARCH APPLICATION",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/search",
+      "navigationURL": "/mizoram/employee/fsm/search",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9276,7 +9276,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "",
-      "navigationURL": "/digit-ui/employee/mcollect/new-application",
+      "navigationURL": "/mizoram/employee/mcollect/new-application",
       "path": "",
       "leftIcon": "image:collections-bookmark"
     },
@@ -9513,7 +9513,7 @@
       "serviceCode": "UC",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/mizoram/employee/mcollect/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -9528,7 +9528,7 @@
       "enabled": false,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/mizoram/employee/mcollect/inbox",
       "path": "",
       "leftIcon": "places:business-center"
     },
@@ -9553,7 +9553,7 @@
       "enabled": false,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/mizoram/employee/mcollect/inbox",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -9578,7 +9578,7 @@
       "enabled": false,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/mizoram/employee/mcollect/inbox",
       "path": "UC.Search",
       "leftIcon": "image:collections-bookmark"
     },
@@ -9990,7 +9990,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/receipts/inbox",
+      "navigationURL": "/mizoram/employee/receipts/inbox",
       "path": "PTreceipt",
       "leftIcon": "action:receipt"
     },
@@ -10005,7 +10005,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/receipts/inbox",
+      "navigationURL": "/mizoram/employee/receipts/inbox",
       "leftIcon": "action:receipt",
       "rightIcon": "",
       "queryParams": ""
@@ -10340,7 +10340,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.FSM",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
+      "navigationURL": "/mizoram/employee/dss/dashboard/fsm",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -11828,7 +11828,7 @@
       "url": "quickAction",
       "name": "FSM EMPLOYEE SEARCH APPLICATION",
       "enabled": false,
-      "navigationURL": "/digit-ui/employee/fsm/search",
+      "navigationURL": "/mizoram/employee/fsm/search",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -12080,7 +12080,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.PropertyTax",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-propertytax",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-propertytax",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12107,7 +12107,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Home",
-      "navigationURL": "/digit-ui/employee/payment/integration/dss/NURT_DASHBOARD",
+      "navigationURL": "/mizoram/employee/payment/integration/dss/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12134,7 +12134,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FireNoc",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-firenoc",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-firenoc",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12161,7 +12161,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Water&Sewerage",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-ws",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-ws",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12176,7 +12176,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.MCollect",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-mcollect",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-mcollect",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12203,7 +12203,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.TradeLicense",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-tradelicense",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-tradelicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12230,7 +12230,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.OBPS",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/obps",
+      "navigationURL": "/mizoram/employee/dss/dashboard/obps",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12245,7 +12245,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.OBPS",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/nss-obps",
+      "navigationURL": "/mizoram/employee/dss/dashboard/nss-obps",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12260,7 +12260,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.PGR",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-pgr",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12275,7 +12275,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Firenoc",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/noc",
+      "navigationURL": "/mizoram/employee/dss/dashboard/noc",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12290,7 +12290,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.mCollect",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/mCollect",
+      "navigationURL": "/mizoram/employee/dss/dashboard/mCollect",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12317,7 +12317,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Overview",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-overview",
+      "navigationURL": "/mizoram/employee/dss/dashboard/national-overview",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -12332,7 +12332,7 @@
       "serviceCode": "integration",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/payment/integration/dss/NURT_DASHBOARD",
+      "navigationURL": "/mizoram/employee/payment/integration/dss/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -12547,7 +12547,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Birth and Death",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/birth-death",
+      "navigationURL": "/mizoram/employee/dss/dashboard/birth-death",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13063,7 +13063,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.BND",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/nss-birth-death",
+      "navigationURL": "/mizoram/employee/dss/dashboard/nss-birth-death",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13481,7 +13481,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.About",
-      "navigationURL": "/digit-ui/employee/dss/national-about",
+      "navigationURL": "/mizoram/employee/dss/national-about",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13496,7 +13496,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.FAQs",
-      "navigationURL": "/digit-ui/employee/dss/national-faqs",
+      "navigationURL": "/mizoram/employee/dss/national-faqs",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -13889,7 +13889,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Home",
-      "navigationURL": "/digit-ui/employee/dss/landing/NURT_DASHBOARD",
+      "navigationURL": "/mizoram/employee/dss/landing/NURT_DASHBOARD",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -14475,7 +14475,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Finance",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/finance",
+      "navigationURL": "/mizoram/employee/dss/dashboard/finance",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -14944,7 +14944,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.SearchTicket",
-      "navigationURL": "/digit-ui/employee/im/inbox",
+      "navigationURL": "/mizoram/employee/im/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -14959,7 +14959,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.New Ticket",
-      "navigationURL": "/digit-ui/employee/im/incident/create",
+      "navigationURL": "/mizoram/employee/im/incident/create",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },

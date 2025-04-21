@@ -1,0 +1,222 @@
+{
+  "tenantId": "mz",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "aizawl.tlangnuam",
+      "name": "Tlangnuam",
+      "districtCode": "AIZAWL",
+      "active": true
+    },
+    {
+      "code": "aizawl.darlawn",
+      "name": "Darlawn",
+      "districtCode": "AIZAWL",
+      "active": true
+    },
+    {
+      "code": "kolasib.thingdawl",
+      "name": "Thingdawl",
+      "districtCode": "KOLASIB",
+      "active": true
+    },
+    {
+      "code": "kolasib.bilkhawthlir",
+      "name": "Bilkhawthlir",
+      "districtCode": "KOLASIB",
+      "active": true
+    },
+    {
+      "code": "mamit.kawrtethawveng",
+      "name": "Kawrtethawveng",
+      "districtCode": "MAMIT",
+      "active": true
+    },
+    {
+      "code": "mamit.westphaileng",
+      "name": "West Phaileng",
+      "districtCode": "MAMIT",
+      "active": true
+    },
+    {
+      "code": "mamit.reiek",
+      "name": "Reiek",
+      "districtCode": "MAMIT",
+      "active": true
+    },
+    {
+      "code": "mamit.zawlnuam",
+      "name": "Zawlnuam",
+      "districtCode": "MAMIT",
+      "active": true
+    },
+    {
+      "code": "champhai.champhai",
+      "name": "Champhai",
+      "districtCode": "CHAMPHAI",
+      "active": true
+    },
+    {
+      "code": "champhai.khawzawl",
+      "name": "Khawzawl",
+      "districtCode": "CHAMPHAI",
+      "active": true
+    },
+    {
+      "code": "champhai.khawbung",
+      "name": "Khawbung",
+      "districtCode": "CHAMPHAI",
+      "active": true
+    },
+    {
+      "code": "khawzawl.khawzawl",
+      "name": "Khawzawl",
+      "districtCode": "KHAWZAWL",
+      "active": true
+    },
+    {
+      "code": "serchhip.serchhip",
+      "name": "Serchhip",
+      "districtCode": "SERCHHIP",
+      "active": true
+    },
+    {
+      "code": "serchhip.lunglei",
+      "name": "Lunglei",
+      "districtCode": "SERCHHIP",
+      "active": true
+    },
+    {
+      "code": "serchhip.thingsulthliah",
+      "name": "Thingsulthliah",
+      "districtCode": "SERCHHIP",
+      "active": true
+    },
+    {
+      "code": "serchhip.eastlungdar",
+      "name": "East lungdar",
+      "districtCode": "SERCHHIP",
+      "active": true
+    },
+    {
+      "code": "lunglei.lunglei",
+      "name": "Lunglei",
+      "districtCode": "LUNGLEI",
+      "active": true
+    },
+    {
+      "code": "lunglei.hnahthial",
+      "name": "Hnahthial",
+      "districtCode": "LUNGLEI",
+      "active": true
+    },
+    {
+      "code": "lunglei.lungsen",
+      "name": "Lungsen",
+      "districtCode": "LUNGLEI",
+      "active": true
+    },
+    {
+      "code": "hnahthial.hnahthial",
+      "name": "Hnahthial",
+      "districtCode": "HNAHTHIAL",
+      "active": true
+    },
+    {
+      "code": "lawngtlai.sangau",
+      "name": "Sangau",
+      "districtCode": "LAWNGTLAI",
+      "active": true
+    },
+    {
+      "code": "lawngtlai.lawngtlai",
+      "name": "Lawngtlai",
+      "districtCode": "LAWNGTLAI",
+      "active": true
+    },
+    {
+      "code": "lawngtlai.bungtlangs",
+      "name": "Bungtlang S",
+      "districtCode": "LAWNGTLAI",
+      "active": true
+    },
+    {
+      "code": "lawngtlai.chawngte",
+      "name": "Chawngte",
+      "districtCode": "LAWNGTLAI",
+      "active": true
+    },
+    {
+      "code": "siaha.siaha",
+      "name": "Siaha",
+      "districtCode": "SIAHA",
+      "active": true
+    },
+    {
+      "code": "siaha.tuipang",
+      "name": "Tuipang",
+      "districtCode": "SIAHA",
+      "active": true
+    },
+    {
+      "code": "aizawl.thingsulthliah",
+      "name": "Thingsulthliah",
+      "districtCode": "AIZAWL",
+      "active": true
+    },
+    {
+      "code": "aizawl.aibawk",
+      "name": "Aibawk",
+      "districtCode": "AIZAWL",
+      "active": true
+    },
+    {
+      "code": "saitual.darlawn",
+      "name": "Darlawn",
+      "districtCode": "SAITUAL",
+      "active": true
+    },
+    {
+      "code": "saitual.ngopa",
+      "name": "Ngopa",
+      "districtCode": "SAITUAL",
+      "active": true
+    },
+    {
+      "code": "saitual.phullen",
+      "name": "Phullen",
+      "districtCode": "SAITUAL",
+      "active": true
+    },
+    {
+      "code": "lunglei.bunghmun",
+      "name": "Bunghmun",
+      "districtCode": "LUNGLEI",
+      "active": true
+    },
+    {
+      "code": "lawngtlai.bungtlangsouth",
+      "name": "Bungtlang south",
+      "districtCode": "LAWNGTLAI",
+      "active": true
+    },
+    {
+      "code": "siaha.tipa",
+      "name": "Tipa",
+      "districtCode": "SIAHA",
+      "active": true
+    },
+    {
+      "code": "khawzawl.serchhip",
+      "name": "Serchhip",
+      "districtCode": "KHAWZAWL",
+      "active": true
+    },
+    {
+      "code": "lunglei.tlabung",
+      "name": "Tlabung",
+      "districtCode": "LUNGLEI",
+      "active": true
+    }
+  ]
+}

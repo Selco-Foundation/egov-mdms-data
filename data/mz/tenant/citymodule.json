@@ -1,0 +1,2555 @@
+{
+  "tenantId": "mz",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mz"
+        },
+        {
+          "code": "mz.maubuangsc"
+        },
+        {
+          "code": "mz.nserzawlsc"
+        },
+        {
+          "code": "mz.lungdaiphc"
+        },
+        {
+          "code": "mz.bairabi"
+        },
+        {
+          "code": "mz.bilkhawthlir"
+        },
+        {
+          "code": "mz.newbuilumsc"
+        },
+        {
+          "code": "mz.phaisensc"
+        },
+        {
+          "code": "mz.saiphaisc"
+        },
+        {
+          "code": "mz.pangbalkawnsc"
+        },
+        {
+          "code": "mz.bualpuisc"
+        },
+        {
+          "code": "mz.hortokisc"
+        },
+        {
+          "code": "mz.kepransc"
+        },
+        {
+          "code": "mz.nhlimensc"
+        },
+        {
+          "code": "mz.nchaltlangsc"
+        },
+        {
+          "code": "mz.nisapuisc"
+        },
+        {
+          "code": "mz.tuithavengsc"
+        },
+        {
+          "code": "mz.tumpuisc"
+        },
+        {
+          "code": "mz.diakkawnsc"
+        },
+        {
+          "code": "mz.thingdawlsc"
+        },
+        {
+          "code": "mz.buhchangphaisc"
+        },
+        {
+          "code": "mz.vairengtesc"
+        },
+        {
+          "code": "mz.phainuamsc"
+        },
+        {
+          "code": "mz.republicsc"
+        },
+        {
+          "code": "mz.bilkhawthlirsc"
+        },
+        {
+          "code": "mz.nchawnpuisc"
+        },
+        {
+          "code": "mz.bairabisc"
+        },
+        {
+          "code": "mz.bukpuisc"
+        },
+        {
+          "code": "mz.lungdaisc"
+        },
+        {
+          "code": "mz.serkhansc"
+        },
+        {
+          "code": "mz.lungmuatsc"
+        },
+        {
+          "code": "mz.bunghmunwsc"
+        },
+        {
+          "code": "mz.damparengpuisc"
+        },
+        {
+          "code": "mz.lallensc"
+        },
+        {
+          "code": "mz.upperrepublicsc"
+        },
+        {
+          "code": "mz.khawrihnimsc"
+        },
+        {
+          "code": "mz.kanhmun"
+        },
+        {
+          "code": "mz.rengdil"
+        },
+        {
+          "code": "mz.chuhvel"
+        },
+        {
+          "code": "mz.bungthuam"
+        },
+        {
+          "code": "mz.hriphaw"
+        },
+        {
+          "code": "mz.thinghlun"
+        },
+        {
+          "code": "mz.parvatui"
+        },
+        {
+          "code": "mz.pukzing"
+        },
+        {
+          "code": "mz.suarhliap"
+        },
+        {
+          "code": "mz.kulikawnsc"
+        },
+        {
+          "code": "mz.mamitsc"
+        },
+        {
+          "code": "mz.dampuisc"
+        },
+        {
+          "code": "mz.sabualsc"
+        },
+        {
+          "code": "mz.darlaksc"
+        },
+        {
+          "code": "mz.newedensc(tumpanglui)"
+        },
+        {
+          "code": "mz.kawrthahsc"
+        },
+        {
+          "code": "mz.zamuangsc"
+        },
+        {
+          "code": "mz.tuidamsc"
+        },
+        {
+          "code": "mz.wphailengsc"
+        },
+        {
+          "code": "mz.salemsc"
+        },
+        {
+          "code": "mz.tuipuibarisc"
+        },
+        {
+          "code": "mz.phuldungseisc"
+        },
+        {
+          "code": "mz.marparasc"
+        },
+        {
+          "code": "mz.rawpuichhipsc"
+        },
+        {
+          "code": "mz.rulpuihlimsc"
+        },
+        {
+          "code": "mz.saikhawthlirsc"
+        },
+        {
+          "code": "mz.kanghmunsc"
+        },
+        {
+          "code": "mz.darlungsc"
+        },
+        {
+          "code": "mz.reieksc"
+        },
+        {
+          "code": "mz.ailawngsc"
+        },
+        {
+          "code": "mz.hualngohmunsc"
+        },
+        {
+          "code": "mz.wlungdarsc"
+        },
+        {
+          "code": "mz.marparaphc"
+        },
+        {
+          "code": "mz.reiekphc"
+        },
+        {
+          "code": "mz.kanghmun"
+        },
+        {
+          "code": "mz.phuldungsei"
+        },
+        {
+          "code": "mz.zawlnuam"
+        },
+        {
+          "code": "mz.westphaileng"
+        },
+        {
+          "code": "mz.rawpuichhip"
+        },
+        {
+          "code": "mz.champhaisc"
+        },
+        {
+          "code": "mz.melriatsc"
+        },
+        {
+          "code": "mz.ngursc"
+        },
+        {
+          "code": "mz.zotesc"
+        },
+        {
+          "code": "mz.khawbungnsc"
+        },
+        {
+          "code": "mz.ruantlangsc"
+        },
+        {
+          "code": "mz.zokhawtharsc"
+        },
+        {
+          "code": "mz.khuanglengsc"
+        },
+        {
+          "code": "mz.khankawnsc"
+        },
+        {
+          "code": "mz.vaphaisc"
+        },
+        {
+          "code": "mz.samthangsc"
+        },
+        {
+          "code": "mz.dungtlangsc"
+        },
+        {
+          "code": "mz.vaivakawnsc"
+        },
+        {
+          "code": "mz.khuangthingsc"
+        },
+        {
+          "code": "mz.tualchengsc"
+        },
+        {
+          "code": "mz.selamsc"
+        },
+        {
+          "code": "mz.vaikhawtlangsc"
+        },
+        {
+          "code": "mz.khuangphahsc"
+        },
+        {
+          "code": "mz.sazepsc"
+        },
+        {
+          "code": "mz.vanzausc"
+        },
+        {
+          "code": "mz.hmunhmelthasc"
+        },
+        {
+          "code": "mz.kelkangsc"
+        },
+        {
+          "code": "mz.huntharsc"
+        },
+        {
+          "code": "mz.vaparsc"
+        },
+        {
+          "code": "mz.lianpuisc"
+        },
+        {
+          "code": "mz.sesihsc"
+        },
+        {
+          "code": "mz.bulfekzawlsc"
+        },
+        {
+          "code": "mz.farkawnsc"
+        },
+        {
+          "code": "mz.khawbungsc"
+        },
+        {
+          "code": "mz.tlangsamsc"
+        },
+        {
+          "code": "mz.bungzungsc"
+        },
+        {
+          "code": "mz.farkawnphc"
+        },
+        {
+          "code": "mz.hnahlanphc"
+        },
+        {
+          "code": "mz.samlukhaisc"
+        },
+        {
+          "code": "mz.zemabawk"
+        },
+        {
+          "code": "mz.tanhrilsc"
+        },
+        {
+          "code": "mz.neihdawnsc"
+        },
+        {
+          "code": "mz.chawngtlaisc"
+        },
+        {
+          "code": "mz.tualtesc"
+        },
+        {
+          "code": "mz.tualpuisc"
+        },
+        {
+          "code": "mz.ngaizawlsc"
+        },
+        {
+          "code": "mz.chhawrtuisc"
+        },
+        {
+          "code": "mz.dultesc"
+        },
+        {
+          "code": "mz.tlangpuiliansc"
+        },
+        {
+          "code": "mz.khawhaisc"
+        },
+        {
+          "code": "mz.vangtlangsc"
+        },
+        {
+          "code": "mz.sakawrtuichhunsc"
+        },
+        {
+          "code": "mz.rabungsc"
+        },
+        {
+          "code": "mz.kawlkulhsc"
+        },
+        {
+          "code": "mz.biatesc"
+        },
+        {
+          "code": "mz.sialhawksc"
+        },
+        {
+          "code": "mz.chalrangsc"
+        },
+        {
+          "code": "mz.kawlkulhphc"
+        },
+        {
+          "code": "mz.sialhawkphc"
+        },
+        {
+          "code": "mz.keitumsc"
+        },
+        {
+          "code": "mz.chhiahtlangsc"
+        },
+        {
+          "code": "mz.kanghmunssc"
+        },
+        {
+          "code": "mz.dintharsc"
+        },
+        {
+          "code": "mz.thentlangsc"
+        },
+        {
+          "code": "mz.khawbelsc"
+        },
+        {
+          "code": "mz.hualtusc"
+        },
+        {
+          "code": "mz.baktawngsc"
+        },
+        {
+          "code": "mz.serchhipsc"
+        },
+        {
+          "code": "mz.newserchhipsc"
+        },
+        {
+          "code": "mz.hriangtlangsc"
+        },
+        {
+          "code": "mz.bungtlangsc"
+        },
+        {
+          "code": "mz.thenzawlsc"
+        },
+        {
+          "code": "mz.buangpuisc"
+        },
+        {
+          "code": "mz.bungkawnsc"
+        },
+        {
+          "code": "mz.southzotessc"
+        },
+        {
+          "code": "mz.chhingchhipsc"
+        },
+        {
+          "code": "mz.khumtungsc"
+        },
+        {
+          "code": "mz.khawlailungsc"
+        },
+        {
+          "code": "mz.nvanlaiphaisc"
+        },
+        {
+          "code": "mz.lungkawlhsc"
+        },
+        {
+          "code": "mz.elungdarsc"
+        },
+        {
+          "code": "mz.lengsc"
+        },
+        {
+          "code": "mz.mualchengsc"
+        },
+        {
+          "code": "mz.eastlungdar"
+        },
+        {
+          "code": "mz.khatlasc"
+        },
+        {
+          "code": "mz.khawlailung"
+        },
+        {
+          "code": "mz.nvanlaiphai"
+        },
+        {
+          "code": "mz.chhingchhip"
+        },
+        {
+          "code": "mz.ngentiangphc"
+        },
+        {
+          "code": "mz.zobawkphc"
+        },
+        {
+          "code": "mz.hrangchalkawn"
+        },
+        {
+          "code": "mz.sazaikawn"
+        },
+        {
+          "code": "mz.chhipphir"
+        },
+        {
+          "code": "mz.pangzawl"
+        },
+        {
+          "code": "mz.haulawng"
+        },
+        {
+          "code": "mz.luangmualsc"
+        },
+        {
+          "code": "mz.lungsenphc"
+        },
+        {
+          "code": "mz.rahsivengsc"
+        },
+        {
+          "code": "mz.kawlhawksc"
+        },
+        {
+          "code": "mz.sertlangpuisc"
+        },
+        {
+          "code": "mz.ramlaituisc"
+        },
+        {
+          "code": "mz.mualcheng'ssc"
+        },
+        {
+          "code": "mz.mamtesc"
+        },
+        {
+          "code": "mz.tuikualsc"
+        },
+        {
+          "code": "mz.thingfalsc"
+        },
+        {
+          "code": "mz.zawlpuisc"
+        },
+        {
+          "code": "mz.putlungasihsc"
+        },
+        {
+          "code": "mz.tuisenchhuahsc"
+        },
+        {
+          "code": "mz.rualalungsc"
+        },
+        {
+          "code": "mz.bazar,lunglei"
+        },
+        {
+          "code": "mz.pukpuisc"
+        },
+        {
+          "code": "mz.chanmari(central)sc"
+        },
+        {
+          "code": "mz.farmvengsc"
+        },
+        {
+          "code": "mz.ramtharsc"
+        },
+        {
+          "code": "mz.sateeksc"
+        },
+        {
+          "code": "mz.lunglawnsc"
+        },
+        {
+          "code": "mz.theiriatsc"
+        },
+        {
+          "code": "mz.hauruangsc"
+        },
+        {
+          "code": "mz.zobawksc"
+        },
+        {
+          "code": "mz.hrangchalkawnsc"
+        },
+        {
+          "code": "mz.ralvawngsc"
+        },
+        {
+          "code": "mz.buarpuisc"
+        },
+        {
+          "code": "mz.skhawleksc"
+        },
+        {
+          "code": "mz.sertesc"
+        },
+        {
+          "code": "mz.haulawngsc"
+        },
+        {
+          "code": "mz.tachhipsc"
+        },
+        {
+          "code": "mz.zotuisc"
+        },
+        {
+          "code": "mz.tawipui\u2018n\u2019"
+        },
+        {
+          "code": "mz.thualthusc"
+        },
+        {
+          "code": "mz.hnahthialsc"
+        },
+        {
+          "code": "mz.tarphosc"
+        },
+        {
+          "code": "mz.pangzawlsc"
+        },
+        {
+          "code": "mz.chhipphirsc"
+        },
+        {
+          "code": "mz.cherhlunsc"
+        },
+        {
+          "code": "mz.thingsaisc"
+        },
+        {
+          "code": "mz.phulpuisc"
+        },
+        {
+          "code": "mz.thiltlangsc"
+        },
+        {
+          "code": "mz.rawpuisc"
+        },
+        {
+          "code": "mz.bualpuivsc"
+        },
+        {
+          "code": "mz.svanlalphaisc"
+        },
+        {
+          "code": "mz.darzosc"
+        },
+        {
+          "code": "mz.muallianpuisc"
+        },
+        {
+          "code": "mz.bualpui\u2018h\u2019sc"
+        },
+        {
+          "code": "mz.cherhlun"
+        },
+        {
+          "code": "mz.thingsai"
+        },
+        {
+          "code": "mz.svanlaiphai"
+        },
+        {
+          "code": "mz.lamchhipsc"
+        },
+        {
+          "code": "mz.muallungthusc"
+        },
+        {
+          "code": "mz.bualpui\u2018ng\u2019phc"
+        },
+        {
+          "code": "mz.sangauphc"
+        },
+        {
+          "code": "mz.mampuisc"
+        },
+        {
+          "code": "mz.paitharsc"
+        },
+        {
+          "code": "mz.lungtiansc"
+        },
+        {
+          "code": "mz.diltlangsc"
+        },
+        {
+          "code": "mz.lungzarhtumsc"
+        },
+        {
+          "code": "mz.siachangkawnsc"
+        },
+        {
+          "code": "mz.lawngtlaisc"
+        },
+        {
+          "code": "mz.thingkahsc"
+        },
+        {
+          "code": "mz.sialsuksc"
+        },
+        {
+          "code": "mz.bualpui\u2018ng\u2019sc"
+        },
+        {
+          "code": "mz.sangausc"
+        },
+        {
+          "code": "mz.sumsiluisc"
+        },
+        {
+          "code": "mz.chawngte\u2018pl\u2019sc"
+        },
+        {
+          "code": "mz.chhuarlungphc"
+        },
+        {
+          "code": "mz.chakhangphc"
+        },
+        {
+          "code": "mz.tuipangphc"
+        },
+        {
+          "code": "mz.rawmibawksc"
+        },
+        {
+          "code": "mz.niawhtlangsc"
+        },
+        {
+          "code": "mz.tuipang\u2018l\u2019sc"
+        },
+        {
+          "code": "mz.sairangsc"
+        },
+        {
+          "code": "mz.zawnglingsc"
+        },
+        {
+          "code": "mz.chapuisc"
+        },
+        {
+          "code": "mz.latawhsc"
+        },
+        {
+          "code": "mz.oldsaihasc"
+        },
+        {
+          "code": "mz.saihasc"
+        },
+        {
+          "code": "mz.chakhangsc"
+        },
+        {
+          "code": "mz.tuipang\u2018v\u2019sc"
+        },
+        {
+          "code": "mz.sihphirsc"
+        },
+        {
+          "code": "mz.durtlangsc"
+        },
+        {
+          "code": "mz.zemabawksc"
+        },
+        {
+          "code": "mz.zuangtuisc"
+        },
+        {
+          "code": "mz.chaltlangsc"
+        },
+        {
+          "code": "mz.ramhlunsc"
+        },
+        {
+          "code": "mz.ramhlun\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.sumsuihsc"
+        },
+        {
+          "code": "mz.tuirialairfieldsc"
+        },
+        {
+          "code": "mz.chanmarisc"
+        },
+        {
+          "code": "mz.bazarsc"
+        },
+        {
+          "code": "mz.bethlehemsc"
+        },
+        {
+          "code": "mz.edentharsc"
+        },
+        {
+          "code": "mz.sakawrdaisc"
+        },
+        {
+          "code": "mz.palsangsc"
+        },
+        {
+          "code": "mz.thingsatsc"
+        },
+        {
+          "code": "mz.zohmunsc"
+        },
+        {
+          "code": "mz.thingsulthliahsc"
+        },
+        {
+          "code": "mz.tlungvelsc"
+        },
+        {
+          "code": "mz.selingsc"
+        },
+        {
+          "code": "mz.sesawngsc"
+        },
+        {
+          "code": "mz.khawruhliansc"
+        },
+        {
+          "code": "mz.phaileng\u2018e\u2019sc"
+        },
+        {
+          "code": "mz.darlawnsc"
+        },
+        {
+          "code": "mz.sawlengsc"
+        },
+        {
+          "code": "mz.ratusc"
+        },
+        {
+          "code": "mz.aibawkphc"
+        },
+        {
+          "code": "mz.maucharsc"
+        },
+        {
+          "code": "mz.sialsukphc"
+        },
+        {
+          "code": "mz.sairangphc"
+        },
+        {
+          "code": "mz.hlimenuphc"
+        },
+        {
+          "code": "mz.lawipuuphc"
+        },
+        {
+          "code": "mz.darlawnphc"
+        },
+        {
+          "code": "mz.ratuphc"
+        },
+        {
+          "code": "mz.itiuphc"
+        },
+        {
+          "code": "mz.khawruhlian"
+        },
+        {
+          "code": "mz.thingsulthliah"
+        },
+        {
+          "code": "mz.tinghmunsc"
+        },
+        {
+          "code": "mz.suangpuilawnphc"
+        },
+        {
+          "code": "mz.mimbung"
+        },
+        {
+          "code": "mz.phullen"
+        },
+        {
+          "code": "mz.phuaibuang"
+        },
+        {
+          "code": "mz.nekhawdungsei"
+        },
+        {
+          "code": "mz.maitesc"
+        },
+        {
+          "code": "mz.hliappui"
+        },
+        {
+          "code": "mz.vanbawng"
+        },
+        {
+          "code": "mz.kawlbemsc"
+        },
+        {
+          "code": "mz.lamzawlsc"
+        },
+        {
+          "code": "mz.vaitinsc"
+        },
+        {
+          "code": "mz.sihfasc"
+        },
+        {
+          "code": "mz.buhbansc"
+        },
+        {
+          "code": "mz.tualbungsc"
+        },
+        {
+          "code": "mz.keifangsc"
+        },
+        {
+          "code": "mz.rulchawmsc"
+        },
+        {
+          "code": "mz.lenchimsc"
+        },
+        {
+          "code": "mz.pawlrangsc"
+        },
+        {
+          "code": "mz.saichalsc"
+        },
+        {
+          "code": "mz.khanpuisc"
+        },
+        {
+          "code": "mz.suangpuilawnsc"
+        },
+        {
+          "code": "mz.verveksc"
+        },
+        {
+          "code": "mz.saitualsc"
+        },
+        {
+          "code": "mz.phullensc"
+        },
+        {
+          "code": "mz.thanglailungsc"
+        },
+        {
+          "code": "mz.phuaibuangsc"
+        },
+        {
+          "code": "mz.khawliansc"
+        },
+        {
+          "code": "mz.daidosc"
+        },
+        {
+          "code": "mz.mimbungsc"
+        },
+        {
+          "code": "mz.ngopasc"
+        },
+        {
+          "code": "mz.kawnpuiphc"
+        },
+        {
+          "code": "mz.bukpuiphc"
+        },
+        {
+          "code": "mz.chawlhmunuphc"
+        },
+        {
+          "code": "mz.sihphiruphc"
+        },
+        {
+          "code": "mz.buarpuiphc"
+        },
+        {
+          "code": "mz.bunghmunphc"
+        },
+        {
+          "code": "mz.tawipuiphc"
+        },
+        {
+          "code": "mz.bungtlangsouthphc"
+        },
+        {
+          "code": "mz.lungphersouthphc"
+        },
+        {
+          "code": "mz.khawhaiphc"
+        },
+        {
+          "code": "mz.phurazawlphc"
+        },
+        {
+          "code": "mz.chanmariwestsc"
+        },
+        {
+          "code": "mz.chawnpuisc"
+        },
+        {
+          "code": "mz.chhingavengsc"
+        },
+        {
+          "code": "mz.lawipusc"
+        },
+        {
+          "code": "mz.lengpuisc"
+        },
+        {
+          "code": "mz.lunglengsc"
+        },
+        {
+          "code": "mz.maubawksc"
+        },
+        {
+          "code": "mz.melthumsc"
+        },
+        {
+          "code": "mz.missionvengsc"
+        },
+        {
+          "code": "mz.ramtharvengsc"
+        },
+        {
+          "code": "mz.tlangnuamsc"
+        },
+        {
+          "code": "mz.venghnuaisc"
+        },
+        {
+          "code": "mz.itisc"
+        },
+        {
+          "code": "mz.chawlhmunsc"
+        },
+        {
+          "code": "mz.tuivamitsc"
+        },
+        {
+          "code": "mz.phunchawngsc"
+        },
+        {
+          "code": "mz.dawrpuivengtharsc"
+        },
+        {
+          "code": "mz.khawkawnsc"
+        },
+        {
+          "code": "mz.khawleksc"
+        },
+        {
+          "code": "mz.nekhawdungseisc"
+        },
+        {
+          "code": "mz.teikhangsc"
+        },
+        {
+          "code": "mz.lungchhuansc"
+        },
+        {
+          "code": "mz.lungphosc"
+        },
+        {
+          "code": "mz.rullamsc"
+        },
+        {
+          "code": "mz.sailulaksc"
+        },
+        {
+          "code": "mz.sialhausc"
+        },
+        {
+          "code": "mz.thingliansc"
+        },
+        {
+          "code": "mz.bungzungphc"
+        },
+        {
+          "code": "mz.champhaivengthlangsc"
+        },
+        {
+          "code": "mz.khawbungphc"
+        },
+        {
+          "code": "mz.sesihphc"
+        },
+        {
+          "code": "mz.khawzawlsc"
+        },
+        {
+          "code": "mz.lungtansc"
+        },
+        {
+          "code": "mz.rabungphc"
+        },
+        {
+          "code": "mz.riangtleisc"
+        },
+        {
+          "code": "mz.vanchengpuisc"
+        },
+        {
+          "code": "mz.kawnpuisc"
+        },
+        {
+          "code": "mz.zanlawnsc"
+        },
+        {
+          "code": "mz.boraisc"
+        },
+        {
+          "code": "mz.damdiaisc"
+        },
+        {
+          "code": "mz.nalzawlsc"
+        },
+        {
+          "code": "mz.silsurisc"
+        },
+        {
+          "code": "mz.kawrthahchc"
+        },
+        {
+          "code": "mz.zawlnuamsc"
+        },
+        {
+          "code": "mz.hmunpuisc"
+        },
+        {
+          "code": "mz.schawngtuisc"
+        },
+        {
+          "code": "mz.bunghmun\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.schawilungsc"
+        },
+        {
+          "code": "mz.diblibaghsc"
+        },
+        {
+          "code": "mz.lungchemsc"
+        },
+        {
+          "code": "mz.lungsensc"
+        },
+        {
+          "code": "mz.mualthuamsc"
+        },
+        {
+          "code": "mz.newsachansc"
+        },
+        {
+          "code": "mz.oldsachansc"
+        },
+        {
+          "code": "mz.phairuangkaisc"
+        },
+        {
+          "code": "mz.puankhaisc"
+        },
+        {
+          "code": "mz.sesawmsc"
+        },
+        {
+          "code": "mz.tawipui\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.thenhlumsc"
+        },
+        {
+          "code": "mz.tiperaghatsc"
+        },
+        {
+          "code": "mz.tlabungzodin"
+        },
+        {
+          "code": "mz.nunsurisc"
+        },
+        {
+          "code": "mz.tuichawngsc"
+        },
+        {
+          "code": "mz.vaisamsc"
+        },
+        {
+          "code": "mz.venghlunsc"
+        },
+        {
+          "code": "mz.zohnuaisc"
+        },
+        {
+          "code": "mz.sethlunsc"
+        },
+        {
+          "code": "mz.borapansuryphc"
+        },
+        {
+          "code": "mz.ajasorasc"
+        },
+        {
+          "code": "mz.borapansurysc"
+        },
+        {
+          "code": "mz.bungtlang\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.chamdur\u2018p\u2019sc"
+        },
+        {
+          "code": "mz.cheuralsc"
+        },
+        {
+          "code": "mz.hmunlaisc"
+        },
+        {
+          "code": "mz.khawmawisc"
+        },
+        {
+          "code": "mz.lungrangssc"
+        },
+        {
+          "code": "mz.mkawnpuisc"
+        },
+        {
+          "code": "mz.mautlangsc"
+        },
+        {
+          "code": "mz.saizawh\u2018w\u2019sc"
+        },
+        {
+          "code": "mz.tuithumhnarsc"
+        },
+        {
+          "code": "mz.vawmbuksc"
+        },
+        {
+          "code": "mz.chawngtecsc"
+        },
+        {
+          "code": "mz.lawngpuighatsc"
+        },
+        {
+          "code": "mz.lawngtlaicollegeveng"
+        },
+        {
+          "code": "mz.chhuarlungsc"
+        },
+        {
+          "code": "mz.lakisc"
+        },
+        {
+          "code": "mz.lawngbansc"
+        },
+        {
+          "code": "mz.maubawk(amobyu)sc"
+        },
+        {
+          "code": "mz.phurazawlsc"
+        },
+        {
+          "code": "mz.serkawrsc"
+        },
+        {
+          "code": "mz.siatasc"
+        },
+        {
+          "code": "mz.tongkolongsc"
+        },
+        {
+          "code": "mz.tuipuiferrysc"
+        },
+        {
+          "code": "mz.tuisihsc"
+        },
+        {
+          "code": "mz.tuisumpuisc"
+        },
+        {
+          "code": "mz.vahaisc"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mz"
+        },
+        {
+          "code": "mz.maubuangsc"
+        },
+        {
+          "code": "mz.nserzawlsc"
+        },
+        {
+          "code": "mz.lungdaiphc"
+        },
+        {
+          "code": "mz.bairabi"
+        },
+        {
+          "code": "mz.bilkhawthlir"
+        },
+        {
+          "code": "mz.newbuilumsc"
+        },
+        {
+          "code": "mz.phaisensc"
+        },
+        {
+          "code": "mz.saiphaisc"
+        },
+        {
+          "code": "mz.pangbalkawnsc"
+        },
+        {
+          "code": "mz.bualpuisc"
+        },
+        {
+          "code": "mz.hortokisc"
+        },
+        {
+          "code": "mz.kepransc"
+        },
+        {
+          "code": "mz.nhlimensc"
+        },
+        {
+          "code": "mz.nchaltlangsc"
+        },
+        {
+          "code": "mz.nisapuisc"
+        },
+        {
+          "code": "mz.tuithavengsc"
+        },
+        {
+          "code": "mz.tumpuisc"
+        },
+        {
+          "code": "mz.diakkawnsc"
+        },
+        {
+          "code": "mz.thingdawlsc"
+        },
+        {
+          "code": "mz.buhchangphaisc"
+        },
+        {
+          "code": "mz.vairengtesc"
+        },
+        {
+          "code": "mz.phainuamsc"
+        },
+        {
+          "code": "mz.republicsc"
+        },
+        {
+          "code": "mz.bilkhawthlirsc"
+        },
+        {
+          "code": "mz.nchawnpuisc"
+        },
+        {
+          "code": "mz.bairabisc"
+        },
+        {
+          "code": "mz.bukpuisc"
+        },
+        {
+          "code": "mz.lungdaisc"
+        },
+        {
+          "code": "mz.serkhansc"
+        },
+        {
+          "code": "mz.lungmuatsc"
+        },
+        {
+          "code": "mz.bunghmunwsc"
+        },
+        {
+          "code": "mz.damparengpuisc"
+        },
+        {
+          "code": "mz.lallensc"
+        },
+        {
+          "code": "mz.upperrepublicsc"
+        },
+        {
+          "code": "mz.khawrihnimsc"
+        },
+        {
+          "code": "mz.kanhmun"
+        },
+        {
+          "code": "mz.rengdil"
+        },
+        {
+          "code": "mz.chuhvel"
+        },
+        {
+          "code": "mz.bungthuam"
+        },
+        {
+          "code": "mz.hriphaw"
+        },
+        {
+          "code": "mz.thinghlun"
+        },
+        {
+          "code": "mz.parvatui"
+        },
+        {
+          "code": "mz.pukzing"
+        },
+        {
+          "code": "mz.suarhliap"
+        },
+        {
+          "code": "mz.kulikawnsc"
+        },
+        {
+          "code": "mz.mamitsc"
+        },
+        {
+          "code": "mz.dampuisc"
+        },
+        {
+          "code": "mz.sabualsc"
+        },
+        {
+          "code": "mz.darlaksc"
+        },
+        {
+          "code": "mz.newedensc(tumpanglui)"
+        },
+        {
+          "code": "mz.kawrthahsc"
+        },
+        {
+          "code": "mz.zamuangsc"
+        },
+        {
+          "code": "mz.tuidamsc"
+        },
+        {
+          "code": "mz.wphailengsc"
+        },
+        {
+          "code": "mz.salemsc"
+        },
+        {
+          "code": "mz.tuipuibarisc"
+        },
+        {
+          "code": "mz.phuldungseisc"
+        },
+        {
+          "code": "mz.marparasc"
+        },
+        {
+          "code": "mz.rawpuichhipsc"
+        },
+        {
+          "code": "mz.rulpuihlimsc"
+        },
+        {
+          "code": "mz.saikhawthlirsc"
+        },
+        {
+          "code": "mz.kanghmunsc"
+        },
+        {
+          "code": "mz.darlungsc"
+        },
+        {
+          "code": "mz.reieksc"
+        },
+        {
+          "code": "mz.ailawngsc"
+        },
+        {
+          "code": "mz.hualngohmunsc"
+        },
+        {
+          "code": "mz.wlungdarsc"
+        },
+        {
+          "code": "mz.marparaphc"
+        },
+        {
+          "code": "mz.reiekphc"
+        },
+        {
+          "code": "mz.kanghmun"
+        },
+        {
+          "code": "mz.phuldungsei"
+        },
+        {
+          "code": "mz.zawlnuam"
+        },
+        {
+          "code": "mz.westphaileng"
+        },
+        {
+          "code": "mz.rawpuichhip"
+        },
+        {
+          "code": "mz.champhaisc"
+        },
+        {
+          "code": "mz.melriatsc"
+        },
+        {
+          "code": "mz.ngursc"
+        },
+        {
+          "code": "mz.zotesc"
+        },
+        {
+          "code": "mz.khawbungnsc"
+        },
+        {
+          "code": "mz.ruantlangsc"
+        },
+        {
+          "code": "mz.zokhawtharsc"
+        },
+        {
+          "code": "mz.khuanglengsc"
+        },
+        {
+          "code": "mz.khankawnsc"
+        },
+        {
+          "code": "mz.vaphaisc"
+        },
+        {
+          "code": "mz.samthangsc"
+        },
+        {
+          "code": "mz.dungtlangsc"
+        },
+        {
+          "code": "mz.vaivakawnsc"
+        },
+        {
+          "code": "mz.khuangthingsc"
+        },
+        {
+          "code": "mz.tualchengsc"
+        },
+        {
+          "code": "mz.selamsc"
+        },
+        {
+          "code": "mz.vaikhawtlangsc"
+        },
+        {
+          "code": "mz.khuangphahsc"
+        },
+        {
+          "code": "mz.sazepsc"
+        },
+        {
+          "code": "mz.vanzausc"
+        },
+        {
+          "code": "mz.hmunhmelthasc"
+        },
+        {
+          "code": "mz.kelkangsc"
+        },
+        {
+          "code": "mz.huntharsc"
+        },
+        {
+          "code": "mz.vaparsc"
+        },
+        {
+          "code": "mz.lianpuisc"
+        },
+        {
+          "code": "mz.sesihsc"
+        },
+        {
+          "code": "mz.bulfekzawlsc"
+        },
+        {
+          "code": "mz.farkawnsc"
+        },
+        {
+          "code": "mz.khawbungsc"
+        },
+        {
+          "code": "mz.tlangsamsc"
+        },
+        {
+          "code": "mz.bungzungsc"
+        },
+        {
+          "code": "mz.farkawnphc"
+        },
+        {
+          "code": "mz.hnahlanphc"
+        },
+        {
+          "code": "mz.samlukhaisc"
+        },
+        {
+          "code": "mz.zemabawk"
+        },
+        {
+          "code": "mz.tanhrilsc"
+        },
+        {
+          "code": "mz.neihdawnsc"
+        },
+        {
+          "code": "mz.chawngtlaisc"
+        },
+        {
+          "code": "mz.tualtesc"
+        },
+        {
+          "code": "mz.tualpuisc"
+        },
+        {
+          "code": "mz.ngaizawlsc"
+        },
+        {
+          "code": "mz.chhawrtuisc"
+        },
+        {
+          "code": "mz.dultesc"
+        },
+        {
+          "code": "mz.tlangpuiliansc"
+        },
+        {
+          "code": "mz.khawhaisc"
+        },
+        {
+          "code": "mz.vangtlangsc"
+        },
+        {
+          "code": "mz.sakawrtuichhunsc"
+        },
+        {
+          "code": "mz.rabungsc"
+        },
+        {
+          "code": "mz.kawlkulhsc"
+        },
+        {
+          "code": "mz.biatesc"
+        },
+        {
+          "code": "mz.sialhawksc"
+        },
+        {
+          "code": "mz.chalrangsc"
+        },
+        {
+          "code": "mz.kawlkulhphc"
+        },
+        {
+          "code": "mz.sialhawkphc"
+        },
+        {
+          "code": "mz.keitumsc"
+        },
+        {
+          "code": "mz.chhiahtlangsc"
+        },
+        {
+          "code": "mz.kanghmunssc"
+        },
+        {
+          "code": "mz.dintharsc"
+        },
+        {
+          "code": "mz.thentlangsc"
+        },
+        {
+          "code": "mz.khawbelsc"
+        },
+        {
+          "code": "mz.hualtusc"
+        },
+        {
+          "code": "mz.baktawngsc"
+        },
+        {
+          "code": "mz.serchhipsc"
+        },
+        {
+          "code": "mz.newserchhipsc"
+        },
+        {
+          "code": "mz.hriangtlangsc"
+        },
+        {
+          "code": "mz.bungtlangsc"
+        },
+        {
+          "code": "mz.thenzawlsc"
+        },
+        {
+          "code": "mz.buangpuisc"
+        },
+        {
+          "code": "mz.bungkawnsc"
+        },
+        {
+          "code": "mz.southzotessc"
+        },
+        {
+          "code": "mz.chhingchhipsc"
+        },
+        {
+          "code": "mz.khumtungsc"
+        },
+        {
+          "code": "mz.khawlailungsc"
+        },
+        {
+          "code": "mz.nvanlaiphaisc"
+        },
+        {
+          "code": "mz.lungkawlhsc"
+        },
+        {
+          "code": "mz.elungdarsc"
+        },
+        {
+          "code": "mz.lengsc"
+        },
+        {
+          "code": "mz.mualchengsc"
+        },
+        {
+          "code": "mz.eastlungdar"
+        },
+        {
+          "code": "mz.khatlasc"
+        },
+        {
+          "code": "mz.khawlailung"
+        },
+        {
+          "code": "mz.nvanlaiphai"
+        },
+        {
+          "code": "mz.chhingchhip"
+        },
+        {
+          "code": "mz.ngentiangphc"
+        },
+        {
+          "code": "mz.zobawkphc"
+        },
+        {
+          "code": "mz.hrangchalkawn"
+        },
+        {
+          "code": "mz.sazaikawn"
+        },
+        {
+          "code": "mz.chhipphir"
+        },
+        {
+          "code": "mz.pangzawl"
+        },
+        {
+          "code": "mz.haulawng"
+        },
+        {
+          "code": "mz.luangmualsc"
+        },
+        {
+          "code": "mz.lungsenphc"
+        },
+        {
+          "code": "mz.rahsivengsc"
+        },
+        {
+          "code": "mz.kawlhawksc"
+        },
+        {
+          "code": "mz.sertlangpuisc"
+        },
+        {
+          "code": "mz.ramlaituisc"
+        },
+        {
+          "code": "mz.mualcheng'ssc"
+        },
+        {
+          "code": "mz.mamtesc"
+        },
+        {
+          "code": "mz.tuikualsc"
+        },
+        {
+          "code": "mz.thingfalsc"
+        },
+        {
+          "code": "mz.zawlpuisc"
+        },
+        {
+          "code": "mz.putlungasihsc"
+        },
+        {
+          "code": "mz.tuisenchhuahsc"
+        },
+        {
+          "code": "mz.rualalungsc"
+        },
+        {
+          "code": "mz.bazar,lunglei"
+        },
+        {
+          "code": "mz.pukpuisc"
+        },
+        {
+          "code": "mz.chanmari(central)sc"
+        },
+        {
+          "code": "mz.farmvengsc"
+        },
+        {
+          "code": "mz.ramtharsc"
+        },
+        {
+          "code": "mz.sateeksc"
+        },
+        {
+          "code": "mz.lunglawnsc"
+        },
+        {
+          "code": "mz.theiriatsc"
+        },
+        {
+          "code": "mz.hauruangsc"
+        },
+        {
+          "code": "mz.zobawksc"
+        },
+        {
+          "code": "mz.hrangchalkawnsc"
+        },
+        {
+          "code": "mz.ralvawngsc"
+        },
+        {
+          "code": "mz.buarpuisc"
+        },
+        {
+          "code": "mz.skhawleksc"
+        },
+        {
+          "code": "mz.sertesc"
+        },
+        {
+          "code": "mz.haulawngsc"
+        },
+        {
+          "code": "mz.tachhipsc"
+        },
+        {
+          "code": "mz.zotuisc"
+        },
+        {
+          "code": "mz.tawipui\u2018n\u2019"
+        },
+        {
+          "code": "mz.thualthusc"
+        },
+        {
+          "code": "mz.hnahthialsc"
+        },
+        {
+          "code": "mz.tarphosc"
+        },
+        {
+          "code": "mz.pangzawlsc"
+        },
+        {
+          "code": "mz.chhipphirsc"
+        },
+        {
+          "code": "mz.cherhlunsc"
+        },
+        {
+          "code": "mz.thingsaisc"
+        },
+        {
+          "code": "mz.phulpuisc"
+        },
+        {
+          "code": "mz.thiltlangsc"
+        },
+        {
+          "code": "mz.rawpuisc"
+        },
+        {
+          "code": "mz.bualpuivsc"
+        },
+        {
+          "code": "mz.svanlalphaisc"
+        },
+        {
+          "code": "mz.darzosc"
+        },
+        {
+          "code": "mz.muallianpuisc"
+        },
+        {
+          "code": "mz.bualpui\u2018h\u2019sc"
+        },
+        {
+          "code": "mz.cherhlun"
+        },
+        {
+          "code": "mz.thingsai"
+        },
+        {
+          "code": "mz.svanlaiphai"
+        },
+        {
+          "code": "mz.lamchhipsc"
+        },
+        {
+          "code": "mz.muallungthusc"
+        },
+        {
+          "code": "mz.bualpui\u2018ng\u2019phc"
+        },
+        {
+          "code": "mz.sangauphc"
+        },
+        {
+          "code": "mz.mampuisc"
+        },
+        {
+          "code": "mz.paitharsc"
+        },
+        {
+          "code": "mz.lungtiansc"
+        },
+        {
+          "code": "mz.diltlangsc"
+        },
+        {
+          "code": "mz.lungzarhtumsc"
+        },
+        {
+          "code": "mz.siachangkawnsc"
+        },
+        {
+          "code": "mz.lawngtlaisc"
+        },
+        {
+          "code": "mz.thingkahsc"
+        },
+        {
+          "code": "mz.sialsuksc"
+        },
+        {
+          "code": "mz.bualpui\u2018ng\u2019sc"
+        },
+        {
+          "code": "mz.sangausc"
+        },
+        {
+          "code": "mz.sumsiluisc"
+        },
+        {
+          "code": "mz.chawngte\u2018pl\u2019sc"
+        },
+        {
+          "code": "mz.chhuarlungphc"
+        },
+        {
+          "code": "mz.chakhangphc"
+        },
+        {
+          "code": "mz.tuipangphc"
+        },
+        {
+          "code": "mz.rawmibawksc"
+        },
+        {
+          "code": "mz.niawhtlangsc"
+        },
+        {
+          "code": "mz.tuipang\u2018l\u2019sc"
+        },
+        {
+          "code": "mz.sairangsc"
+        },
+        {
+          "code": "mz.zawnglingsc"
+        },
+        {
+          "code": "mz.chapuisc"
+        },
+        {
+          "code": "mz.latawhsc"
+        },
+        {
+          "code": "mz.oldsaihasc"
+        },
+        {
+          "code": "mz.saihasc"
+        },
+        {
+          "code": "mz.chakhangsc"
+        },
+        {
+          "code": "mz.tuipang\u2018v\u2019sc"
+        },
+        {
+          "code": "mz.sihphirsc"
+        },
+        {
+          "code": "mz.durtlangsc"
+        },
+        {
+          "code": "mz.zemabawksc"
+        },
+        {
+          "code": "mz.zuangtuisc"
+        },
+        {
+          "code": "mz.chaltlangsc"
+        },
+        {
+          "code": "mz.ramhlunsc"
+        },
+        {
+          "code": "mz.ramhlun\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.sumsuihsc"
+        },
+        {
+          "code": "mz.tuirialairfieldsc"
+        },
+        {
+          "code": "mz.chanmarisc"
+        },
+        {
+          "code": "mz.bazarsc"
+        },
+        {
+          "code": "mz.bethlehemsc"
+        },
+        {
+          "code": "mz.edentharsc"
+        },
+        {
+          "code": "mz.sakawrdaisc"
+        },
+        {
+          "code": "mz.palsangsc"
+        },
+        {
+          "code": "mz.thingsatsc"
+        },
+        {
+          "code": "mz.zohmunsc"
+        },
+        {
+          "code": "mz.thingsulthliahsc"
+        },
+        {
+          "code": "mz.tlungvelsc"
+        },
+        {
+          "code": "mz.selingsc"
+        },
+        {
+          "code": "mz.sesawngsc"
+        },
+        {
+          "code": "mz.khawruhliansc"
+        },
+        {
+          "code": "mz.phaileng\u2018e\u2019sc"
+        },
+        {
+          "code": "mz.darlawnsc"
+        },
+        {
+          "code": "mz.sawlengsc"
+        },
+        {
+          "code": "mz.ratusc"
+        },
+        {
+          "code": "mz.aibawkphc"
+        },
+        {
+          "code": "mz.maucharsc"
+        },
+        {
+          "code": "mz.sialsukphc"
+        },
+        {
+          "code": "mz.sairangphc"
+        },
+        {
+          "code": "mz.hlimenuphc"
+        },
+        {
+          "code": "mz.lawipuuphc"
+        },
+        {
+          "code": "mz.darlawnphc"
+        },
+        {
+          "code": "mz.ratuphc"
+        },
+        {
+          "code": "mz.itiuphc"
+        },
+        {
+          "code": "mz.khawruhlian"
+        },
+        {
+          "code": "mz.thingsulthliah"
+        },
+        {
+          "code": "mz.tinghmunsc"
+        },
+        {
+          "code": "mz.suangpuilawnphc"
+        },
+        {
+          "code": "mz.mimbung"
+        },
+        {
+          "code": "mz.phullen"
+        },
+        {
+          "code": "mz.phuaibuang"
+        },
+        {
+          "code": "mz.nekhawdungsei"
+        },
+        {
+          "code": "mz.maitesc"
+        },
+        {
+          "code": "mz.hliappui"
+        },
+        {
+          "code": "mz.vanbawng"
+        },
+        {
+          "code": "mz.kawlbemsc"
+        },
+        {
+          "code": "mz.lamzawlsc"
+        },
+        {
+          "code": "mz.vaitinsc"
+        },
+        {
+          "code": "mz.sihfasc"
+        },
+        {
+          "code": "mz.buhbansc"
+        },
+        {
+          "code": "mz.tualbungsc"
+        },
+        {
+          "code": "mz.keifangsc"
+        },
+        {
+          "code": "mz.rulchawmsc"
+        },
+        {
+          "code": "mz.lenchimsc"
+        },
+        {
+          "code": "mz.pawlrangsc"
+        },
+        {
+          "code": "mz.saichalsc"
+        },
+        {
+          "code": "mz.khanpuisc"
+        },
+        {
+          "code": "mz.suangpuilawnsc"
+        },
+        {
+          "code": "mz.verveksc"
+        },
+        {
+          "code": "mz.saitualsc"
+        },
+        {
+          "code": "mz.phullensc"
+        },
+        {
+          "code": "mz.thanglailungsc"
+        },
+        {
+          "code": "mz.phuaibuangsc"
+        },
+        {
+          "code": "mz.khawliansc"
+        },
+        {
+          "code": "mz.daidosc"
+        },
+        {
+          "code": "mz.mimbungsc"
+        },
+        {
+          "code": "mz.ngopasc"
+        },
+        {
+          "code": "mz.kawnpuiphc"
+        },
+        {
+          "code": "mz.bukpuiphc"
+        },
+        {
+          "code": "mz.chawlhmunuphc"
+        },
+        {
+          "code": "mz.sihphiruphc"
+        },
+        {
+          "code": "mz.buarpuiphc"
+        },
+        {
+          "code": "mz.bunghmunphc"
+        },
+        {
+          "code": "mz.tawipuiphc"
+        },
+        {
+          "code": "mz.bungtlangsouthphc"
+        },
+        {
+          "code": "mz.lungphersouthphc"
+        },
+        {
+          "code": "mz.khawhaiphc"
+        },
+        {
+          "code": "mz.phurazawlphc"
+        },
+        {
+          "code": "mz.chanmariwestsc"
+        },
+        {
+          "code": "mz.chawnpuisc"
+        },
+        {
+          "code": "mz.chhingavengsc"
+        },
+        {
+          "code": "mz.lawipusc"
+        },
+        {
+          "code": "mz.lengpuisc"
+        },
+        {
+          "code": "mz.lunglengsc"
+        },
+        {
+          "code": "mz.maubawksc"
+        },
+        {
+          "code": "mz.melthumsc"
+        },
+        {
+          "code": "mz.missionvengsc"
+        },
+        {
+          "code": "mz.ramtharvengsc"
+        },
+        {
+          "code": "mz.tlangnuamsc"
+        },
+        {
+          "code": "mz.venghnuaisc"
+        },
+        {
+          "code": "mz.itisc"
+        },
+        {
+          "code": "mz.chawlhmunsc"
+        },
+        {
+          "code": "mz.tuivamitsc"
+        },
+        {
+          "code": "mz.phunchawngsc"
+        },
+        {
+          "code": "mz.dawrpuivengtharsc"
+        },
+        {
+          "code": "mz.khawkawnsc"
+        },
+        {
+          "code": "mz.khawleksc"
+        },
+        {
+          "code": "mz.nekhawdungseisc"
+        },
+        {
+          "code": "mz.teikhangsc"
+        },
+        {
+          "code": "mz.lungchhuansc"
+        },
+        {
+          "code": "mz.lungphosc"
+        },
+        {
+          "code": "mz.rullamsc"
+        },
+        {
+          "code": "mz.sailulaksc"
+        },
+        {
+          "code": "mz.sialhausc"
+        },
+        {
+          "code": "mz.thingliansc"
+        },
+        {
+          "code": "mz.bungzungphc"
+        },
+        {
+          "code": "mz.champhaivengthlangsc"
+        },
+        {
+          "code": "mz.khawbungphc"
+        },
+        {
+          "code": "mz.sesihphc"
+        },
+        {
+          "code": "mz.khawzawlsc"
+        },
+        {
+          "code": "mz.lungtansc"
+        },
+        {
+          "code": "mz.rabungphc"
+        },
+        {
+          "code": "mz.riangtleisc"
+        },
+        {
+          "code": "mz.vanchengpuisc"
+        },
+        {
+          "code": "mz.kawnpuisc"
+        },
+        {
+          "code": "mz.zanlawnsc"
+        },
+        {
+          "code": "mz.boraisc"
+        },
+        {
+          "code": "mz.damdiaisc"
+        },
+        {
+          "code": "mz.nalzawlsc"
+        },
+        {
+          "code": "mz.silsurisc"
+        },
+        {
+          "code": "mz.kawrthahchc"
+        },
+        {
+          "code": "mz.zawlnuamsc"
+        },
+        {
+          "code": "mz.hmunpuisc"
+        },
+        {
+          "code": "mz.schawngtuisc"
+        },
+        {
+          "code": "mz.bunghmun\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.schawilungsc"
+        },
+        {
+          "code": "mz.diblibaghsc"
+        },
+        {
+          "code": "mz.lungchemsc"
+        },
+        {
+          "code": "mz.lungsensc"
+        },
+        {
+          "code": "mz.mualthuamsc"
+        },
+        {
+          "code": "mz.newsachansc"
+        },
+        {
+          "code": "mz.oldsachansc"
+        },
+        {
+          "code": "mz.phairuangkaisc"
+        },
+        {
+          "code": "mz.puankhaisc"
+        },
+        {
+          "code": "mz.sesawmsc"
+        },
+        {
+          "code": "mz.tawipui\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.thenhlumsc"
+        },
+        {
+          "code": "mz.tiperaghatsc"
+        },
+        {
+          "code": "mz.tlabungzodin"
+        },
+        {
+          "code": "mz.nunsurisc"
+        },
+        {
+          "code": "mz.tuichawngsc"
+        },
+        {
+          "code": "mz.vaisamsc"
+        },
+        {
+          "code": "mz.venghlunsc"
+        },
+        {
+          "code": "mz.zohnuaisc"
+        },
+        {
+          "code": "mz.sethlunsc"
+        },
+        {
+          "code": "mz.borapansuryphc"
+        },
+        {
+          "code": "mz.ajasorasc"
+        },
+        {
+          "code": "mz.borapansurysc"
+        },
+        {
+          "code": "mz.bungtlang\u2018s\u2019sc"
+        },
+        {
+          "code": "mz.chamdur\u2018p\u2019sc"
+        },
+        {
+          "code": "mz.cheuralsc"
+        },
+        {
+          "code": "mz.hmunlaisc"
+        },
+        {
+          "code": "mz.khawmawisc"
+        },
+        {
+          "code": "mz.lungrangssc"
+        },
+        {
+          "code": "mz.mkawnpuisc"
+        },
+        {
+          "code": "mz.mautlangsc"
+        },
+        {
+          "code": "mz.saizawh\u2018w\u2019sc"
+        },
+        {
+          "code": "mz.tuithumhnarsc"
+        },
+        {
+          "code": "mz.vawmbuksc"
+        },
+        {
+          "code": "mz.chawngtecsc"
+        },
+        {
+          "code": "mz.lawngpuighatsc"
+        },
+        {
+          "code": "mz.lawngtlaicollegeveng"
+        },
+        {
+          "code": "mz.chhuarlungsc"
+        },
+        {
+          "code": "mz.lakisc"
+        },
+        {
+          "code": "mz.lawngbansc"
+        },
+        {
+          "code": "mz.maubawk(amobyu)sc"
+        },
+        {
+          "code": "mz.phurazawlsc"
+        },
+        {
+          "code": "mz.serkawrsc"
+        },
+        {
+          "code": "mz.siatasc"
+        },
+        {
+          "code": "mz.tongkolongsc"
+        },
+        {
+          "code": "mz.tuipuiferrysc"
+        },
+        {
+          "code": "mz.tuisihsc"
+        },
+        {
+          "code": "mz.tuisumpuisc"
+        },
+        {
+          "code": "mz.vahaisc"
+        }
+      ]
+    }
+  ]
+}

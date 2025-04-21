@@ -19,10 +19,6 @@
         {
           "label": "ENGLISH",
           "value": "en_IN"
-        },
-        {
-          "label": "Mizo",
-          "value": "lus_IN"
         }
       ],
       "localizationModules": [

@@ -1,0 +1,51 @@
+{
+  "tenantId": "sk",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "MANGAN",
+      "name": "Mangan",
+      "active": true
+    },
+    {
+      "code": "EAST SIKKIM",
+      "name": "East Sikkim",
+      "active": true
+    },
+    {
+      "code": "GANGTOK",
+      "name": "Gangtok",
+      "active": true
+    },
+    {
+      "code": "GYALSHING",
+      "name": "Gyalshing",
+      "active": true
+    },
+    {
+      "code": "NAMCHI",
+      "name": "Namchi",
+      "active": true
+    },
+    {
+      "code": "NORTH SIKKIM",
+      "name": "North Sikkim",
+      "active": true
+    },
+    {
+      "code": "PAKYONG",
+      "name": "Pakyong",
+      "active": true
+    },
+    {
+      "code": "SORENG",
+      "name": "Soreng",
+      "active": true
+    },
+    {
+      "code": "WEST SIKKIM",
+      "name": "West Sikkim",
+      "active": true
+    }
+  ]
+}

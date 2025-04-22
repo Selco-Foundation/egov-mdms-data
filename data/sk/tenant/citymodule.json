@@ -1,0 +1,935 @@
+{
+  "tenantId": "sk",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "sk"
+        },
+        {
+          "code": "sk.sakyongpentong"
+        },
+        {
+          "code": "sk.shyagyongrumtek"
+        },
+        {
+          "code": "sk.yangyang"
+        },
+        {
+          "code": "sk.simicklingzey"
+        },
+        {
+          "code": "sk.luing"
+        },
+        {
+          "code": "sk.penlong"
+        },
+        {
+          "code": "sk.martam"
+        },
+        {
+          "code": "sk.raymindu"
+        },
+        {
+          "code": "sk.pangthang"
+        },
+        {
+          "code": "sk.ranka"
+        },
+        {
+          "code": "sk.samdong"
+        },
+        {
+          "code": "sk.sang"
+        },
+        {
+          "code": "sk.khamdong"
+        },
+        {
+          "code": "sk.middlecamp"
+        },
+        {
+          "code": "sk.makha"
+        },
+        {
+          "code": "sk.uphcgangtok"
+        },
+        {
+          "code": "sk.radhukhandu"
+        },
+        {
+          "code": "sk.uttarey"
+        },
+        {
+          "code": "sk.heeyangthang"
+        },
+        {
+          "code": "sk.nakuchungpung"
+        },
+        {
+          "code": "sk.gerethang"
+        },
+        {
+          "code": "sk.yangsumhwc"
+        },
+        {
+          "code": "sk.legship"
+        },
+        {
+          "code": "sk.darap"
+        },
+        {
+          "code": "sk.bangten"
+        },
+        {
+          "code": "sk.tashiding"
+        },
+        {
+          "code": "sk.pelling"
+        },
+        {
+          "code": "sk.sripatam"
+        },
+        {
+          "code": "sk.manglay"
+        },
+        {
+          "code": "sk.turuk"
+        },
+        {
+          "code": "sk.maniramvanzyang"
+        },
+        {
+          "code": "sk.namlungralong"
+        },
+        {
+          "code": "sk.chemchey"
+        },
+        {
+          "code": "sk.sangmo"
+        },
+        {
+          "code": "sk.lowerkamrang"
+        },
+        {
+          "code": "sk.phongla"
+        },
+        {
+          "code": "sk.kabrey"
+        },
+        {
+          "code": "sk.tinkitam"
+        },
+        {
+          "code": "sk.ben"
+        },
+        {
+          "code": "sk.tingmoo"
+        },
+        {
+          "code": "sk.rateypani"
+        },
+        {
+          "code": "sk.damthang"
+        },
+        {
+          "code": "sk.kitam"
+        },
+        {
+          "code": "sk.nehbrum"
+        },
+        {
+          "code": "sk.lingmo"
+        },
+        {
+          "code": "sk.temi"
+        },
+        {
+          "code": "sk.bimbong"
+        },
+        {
+          "code": "sk.sumbuk"
+        },
+        {
+          "code": "sk.jarrong"
+        },
+        {
+          "code": "sk.sadaphamtam"
+        },
+        {
+          "code": "sk.nandugaon"
+        },
+        {
+          "code": "sk.lingipakyong"
+        },
+        {
+          "code": "sk.katengbokrong"
+        },
+        {
+          "code": "sk.sadam"
+        },
+        {
+          "code": "sk.kholagari"
+        },
+        {
+          "code": "sk.lingzo"
+        },
+        {
+          "code": "sk.rayong"
+        },
+        {
+          "code": "sk.namthang"
+        },
+        {
+          "code": "sk.ravangla"
+        },
+        {
+          "code": "sk.rongbul"
+        },
+        {
+          "code": "sk.bermiok"
+        },
+        {
+          "code": "sk.polot"
+        },
+        {
+          "code": "sk.wok"
+        },
+        {
+          "code": "sk.tokalbermoik"
+        },
+        {
+          "code": "sk.naganamgor"
+        },
+        {
+          "code": "sk.singhik"
+        },
+        {
+          "code": "sk.tinghchim"
+        },
+        {
+          "code": "sk.tingbong"
+        },
+        {
+          "code": "sk.ramthang"
+        },
+        {
+          "code": "sk.kabitingda"
+        },
+        {
+          "code": "sk.lingden"
+        },
+        {
+          "code": "sk.shipger"
+        },
+        {
+          "code": "sk.loom"
+        },
+        {
+          "code": "sk.lachen"
+        },
+        {
+          "code": "sk.heegyathang"
+        },
+        {
+          "code": "sk.passingdong"
+        },
+        {
+          "code": "sk.dikchu"
+        },
+        {
+          "code": "sk.paneyphensong"
+        },
+        {
+          "code": "sk.phodong"
+        },
+        {
+          "code": "sk.gor"
+        },
+        {
+          "code": "sk.salimpakel"
+        },
+        {
+          "code": "sk.lachung"
+        },
+        {
+          "code": "sk.gnathang"
+        },
+        {
+          "code": "sk.northregu"
+        },
+        {
+          "code": "sk.lamaten"
+        },
+        {
+          "code": "sk.aritar"
+        },
+        {
+          "code": "sk.sudunglakha"
+        },
+        {
+          "code": "sk.pachak"
+        },
+        {
+          "code": "sk.tareythang"
+        },
+        {
+          "code": "sk.lowerbering"
+        },
+        {
+          "code": "sk.barapathing"
+        },
+        {
+          "code": "sk.changey"
+        },
+        {
+          "code": "sk.aho"
+        },
+        {
+          "code": "sk.centralpendam"
+        },
+        {
+          "code": "sk.nandokhwc"
+        },
+        {
+          "code": "sk.phadamchey"
+        },
+        {
+          "code": "sk.basilakha"
+        },
+        {
+          "code": "sk.machong"
+        },
+        {
+          "code": "sk.westpendam"
+        },
+        {
+          "code": "sk.pubuiknaitam"
+        },
+        {
+          "code": "sk.rolep"
+        },
+        {
+          "code": "sk.subaneydara"
+        },
+        {
+          "code": "sk.pakyong"
+        },
+        {
+          "code": "sk.dugahwc"
+        },
+        {
+          "code": "sk.assamlingey"
+        },
+        {
+          "code": "sk.rhenock"
+        },
+        {
+          "code": "sk.rangpo"
+        },
+        {
+          "code": "sk.lingtam"
+        },
+        {
+          "code": "sk.southregu"
+        },
+        {
+          "code": "sk.uphcranipool"
+        },
+        {
+          "code": "sk.dodak"
+        },
+        {
+          "code": "sk.samdongkaluk"
+        },
+        {
+          "code": "sk.boomreshi"
+        },
+        {
+          "code": "sk.singling"
+        },
+        {
+          "code": "sk.zoom"
+        },
+        {
+          "code": "sk.pakkigoan"
+        },
+        {
+          "code": "sk.buriakhop"
+        },
+        {
+          "code": "sk.daramdin"
+        },
+        {
+          "code": "sk.deythang"
+        },
+        {
+          "code": "sk.chotasamdong"
+        },
+        {
+          "code": "sk.reshi"
+        },
+        {
+          "code": "sk.okhrey"
+        },
+        {
+          "code": "sk.chumbunghwc"
+        },
+        {
+          "code": "sk.ribdibhareng"
+        },
+        {
+          "code": "sk.zeelhatidunga"
+        },
+        {
+          "code": "sk.mangalbaria"
+        },
+        {
+          "code": "sk.khanisherbong"
+        },
+        {
+          "code": "sk.siktamtipur"
+        },
+        {
+          "code": "sk.rinchengpong"
+        },
+        {
+          "code": "sk.chakhung"
+        },
+        {
+          "code": "sk.nayabazar"
+        },
+        {
+          "code": "sk.soreng"
+        },
+        {
+          "code": "sk.kamling"
+        },
+        {
+          "code": "sk.lingdong"
+        },
+        {
+          "code": "sk.karmatarfarek"
+        },
+        {
+          "code": "sk.rorathang"
+        },
+        {
+          "code": "sk.tumlabong"
+        },
+        {
+          "code": "sk.bhasmay"
+        },
+        {
+          "code": "sk.sumin"
+        },
+        {
+          "code": "sk.tumin"
+        },
+        {
+          "code": "sk.raleyhwc"
+        },
+        {
+          "code": "sk.omchu"
+        },
+        {
+          "code": "sk.salghari"
+        },
+        {
+          "code": "sk.kewzing"
+        },
+        {
+          "code": "sk.mamley"
+        },
+        {
+          "code": "sk.chubaperbing"
+        },
+        {
+          "code": "sk.phadamchen"
+        },
+        {
+          "code": "sk.dangeythang"
+        },
+        {
+          "code": "sk.tingley"
+        },
+        {
+          "code": "sk.lingthem"
+        },
+        {
+          "code": "sk.uh&wcchongey"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "sk"
+        },
+        {
+          "code": "sk.sakyongpentong"
+        },
+        {
+          "code": "sk.shyagyongrumtek"
+        },
+        {
+          "code": "sk.yangyang"
+        },
+        {
+          "code": "sk.simicklingzey"
+        },
+        {
+          "code": "sk.luing"
+        },
+        {
+          "code": "sk.penlong"
+        },
+        {
+          "code": "sk.martam"
+        },
+        {
+          "code": "sk.raymindu"
+        },
+        {
+          "code": "sk.pangthang"
+        },
+        {
+          "code": "sk.ranka"
+        },
+        {
+          "code": "sk.samdong"
+        },
+        {
+          "code": "sk.sang"
+        },
+        {
+          "code": "sk.khamdong"
+        },
+        {
+          "code": "sk.middlecamp"
+        },
+        {
+          "code": "sk.makha"
+        },
+        {
+          "code": "sk.uphcgangtok"
+        },
+        {
+          "code": "sk.radhukhandu"
+        },
+        {
+          "code": "sk.uttarey"
+        },
+        {
+          "code": "sk.heeyangthang"
+        },
+        {
+          "code": "sk.nakuchungpung"
+        },
+        {
+          "code": "sk.gerethang"
+        },
+        {
+          "code": "sk.yangsumhwc"
+        },
+        {
+          "code": "sk.legship"
+        },
+        {
+          "code": "sk.darap"
+        },
+        {
+          "code": "sk.bangten"
+        },
+        {
+          "code": "sk.tashiding"
+        },
+        {
+          "code": "sk.pelling"
+        },
+        {
+          "code": "sk.sripatam"
+        },
+        {
+          "code": "sk.manglay"
+        },
+        {
+          "code": "sk.turuk"
+        },
+        {
+          "code": "sk.maniramvanzyang"
+        },
+        {
+          "code": "sk.namlungralong"
+        },
+        {
+          "code": "sk.chemchey"
+        },
+        {
+          "code": "sk.sangmo"
+        },
+        {
+          "code": "sk.lowerkamrang"
+        },
+        {
+          "code": "sk.phongla"
+        },
+        {
+          "code": "sk.kabrey"
+        },
+        {
+          "code": "sk.tinkitam"
+        },
+        {
+          "code": "sk.ben"
+        },
+        {
+          "code": "sk.tingmoo"
+        },
+        {
+          "code": "sk.rateypani"
+        },
+        {
+          "code": "sk.damthang"
+        },
+        {
+          "code": "sk.kitam"
+        },
+        {
+          "code": "sk.nehbrum"
+        },
+        {
+          "code": "sk.lingmo"
+        },
+        {
+          "code": "sk.temi"
+        },
+        {
+          "code": "sk.bimbong"
+        },
+        {
+          "code": "sk.sumbuk"
+        },
+        {
+          "code": "sk.jarrong"
+        },
+        {
+          "code": "sk.sadaphamtam"
+        },
+        {
+          "code": "sk.nandugaon"
+        },
+        {
+          "code": "sk.lingipakyong"
+        },
+        {
+          "code": "sk.katengbokrong"
+        },
+        {
+          "code": "sk.sadam"
+        },
+        {
+          "code": "sk.kholagari"
+        },
+        {
+          "code": "sk.lingzo"
+        },
+        {
+          "code": "sk.rayong"
+        },
+        {
+          "code": "sk.namthang"
+        },
+        {
+          "code": "sk.ravangla"
+        },
+        {
+          "code": "sk.rongbul"
+        },
+        {
+          "code": "sk.bermiok"
+        },
+        {
+          "code": "sk.polot"
+        },
+        {
+          "code": "sk.wok"
+        },
+        {
+          "code": "sk.tokalbermoik"
+        },
+        {
+          "code": "sk.naganamgor"
+        },
+        {
+          "code": "sk.singhik"
+        },
+        {
+          "code": "sk.tinghchim"
+        },
+        {
+          "code": "sk.tingbong"
+        },
+        {
+          "code": "sk.ramthang"
+        },
+        {
+          "code": "sk.kabitingda"
+        },
+        {
+          "code": "sk.lingden"
+        },
+        {
+          "code": "sk.shipger"
+        },
+        {
+          "code": "sk.loom"
+        },
+        {
+          "code": "sk.lachen"
+        },
+        {
+          "code": "sk.heegyathang"
+        },
+        {
+          "code": "sk.passingdong"
+        },
+        {
+          "code": "sk.dikchu"
+        },
+        {
+          "code": "sk.paneyphensong"
+        },
+        {
+          "code": "sk.phodong"
+        },
+        {
+          "code": "sk.gor"
+        },
+        {
+          "code": "sk.salimpakel"
+        },
+        {
+          "code": "sk.lachung"
+        },
+        {
+          "code": "sk.gnathang"
+        },
+        {
+          "code": "sk.northregu"
+        },
+        {
+          "code": "sk.lamaten"
+        },
+        {
+          "code": "sk.aritar"
+        },
+        {
+          "code": "sk.sudunglakha"
+        },
+        {
+          "code": "sk.pachak"
+        },
+        {
+          "code": "sk.tareythang"
+        },
+        {
+          "code": "sk.lowerbering"
+        },
+        {
+          "code": "sk.barapathing"
+        },
+        {
+          "code": "sk.changey"
+        },
+        {
+          "code": "sk.aho"
+        },
+        {
+          "code": "sk.centralpendam"
+        },
+        {
+          "code": "sk.nandokhwc"
+        },
+        {
+          "code": "sk.phadamchey"
+        },
+        {
+          "code": "sk.basilakha"
+        },
+        {
+          "code": "sk.machong"
+        },
+        {
+          "code": "sk.westpendam"
+        },
+        {
+          "code": "sk.pubuiknaitam"
+        },
+        {
+          "code": "sk.rolep"
+        },
+        {
+          "code": "sk.subaneydara"
+        },
+        {
+          "code": "sk.pakyong"
+        },
+        {
+          "code": "sk.dugahwc"
+        },
+        {
+          "code": "sk.assamlingey"
+        },
+        {
+          "code": "sk.rhenock"
+        },
+        {
+          "code": "sk.rangpo"
+        },
+        {
+          "code": "sk.lingtam"
+        },
+        {
+          "code": "sk.southregu"
+        },
+        {
+          "code": "sk.uphcranipool"
+        },
+        {
+          "code": "sk.dodak"
+        },
+        {
+          "code": "sk.samdongkaluk"
+        },
+        {
+          "code": "sk.boomreshi"
+        },
+        {
+          "code": "sk.singling"
+        },
+        {
+          "code": "sk.zoom"
+        },
+        {
+          "code": "sk.pakkigoan"
+        },
+        {
+          "code": "sk.buriakhop"
+        },
+        {
+          "code": "sk.daramdin"
+        },
+        {
+          "code": "sk.deythang"
+        },
+        {
+          "code": "sk.chotasamdong"
+        },
+        {
+          "code": "sk.reshi"
+        },
+        {
+          "code": "sk.okhrey"
+        },
+        {
+          "code": "sk.chumbunghwc"
+        },
+        {
+          "code": "sk.ribdibhareng"
+        },
+        {
+          "code": "sk.zeelhatidunga"
+        },
+        {
+          "code": "sk.mangalbaria"
+        },
+        {
+          "code": "sk.khanisherbong"
+        },
+        {
+          "code": "sk.siktamtipur"
+        },
+        {
+          "code": "sk.rinchengpong"
+        },
+        {
+          "code": "sk.chakhung"
+        },
+        {
+          "code": "sk.nayabazar"
+        },
+        {
+          "code": "sk.soreng"
+        },
+        {
+          "code": "sk.kamling"
+        },
+        {
+          "code": "sk.lingdong"
+        },
+        {
+          "code": "sk.karmatarfarek"
+        },
+        {
+          "code": "sk.rorathang"
+        },
+        {
+          "code": "sk.tumlabong"
+        },
+        {
+          "code": "sk.bhasmay"
+        },
+        {
+          "code": "sk.sumin"
+        },
+        {
+          "code": "sk.tumin"
+        },
+        {
+          "code": "sk.raleyhwc"
+        },
+        {
+          "code": "sk.omchu"
+        },
+        {
+          "code": "sk.salghari"
+        },
+        {
+          "code": "sk.kewzing"
+        },
+        {
+          "code": "sk.mamley"
+        },
+        {
+          "code": "sk.chubaperbing"
+        },
+        {
+          "code": "sk.phadamchen"
+        },
+        {
+          "code": "sk.dangeythang"
+        },
+        {
+          "code": "sk.tingley"
+        },
+        {
+          "code": "sk.lingthem"
+        },
+        {
+          "code": "sk.uh&wcchongey"
+        }
+      ]
+    }
+  ]
+}

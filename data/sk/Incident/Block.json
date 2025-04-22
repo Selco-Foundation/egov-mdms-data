@@ -1,0 +1,528 @@
+{
+  "tenantId": "sk",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "mangan.passingdong",
+      "name": "Passingdong",
+      "districtCode": "MANGAN",
+      "active": true
+    },
+    {
+      "code": "eastsikkim.ranka",
+      "name": "Ranka",
+      "districtCode": "EASTSIKKIM",
+      "active": true
+    },
+    {
+      "code": "eastsikkim.yangyang",
+      "name": "Yang Yang",
+      "districtCode": "EASTSIKKIM",
+      "active": true
+    },
+    {
+      "code": "gangtok.sang",
+      "name": "Sang",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.sandong",
+      "name": "Sandong",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.ranka",
+      "name": "Ranka",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.pangthang",
+      "name": "Pangthang",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.samdong",
+      "name": "Samdong",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.martam",
+      "name": "Martam",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.namligpu",
+      "name": "Namli GPU",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.rakdongtintek/samdong",
+      "name": "Rakdong Tintek/Samdong",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.gangtok",
+      "name": "Gangtok",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gyalshing.dentam",
+      "name": "Dentam",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.nakupelling",
+      "name": "Naku Pelling",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.arithangchongrang",
+      "name": "Arithang Chongrang",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.heemartam",
+      "name": "Hee Martam",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.geyzingomchung",
+      "name": "Geyzingomchung",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.darap",
+      "name": "Darap",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.bentam",
+      "name": "Bentam",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.chongrang",
+      "name": "Chongrang",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "gyalshing.geyzing",
+      "name": "Geyzing",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
+      "code": "namchi.yangang",
+      "name": "YANGANG",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.tokelbermoik",
+      "name": "TOKELBERMOIK",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.melli",
+      "name": "MELLI",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.namthang",
+      "name": "NAMTHANG",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.ravanla",
+      "name": "RAVANLA",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.namchi",
+      "name": "NAMCHI",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.rabong",
+      "name": "RABONG",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.namthangrataytapani",
+      "name": "Namthang Rataytapani",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.ravangla",
+      "name": "Ravangla",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.temi",
+      "name": "Temi",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.jorethang",
+      "name": "Jorethang",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.wangang",
+      "name": "Wangang",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.namthangsouth",
+      "name": "Namthang SOUTH",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.sumbuk",
+      "name": "Sumbuk",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.rabangla",
+      "name": "Rabangla",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.heemartam",
+      "name": "Heemartam",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.tokalbermoik",
+      "name": "Tokal Bermoik",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "northsikkim.mangan",
+      "name": "Mangan",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.mangandistrict",
+      "name": "Mangan District",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.zongu",
+      "name": "Zongu",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.pasingbong",
+      "name": "Pasingbong",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.pudung",
+      "name": "Pudung",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.kabi",
+      "name": "Kabi",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.pasingang",
+      "name": "Pasingang",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.chungthang",
+      "name": "Chungthang",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.zangu",
+      "name": "Zangu",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.heegyathang",
+      "name": "Hee Gyathang",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.passingdong",
+      "name": "Passingdong",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.dikchu",
+      "name": "Dikchu",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.dzonguunderheeyathangphc",
+      "name": "Dzongu under Hee yathang PHC",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.lachung",
+      "name": "Lachung",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "pakyong.rongli",
+      "name": "Rongli",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.regu",
+      "name": "Regu",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.rhenock",
+      "name": "Rhenock",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.duga",
+      "name": "Duga",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.machong",
+      "name": "Machong",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.singtam",
+      "name": "Singtam",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.parkha",
+      "name": "Parkha",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.pakyong",
+      "name": "Pakyong",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.nandoksaramsa",
+      "name": "Nandok Saramsa",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.namchebong",
+      "name": "Namchebong",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.rangpo",
+      "name": "Rangpo",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.nandok",
+      "name": "Nandok",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.reghu",
+      "name": "Reghu",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "pakyong.saramsa",
+      "name": "Saramsa",
+      "districtCode": "PAKYONG",
+      "active": true
+    },
+    {
+      "code": "soreng.soreng",
+      "name": "SORENG",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.rinchenpong",
+      "name": "Rinchenpong",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.rinchenbong",
+      "name": "Rinchenbong",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.budang",
+      "name": "Budang",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.lowerthambong",
+      "name": "Lower Thambong",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.kalukringenpong",
+      "name": "Kalukringenpong",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.chakungthumbong",
+      "name": "Chakungthumbong",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.mangalagiri",
+      "name": "Mangalagiri",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.daramdin",
+      "name": "Daramdin",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.sombaria",
+      "name": "Sombaria",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.kaluk",
+      "name": "Kaluk",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.mangalbaria",
+      "name": "Mangalbaria",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "soreng.chakung-chumbong",
+      "name": "Chakung-Chumbong",
+      "districtCode": "SORENG",
+      "active": true
+    },
+    {
+      "code": "westsikkim.mangalbaria",
+      "name": "Mangalbaria",
+      "districtCode": "WESTSIKKIM",
+      "active": true
+    },
+    {
+      "code": "northsikkim.heegyathanglowerdzongu",
+      "name": "Heegyathang Lower Dzongu",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "gangtok.tumingpu",
+      "name": "Tumin GPU",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "gangtok.ragdongtintek",
+      "name": "Ragdong Tintek",
+      "districtCode": "GANGTOK",
+      "active": true
+    },
+    {
+      "code": "namchi.jorchang",
+      "name": "Jorchang",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.ragongla",
+      "name": "Ragongla",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.boredhane",
+      "name": "Boredhane",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "northsikkim.dzongeu",
+      "name": "Dzongeu",
+      "districtCode": "NORTHSIKKIM",
+      "active": true
+    }
+  ]
+}

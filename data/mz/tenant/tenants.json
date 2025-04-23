@@ -309,6 +309,40 @@
       "contactNumber": "8794673186"
     },
     {
+      "code": "mz.saipumsc",
+      "name": "Saipum SC",
+      "description": "Saipum SC",
+      "centreType": "SC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Saipum SC",
+        "localName": null,
+        "districtCode": "KOLASIB",
+        "districtName": "Kolasib",
+        "blockCode": "kolasib.bilkhawthlir",
+        "districtTenantCode": "mz.saipumsc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-SaipumSC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "7005277470"
+    },
+    {
       "code": "mz.pangbalkawnsc",
       "name": "Pangbalkawn SC",
       "description": "Pangbalkawn SC",
@@ -3675,40 +3709,6 @@
       "contactNumber": "8414050504"
     },
     {
-      "code": "mz.samlukhaisc",
-      "name": "Samlukhai SC",
-      "description": "Samlukhai SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Samlukhai SC",
-        "localName": null,
-        "districtCode": "AIZAWL",
-        "districtName": "Aizawl",
-        "blockCode": "aizawl.tlangnuam",
-        "districtTenantCode": "mz.samlukhaisc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-SamlukhaiSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9863256013/7005982554"
-    },
-    {
       "code": "mz.zemabawk",
       "name": "Zemabawk",
       "description": "Zemabawk",
@@ -6701,40 +6701,6 @@
       "contactNumber": "7483568639"
     },
     {
-      "code": "mz.tawipui\u2018n\u2019",
-      "name": "Tawipui \u2018N\u2019",
-      "description": "Tawipui \u2018N\u2019",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Tawipui \u2018N\u2019",
-        "localName": null,
-        "districtCode": "LUNGLEI",
-        "districtName": "Lunglei",
-        "blockCode": "lunglei.lunglei",
-        "districtTenantCode": "mz.tawipui\u2018n\u2019",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-TawipuiN",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9366118029"
-    },
-    {
       "code": "mz.thualthusc",
       "name": "Thualthu SC",
       "description": "Thualthu SC",
@@ -6801,6 +6767,40 @@
       },
       "address": "Mizoram",
       "contactNumber": "8794681078"
+    },
+    {
+      "code": "mz.tuipuidsc",
+      "name": "Tuipui D SC",
+      "description": "Tuipui D SC",
+      "centreType": "SC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Tuipui D SC",
+        "localName": null,
+        "districtCode": "HNAHTHIAL",
+        "districtName": "Hnahthial",
+        "blockCode": "hnahthial.hnahthial",
+        "districtTenantCode": "mz.tuipuidsc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-TuipuiDSC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "8118912113"
     },
     {
       "code": "mz.tarphosc",
@@ -7211,40 +7211,6 @@
       "contactNumber": "8575364541"
     },
     {
-      "code": "mz.bualpui\u2018h\u2019sc",
-      "name": "Bualpui \u2018H\u2019 SC",
-      "description": "Bualpui \u2018H\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Bualpui \u2018H\u2019 SC",
-        "localName": null,
-        "districtCode": "HNAHTHIAL",
-        "districtName": "Hnahthial",
-        "blockCode": "hnahthial.hnahthial",
-        "districtTenantCode": "mz.bualpui\u2018h\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-BualpuiHSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8974792879"
-    },
-    {
       "code": "mz.cherhlun",
       "name": "Cherhlun",
       "description": "Cherhlun",
@@ -7413,40 +7379,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "9862005872"
-    },
-    {
-      "code": "mz.bualpui\u2018ng\u2019phc",
-      "name": "Bualpui \u2018NG\u2019 PHC",
-      "description": "Bualpui \u2018NG\u2019 PHC",
-      "centreType": "PHC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Bualpui \u2018NG\u2019 PHC",
-        "localName": null,
-        "districtCode": "LAWNGTLAI",
-        "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.sangau",
-        "districtTenantCode": "mz.bualpui\u2018ng\u2019phc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-BualpuiNGPHC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8949614113"
     },
     {
       "code": "mz.sangauphc",
@@ -7789,40 +7721,6 @@
       "contactNumber": "9612534164"
     },
     {
-      "code": "mz.bualpui\u2018ng\u2019sc",
-      "name": "Bualpui \u2018NG\u2019 SC",
-      "description": "Bualpui \u2018NG\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Bualpui \u2018NG\u2019 SC",
-        "localName": null,
-        "districtCode": "LAWNGTLAI",
-        "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.sangau",
-        "districtTenantCode": "mz.bualpui\u2018ng\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-BualpuiNGSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9862323621"
-    },
-    {
       "code": "mz.sangausc",
       "name": "Sangau SC",
       "description": "Sangau SC",
@@ -7889,40 +7787,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "8787791149"
-    },
-    {
-      "code": "mz.chawngte\u2018pl\u2019sc",
-      "name": "Chawngte \u2018PL\u2019 SC",
-      "description": "Chawngte \u2018PL\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Chawngte \u2018PL\u2019 SC",
-        "localName": null,
-        "districtCode": "LAWNGTLAI",
-        "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.chawngte",
-        "districtTenantCode": "mz.chawngte\u2018pl\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-ChawngtePLSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8132909745"
     },
     {
       "code": "mz.chhuarlungphc",
@@ -8093,40 +7957,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "8787481020"
-    },
-    {
-      "code": "mz.tuipang\u2018l\u2019sc",
-      "name": "Tuipang \u2018L\u2019 SC",
-      "description": "Tuipang \u2018L\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Tuipang \u2018L\u2019 SC",
-        "localName": null,
-        "districtCode": "SIAHA",
-        "districtName": "Siaha",
-        "blockCode": "siaha.tuipang",
-        "districtTenantCode": "mz.tuipang\u2018l\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-TuipangLSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8974658475"
     },
     {
       "code": "mz.sairangsc",
@@ -8367,40 +8197,6 @@
       "contactNumber": "9862968623"
     },
     {
-      "code": "mz.tuipang\u2018v\u2019sc",
-      "name": "Tuipang \u2018V\u2019 SC",
-      "description": "Tuipang \u2018V\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Tuipang \u2018V\u2019 SC",
-        "localName": null,
-        "districtCode": "SIAHA",
-        "districtName": "Siaha",
-        "blockCode": "siaha.tuipang",
-        "districtTenantCode": "mz.tuipang\u2018v\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-TuipangVSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8730976461"
-    },
-    {
       "code": "mz.sihphirsc",
       "name": "Sihphir SC",
       "description": "Sihphir SC",
@@ -8603,40 +8399,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "7641038145"
-    },
-    {
-      "code": "mz.ramhlun\u2018s\u2019sc",
-      "name": "Ramhlun \u2018S\u2019 SC",
-      "description": "Ramhlun \u2018S\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Ramhlun \u2018S\u2019 SC",
-        "localName": null,
-        "districtCode": "AIZAWL",
-        "districtName": "Aizawl",
-        "blockCode": "aizawl.tlangnuam",
-        "districtTenantCode": "mz.ramhlun\u2018s\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-RamhlunSSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9436146275"
     },
     {
       "code": "mz.sumsuihsc",
@@ -9147,40 +8909,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "9402323306"
-    },
-    {
-      "code": "mz.phaileng\u2018e\u2019sc",
-      "name": "Phaileng \u2018E\u2019 SC",
-      "description": "Phaileng \u2018E\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Phaileng \u2018E\u2019 SC",
-        "localName": null,
-        "districtCode": "AIZAWL",
-        "districtName": "Aizawl",
-        "blockCode": "aizawl.darlawn",
-        "districtTenantCode": "mz.phaileng\u2018e\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-PhailengESC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9612769394"
     },
     {
       "code": "mz.darlawnsc",
@@ -9795,40 +9523,6 @@
       "contactNumber": "9561205113"
     },
     {
-      "code": "mz.phuaibuang",
-      "name": "Phuaibuang",
-      "description": "Phuaibuang",
-      "centreType": "PHC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Phuaibuang",
-        "localName": null,
-        "districtCode": "SAITUAL",
-        "districtName": "Saitual",
-        "blockCode": "saitual.phullen",
-        "districtTenantCode": "mz.phuaibuang",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-PhuaibuangPHC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9402337773/8787514126"
-    },
-    {
       "code": "mz.nekhawdungsei",
       "name": "NE Khawdungsei",
       "description": "NE Khawdungsei",
@@ -10269,40 +9963,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "8729891904"
-    },
-    {
-      "code": "mz.pawlrangsc",
-      "name": "Pawlrang SC",
-      "description": "Pawlrang SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Pawlrang SC",
-        "localName": null,
-        "districtCode": "SAITUAL",
-        "districtName": "Saitual",
-        "blockCode": "saitual.ngopa",
-        "districtTenantCode": "mz.pawlrangsc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-PawlrangSC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "6909482714/8258029536"
     },
     {
       "code": "mz.saichalsc",
@@ -12277,40 +11937,6 @@
       "contactNumber": "9856302515"
     },
     {
-      "code": "mz.vanchengpuisc",
-      "name": "Vanchengpui SC",
-      "description": "Vanchengpui SC",
-      "centreType": "SC (Delivery)",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC (Delivery)",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Vanchengpui SC",
-        "localName": null,
-        "districtCode": "KHAWZAWL",
-        "districtName": "Khawzawl",
-        "blockCode": "khawzawl.serchhip",
-        "districtTenantCode": "mz.vanchengpuisc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Vanchengpui SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9862914788/ 8413954182"
-    },
-    {
       "code": "mz.kawnpuisc",
       "name": "Kawnpui SC",
       "description": "Kawnpui SC",
@@ -12377,40 +12003,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "9774428525"
-    },
-    {
-      "code": "mz.boraisc",
-      "name": "Borai SC",
-      "description": "Borai SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Borai SC",
-        "localName": null,
-        "districtCode": "MAMIT",
-        "districtName": "Mamit",
-        "blockCode": "mamit.zawlnuam",
-        "districtTenantCode": "mz.boraisc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Borai SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8730803242/ 9366250895"
     },
     {
       "code": "mz.damdiaisc",
@@ -12617,6 +12209,40 @@
       "contactNumber": "7421937296"
     },
     {
+      "code": "mz.leitesc",
+      "name": "Leite SC",
+      "description": "Leite SC",
+      "centreType": "SC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Leite SC",
+        "localName": null,
+        "districtCode": "HNAHTHIAL",
+        "districtName": "Hnahthial",
+        "blockCode": "hnahthial.hnahthial",
+        "districtTenantCode": "mz.leitesc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Leite SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "6909399273"
+    },
+    {
       "code": "mz.schawngtuisc",
       "name": "S. Chawngtui SC",
       "description": "S. Chawngtui SC",
@@ -12651,13 +12277,13 @@
       "contactNumber": "9089521504"
     },
     {
-      "code": "mz.bunghmun\u2018s\u2019sc",
-      "name": "Bunghmun \u2018S\u2019 SC",
-      "description": "Bunghmun \u2018S\u2019 SC",
-      "centreType": "SC",
+      "code": "mz.changpuisc",
+      "name": "Changpui SC",
+      "description": "Changpui SC",
+      "centreType": "SC (Delivery)",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
+      "type": "SC (Delivery)",
       "logoId": null,
       "imageId": null,
       "twitterUrl": null,
@@ -12666,23 +12292,23 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Bunghmun \u2018S\u2019 SC",
+        "name": "Changpui SC",
         "localName": null,
         "districtCode": "LUNGLEI",
         "districtName": "Lunglei",
         "blockCode": "lunglei.bunghmun",
-        "districtTenantCode": "mz.bunghmun\u2018s\u2019sc",
+        "districtTenantCode": "mz.changpuisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
         "latitude": null,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "MZ-Bunghmun \u2018S\u2019 SC",
+        "code": "MZ-Changpui SC",
         "ddrName": null
       },
       "address": "Mizoram",
-      "contactNumber": "8974731944"
+      "contactNumber": "8118912113"
     },
     {
       "code": "mz.schawilungsc",
@@ -12889,40 +12515,6 @@
       "contactNumber": "91081 36250"
     },
     {
-      "code": "mz.oldsachansc",
-      "name": "Old Sachan SC",
-      "description": "Old Sachan SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Old Sachan SC",
-        "localName": null,
-        "districtCode": "LUNGLEI",
-        "districtName": "Lunglei",
-        "blockCode": "lunglei.bunghmun",
-        "districtTenantCode": "mz.oldsachansc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Old Sachan SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "600956870"
-    },
-    {
       "code": "mz.phairuangkaisc",
       "name": "Phairuangkai SC",
       "description": "Phairuangkai SC",
@@ -13023,40 +12615,6 @@
       },
       "address": "Mizoram",
       "contactNumber": "9612226196"
-    },
-    {
-      "code": "mz.tawipui\u2018s\u2019sc",
-      "name": "Tawipui \u2018S\u2019 SC",
-      "description": "Tawipui \u2018S\u2019 SC",
-      "centreType": "SC (Delivery)",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC (Delivery)",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Tawipui \u2018S\u2019 SC",
-        "localName": null,
-        "districtCode": "LUNGLEI",
-        "districtName": "Lunglei",
-        "blockCode": "lunglei.lunglei",
-        "districtTenantCode": "mz.tawipui\u2018s\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Tawipui \u2018S\u2019 SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9436763543"
     },
     {
       "code": "mz.thenhlumsc",
@@ -13365,6 +12923,40 @@
       "contactNumber": "8105715072"
     },
     {
+      "code": "mz.sekhumsc",
+      "name": "Sekhum SC",
+      "description": "Sekhum SC",
+      "centreType": "SC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Sekhum SC",
+        "localName": null,
+        "districtCode": "LUNGLEI",
+        "districtName": "Lunglei",
+        "blockCode": "lunglei.lunglei",
+        "districtTenantCode": "mz.sekhumsc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Sekhum SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "6909592173"
+    },
+    {
       "code": "mz.borapansuryphc",
       "name": "Borapansury PHC",
       "description": "Borapansury PHC",
@@ -13433,108 +13025,6 @@
       "contactNumber": "9612616093"
     },
     {
-      "code": "mz.borapansurysc",
-      "name": "Borapansury SC",
-      "description": "Borapansury SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Borapansury SC",
-        "localName": null,
-        "districtCode": "LAWNGTLAI",
-        "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.chawngte",
-        "districtTenantCode": "mz.borapansurysc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Borapansury SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "9862323554/\n  6909142374"
-    },
-    {
-      "code": "mz.bungtlang\u2018s\u2019sc",
-      "name": "Bungtlang \u2018S\u2019 SC",
-      "description": "Bungtlang \u2018S\u2019 SC",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Bungtlang \u2018S\u2019 SC",
-        "localName": null,
-        "districtCode": "LAWNGTLAI",
-        "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.bungtlangsouth",
-        "districtTenantCode": "mz.bungtlang\u2018s\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Bungtlang \u2018S\u2019 SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "8291313278"
-    },
-    {
-      "code": "mz.chamdur\u2018p\u2019sc",
-      "name": "Chamdur \u2018P\u2019 SC",
-      "description": "Chamdur \u2018P\u2019 SC",
-      "centreType": "SC (Delivery)",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC (Delivery)",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Chamdur \u2018P\u2019 SC",
-        "localName": null,
-        "districtCode": "LAWNGTLAI",
-        "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.bungtlangsouth",
-        "districtTenantCode": "mz.chamdur\u2018p\u2019sc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Chamdur \u2018P\u2019 SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "7807296284"
-    },
-    {
       "code": "mz.cheuralsc",
       "name": "Cheural SC",
       "description": "Cheural SC",
@@ -13567,6 +13057,40 @@
       },
       "address": "Mizoram",
       "contactNumber": "7085924731"
+    },
+    {
+      "code": "mz.damdepsc",
+      "name": "Damdep SC",
+      "description": "Damdep SC",
+      "centreType": "SC (Delivery)",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC (Delivery)",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Damdep SC",
+        "localName": null,
+        "districtCode": "LAWNGTLAI",
+        "districtName": "Lawngtlai",
+        "blockCode": "lawngtlai.chawngte",
+        "districtTenantCode": "mz.damdepsc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Damdep SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "6909592173"
     },
     {
       "code": "mz.hmunlaisc",
@@ -13603,6 +13127,40 @@
       "contactNumber": "8732065245"
     },
     {
+      "code": "mz.kawlchawsc",
+      "name": "Kawlchaw SC",
+      "description": "Kawlchaw SC",
+      "centreType": "SC (Delivery)",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC (Delivery)",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Kawlchaw SC",
+        "localName": null,
+        "districtCode": "LAWNGTLAI",
+        "districtName": "Lawngtlai",
+        "blockCode": "lawngtlai.lawngtlai",
+        "districtTenantCode": "mz.kawlchawsc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Kawlchaw SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "9774926674"
+    },
+    {
       "code": "mz.khawmawisc",
       "name": "Khawmawi SC",
       "description": "Khawmawi SC",
@@ -13635,6 +13193,74 @@
       },
       "address": "Mizoram",
       "contactNumber": "8415807058"
+    },
+    {
+      "code": "mz.lawngpuighatphc",
+      "name": "Lawngpuighat PHC",
+      "description": "Lawngpuighat PHC",
+      "centreType": "PHC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "PHC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Lawngpuighat PHC",
+        "localName": null,
+        "districtCode": "LAWNGTLAI",
+        "districtName": "Lawngtlai",
+        "blockCode": "lawngtlai.chawngte",
+        "districtTenantCode": "mz.lawngpuighatphc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Lawngpuighat PHC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "9774926674"
+    },
+    {
+      "code": "mz.lungphersc",
+      "name": "Lungpher SC",
+      "description": "Lungpher SC",
+      "centreType": "SC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Lungpher SC",
+        "localName": null,
+        "districtCode": "LAWNGTLAI",
+        "districtName": "Lawngtlai",
+        "blockCode": "lawngtlai.sangau",
+        "districtTenantCode": "mz.lungphersc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Lungpher SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "6909399273"
     },
     {
       "code": "mz.lungrangssc",
@@ -13739,13 +13365,13 @@
       "contactNumber": "9612039080"
     },
     {
-      "code": "mz.saizawh\u2018w\u2019sc",
-      "name": "Saizawh \u2018W\u2019 SC",
-      "description": "Saizawh \u2018W\u2019 SC",
-      "centreType": "SC",
+      "code": "mz.pangkhuasc",
+      "name": "Pangkhua SC",
+      "description": "Pangkhua SC",
+      "centreType": "SC (Delivery)",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
+      "type": "SC (Delivery)",
       "logoId": null,
       "imageId": null,
       "twitterUrl": null,
@@ -13754,23 +13380,57 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Saizawh \u2018W\u2019 SC",
+        "name": "Pangkhua SC",
         "localName": null,
         "districtCode": "LAWNGTLAI",
         "districtName": "Lawngtlai",
-        "blockCode": "lawngtlai.chawngte",
-        "districtTenantCode": "mz.saizawh\u2018w\u2019sc",
+        "blockCode": "lawngtlai.sangau",
+        "districtTenantCode": "mz.pangkhuasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
         "latitude": null,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "MZ-Saizawh \u2018W\u2019 SC",
+        "code": "MZ-Pangkhua SC",
         "ddrName": null
       },
       "address": "Mizoram",
-      "contactNumber": "9816932919"
+      "contactNumber": "7642806857"
+    },
+    {
+      "code": "mz.parvasc",
+      "name": "Parva SC",
+      "description": "Parva SC",
+      "centreType": "SC (Delivery)",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC (Delivery)",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Parva SC",
+        "localName": null,
+        "districtCode": "LAWNGTLAI",
+        "districtName": "Lawngtlai",
+        "blockCode": "lawngtlai.chawngte",
+        "districtTenantCode": "mz.parvasc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Parva SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "7642806857"
     },
     {
       "code": "mz.tuithumhnarsc",
@@ -13805,6 +13465,40 @@
       },
       "address": "Mizoram",
       "contactNumber": "9862347556"
+    },
+    {
+      "code": "mz.vathuampuisc",
+      "name": "Vathuampui SC",
+      "description": "Vathuampui SC",
+      "centreType": "SC (Delivery)",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC (Delivery)",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Vathuampui SC",
+        "localName": null,
+        "districtCode": "LAWNGTLAI",
+        "districtName": "Lawngtlai",
+        "blockCode": "lawngtlai.lawngtlai",
+        "districtTenantCode": "mz.vathuampuisc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Vathuampui SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "7642806857"
     },
     {
       "code": "mz.vawmbuksc",
@@ -14011,40 +13705,6 @@
       "contactNumber": "7022497995"
     },
     {
-      "code": "mz.lawngbansc",
-      "name": "Lawngban SC",
-      "description": "Lawngban SC",
-      "centreType": "SC (Delivery)",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC (Delivery)",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Lawngban SC",
-        "localName": null,
-        "districtCode": "SIAHA",
-        "districtName": "Siaha",
-        "blockCode": "siaha.tipa",
-        "districtTenantCode": "mz.lawngbansc",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "MZ-Lawngban SC",
-        "ddrName": null
-      },
-      "address": "Mizoram",
-      "contactNumber": "7612119488/9612119488"
-    },
-    {
       "code": "mz.maubawk(amobyu)sc",
       "name": "Maubawk (Amobyu) SC",
       "description": "Maubawk (Amobyu) SC",
@@ -14077,6 +13737,40 @@
       },
       "address": "Mizoram",
       "contactNumber": "8974469689"
+    },
+    {
+      "code": "mz.phalhrangsc",
+      "name": "Phalhrang SC",
+      "description": "Phalhrang SC",
+      "centreType": "SC (Delivery)",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC (Delivery)",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Phalhrang SC",
+        "localName": null,
+        "districtCode": "SIAHA",
+        "districtName": "Siaha",
+        "blockCode": "siaha.siaha",
+        "districtTenantCode": "mz.phalhrangsc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MZ-Phalhrang SC",
+        "ddrName": null
+      },
+      "address": "Mizoram",
+      "contactNumber": "7005277470"
     },
     {
       "code": "mz.phurazawlsc",

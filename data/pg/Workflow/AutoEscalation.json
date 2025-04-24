@@ -21,16 +21,6 @@
         "stateSLA": 0.001,
         "businessSLA": null,
         "topic": "im-auto-escalation"
-      },
-      {
-        "businessService": "Incident",
-        "module": "im-services",
-        "state": "REJECTED",
-        "action": "CLOSE",
-        "active": "true",
-        "stateSLA": 3.0,
-        "businessSLA": null,
-        "topic": "im-auto-escalation"
       }
     ]
   }

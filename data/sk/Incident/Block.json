@@ -99,14 +99,14 @@
       "active": true
     },
     {
-      "code": "gyalshing.geyzingomchung",
-      "name": "Geyzingomchung",
+      "code": "gyalshing.yaksom",
+      "name": "Yaksom",
       "districtCode": "GYALSHING",
       "active": true
     },
     {
-      "code": "gyalshing.darap",
-      "name": "Darap",
+      "code": "gyalshing.geyzingomchung",
+      "name": "Geyzingomchung",
       "districtCode": "GYALSHING",
       "active": true
     },
@@ -215,12 +215,6 @@
     {
       "code": "namchi.rabangla",
       "name": "Rabangla",
-      "districtCode": "NAMCHI",
-      "active": true
-    },
-    {
-      "code": "namchi.heemartam",
-      "name": "Heemartam",
       "districtCode": "NAMCHI",
       "active": true
     },
@@ -486,6 +480,12 @@
       "code": "northsikkim.heegyathanglowerdzongu",
       "name": "Heegyathang Lower Dzongu",
       "districtCode": "NORTHSIKKIM",
+      "active": true
+    },
+    {
+      "code": "gyalshing.yuksom",
+      "name": "YUKSOM",
+      "districtCode": "GYALSHING",
       "active": true
     },
     {

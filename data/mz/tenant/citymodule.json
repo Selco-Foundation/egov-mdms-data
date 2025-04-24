@@ -36,6 +36,9 @@
           "code": "mz.saiphaisc"
         },
         {
+          "code": "mz.saipumsc"
+        },
+        {
           "code": "mz.pangbalkawnsc"
         },
         {
@@ -333,9 +336,6 @@
           "code": "mz.hnahlanphc"
         },
         {
-          "code": "mz.samlukhaisc"
-        },
-        {
           "code": "mz.zemabawk"
         },
         {
@@ -600,13 +600,13 @@
           "code": "mz.zotuisc"
         },
         {
-          "code": "mz.tawipui\u2018n\u2019"
-        },
-        {
           "code": "mz.thualthusc"
         },
         {
           "code": "mz.hnahthialsc"
+        },
+        {
+          "code": "mz.tuipuidsc"
         },
         {
           "code": "mz.tarphosc"
@@ -645,9 +645,6 @@
           "code": "mz.muallianpuisc"
         },
         {
-          "code": "mz.bualpui\u2018h\u2019sc"
-        },
-        {
           "code": "mz.cherhlun"
         },
         {
@@ -661,9 +658,6 @@
         },
         {
           "code": "mz.muallungthusc"
-        },
-        {
-          "code": "mz.bualpui\u2018ng\u2019phc"
         },
         {
           "code": "mz.sangauphc"
@@ -696,16 +690,10 @@
           "code": "mz.sialsuksc"
         },
         {
-          "code": "mz.bualpui\u2018ng\u2019sc"
-        },
-        {
           "code": "mz.sangausc"
         },
         {
           "code": "mz.sumsiluisc"
-        },
-        {
-          "code": "mz.chawngte\u2018pl\u2019sc"
         },
         {
           "code": "mz.chhuarlungphc"
@@ -721,9 +709,6 @@
         },
         {
           "code": "mz.niawhtlangsc"
-        },
-        {
-          "code": "mz.tuipang\u2018l\u2019sc"
         },
         {
           "code": "mz.sairangsc"
@@ -747,9 +732,6 @@
           "code": "mz.chakhangsc"
         },
         {
-          "code": "mz.tuipang\u2018v\u2019sc"
-        },
-        {
           "code": "mz.sihphirsc"
         },
         {
@@ -766,9 +748,6 @@
         },
         {
           "code": "mz.ramhlunsc"
-        },
-        {
-          "code": "mz.ramhlun\u2018s\u2019sc"
         },
         {
           "code": "mz.sumsuihsc"
@@ -814,9 +793,6 @@
         },
         {
           "code": "mz.khawruhliansc"
-        },
-        {
-          "code": "mz.phaileng\u2018e\u2019sc"
         },
         {
           "code": "mz.darlawnsc"
@@ -873,9 +849,6 @@
           "code": "mz.phullen"
         },
         {
-          "code": "mz.phuaibuang"
-        },
-        {
           "code": "mz.nekhawdungsei"
         },
         {
@@ -913,9 +886,6 @@
         },
         {
           "code": "mz.lenchimsc"
-        },
-        {
-          "code": "mz.pawlrangsc"
         },
         {
           "code": "mz.saichalsc"
@@ -1092,16 +1062,10 @@
           "code": "mz.riangtleisc"
         },
         {
-          "code": "mz.vanchengpuisc"
-        },
-        {
           "code": "mz.kawnpuisc"
         },
         {
           "code": "mz.zanlawnsc"
-        },
-        {
-          "code": "mz.boraisc"
         },
         {
           "code": "mz.damdiaisc"
@@ -1122,10 +1086,13 @@
           "code": "mz.hmunpuisc"
         },
         {
+          "code": "mz.leitesc"
+        },
+        {
           "code": "mz.schawngtuisc"
         },
         {
-          "code": "mz.bunghmun\u2018s\u2019sc"
+          "code": "mz.changpuisc"
         },
         {
           "code": "mz.schawilungsc"
@@ -1146,9 +1113,6 @@
           "code": "mz.newsachansc"
         },
         {
-          "code": "mz.oldsachansc"
-        },
-        {
           "code": "mz.phairuangkaisc"
         },
         {
@@ -1156,9 +1120,6 @@
         },
         {
           "code": "mz.sesawmsc"
-        },
-        {
-          "code": "mz.tawipui\u2018s\u2019sc"
         },
         {
           "code": "mz.thenhlumsc"
@@ -1188,28 +1149,34 @@
           "code": "mz.sethlunsc"
         },
         {
+          "code": "mz.sekhumsc"
+        },
+        {
           "code": "mz.borapansuryphc"
         },
         {
           "code": "mz.ajasorasc"
         },
         {
-          "code": "mz.borapansurysc"
-        },
-        {
-          "code": "mz.bungtlang\u2018s\u2019sc"
-        },
-        {
-          "code": "mz.chamdur\u2018p\u2019sc"
-        },
-        {
           "code": "mz.cheuralsc"
+        },
+        {
+          "code": "mz.damdepsc"
         },
         {
           "code": "mz.hmunlaisc"
         },
         {
+          "code": "mz.kawlchawsc"
+        },
+        {
           "code": "mz.khawmawisc"
+        },
+        {
+          "code": "mz.lawngpuighatphc"
+        },
+        {
+          "code": "mz.lungphersc"
         },
         {
           "code": "mz.lungrangssc"
@@ -1221,10 +1188,16 @@
           "code": "mz.mautlangsc"
         },
         {
-          "code": "mz.saizawh\u2018w\u2019sc"
+          "code": "mz.pangkhuasc"
+        },
+        {
+          "code": "mz.parvasc"
         },
         {
           "code": "mz.tuithumhnarsc"
+        },
+        {
+          "code": "mz.vathuampuisc"
         },
         {
           "code": "mz.vawmbuksc"
@@ -1245,10 +1218,10 @@
           "code": "mz.lakisc"
         },
         {
-          "code": "mz.lawngbansc"
+          "code": "mz.maubawk(amobyu)sc"
         },
         {
-          "code": "mz.maubawk(amobyu)sc"
+          "code": "mz.phalhrangsc"
         },
         {
           "code": "mz.phurazawlsc"
@@ -1311,6 +1284,9 @@
           "code": "mz.saiphaisc"
         },
         {
+          "code": "mz.saipumsc"
+        },
+        {
           "code": "mz.pangbalkawnsc"
         },
         {
@@ -1608,9 +1584,6 @@
           "code": "mz.hnahlanphc"
         },
         {
-          "code": "mz.samlukhaisc"
-        },
-        {
           "code": "mz.zemabawk"
         },
         {
@@ -1875,13 +1848,13 @@
           "code": "mz.zotuisc"
         },
         {
-          "code": "mz.tawipui\u2018n\u2019"
-        },
-        {
           "code": "mz.thualthusc"
         },
         {
           "code": "mz.hnahthialsc"
+        },
+        {
+          "code": "mz.tuipuidsc"
         },
         {
           "code": "mz.tarphosc"
@@ -1920,9 +1893,6 @@
           "code": "mz.muallianpuisc"
         },
         {
-          "code": "mz.bualpui\u2018h\u2019sc"
-        },
-        {
           "code": "mz.cherhlun"
         },
         {
@@ -1936,9 +1906,6 @@
         },
         {
           "code": "mz.muallungthusc"
-        },
-        {
-          "code": "mz.bualpui\u2018ng\u2019phc"
         },
         {
           "code": "mz.sangauphc"
@@ -1971,16 +1938,10 @@
           "code": "mz.sialsuksc"
         },
         {
-          "code": "mz.bualpui\u2018ng\u2019sc"
-        },
-        {
           "code": "mz.sangausc"
         },
         {
           "code": "mz.sumsiluisc"
-        },
-        {
-          "code": "mz.chawngte\u2018pl\u2019sc"
         },
         {
           "code": "mz.chhuarlungphc"
@@ -1996,9 +1957,6 @@
         },
         {
           "code": "mz.niawhtlangsc"
-        },
-        {
-          "code": "mz.tuipang\u2018l\u2019sc"
         },
         {
           "code": "mz.sairangsc"
@@ -2022,9 +1980,6 @@
           "code": "mz.chakhangsc"
         },
         {
-          "code": "mz.tuipang\u2018v\u2019sc"
-        },
-        {
           "code": "mz.sihphirsc"
         },
         {
@@ -2041,9 +1996,6 @@
         },
         {
           "code": "mz.ramhlunsc"
-        },
-        {
-          "code": "mz.ramhlun\u2018s\u2019sc"
         },
         {
           "code": "mz.sumsuihsc"
@@ -2089,9 +2041,6 @@
         },
         {
           "code": "mz.khawruhliansc"
-        },
-        {
-          "code": "mz.phaileng\u2018e\u2019sc"
         },
         {
           "code": "mz.darlawnsc"
@@ -2148,9 +2097,6 @@
           "code": "mz.phullen"
         },
         {
-          "code": "mz.phuaibuang"
-        },
-        {
           "code": "mz.nekhawdungsei"
         },
         {
@@ -2188,9 +2134,6 @@
         },
         {
           "code": "mz.lenchimsc"
-        },
-        {
-          "code": "mz.pawlrangsc"
         },
         {
           "code": "mz.saichalsc"
@@ -2367,16 +2310,10 @@
           "code": "mz.riangtleisc"
         },
         {
-          "code": "mz.vanchengpuisc"
-        },
-        {
           "code": "mz.kawnpuisc"
         },
         {
           "code": "mz.zanlawnsc"
-        },
-        {
-          "code": "mz.boraisc"
         },
         {
           "code": "mz.damdiaisc"
@@ -2397,10 +2334,13 @@
           "code": "mz.hmunpuisc"
         },
         {
+          "code": "mz.leitesc"
+        },
+        {
           "code": "mz.schawngtuisc"
         },
         {
-          "code": "mz.bunghmun\u2018s\u2019sc"
+          "code": "mz.changpuisc"
         },
         {
           "code": "mz.schawilungsc"
@@ -2421,9 +2361,6 @@
           "code": "mz.newsachansc"
         },
         {
-          "code": "mz.oldsachansc"
-        },
-        {
           "code": "mz.phairuangkaisc"
         },
         {
@@ -2431,9 +2368,6 @@
         },
         {
           "code": "mz.sesawmsc"
-        },
-        {
-          "code": "mz.tawipui\u2018s\u2019sc"
         },
         {
           "code": "mz.thenhlumsc"
@@ -2463,28 +2397,34 @@
           "code": "mz.sethlunsc"
         },
         {
+          "code": "mz.sekhumsc"
+        },
+        {
           "code": "mz.borapansuryphc"
         },
         {
           "code": "mz.ajasorasc"
         },
         {
-          "code": "mz.borapansurysc"
-        },
-        {
-          "code": "mz.bungtlang\u2018s\u2019sc"
-        },
-        {
-          "code": "mz.chamdur\u2018p\u2019sc"
-        },
-        {
           "code": "mz.cheuralsc"
+        },
+        {
+          "code": "mz.damdepsc"
         },
         {
           "code": "mz.hmunlaisc"
         },
         {
+          "code": "mz.kawlchawsc"
+        },
+        {
           "code": "mz.khawmawisc"
+        },
+        {
+          "code": "mz.lawngpuighatphc"
+        },
+        {
+          "code": "mz.lungphersc"
         },
         {
           "code": "mz.lungrangssc"
@@ -2496,10 +2436,16 @@
           "code": "mz.mautlangsc"
         },
         {
-          "code": "mz.saizawh\u2018w\u2019sc"
+          "code": "mz.pangkhuasc"
+        },
+        {
+          "code": "mz.parvasc"
         },
         {
           "code": "mz.tuithumhnarsc"
+        },
+        {
+          "code": "mz.vathuampuisc"
         },
         {
           "code": "mz.vawmbuksc"
@@ -2520,10 +2466,10 @@
           "code": "mz.lakisc"
         },
         {
-          "code": "mz.lawngbansc"
+          "code": "mz.maubawk(amobyu)sc"
         },
         {
-          "code": "mz.maubawk(amobyu)sc"
+          "code": "mz.phalhrangsc"
         },
         {
           "code": "mz.phurazawlsc"

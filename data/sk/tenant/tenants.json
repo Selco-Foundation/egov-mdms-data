@@ -785,6 +785,40 @@
       "contactNumber": "9593378780"
     },
     {
+      "code": "sk.nambu",
+      "name": "Nambu",
+      "description": "Nambu",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "HWC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Nambu",
+        "localName": null,
+        "districtCode": "GYALSHING",
+        "districtName": "Gyalshing",
+        "blockCode": "gyalshing.yaksom",
+        "districtTenantCode": "sk.nambu",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SK-IN1110000011",
+        "ddrName": null
+      },
+      "address": "Sikkim",
+      "contactNumber": "8145274136"
+    },
+    {
       "code": "sk.legship",
       "name": "Legship",
       "description": "Legship",
@@ -817,40 +851,6 @@
       },
       "address": "Sikkim",
       "contactNumber": "8372834849"
-    },
-    {
-      "code": "sk.darap",
-      "name": "Darap",
-      "description": "Darap",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Darap",
-        "localName": null,
-        "districtCode": "GYALSHING",
-        "districtName": "Gyalshing",
-        "blockCode": "gyalshing.darap",
-        "districtTenantCode": "sk.darap",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000050",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "7585004972/7076622196"
     },
     {
       "code": "sk.bangten",
@@ -2009,40 +2009,6 @@
       "contactNumber": "8371871279"
     },
     {
-      "code": "sk.ravangla",
-      "name": "Ravangla",
-      "description": "Ravangla",
-      "centreType": "PHC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Ravangla",
-        "localName": null,
-        "districtCode": "NAMCHI",
-        "districtName": "Namchi",
-        "blockCode": "namchi.ravangla",
-        "districtTenantCode": "sk.ravangla",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000170",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "919000000000"
-    },
-    {
       "code": "sk.rongbul",
       "name": "Rongbul",
       "description": "Rongbul",
@@ -2075,40 +2041,6 @@
       },
       "address": "Sikkim",
       "contactNumber": "9734014541"
-    },
-    {
-      "code": "sk.bermiok",
-      "name": "Bermiok",
-      "description": "Bermiok",
-      "centreType": "HWC (DELIVERY)",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC (DELIVERY)",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Bermiok",
-        "localName": null,
-        "districtCode": "NAMCHI",
-        "districtName": "Namchi",
-        "blockCode": "namchi.heemartam",
-        "districtTenantCode": "sk.bermiok",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000035",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "747752461"
     },
     {
       "code": "sk.polot",
@@ -2417,6 +2349,74 @@
       "contactNumber": "9593771811"
     },
     {
+      "code": "sk.namok",
+      "name": "Namok",
+      "description": "Namok",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "HWC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Namok",
+        "localName": null,
+        "districtCode": "NORTHSIKKIM",
+        "districtName": "North Sikkim",
+        "blockCode": "northsikkim.pudung",
+        "districtTenantCode": "sk.namok",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SK-IN1110000008",
+        "ddrName": null
+      },
+      "address": "Sikkim",
+      "contactNumber": "9733057202"
+    },
+    {
+      "code": "sk.phamtam",
+      "name": "Phamtam",
+      "description": "Phamtam",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "HWC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Phamtam",
+        "localName": null,
+        "districtCode": "NORTHSIKKIM",
+        "districtName": "North Sikkim",
+        "blockCode": "northsikkim.kabi",
+        "districtTenantCode": "sk.phamtam",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SK-IN1110000032",
+        "ddrName": null
+      },
+      "address": "Sikkim",
+      "contactNumber": "9733057202"
+    },
+    {
       "code": "sk.lingden",
       "name": "Lingden",
       "description": "Lingden",
@@ -2550,7 +2550,7 @@
         "ddrName": null
       },
       "address": "Sikkim",
-      "contactNumber": "77970 28725"
+      "contactNumber": "7797028725"
     },
     {
       "code": "sk.heegyathang",
@@ -2686,7 +2686,7 @@
         "ddrName": null
       },
       "address": "Sikkim",
-      "contactNumber": "83910 78240"
+      "contactNumber": "8391078240"
     },
     {
       "code": "sk.phodong",
@@ -3435,40 +3435,6 @@
       },
       "address": "Sikkim",
       "contactNumber": "8207042396"
-    },
-    {
-      "code": "sk.rolep",
-      "name": "Rolep",
-      "description": "Rolep",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Rolep",
-        "localName": null,
-        "districtCode": "PAKYONG",
-        "districtName": "Pakyong",
-        "blockCode": "pakyong.regu",
-        "districtTenantCode": "sk.rolep",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000209",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "8170034087"
     },
     {
       "code": "sk.subaneydara",
@@ -4593,6 +4559,40 @@
       "contactNumber": "7602119311"
     },
     {
+      "code": "sk.rimbi",
+      "name": "Rimbi",
+      "description": "Rimbi",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "HWC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Rimbi",
+        "localName": null,
+        "districtCode": "GYALSHING",
+        "districtName": "Gyalshing",
+        "blockCode": "gyalshing.yuksom",
+        "districtTenantCode": "sk.rimbi",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SK-IN1110000068",
+        "ddrName": null
+      },
+      "address": "Sikkim",
+      "contactNumber": "8145274136"
+    },
+    {
       "code": "sk.karmatarfarek",
       "name": "Karmatar Farek",
       "description": "Karmatar Farek",
@@ -5035,40 +5035,6 @@
       "contactNumber": "7586081740"
     },
     {
-      "code": "sk.dangeythang",
-      "name": "Dangeythang",
-      "description": "Dangeythang",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Dangeythang",
-        "localName": null,
-        "districtCode": "GANGTOK",
-        "districtName": "Gangtok",
-        "blockCode": "gangtok.sang",
-        "districtTenantCode": "sk.dangeythang",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000115",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "9593272680/8509410211"
-    },
-    {
       "code": "sk.tingley",
       "name": "Tingley",
       "description": "Tingley",
@@ -5135,40 +5101,6 @@
       },
       "address": "Sikkim",
       "contactNumber": "9339950901"
-    },
-    {
-      "code": "sk.uh&wcchongey",
-      "name": "UH&WC- Chongey",
-      "description": "UH&WC- Chongey",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "UH&WC- Chongey",
-        "localName": null,
-        "districtCode": "GANGTOK",
-        "districtName": "Gangtok",
-        "blockCode": "gangtok.gangtok",
-        "districtTenantCode": "sk.uh&wcchongey",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000216",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "9593772366"
     }
   ]
 }

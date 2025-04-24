@@ -37508,40 +37508,6 @@
       "contactNumber": "8277506155"
     },
     {
-      "code": "pg.gunda",
-      "name": "Gunda",
-      "description": "Gunda",
-      "centreType": "PHC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Gunda",
-        "localName": null,
-        "districtCode": "UTTARAKANNADA",
-        "districtName": "Uttara Kannada",
-        "blockCode": "uttarakannada.joida",
-        "districtTenantCode": "pg.gunda",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "KA-RCH-7687566450",
-        "ddrName": null
-      },
-      "address": "Nagaland",
-      "contactNumber": "9448766793"
-    },
-    {
       "code": "pg.kumbarawada",
       "name": "Kumbarawada",
       "description": "Kumbarawada",

@@ -3675,9 +3675,9 @@
       "contactNumber": "9366379655"
     },
     {
-      "code": "mn.haorangsabal(dispensary)",
-      "name": "Haorangsabal (Dispensary)",
-      "description": "Haorangsabal (Dispensary)",
+      "code": "mn.haorangsabaldispensary",
+      "name": "Haorangsabal Dispensary",
+      "description": "Haorangsabal Dispensary",
       "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3690,12 +3690,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Haorangsabal (Dispensary)",
+        "name": "Haorangsabal Dispensary",
         "localName": null,
         "districtCode": "IMPHALWEST",
         "districtName": "Imphal West",
         "blockCode": "imphalwest.haorangsabal",
-        "districtTenantCode": "mn.haorangsabal(dispensary)",
+        "districtTenantCode": "mn.haorangsabaldispensary",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,

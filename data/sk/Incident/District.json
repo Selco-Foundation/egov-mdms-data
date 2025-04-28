@@ -8,8 +8,8 @@
       "active": true
     },
     {
-      "code": "EAST SIKKIM",
-      "name": "East Sikkim",
+      "code": "EASTSIKKIM",
+      "name": "EastSikkim",
       "active": true
     },
     {
@@ -28,8 +28,8 @@
       "active": true
     },
     {
-      "code": "NORTH SIKKIM",
-      "name": "North Sikkim",
+      "code": "NORTHSIKKIM",
+      "name": "NorthSikkim",
       "active": true
     },
     {
@@ -43,8 +43,8 @@
       "active": true
     },
     {
-      "code": "WEST SIKKIM",
-      "name": "West Sikkim",
+      "code": "WESTSIKKIM",
+      "name": "WestSikkim",
       "active": true
     }
   ]

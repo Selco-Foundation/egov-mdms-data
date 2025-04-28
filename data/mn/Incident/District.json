@@ -18,13 +18,13 @@
       "active": true
     },
     {
-      "code": "IMPHAL EAST",
-      "name": "Imphal East",
+      "code": "IMPHALEAST",
+      "name": "ImphalEast",
       "active": true
     },
     {
-      "code": "IMPHAL WEST",
-      "name": "Imphal West",
+      "code": "IMPHALWEST",
+      "name": "ImphalWest",
       "active": true
     },
     {

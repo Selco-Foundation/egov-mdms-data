@@ -9,6 +9,12 @@
       "active": true
     },
     {
+      "code": "namchisouth.melli",
+      "name": "Melli",
+      "districtCode": "NAMCHISOUTH",
+      "active": true
+    },
+    {
       "code": "eastsikkim.ranka",
       "name": "Ranka",
       "districtCode": "EASTSIKKIM",
@@ -58,13 +64,7 @@
     },
     {
       "code": "gangtok.namligpu",
-      "name": "Namli GPU",
-      "districtCode": "GANGTOK",
-      "active": true
-    },
-    {
-      "code": "gangtok.rakdongtintek/samdong",
-      "name": "Rakdong Tintek/Samdong",
+      "name": "Namli Gpu",
       "districtCode": "GANGTOK",
       "active": true
     },
@@ -111,6 +111,12 @@
       "active": true
     },
     {
+      "code": "gyalshing.darap",
+      "name": "Darap",
+      "districtCode": "GYALSHING",
+      "active": true
+    },
+    {
       "code": "gyalshing.bentam",
       "name": "Bentam",
       "districtCode": "GYALSHING",
@@ -130,43 +136,43 @@
     },
     {
       "code": "namchi.yangang",
-      "name": "YANGANG",
+      "name": "Yangang",
       "districtCode": "NAMCHI",
       "active": true
     },
     {
       "code": "namchi.tokelbermoik",
-      "name": "TOKELBERMOIK",
+      "name": "Tokelbermoik",
       "districtCode": "NAMCHI",
       "active": true
     },
     {
       "code": "namchi.melli",
-      "name": "MELLI",
+      "name": "Melli",
       "districtCode": "NAMCHI",
       "active": true
     },
     {
       "code": "namchi.namthang",
-      "name": "NAMTHANG",
+      "name": "Namthang",
       "districtCode": "NAMCHI",
       "active": true
     },
     {
       "code": "namchi.ravanla",
-      "name": "RAVANLA",
+      "name": "Ravanla",
       "districtCode": "NAMCHI",
       "active": true
     },
     {
       "code": "namchi.namchi",
-      "name": "NAMCHI",
+      "name": "Namchi",
       "districtCode": "NAMCHI",
       "active": true
     },
     {
       "code": "namchi.rabong",
-      "name": "RABONG",
+      "name": "Rabong",
       "districtCode": "NAMCHI",
       "active": true
     },
@@ -202,7 +208,7 @@
     },
     {
       "code": "namchi.namthangsouth",
-      "name": "Namthang SOUTH",
+      "name": "Namthang South",
       "districtCode": "NAMCHI",
       "active": true
     },
@@ -215,6 +221,12 @@
     {
       "code": "namchi.rabangla",
       "name": "Rabangla",
+      "districtCode": "NAMCHI",
+      "active": true
+    },
+    {
+      "code": "namchi.heemartam",
+      "name": "Heemartam",
       "districtCode": "NAMCHI",
       "active": true
     },
@@ -297,8 +309,8 @@
       "active": true
     },
     {
-      "code": "northsikkim.dzonguunderheeyathangphc",
-      "name": "Dzongu under Hee yathang PHC",
+      "code": "northsikkim.dzongu",
+      "name": "Dzongu",
       "districtCode": "NORTHSIKKIM",
       "active": true
     },
@@ -394,7 +406,7 @@
     },
     {
       "code": "soreng.soreng",
-      "name": "SORENG",
+      "name": "Soreng",
       "districtCode": "SORENG",
       "active": true
     },
@@ -465,8 +477,8 @@
       "active": true
     },
     {
-      "code": "soreng.chakung-chumbong",
-      "name": "Chakung-Chumbong",
+      "code": "soreng.chakungchumbong",
+      "name": "Chakung Chumbong",
       "districtCode": "SORENG",
       "active": true
     },
@@ -484,13 +496,13 @@
     },
     {
       "code": "gyalshing.yuksom",
-      "name": "YUKSOM",
+      "name": "Yuksom",
       "districtCode": "GYALSHING",
       "active": true
     },
     {
       "code": "gangtok.tumingpu",
-      "name": "Tumin GPU",
+      "name": "Tumin Gpu",
       "districtCode": "GANGTOK",
       "active": true
     },

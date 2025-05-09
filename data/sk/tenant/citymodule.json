@@ -15,6 +15,9 @@
           "code": "sk.sakyongpentong"
         },
         {
+          "code": "sk.mellidaraphc"
+        },
+        {
           "code": "sk.shyagyongrumtek"
         },
         {
@@ -57,7 +60,7 @@
           "code": "sk.makha"
         },
         {
-          "code": "sk.uphcgangtok"
+          "code": "sk.gangtok"
         },
         {
           "code": "sk.radhukhandu"
@@ -82,6 +85,9 @@
         },
         {
           "code": "sk.legship"
+        },
+        {
+          "code": "sk.darap"
         },
         {
           "code": "sk.bangten"
@@ -186,7 +192,13 @@
           "code": "sk.namthang"
         },
         {
+          "code": "sk.ravangla"
+        },
+        {
           "code": "sk.rongbul"
+        },
+        {
+          "code": "sk.bermiok"
         },
         {
           "code": "sk.polot"
@@ -312,6 +324,9 @@
           "code": "sk.pubuiknaitam"
         },
         {
+          "code": "sk.rolep"
+        },
+        {
           "code": "sk.subaneydara"
         },
         {
@@ -336,7 +351,7 @@
           "code": "sk.southregu"
         },
         {
-          "code": "sk.uphcranipool"
+          "code": "sk.ranipool"
         },
         {
           "code": "sk.dodak"
@@ -447,16 +462,25 @@
           "code": "sk.mamley"
         },
         {
+          "code": "sk.mellidarahwc"
+        },
+        {
           "code": "sk.chubaperbing"
         },
         {
           "code": "sk.phadamchen"
         },
         {
+          "code": "sk.dangeythang"
+        },
+        {
           "code": "sk.tingley"
         },
         {
           "code": "sk.lingthem"
+        },
+        {
+          "code": "sk.chongey"
         }
       ]
     },
@@ -474,6 +498,9 @@
           "code": "sk.sakyongpentong"
         },
         {
+          "code": "sk.mellidaraphc"
+        },
+        {
           "code": "sk.shyagyongrumtek"
         },
         {
@@ -516,7 +543,7 @@
           "code": "sk.makha"
         },
         {
-          "code": "sk.uphcgangtok"
+          "code": "sk.gangtok"
         },
         {
           "code": "sk.radhukhandu"
@@ -541,6 +568,9 @@
         },
         {
           "code": "sk.legship"
+        },
+        {
+          "code": "sk.darap"
         },
         {
           "code": "sk.bangten"
@@ -645,7 +675,13 @@
           "code": "sk.namthang"
         },
         {
+          "code": "sk.ravangla"
+        },
+        {
           "code": "sk.rongbul"
+        },
+        {
+          "code": "sk.bermiok"
         },
         {
           "code": "sk.polot"
@@ -771,6 +807,9 @@
           "code": "sk.pubuiknaitam"
         },
         {
+          "code": "sk.rolep"
+        },
+        {
           "code": "sk.subaneydara"
         },
         {
@@ -795,7 +834,7 @@
           "code": "sk.southregu"
         },
         {
-          "code": "sk.uphcranipool"
+          "code": "sk.ranipool"
         },
         {
           "code": "sk.dodak"
@@ -906,16 +945,25 @@
           "code": "sk.mamley"
         },
         {
+          "code": "sk.mellidarahwc"
+        },
+        {
           "code": "sk.chubaperbing"
         },
         {
           "code": "sk.phadamchen"
         },
         {
+          "code": "sk.dangeythang"
+        },
+        {
           "code": "sk.tingley"
         },
         {
           "code": "sk.lingthem"
+        },
+        {
+          "code": "sk.chongey"
         }
       ]
     }

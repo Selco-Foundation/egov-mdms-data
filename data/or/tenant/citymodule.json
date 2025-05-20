@@ -1,0 +1,2315 @@
+{
+  "tenantId": "or",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "or"
+        },
+        {
+          "code": "or.adhamunda"
+        },
+        {
+          "code": "or.adri"
+        },
+        {
+          "code": "or.ainlajore"
+        },
+        {
+          "code": "or.amath"
+        },
+        {
+          "code": "or.ampani"
+        },
+        {
+          "code": "or.angapada"
+        },
+        {
+          "code": "or.angul"
+        },
+        {
+          "code": "or.anlabhata"
+        },
+        {
+          "code": "or.artalsc"
+        },
+        {
+          "code": "or.artalphc"
+        },
+        {
+          "code": "or.atigaon"
+        },
+        {
+          "code": "or.babuniktimal"
+        },
+        {
+          "code": "or.badabahal"
+        },
+        {
+          "code": "or.badasahir"
+        },
+        {
+          "code": "or.badbahal"
+        },
+        {
+          "code": "or.badchhatrang"
+        },
+        {
+          "code": "or.badhindhol"
+        },
+        {
+          "code": "or.badmal"
+        },
+        {
+          "code": "or.badpodaguda"
+        },
+        {
+          "code": "or.badpujhariguda"
+        },
+        {
+          "code": "or.bagidia"
+        },
+        {
+          "code": "or.bagpur"
+        },
+        {
+          "code": "or.bairipali"
+        },
+        {
+          "code": "or.bajrakote"
+        },
+        {
+          "code": "or.balbaspur"
+        },
+        {
+          "code": "or.balipata"
+        },
+        {
+          "code": "or.balisara"
+        },
+        {
+          "code": "or.bamra"
+        },
+        {
+          "code": "or.banamira"
+        },
+        {
+          "code": "or.bandakana"
+        },
+        {
+          "code": "or.bandhabahal"
+        },
+        {
+          "code": "or.bandhapari"
+        },
+        {
+          "code": "or.baner"
+        },
+        {
+          "code": "or.banjari"
+        },
+        {
+          "code": "or.bankapala"
+        },
+        {
+          "code": "or.bantala"
+        },
+        {
+          "code": "or.baranbandha"
+        },
+        {
+          "code": "or.basantapada"
+        },
+        {
+          "code": "or.basantpur"
+        },
+        {
+          "code": "or.batagoan"
+        },
+        {
+          "code": "or.batelima"
+        },
+        {
+          "code": "or.batemura"
+        },
+        {
+          "code": "or.baunslaga"
+        },
+        {
+          "code": "or.bauriguda"
+        },
+        {
+          "code": "or.beheraphc"
+        },
+        {
+          "code": "or.beherasc"
+        },
+        {
+          "code": "or.belgaon"
+        },
+        {
+          "code": "or.belkhandi"
+        },
+        {
+          "code": "or.bengaonphc"
+        },
+        {
+          "code": "or.bengaonsc"
+        },
+        {
+          "code": "or.bhainriguda"
+        },
+        {
+          "code": "or.bhanpur"
+        },
+        {
+          "code": "or.bhatangpader"
+        },
+        {
+          "code": "or.bhawanipatnau"
+        },
+        {
+          "code": "or.bhikampur"
+        },
+        {
+          "code": "or.bhoipali"
+        },
+        {
+          "code": "or.bhojpur"
+        },
+        {
+          "code": "or.patia"
+        },
+        {
+          "code": "or.bidyadharpur"
+        },
+        {
+          "code": "or.binshinghgadh"
+        },
+        {
+          "code": "or.bishalkhinda"
+        },
+        {
+          "code": "or.biswanathpurchc"
+        },
+        {
+          "code": "or.biswanathpursc"
+        },
+        {
+          "code": "or.boinda"
+        },
+        {
+          "code": "or.bordachc"
+        },
+        {
+          "code": "or.bordasc"
+        },
+        {
+          "code": "or.bordi"
+        },
+        {
+          "code": "or.borguda"
+        },
+        {
+          "code": "or.boxma"
+        },
+        {
+          "code": "or.brahmanchhendia"
+        },
+        {
+          "code": "or.brundabahal"
+        },
+        {
+          "code": "or.budhidar"
+        },
+        {
+          "code": "or.budhikuntni"
+        },
+        {
+          "code": "or.burbuda"
+        },
+        {
+          "code": "or.chachiguda"
+        },
+        {
+          "code": "or.chahagaon"
+        },
+        {
+          "code": "or.chapuriachc"
+        },
+        {
+          "code": "or.chapuriasc"
+        },
+        {
+          "code": "or.charbahal"
+        },
+        {
+          "code": "or.charmal"
+        },
+        {
+          "code": "or.chasagurujang"
+        },
+        {
+          "code": "or.chendipada"
+        },
+        {
+          "code": "or.chhanchanbahali"
+        },
+        {
+          "code": "or.chhatrapur"
+        },
+        {
+          "code": "or.chheliamal"
+        },
+        {
+          "code": "or.chhilipa"
+        },
+        {
+          "code": "or.chhoriagarh"
+        },
+        {
+          "code": "or.chikile"
+        },
+        {
+          "code": "or.chiliguda"
+        },
+        {
+          "code": "or.chipilima"
+        },
+        {
+          "code": "or.dadpurphc"
+        },
+        {
+          "code": "or.dadpursc"
+        },
+        {
+          "code": "or.daincha"
+        },
+        {
+          "code": "or.dakara"
+        },
+        {
+          "code": "or.damkarlakhunta"
+        },
+        {
+          "code": "or.dangarpada"
+        },
+        {
+          "code": "or.dasigaon"
+        },
+        {
+          "code": "or.daspur"
+        },
+        {
+          "code": "or.debeipali"
+        },
+        {
+          "code": "or.dedar"
+        },
+        {
+          "code": "or.deogaon"
+        },
+        {
+          "code": "or.deypurphc"
+        },
+        {
+          "code": "or.deypursc"
+        },
+        {
+          "code": "or.dhamaphc"
+        },
+        {
+          "code": "or.dhamasc"
+        },
+        {
+          "code": "or.dhansuli"
+        },
+        {
+          "code": "or.dhekunkupa"
+        },
+        {
+          "code": "or.dhudipali"
+        },
+        {
+          "code": "or.dhupgaon"
+        },
+        {
+          "code": "or.dimirimunda"
+        },
+        {
+          "code": "or.duarsini"
+        },
+        {
+          "code": "or.dudukathenga"
+        },
+        {
+          "code": "or.dundelmal"
+        },
+        {
+          "code": "or.faranga"
+        },
+        {
+          "code": "or.fashimal"
+        },
+        {
+          "code": "or.gadiajore"
+        },
+        {
+          "code": "or.gajabahal"
+        },
+        {
+          "code": "or.gambhariguda"
+        },
+        {
+          "code": "or.gardegao"
+        },
+        {
+          "code": "or.garposh"
+        },
+        {
+          "code": "or.gaudachhendia"
+        },
+        {
+          "code": "or.ghanasara"
+        },
+        {
+          "code": "or.ghantiguda"
+        },
+        {
+          "code": "or.ghosarama"
+        },
+        {
+          "code": "or.ghumer"
+        },
+        {
+          "code": "or.ghusuraguda"
+        },
+        {
+          "code": "or.gichamura"
+        },
+        {
+          "code": "or.gigina"
+        },
+        {
+          "code": "or.girishchandrapur"
+        },
+        {
+          "code": "or.golamunda"
+        },
+        {
+          "code": "or.gopalpali"
+        },
+        {
+          "code": "or.gopalprasad"
+        },
+        {
+          "code": "or.goribandha"
+        },
+        {
+          "code": "or.gotomunda"
+        },
+        {
+          "code": "or.govindpur"
+        },
+        {
+          "code": "or.guchhara"
+        },
+        {
+          "code": "or.gudialipadar"
+        },
+        {
+          "code": "or.gulamal"
+        },
+        {
+          "code": "or.gundrilanjigarh"
+        },
+        {
+          "code": "or.gundri"
+        },
+        {
+          "code": "or.gunduruchuan"
+        },
+        {
+          "code": "or.habashpur"
+        },
+        {
+          "code": "or.habaspur"
+        },
+        {
+          "code": "or.haldi"
+        },
+        {
+          "code": "or.hatibari"
+        },
+        {
+          "code": "or.hondapa"
+        },
+        {
+          "code": "or.ichhapur"
+        },
+        {
+          "code": "or.jaipatna"
+        },
+        {
+          "code": "or.jaldihi"
+        },
+        {
+          "code": "or.jamadarpali"
+        },
+        {
+          "code": "or.jamankiraphc"
+        },
+        {
+          "code": "or.jamankirasc"
+        },
+        {
+          "code": "or.jamujori"
+        },
+        {
+          "code": "or.jamumal"
+        },
+        {
+          "code": "or.jarapada"
+        },
+        {
+          "code": "or.jarbaga"
+        },
+        {
+          "code": "or.jaring"
+        },
+        {
+          "code": "or.jatniu"
+        },
+        {
+          "code": "or.jhankarpali"
+        },
+        {
+          "code": "or.jharbeda"
+        },
+        {
+          "code": "or.jilingdara"
+        },
+        {
+          "code": "or.jugsaipatna"
+        },
+        {
+          "code": "or.jujumara"
+        },
+        {
+          "code": "or.junagarh"
+        },
+        {
+          "code": "or.kabrapali"
+        },
+        {
+          "code": "or.kabribahal"
+        },
+        {
+          "code": "or.kadalijharan"
+        },
+        {
+          "code": "or.kadamguda"
+        },
+        {
+          "code": "or.kadligarh"
+        },
+        {
+          "code": "or.kalam"
+        },
+        {
+          "code": "or.kalamati"
+        },
+        {
+          "code": "or.kalampurchc"
+        },
+        {
+          "code": "or.kalampursc"
+        },
+        {
+          "code": "or.kallamchhuin"
+        },
+        {
+          "code": "or.kamarda"
+        },
+        {
+          "code": "or.kamthana"
+        },
+        {
+          "code": "or.kanakapur"
+        },
+        {
+          "code": "or.kandel"
+        },
+        {
+          "code": "or.kaniguma"
+        },
+        {
+          "code": "or.kaniha"
+        },
+        {
+          "code": "or.kankeri"
+        },
+        {
+          "code": "or.kankutru"
+        },
+        {
+          "code": "or.karang"
+        },
+        {
+          "code": "or.karanjeguda"
+        },
+        {
+          "code": "or.kardakhaman"
+        },
+        {
+          "code": "or.karlamunda"
+        },
+        {
+          "code": "or.karlamundamc"
+        },
+        {
+          "code": "or.karlapada"
+        },
+        {
+          "code": "or.kasada"
+        },
+        {
+          "code": "or.kasibahal"
+        },
+        {
+          "code": "or.kasrupada"
+        },
+        {
+          "code": "or.katarbaga"
+        },
+        {
+          "code": "or.kechhupan"
+        },
+        {
+          "code": "or.kenadhipa"
+        },
+        {
+          "code": "or.kendudangari"
+        },
+        {
+          "code": "or.kerokuda"
+        },
+        {
+          "code": "or.kerpai"
+        },
+        {
+          "code": "or.keseibahal"
+        },
+        {
+          "code": "or.kesingachc"
+        },
+        {
+          "code": "or.kesingasc"
+        },
+        {
+          "code": "or.khairmal"
+        },
+        {
+          "code": "or.khairpadar"
+        },
+        {
+          "code": "or.khaliakani"
+        },
+        {
+          "code": "or.khaliapali"
+        },
+        {
+          "code": "or.khinda"
+        },
+        {
+          "code": "or.khuntamal"
+        },
+        {
+          "code": "or.kiapadar"
+        },
+        {
+          "code": "or.kikia"
+        },
+        {
+          "code": "or.kilasama"
+        },
+        {
+          "code": "or.kinaloi"
+        },
+        {
+          "code": "or.kindira"
+        },
+        {
+          "code": "or.kirkakani"
+        },
+        {
+          "code": "or.kishinda"
+        },
+        {
+          "code": "or.koksara"
+        },
+        {
+          "code": "or.kuchinda"
+        },
+        {
+          "code": "or.kugunderpur"
+        },
+        {
+          "code": "or.kuhura"
+        },
+        {
+          "code": "or.kukudapali"
+        },
+        {
+          "code": "or.kultanuapali"
+        },
+        {
+          "code": "or.kuluma"
+        },
+        {
+          "code": "or.kulundi"
+        },
+        {
+          "code": "or.kumkapali"
+        },
+        {
+          "code": "or.kumkhal"
+        },
+        {
+          "code": "or.kuntra"
+        },
+        {
+          "code": "or.kusumi"
+        },
+        {
+          "code": "or.kutarimal"
+        },
+        {
+          "code": "or.kutrachuan"
+        },
+        {
+          "code": "or.kutrukhamar"
+        },
+        {
+          "code": "or.ladugaon"
+        },
+        {
+          "code": "or.laida"
+        },
+        {
+          "code": "or.laidaguna"
+        },
+        {
+          "code": "or.lanjigarh"
+        },
+        {
+          "code": "or.lanjigarhroadphc"
+        },
+        {
+          "code": "or.lanjigarhroadsc"
+        },
+        {
+          "code": "or.lariapali"
+        },
+        {
+          "code": "or.lipinda"
+        },
+        {
+          "code": "or.luhapank"
+        },
+        {
+          "code": "or.madanpurrampursc"
+        },
+        {
+          "code": "or.madanpurrampurchc"
+        },
+        {
+          "code": "or.madanpurphc"
+        },
+        {
+          "code": "or.madanpursc"
+        },
+        {
+          "code": "or.madhupurphc"
+        },
+        {
+          "code": "or.madhupursc"
+        },
+        {
+          "code": "or.madiguda"
+        },
+        {
+          "code": "or.mahaling"
+        },
+        {
+          "code": "or.mahapatrabalanda"
+        },
+        {
+          "code": "or.mahulpali"
+        },
+        {
+          "code": "or.mahulpatna"
+        },
+        {
+          "code": "or.majhipara"
+        },
+        {
+          "code": "or.malgaon"
+        },
+        {
+          "code": "or.maliguda"
+        },
+        {
+          "code": "or.malijubang"
+        },
+        {
+          "code": "or.malipada"
+        },
+        {
+          "code": "or.mandal"
+        },
+        {
+          "code": "or.mandel"
+        },
+        {
+          "code": "or.mangalapur"
+        },
+        {
+          "code": "or.manikera"
+        },
+        {
+          "code": "or.manitera"
+        },
+        {
+          "code": "or.manjjari"
+        },
+        {
+          "code": "or.martirahat"
+        },
+        {
+          "code": "or.mathura"
+        },
+        {
+          "code": "or.matigaon"
+        },
+        {
+          "code": "or.medinipur"
+        },
+        {
+          "code": "or.meghapal"
+        },
+        {
+          "code": "or.mendhabahal"
+        },
+        {
+          "code": "or.mirjapur"
+        },
+        {
+          "code": "or.mochibahal"
+        },
+        {
+          "code": "or.mohangiriphc"
+        },
+        {
+          "code": "or.mohangirisc"
+        },
+        {
+          "code": "or.mudhenpali"
+        },
+        {
+          "code": "or.muding"
+        },
+        {
+          "code": "or.musanal"
+        },
+        {
+          "code": "or.musapali"
+        },
+        {
+          "code": "or.muskuti"
+        },
+        {
+          "code": "or.nakrundiphc"
+        },
+        {
+          "code": "or.nakrundisc"
+        },
+        {
+          "code": "or.naktiduel"
+        },
+        {
+          "code": "or.nandol"
+        },
+        {
+          "code": "or.narla"
+        },
+        {
+          "code": "or.narlam"
+        },
+        {
+          "code": "or.nuabarangamal"
+        },
+        {
+          "code": "or.nuagaon"
+        },
+        {
+          "code": "or.nuapali"
+        },
+        {
+          "code": "or.oramniktimal"
+        },
+        {
+          "code": "or.padhanpali"
+        },
+        {
+          "code": "or.padiabahal"
+        },
+        {
+          "code": "or.paiksahi"
+        },
+        {
+          "code": "or.palam"
+        },
+        {
+          "code": "or.panchfut"
+        },
+        {
+          "code": "or.pandapadar"
+        },
+        {
+          "code": "or.pandripada"
+        },
+        {
+          "code": "or.paralsingha"
+        },
+        {
+          "code": "or.parlachc"
+        },
+        {
+          "code": "or.parlasc"
+        },
+        {
+          "code": "or.parmanpur"
+        },
+        {
+          "code": "or.paruabhadi"
+        },
+        {
+          "code": "or.pastikudi"
+        },
+        {
+          "code": "or.pataka"
+        },
+        {
+          "code": "or.patharala"
+        },
+        {
+          "code": "or.patrapada"
+        },
+        {
+          "code": "or.pilikia"
+        },
+        {
+          "code": "or.pindapathur"
+        },
+        {
+          "code": "or.podaguda"
+        },
+        {
+          "code": "or.pokharibandh"
+        },
+        {
+          "code": "or.pokharighat"
+        },
+        {
+          "code": "or.pokhariputu"
+        },
+        {
+          "code": "or.pourkela"
+        },
+        {
+          "code": "or.purunagarh"
+        },
+        {
+          "code": "or.purunapani"
+        },
+        {
+          "code": "or.rairakhol"
+        },
+        {
+          "code": "or.rangiatikira"
+        },
+        {
+          "code": "or.ranmal"
+        },
+        {
+          "code": "or.raoutbahal"
+        },
+        {
+          "code": "or.regedaphc"
+        },
+        {
+          "code": "or.regedasc"
+        },
+        {
+          "code": "or.rengali"
+        },
+        {
+          "code": "or.rengasapali"
+        },
+        {
+          "code": "or.risida"
+        },
+        {
+          "code": "or.risigaon"
+        },
+        {
+          "code": "or.rupraphc"
+        },
+        {
+          "code": "or.rupraroad"
+        },
+        {
+          "code": "or.ruprasc"
+        },
+        {
+          "code": "or.sagara"
+        },
+        {
+          "code": "or.sahaspur"
+        },
+        {
+          "code": "or.saisurni"
+        },
+        {
+          "code": "or.salebahadi"
+        },
+        {
+          "code": "or.salebhata"
+        },
+        {
+          "code": "or.unit3u"
+        },
+        {
+          "code": "or.sangramal"
+        },
+        {
+          "code": "or.santpur"
+        },
+        {
+          "code": "or.saplahara"
+        },
+        {
+          "code": "or.sarada"
+        },
+        {
+          "code": "or.saragulmalpada"
+        },
+        {
+          "code": "or.sarapalli"
+        },
+        {
+          "code": "or.sargidhi"
+        },
+        {
+          "code": "or.sargigudahwc"
+        },
+        {
+          "code": "or.sargigudasc"
+        },
+        {
+          "code": "or.sason"
+        },
+        {
+          "code": "or.seinpur"
+        },
+        {
+          "code": "or.sergarh"
+        },
+        {
+          "code": "or.similipal"
+        },
+        {
+          "code": "or.subarnapali"
+        },
+        {
+          "code": "or.sujanpur"
+        },
+        {
+          "code": "or.sundarijore"
+        },
+        {
+          "code": "or.tabadabahal"
+        },
+        {
+          "code": "or.tabala"
+        },
+        {
+          "code": "or.tahasir"
+        },
+        {
+          "code": "or.tainsi"
+        },
+        {
+          "code": "or.talab"
+        },
+        {
+          "code": "or.talamala"
+        },
+        {
+          "code": "or.talamul"
+        },
+        {
+          "code": "or.talcher"
+        },
+        {
+          "code": "or.talgud"
+        },
+        {
+          "code": "or.taarkela"
+        },
+        {
+          "code": "or.tangarani"
+        },
+        {
+          "code": "or.tangarmunda"
+        },
+        {
+          "code": "or.telipalas"
+        },
+        {
+          "code": "or.teresingaphc"
+        },
+        {
+          "code": "or.teresingasc"
+        },
+        {
+          "code": "or.thuamulrampurchc"
+        },
+        {
+          "code": "or.thuamulrampursc"
+        },
+        {
+          "code": "or.thanat"
+        },
+        {
+          "code": "or.themrachc"
+        },
+        {
+          "code": "or.thuapadar"
+        },
+        {
+          "code": "or.tikillpada"
+        },
+        {
+          "code": "or.tipiguda"
+        },
+        {
+          "code": "or.tribanpur"
+        },
+        {
+          "code": "or.tulapada"
+        },
+        {
+          "code": "or.tundla"
+        },
+        {
+          "code": "or.tureiniktimal"
+        },
+        {
+          "code": "or.uchhalaphc"
+        },
+        {
+          "code": "or.uchhalasc"
+        },
+        {
+          "code": "or.uchhula"
+        },
+        {
+          "code": "or.udala"
+        },
+        {
+          "code": "or.uhchhala"
+        },
+        {
+          "code": "or.ulikupa"
+        },
+        {
+          "code": "or.ulikupadhoben"
+        },
+        {
+          "code": "or.urladani"
+        },
+        {
+          "code": "or.utkela"
+        },
+        {
+          "code": "or.burlamedicalcollege"
+        },
+        {
+          "code": "or.scbmedicalcollege"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "or"
+        },
+        {
+          "code": "or.adhamunda"
+        },
+        {
+          "code": "or.adri"
+        },
+        {
+          "code": "or.ainlajore"
+        },
+        {
+          "code": "or.amath"
+        },
+        {
+          "code": "or.ampani"
+        },
+        {
+          "code": "or.angapada"
+        },
+        {
+          "code": "or.angul"
+        },
+        {
+          "code": "or.anlabhata"
+        },
+        {
+          "code": "or.artalsc"
+        },
+        {
+          "code": "or.artalphc"
+        },
+        {
+          "code": "or.atigaon"
+        },
+        {
+          "code": "or.babuniktimal"
+        },
+        {
+          "code": "or.badabahal"
+        },
+        {
+          "code": "or.badasahir"
+        },
+        {
+          "code": "or.badbahal"
+        },
+        {
+          "code": "or.badchhatrang"
+        },
+        {
+          "code": "or.badhindhol"
+        },
+        {
+          "code": "or.badmal"
+        },
+        {
+          "code": "or.badpodaguda"
+        },
+        {
+          "code": "or.badpujhariguda"
+        },
+        {
+          "code": "or.bagidia"
+        },
+        {
+          "code": "or.bagpur"
+        },
+        {
+          "code": "or.bairipali"
+        },
+        {
+          "code": "or.bajrakote"
+        },
+        {
+          "code": "or.balbaspur"
+        },
+        {
+          "code": "or.balipata"
+        },
+        {
+          "code": "or.balisara"
+        },
+        {
+          "code": "or.bamra"
+        },
+        {
+          "code": "or.banamira"
+        },
+        {
+          "code": "or.bandakana"
+        },
+        {
+          "code": "or.bandhabahal"
+        },
+        {
+          "code": "or.bandhapari"
+        },
+        {
+          "code": "or.baner"
+        },
+        {
+          "code": "or.banjari"
+        },
+        {
+          "code": "or.bankapala"
+        },
+        {
+          "code": "or.bantala"
+        },
+        {
+          "code": "or.baranbandha"
+        },
+        {
+          "code": "or.basantapada"
+        },
+        {
+          "code": "or.basantpur"
+        },
+        {
+          "code": "or.batagoan"
+        },
+        {
+          "code": "or.batelima"
+        },
+        {
+          "code": "or.batemura"
+        },
+        {
+          "code": "or.baunslaga"
+        },
+        {
+          "code": "or.bauriguda"
+        },
+        {
+          "code": "or.beheraphc"
+        },
+        {
+          "code": "or.beherasc"
+        },
+        {
+          "code": "or.belgaon"
+        },
+        {
+          "code": "or.belkhandi"
+        },
+        {
+          "code": "or.bengaonphc"
+        },
+        {
+          "code": "or.bengaonsc"
+        },
+        {
+          "code": "or.bhainriguda"
+        },
+        {
+          "code": "or.bhanpur"
+        },
+        {
+          "code": "or.bhatangpader"
+        },
+        {
+          "code": "or.bhawanipatnau"
+        },
+        {
+          "code": "or.bhikampur"
+        },
+        {
+          "code": "or.bhoipali"
+        },
+        {
+          "code": "or.bhojpur"
+        },
+        {
+          "code": "or.patia"
+        },
+        {
+          "code": "or.bidyadharpur"
+        },
+        {
+          "code": "or.binshinghgadh"
+        },
+        {
+          "code": "or.bishalkhinda"
+        },
+        {
+          "code": "or.biswanathpurchc"
+        },
+        {
+          "code": "or.biswanathpursc"
+        },
+        {
+          "code": "or.boinda"
+        },
+        {
+          "code": "or.bordachc"
+        },
+        {
+          "code": "or.bordasc"
+        },
+        {
+          "code": "or.bordi"
+        },
+        {
+          "code": "or.borguda"
+        },
+        {
+          "code": "or.boxma"
+        },
+        {
+          "code": "or.brahmanchhendia"
+        },
+        {
+          "code": "or.brundabahal"
+        },
+        {
+          "code": "or.budhidar"
+        },
+        {
+          "code": "or.budhikuntni"
+        },
+        {
+          "code": "or.burbuda"
+        },
+        {
+          "code": "or.chachiguda"
+        },
+        {
+          "code": "or.chahagaon"
+        },
+        {
+          "code": "or.chapuriachc"
+        },
+        {
+          "code": "or.chapuriasc"
+        },
+        {
+          "code": "or.charbahal"
+        },
+        {
+          "code": "or.charmal"
+        },
+        {
+          "code": "or.chasagurujang"
+        },
+        {
+          "code": "or.chendipada"
+        },
+        {
+          "code": "or.chhanchanbahali"
+        },
+        {
+          "code": "or.chhatrapur"
+        },
+        {
+          "code": "or.chheliamal"
+        },
+        {
+          "code": "or.chhilipa"
+        },
+        {
+          "code": "or.chhoriagarh"
+        },
+        {
+          "code": "or.chikile"
+        },
+        {
+          "code": "or.chiliguda"
+        },
+        {
+          "code": "or.chipilima"
+        },
+        {
+          "code": "or.dadpurphc"
+        },
+        {
+          "code": "or.dadpursc"
+        },
+        {
+          "code": "or.daincha"
+        },
+        {
+          "code": "or.dakara"
+        },
+        {
+          "code": "or.damkarlakhunta"
+        },
+        {
+          "code": "or.dangarpada"
+        },
+        {
+          "code": "or.dasigaon"
+        },
+        {
+          "code": "or.daspur"
+        },
+        {
+          "code": "or.debeipali"
+        },
+        {
+          "code": "or.dedar"
+        },
+        {
+          "code": "or.deogaon"
+        },
+        {
+          "code": "or.deypurphc"
+        },
+        {
+          "code": "or.deypursc"
+        },
+        {
+          "code": "or.dhamaphc"
+        },
+        {
+          "code": "or.dhamasc"
+        },
+        {
+          "code": "or.dhansuli"
+        },
+        {
+          "code": "or.dhekunkupa"
+        },
+        {
+          "code": "or.dhudipali"
+        },
+        {
+          "code": "or.dhupgaon"
+        },
+        {
+          "code": "or.dimirimunda"
+        },
+        {
+          "code": "or.duarsini"
+        },
+        {
+          "code": "or.dudukathenga"
+        },
+        {
+          "code": "or.dundelmal"
+        },
+        {
+          "code": "or.faranga"
+        },
+        {
+          "code": "or.fashimal"
+        },
+        {
+          "code": "or.gadiajore"
+        },
+        {
+          "code": "or.gajabahal"
+        },
+        {
+          "code": "or.gambhariguda"
+        },
+        {
+          "code": "or.gardegao"
+        },
+        {
+          "code": "or.garposh"
+        },
+        {
+          "code": "or.gaudachhendia"
+        },
+        {
+          "code": "or.ghanasara"
+        },
+        {
+          "code": "or.ghantiguda"
+        },
+        {
+          "code": "or.ghosarama"
+        },
+        {
+          "code": "or.ghumer"
+        },
+        {
+          "code": "or.ghusuraguda"
+        },
+        {
+          "code": "or.gichamura"
+        },
+        {
+          "code": "or.gigina"
+        },
+        {
+          "code": "or.girishchandrapur"
+        },
+        {
+          "code": "or.golamunda"
+        },
+        {
+          "code": "or.gopalpali"
+        },
+        {
+          "code": "or.gopalprasad"
+        },
+        {
+          "code": "or.goribandha"
+        },
+        {
+          "code": "or.gotomunda"
+        },
+        {
+          "code": "or.govindpur"
+        },
+        {
+          "code": "or.guchhara"
+        },
+        {
+          "code": "or.gudialipadar"
+        },
+        {
+          "code": "or.gulamal"
+        },
+        {
+          "code": "or.gundrilanjigarh"
+        },
+        {
+          "code": "or.gundri"
+        },
+        {
+          "code": "or.gunduruchuan"
+        },
+        {
+          "code": "or.habashpur"
+        },
+        {
+          "code": "or.habaspur"
+        },
+        {
+          "code": "or.haldi"
+        },
+        {
+          "code": "or.hatibari"
+        },
+        {
+          "code": "or.hondapa"
+        },
+        {
+          "code": "or.ichhapur"
+        },
+        {
+          "code": "or.jaipatna"
+        },
+        {
+          "code": "or.jaldihi"
+        },
+        {
+          "code": "or.jamadarpali"
+        },
+        {
+          "code": "or.jamankiraphc"
+        },
+        {
+          "code": "or.jamankirasc"
+        },
+        {
+          "code": "or.jamujori"
+        },
+        {
+          "code": "or.jamumal"
+        },
+        {
+          "code": "or.jarapada"
+        },
+        {
+          "code": "or.jarbaga"
+        },
+        {
+          "code": "or.jaring"
+        },
+        {
+          "code": "or.jatniu"
+        },
+        {
+          "code": "or.jhankarpali"
+        },
+        {
+          "code": "or.jharbeda"
+        },
+        {
+          "code": "or.jilingdara"
+        },
+        {
+          "code": "or.jugsaipatna"
+        },
+        {
+          "code": "or.jujumara"
+        },
+        {
+          "code": "or.junagarh"
+        },
+        {
+          "code": "or.kabrapali"
+        },
+        {
+          "code": "or.kabribahal"
+        },
+        {
+          "code": "or.kadalijharan"
+        },
+        {
+          "code": "or.kadamguda"
+        },
+        {
+          "code": "or.kadligarh"
+        },
+        {
+          "code": "or.kalam"
+        },
+        {
+          "code": "or.kalamati"
+        },
+        {
+          "code": "or.kalampurchc"
+        },
+        {
+          "code": "or.kalampursc"
+        },
+        {
+          "code": "or.kallamchhuin"
+        },
+        {
+          "code": "or.kamarda"
+        },
+        {
+          "code": "or.kamthana"
+        },
+        {
+          "code": "or.kanakapur"
+        },
+        {
+          "code": "or.kandel"
+        },
+        {
+          "code": "or.kaniguma"
+        },
+        {
+          "code": "or.kaniha"
+        },
+        {
+          "code": "or.kankeri"
+        },
+        {
+          "code": "or.kankutru"
+        },
+        {
+          "code": "or.karang"
+        },
+        {
+          "code": "or.karanjeguda"
+        },
+        {
+          "code": "or.kardakhaman"
+        },
+        {
+          "code": "or.karlamunda"
+        },
+        {
+          "code": "or.karlamundamc"
+        },
+        {
+          "code": "or.karlapada"
+        },
+        {
+          "code": "or.kasada"
+        },
+        {
+          "code": "or.kasibahal"
+        },
+        {
+          "code": "or.kasrupada"
+        },
+        {
+          "code": "or.katarbaga"
+        },
+        {
+          "code": "or.kechhupan"
+        },
+        {
+          "code": "or.kenadhipa"
+        },
+        {
+          "code": "or.kendudangari"
+        },
+        {
+          "code": "or.kerokuda"
+        },
+        {
+          "code": "or.kerpai"
+        },
+        {
+          "code": "or.keseibahal"
+        },
+        {
+          "code": "or.kesingachc"
+        },
+        {
+          "code": "or.kesingasc"
+        },
+        {
+          "code": "or.khairmal"
+        },
+        {
+          "code": "or.khairpadar"
+        },
+        {
+          "code": "or.khaliakani"
+        },
+        {
+          "code": "or.khaliapali"
+        },
+        {
+          "code": "or.khinda"
+        },
+        {
+          "code": "or.khuntamal"
+        },
+        {
+          "code": "or.kiapadar"
+        },
+        {
+          "code": "or.kikia"
+        },
+        {
+          "code": "or.kilasama"
+        },
+        {
+          "code": "or.kinaloi"
+        },
+        {
+          "code": "or.kindira"
+        },
+        {
+          "code": "or.kirkakani"
+        },
+        {
+          "code": "or.kishinda"
+        },
+        {
+          "code": "or.koksara"
+        },
+        {
+          "code": "or.kuchinda"
+        },
+        {
+          "code": "or.kugunderpur"
+        },
+        {
+          "code": "or.kuhura"
+        },
+        {
+          "code": "or.kukudapali"
+        },
+        {
+          "code": "or.kultanuapali"
+        },
+        {
+          "code": "or.kuluma"
+        },
+        {
+          "code": "or.kulundi"
+        },
+        {
+          "code": "or.kumkapali"
+        },
+        {
+          "code": "or.kumkhal"
+        },
+        {
+          "code": "or.kuntra"
+        },
+        {
+          "code": "or.kusumi"
+        },
+        {
+          "code": "or.kutarimal"
+        },
+        {
+          "code": "or.kutrachuan"
+        },
+        {
+          "code": "or.kutrukhamar"
+        },
+        {
+          "code": "or.ladugaon"
+        },
+        {
+          "code": "or.laida"
+        },
+        {
+          "code": "or.laidaguna"
+        },
+        {
+          "code": "or.lanjigarh"
+        },
+        {
+          "code": "or.lanjigarhroadphc"
+        },
+        {
+          "code": "or.lanjigarhroadsc"
+        },
+        {
+          "code": "or.lariapali"
+        },
+        {
+          "code": "or.lipinda"
+        },
+        {
+          "code": "or.luhapank"
+        },
+        {
+          "code": "or.madanpurrampursc"
+        },
+        {
+          "code": "or.madanpurrampurchc"
+        },
+        {
+          "code": "or.madanpurphc"
+        },
+        {
+          "code": "or.madanpursc"
+        },
+        {
+          "code": "or.madhupurphc"
+        },
+        {
+          "code": "or.madhupursc"
+        },
+        {
+          "code": "or.madiguda"
+        },
+        {
+          "code": "or.mahaling"
+        },
+        {
+          "code": "or.mahapatrabalanda"
+        },
+        {
+          "code": "or.mahulpali"
+        },
+        {
+          "code": "or.mahulpatna"
+        },
+        {
+          "code": "or.majhipara"
+        },
+        {
+          "code": "or.malgaon"
+        },
+        {
+          "code": "or.maliguda"
+        },
+        {
+          "code": "or.malijubang"
+        },
+        {
+          "code": "or.malipada"
+        },
+        {
+          "code": "or.mandal"
+        },
+        {
+          "code": "or.mandel"
+        },
+        {
+          "code": "or.mangalapur"
+        },
+        {
+          "code": "or.manikera"
+        },
+        {
+          "code": "or.manitera"
+        },
+        {
+          "code": "or.manjjari"
+        },
+        {
+          "code": "or.martirahat"
+        },
+        {
+          "code": "or.mathura"
+        },
+        {
+          "code": "or.matigaon"
+        },
+        {
+          "code": "or.medinipur"
+        },
+        {
+          "code": "or.meghapal"
+        },
+        {
+          "code": "or.mendhabahal"
+        },
+        {
+          "code": "or.mirjapur"
+        },
+        {
+          "code": "or.mochibahal"
+        },
+        {
+          "code": "or.mohangiriphc"
+        },
+        {
+          "code": "or.mohangirisc"
+        },
+        {
+          "code": "or.mudhenpali"
+        },
+        {
+          "code": "or.muding"
+        },
+        {
+          "code": "or.musanal"
+        },
+        {
+          "code": "or.musapali"
+        },
+        {
+          "code": "or.muskuti"
+        },
+        {
+          "code": "or.nakrundiphc"
+        },
+        {
+          "code": "or.nakrundisc"
+        },
+        {
+          "code": "or.naktiduel"
+        },
+        {
+          "code": "or.nandol"
+        },
+        {
+          "code": "or.narla"
+        },
+        {
+          "code": "or.narlam"
+        },
+        {
+          "code": "or.nuabarangamal"
+        },
+        {
+          "code": "or.nuagaon"
+        },
+        {
+          "code": "or.nuapali"
+        },
+        {
+          "code": "or.oramniktimal"
+        },
+        {
+          "code": "or.padhanpali"
+        },
+        {
+          "code": "or.padiabahal"
+        },
+        {
+          "code": "or.paiksahi"
+        },
+        {
+          "code": "or.palam"
+        },
+        {
+          "code": "or.panchfut"
+        },
+        {
+          "code": "or.pandapadar"
+        },
+        {
+          "code": "or.pandripada"
+        },
+        {
+          "code": "or.paralsingha"
+        },
+        {
+          "code": "or.parlachc"
+        },
+        {
+          "code": "or.parlasc"
+        },
+        {
+          "code": "or.parmanpur"
+        },
+        {
+          "code": "or.paruabhadi"
+        },
+        {
+          "code": "or.pastikudi"
+        },
+        {
+          "code": "or.pataka"
+        },
+        {
+          "code": "or.patharala"
+        },
+        {
+          "code": "or.patrapada"
+        },
+        {
+          "code": "or.pilikia"
+        },
+        {
+          "code": "or.pindapathur"
+        },
+        {
+          "code": "or.podaguda"
+        },
+        {
+          "code": "or.pokharibandh"
+        },
+        {
+          "code": "or.pokharighat"
+        },
+        {
+          "code": "or.pokhariputu"
+        },
+        {
+          "code": "or.pourkela"
+        },
+        {
+          "code": "or.purunagarh"
+        },
+        {
+          "code": "or.purunapani"
+        },
+        {
+          "code": "or.rairakhol"
+        },
+        {
+          "code": "or.rangiatikira"
+        },
+        {
+          "code": "or.ranmal"
+        },
+        {
+          "code": "or.raoutbahal"
+        },
+        {
+          "code": "or.regedaphc"
+        },
+        {
+          "code": "or.regedasc"
+        },
+        {
+          "code": "or.rengali"
+        },
+        {
+          "code": "or.rengasapali"
+        },
+        {
+          "code": "or.risida"
+        },
+        {
+          "code": "or.risigaon"
+        },
+        {
+          "code": "or.rupraphc"
+        },
+        {
+          "code": "or.rupraroad"
+        },
+        {
+          "code": "or.ruprasc"
+        },
+        {
+          "code": "or.sagara"
+        },
+        {
+          "code": "or.sahaspur"
+        },
+        {
+          "code": "or.saisurni"
+        },
+        {
+          "code": "or.salebahadi"
+        },
+        {
+          "code": "or.salebhata"
+        },
+        {
+          "code": "or.unit3u"
+        },
+        {
+          "code": "or.sangramal"
+        },
+        {
+          "code": "or.santpur"
+        },
+        {
+          "code": "or.saplahara"
+        },
+        {
+          "code": "or.sarada"
+        },
+        {
+          "code": "or.saragulmalpada"
+        },
+        {
+          "code": "or.sarapalli"
+        },
+        {
+          "code": "or.sargidhi"
+        },
+        {
+          "code": "or.sargigudahwc"
+        },
+        {
+          "code": "or.sargigudasc"
+        },
+        {
+          "code": "or.sason"
+        },
+        {
+          "code": "or.seinpur"
+        },
+        {
+          "code": "or.sergarh"
+        },
+        {
+          "code": "or.similipal"
+        },
+        {
+          "code": "or.subarnapali"
+        },
+        {
+          "code": "or.sujanpur"
+        },
+        {
+          "code": "or.sundarijore"
+        },
+        {
+          "code": "or.tabadabahal"
+        },
+        {
+          "code": "or.tabala"
+        },
+        {
+          "code": "or.tahasir"
+        },
+        {
+          "code": "or.tainsi"
+        },
+        {
+          "code": "or.talab"
+        },
+        {
+          "code": "or.talamala"
+        },
+        {
+          "code": "or.talamul"
+        },
+        {
+          "code": "or.talcher"
+        },
+        {
+          "code": "or.talgud"
+        },
+        {
+          "code": "or.taarkela"
+        },
+        {
+          "code": "or.tangarani"
+        },
+        {
+          "code": "or.tangarmunda"
+        },
+        {
+          "code": "or.telipalas"
+        },
+        {
+          "code": "or.teresingaphc"
+        },
+        {
+          "code": "or.teresingasc"
+        },
+        {
+          "code": "or.thuamulrampurchc"
+        },
+        {
+          "code": "or.thuamulrampursc"
+        },
+        {
+          "code": "or.thanat"
+        },
+        {
+          "code": "or.themrachc"
+        },
+        {
+          "code": "or.thuapadar"
+        },
+        {
+          "code": "or.tikillpada"
+        },
+        {
+          "code": "or.tipiguda"
+        },
+        {
+          "code": "or.tribanpur"
+        },
+        {
+          "code": "or.tulapada"
+        },
+        {
+          "code": "or.tundla"
+        },
+        {
+          "code": "or.tureiniktimal"
+        },
+        {
+          "code": "or.uchhalaphc"
+        },
+        {
+          "code": "or.uchhalasc"
+        },
+        {
+          "code": "or.uchhula"
+        },
+        {
+          "code": "or.udala"
+        },
+        {
+          "code": "or.uhchhala"
+        },
+        {
+          "code": "or.ulikupa"
+        },
+        {
+          "code": "or.ulikupadhoben"
+        },
+        {
+          "code": "or.urladani"
+        },
+        {
+          "code": "or.utkela"
+        },
+        {
+          "code": "or.burlamedicalcollege"
+        },
+        {
+          "code": "or.scbmedicalcollege"
+        }
+      ]
+    }
+  ]
+}

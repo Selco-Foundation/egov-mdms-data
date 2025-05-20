@@ -1,0 +1,41 @@
+{
+  "tenantId": "or",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "KALAHANDI",
+      "name": "Kalahandi",
+      "active": true
+    },
+    {
+      "code": "ANGUL",
+      "name": "Angul",
+      "active": true
+    },
+    {
+      "code": "SAMBALPUR",
+      "name": "Sambalpur",
+      "active": true
+    },
+    {
+      "code": "KHORDHA",
+      "name": "Khordha",
+      "active": true
+    },
+    {
+      "code": "CUTTACK",
+      "name": "Cuttack",
+      "active": true
+    },
+    {
+      "code": "GANJAM",
+      "name": "Ganjam",
+      "active": true
+    },
+    {
+      "code": "MAYURBHANJ",
+      "name": "Mayurbhanj",
+      "active": true
+    }
+  ]
+}

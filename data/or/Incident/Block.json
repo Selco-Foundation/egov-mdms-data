@@ -1,0 +1,294 @@
+{
+  "tenantId": "or",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "kalahandi.kesinga",
+      "name": "Kesinga",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.thuamulrampur",
+      "name": "Thuamul Rampur",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.dharmagarh",
+      "name": "Dharmagarh",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.koksara",
+      "name": "Koksara",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "angul.boinda",
+      "name": "Boinda",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "angul.angul",
+      "name": "Angul",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "kalahandi.jaypatna",
+      "name": "Jaypatna",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.bhawanipatna",
+      "name": "Bhawanipatna",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.junagarh",
+      "name": "Junagarh",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "sambalpur.bamra",
+      "name": "Bamra",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.kuchinda",
+      "name": "Kuchinda",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.jujumura",
+      "name": "Jujumura",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.rairakhol",
+      "name": "Rairakhol",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "angul.chhendipada",
+      "name": "Chhendipada",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "kalahandi.narla",
+      "name": "Narla",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "angul.kaniha",
+      "name": "Kaniha",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "angul.bantala",
+      "name": "Bantala",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "kalahandi.kalampur",
+      "name": "Kalampur",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "sambalpur.fashimal",
+      "name": "Fashimal",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "kalahandi.lanjigarh",
+      "name": "Lanjigarh",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.kalaampur",
+      "name": "Kalaampur",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "kalahandi.madanpurrampur",
+      "name": "Madanpur Rampur",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "sambalpur.dhankauda",
+      "name": "Dhankauda",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.naktideul",
+      "name": "Naktideul",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.maneswar",
+      "name": "Maneswar",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "khordha.bhubaneswar",
+      "name": "Bhubaneswar",
+      "districtCode": "KHORDHA",
+      "active": true
+    },
+    {
+      "code": "cuttack.cuttacksadar",
+      "name": "Cuttack Sadar",
+      "districtCode": "CUTTACK",
+      "active": true
+    },
+    {
+      "code": "kalahandi.golamunda",
+      "name": "Golamunda",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "sambalpur.jamankira",
+      "name": "Jamankira",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "angul.pallahara",
+      "name": "Pallahara",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "kalahandi.karlamunda",
+      "name": "Karlamunda",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "angul.talcher",
+      "name": "Talcher",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "khordha.jatni",
+      "name": "Jatni",
+      "districtCode": "KHORDHA",
+      "active": true
+    },
+    {
+      "code": "sambalpur.rengali",
+      "name": "Rengali",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "ganjam.polsara",
+      "name": "Polsara",
+      "districtCode": "GANJAM",
+      "active": true
+    },
+    {
+      "code": "angul.banarpal",
+      "name": "Banarpal",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "angul.atthmalick",
+      "name": "Atthmalick",
+      "districtCode": "ANGUL",
+      "active": true
+    },
+    {
+      "code": "sambalpur.lephripada",
+      "name": "Lephripada",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.udala",
+      "name": "Udala",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.baliapal",
+      "name": "Baliapal",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.balasore",
+      "name": "Balasore",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.sadar",
+      "name": "Sadar",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.bhubaneswartown",
+      "name": "Bhubaneswar Town",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.puri",
+      "name": "Puri",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "sambalpur.polsara",
+      "name": "Polsara",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    },
+    {
+      "code": "kalahandi.jaipatna",
+      "name": "Jaipatna",
+      "districtCode": "KALAHANDI",
+      "active": true
+    },
+    {
+      "code": "mayurbhanj.udala",
+      "name": "Udala",
+      "districtCode": "MAYURBHANJ",
+      "active": true
+    },
+    {
+      "code": "sambalpur.burla",
+      "name": "Burla",
+      "districtCode": "SAMBALPUR",
+      "active": true
+    }
+  ]
+}

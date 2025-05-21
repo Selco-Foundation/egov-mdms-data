@@ -879,7 +879,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Home",
-      "navigationURL": "/digit-ui/employee",
+      "navigationURL": "/odisha/employee",
       "leftIcon": "action:home",
       "rightIcon": ""
     },
@@ -894,7 +894,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.MyComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/odisha/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -909,7 +909,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "/odisha/employee/pgr/complaint/create",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
@@ -929,7 +929,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/odisha/employee/pt/inbox",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -995,7 +995,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/odisha/employee/tl/inbox",
       "path": "TradeLicense.Search",
       "leftIcon": "places:business-center"
     },
@@ -1128,7 +1128,7 @@
       "enabled": false,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "/odisha/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -1143,7 +1143,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/odisha/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -1159,7 +1159,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "/odisha/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -1175,7 +1175,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints",
-      "navigationURL": "/digit-ui/citizen/pgr/complaints",
+      "navigationURL": "/odisha/citizen/pgr/complaints",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },
@@ -1190,7 +1190,7 @@
       "enabled": false,
       "serviceCode": "",
       "path": "Property Tax",
-      "navigationURL": "/digit-ui/citizen",
+      "navigationURL": "/odisha/citizen",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -1204,7 +1204,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/citizen/",
+      "navigationURL": "/odisha/citizen/",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -1220,7 +1220,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen",
+      "navigationURL": "/odisha/citizen",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
@@ -1269,7 +1269,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "/odisha/employee/pgr/complaint/create",
       "quickAction": false,
       "leftIcon": "content:add",
       "rightIcon": ""
@@ -1290,7 +1290,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess And Search Properties",
-      "navigationURL": "/digit-ui/employee/pt/inbox",
+      "navigationURL": "/odisha/employee/pt/inbox",
       "quickAction": false,
       "leftIcon": "communication:business",
       "rightIcon": ""
@@ -1306,7 +1306,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/odisha/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -1322,7 +1322,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/tl/inbox",
+      "navigationURL": "/odisha/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -1337,7 +1337,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "navigationURL": "/odisha/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -2549,7 +2549,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "AllComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "/odisha/employee/pgr/inbox",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
@@ -2932,7 +2932,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.SearchTicket",
-      "navigationURL": "/digit-ui/employee/im/inbox",
+      "navigationURL": "/odisha/employee/im/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -2947,7 +2947,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.New Ticket",
-      "navigationURL": "/digit-ui/employee/im/incident/create",
+      "navigationURL": "/odisha/employee/im/incident/create",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },

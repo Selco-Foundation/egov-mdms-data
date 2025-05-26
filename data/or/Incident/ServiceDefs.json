@@ -1649,7 +1649,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 150
     },
     {
@@ -1660,7 +1660,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 151
     },
     {
@@ -1671,7 +1671,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 152
     },
     {
@@ -1682,7 +1682,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 153
     },
     {
@@ -1693,7 +1693,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 154
     },
     {
@@ -1704,7 +1704,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 155
     },
     {
@@ -1715,7 +1715,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 156
     },
     {
@@ -1726,7 +1726,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 157
     },
     {
@@ -1737,7 +1737,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 158
     },
     {
@@ -1748,7 +1748,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 159
     },
     {
@@ -1759,7 +1759,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 160
     },
     {
@@ -1770,7 +1770,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 161
     },
     {
@@ -1781,7 +1781,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 162
     },
     {
@@ -1792,7 +1792,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 163
     },
     {
@@ -1803,7 +1803,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 164
     },
     {
@@ -1814,7 +1814,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 165
     },
     {
@@ -1825,7 +1825,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 166
     },
     {
@@ -1836,7 +1836,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 167
     },
     {
@@ -1847,7 +1847,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 168
     },
     {
@@ -1858,7 +1858,7 @@
       "slaHours": 264,
       "menuPath": "LIGHTS & FANS",
       "active": true,
-      "deprecated": false,
+      "deprecated": true,
       "id": 169
     },
     {

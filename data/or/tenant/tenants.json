@@ -9928,7 +9928,7 @@
         "ddrName": null
       },
       "address": "Odisha",
-      "contactNumber": "9653382928"
+      "contactNumber": "9938027388"
     },
     {
       "code": "or.paralsingha",
@@ -11155,9 +11155,9 @@
       "contactNumber": "9337540721"
     },
     {
-      "code": "or.unit3u",
-      "name": "Unit 3 U",
-      "description": "Unit 3 U",
+      "code": "or.unitthreeu",
+      "name": "Unit Three U",
+      "description": "Unit Three U",
       "centreType": "UPHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -11170,12 +11170,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Unit 3 U",
+        "name": "Unit Three U",
         "localName": null,
         "districtCode": "KHORDHA",
         "districtName": "Khordha",
         "blockCode": "khordha.bhubaneswar",
-        "districtTenantCode": "or.unit3u",
+        "districtTenantCode": "or.unitthreeu",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,

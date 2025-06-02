@@ -1,0 +1,54 @@
+{
+  "tenantId": "gu",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "banaskantha.amirgadh",
+      "name": "Amirgadh",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.babhar",
+      "name": "Babhar",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.danta",
+      "name": "Danta",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.dantivada",
+      "name": "Dantivada",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.dhanera",
+      "name": "Dhanera",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.lakhani",
+      "name": "Lakhani",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.tharad",
+      "name": "Tharad",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    },
+    {
+      "code": "banaskantha.vav",
+      "name": "Vav",
+      "districtCode": "BANASKANTHA",
+      "active": true
+    }
+  ]
+}

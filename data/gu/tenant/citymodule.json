@@ -1,0 +1,1229 @@
+{
+  "tenantId": "gu",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "gu"
+        },
+        {
+          "code": "gu.ajapupurmota"
+        },
+        {
+          "code": "gu.ajapupurvanka"
+        },
+        {
+          "code": "gu.amirgadh"
+        },
+        {
+          "code": "gu.balundra"
+        },
+        {
+          "code": "gu.chiknvas"
+        },
+        {
+          "code": "gu.dabhela"
+        },
+        {
+          "code": "gu.dabheli"
+        },
+        {
+          "code": "gu.deri"
+        },
+        {
+          "code": "gu.dhanpuraphc"
+        },
+        {
+          "code": "gu.dhanpurasc"
+        },
+        {
+          "code": "gu.dholiya"
+        },
+        {
+          "code": "gu.gadhada"
+        },
+        {
+          "code": "gu.ganji"
+        },
+        {
+          "code": "gu.gawra"
+        },
+        {
+          "code": "gu.ghanghu"
+        },
+        {
+          "code": "gu.ghanta"
+        },
+        {
+          "code": "gu.jethi"
+        },
+        {
+          "code": "gu.juniroh"
+        },
+        {
+          "code": "gu.junisarotari"
+        },
+        {
+          "code": "gu.kakvada"
+        },
+        {
+          "code": "gu.kanpura"
+        },
+        {
+          "code": "gu.kansara"
+        },
+        {
+          "code": "gu.kapasiya"
+        },
+        {
+          "code": "gu.karjamota"
+        },
+        {
+          "code": "gu.kharaphc"
+        },
+        {
+          "code": "gu.khari"
+        },
+        {
+          "code": "gu.khemrajiya"
+        },
+        {
+          "code": "gu.khuniya"
+        },
+        {
+          "code": "gu.rabariya"
+        },
+        {
+          "code": "gu.sarotra"
+        },
+        {
+          "code": "gu.sonvadi"
+        },
+        {
+          "code": "gu.surela"
+        },
+        {
+          "code": "gu.uplaghoda"
+        },
+        {
+          "code": "gu.upalobandh"
+        },
+        {
+          "code": "gu.vagdadi"
+        },
+        {
+          "code": "gu.balodhan"
+        },
+        {
+          "code": "gu.bedasc"
+        },
+        {
+          "code": "gu.chembuva"
+        },
+        {
+          "code": "gu.jasanvada"
+        },
+        {
+          "code": "gu.khara"
+        },
+        {
+          "code": "gu.mera"
+        },
+        {
+          "code": "gu.runiphc"
+        },
+        {
+          "code": "gu.runisc"
+        },
+        {
+          "code": "gu.sanva"
+        },
+        {
+          "code": "gu.sutharnesdi"
+        },
+        {
+          "code": "gu.tetarva"
+        },
+        {
+          "code": "gu.undai"
+        },
+        {
+          "code": "gu.vadpag"
+        },
+        {
+          "code": "gu.aderan"
+        },
+        {
+          "code": "gu.ambajithree"
+        },
+        {
+          "code": "gu.bamnoj"
+        },
+        {
+          "code": "gu.beda"
+        },
+        {
+          "code": "gu.bhadramal"
+        },
+        {
+          "code": "gu.bhankhri"
+        },
+        {
+          "code": "gu.hadad"
+        },
+        {
+          "code": "gu.jamru"
+        },
+        {
+          "code": "gu.jetvaas"
+        },
+        {
+          "code": "gu.kanbiyavaas"
+        },
+        {
+          "code": "gu.kansa"
+        },
+        {
+          "code": "gu.khermal"
+        },
+        {
+          "code": "gu.kundel"
+        },
+        {
+          "code": "gu.machkoda"
+        },
+        {
+          "code": "gu.magvasphc"
+        },
+        {
+          "code": "gu.magvassc"
+        },
+        {
+          "code": "gu.mandali"
+        },
+        {
+          "code": "gu.motapipodara"
+        },
+        {
+          "code": "gu.motasada"
+        },
+        {
+          "code": "gu.nagel"
+        },
+        {
+          "code": "gu.pancha"
+        },
+        {
+          "code": "gu.pethapur"
+        },
+        {
+          "code": "gu.rangpur"
+        },
+        {
+          "code": "gu.ranpur"
+        },
+        {
+          "code": "gu.sanali"
+        },
+        {
+          "code": "gu.sekda"
+        },
+        {
+          "code": "gu.taleti"
+        },
+        {
+          "code": "gu.toda"
+        },
+        {
+          "code": "gu.vadvera"
+        },
+        {
+          "code": "gu.vekri"
+        },
+        {
+          "code": "gu.viramveri"
+        },
+        {
+          "code": "gu.arakhi"
+        },
+        {
+          "code": "gu.bhadlikantha"
+        },
+        {
+          "code": "gu.bhakharmoti"
+        },
+        {
+          "code": "gu.dhaneri"
+        },
+        {
+          "code": "gu.godh"
+        },
+        {
+          "code": "gu.jegol"
+        },
+        {
+          "code": "gu.motimahudi"
+        },
+        {
+          "code": "gu.nandotrathakorvasone"
+        },
+        {
+          "code": "gu.nilpur"
+        },
+        {
+          "code": "gu.odhva"
+        },
+        {
+          "code": "gu.ramsida"
+        },
+        {
+          "code": "gu.santarvada"
+        },
+        {
+          "code": "gu.utampura"
+        },
+        {
+          "code": "gu.vaghrol"
+        },
+        {
+          "code": "gu.aashiya"
+        },
+        {
+          "code": "gu.anupgadh"
+        },
+        {
+          "code": "gu.bhanjana"
+        },
+        {
+          "code": "gu.dhakhaone"
+        },
+        {
+          "code": "gu.dharnodharphc"
+        },
+        {
+          "code": "gu.dharnodharsc"
+        },
+        {
+          "code": "gu.hadta"
+        },
+        {
+          "code": "gu.jadi"
+        },
+        {
+          "code": "gu.jivana"
+        },
+        {
+          "code": "gu.jorapura"
+        },
+        {
+          "code": "gu.kumar"
+        },
+        {
+          "code": "gu.ramuna"
+        },
+        {
+          "code": "gu.runi"
+        },
+        {
+          "code": "gu.saral"
+        },
+        {
+          "code": "gu.thavarone"
+        },
+        {
+          "code": "gu.thavartwo"
+        },
+        {
+          "code": "gu.valer"
+        },
+        {
+          "code": "gu.vinchivadi"
+        },
+        {
+          "code": "gu.agathala"
+        },
+        {
+          "code": "gu.agthala"
+        },
+        {
+          "code": "gu.cyhitroda"
+        },
+        {
+          "code": "gu.dhunsol"
+        },
+        {
+          "code": "gu.godha"
+        },
+        {
+          "code": "gu.jadiyaliphc"
+        },
+        {
+          "code": "gu.jadiyalisc"
+        },
+        {
+          "code": "gu.jasra"
+        },
+        {
+          "code": "gu.kamoda"
+        },
+        {
+          "code": "gu.kamodiphc"
+        },
+        {
+          "code": "gu.kamodisc"
+        },
+        {
+          "code": "gu.kherola"
+        },
+        {
+          "code": "gu.kuda"
+        },
+        {
+          "code": "gu.lavana"
+        },
+        {
+          "code": "gu.lavanaone"
+        },
+        {
+          "code": "gu.lavanatwo"
+        },
+        {
+          "code": "gu.madal"
+        },
+        {
+          "code": "gu.motakapra"
+        },
+        {
+          "code": "gu.nandla"
+        },
+        {
+          "code": "gu.nani"
+        },
+        {
+          "code": "gu.pepluphc"
+        },
+        {
+          "code": "gu.peplusc"
+        },
+        {
+          "code": "gu.sergadh"
+        },
+        {
+          "code": "gu.vasnavatam"
+        },
+        {
+          "code": "gu.aasodar"
+        },
+        {
+          "code": "gu.bevta"
+        },
+        {
+          "code": "gu.bhachar"
+        },
+        {
+          "code": "gu.bhalasara"
+        },
+        {
+          "code": "gu.bhapi"
+        },
+        {
+          "code": "gu.bhorol"
+        },
+        {
+          "code": "gu.charda"
+        },
+        {
+          "code": "gu.dantiya"
+        },
+        {
+          "code": "gu.deduva"
+        },
+        {
+          "code": "gu.dipda"
+        },
+        {
+          "code": "gu.dudhva"
+        },
+        {
+          "code": "gu.duva"
+        },
+        {
+          "code": "gu.ghodasar"
+        },
+        {
+          "code": "gu.jamda"
+        },
+        {
+          "code": "gu.jetdaphc"
+        },
+        {
+          "code": "gu.jetdasc"
+        },
+        {
+          "code": "gu.khoda"
+        },
+        {
+          "code": "gu.lunal"
+        },
+        {
+          "code": "gu.luvanaphc"
+        },
+        {
+          "code": "gu.luvanasc"
+        },
+        {
+          "code": "gu.miyal"
+        },
+        {
+          "code": "gu.morthal"
+        },
+        {
+          "code": "gu.motipavadphc"
+        },
+        {
+          "code": "gu.motipavadsc"
+        },
+        {
+          "code": "gu.nagla"
+        },
+        {
+          "code": "gu.nanol"
+        },
+        {
+          "code": "gu.naroli"
+        },
+        {
+          "code": "gu.radka"
+        },
+        {
+          "code": "gu.rahone"
+        },
+        {
+          "code": "gu.rajkot"
+        },
+        {
+          "code": "gu.rampuratharad"
+        },
+        {
+          "code": "gu.ranesari"
+        },
+        {
+          "code": "gu.sanaviya"
+        },
+        {
+          "code": "gu.savpura"
+        },
+        {
+          "code": "gu.undarana"
+        },
+        {
+          "code": "gu.vadgamda"
+        },
+        {
+          "code": "gu.valadar"
+        },
+        {
+          "code": "gu.vami"
+        },
+        {
+          "code": "gu.akoli"
+        },
+        {
+          "code": "gu.bhakhari"
+        },
+        {
+          "code": "gu.bukna"
+        },
+        {
+          "code": "gu.chandarva"
+        },
+        {
+          "code": "gu.chothanesada"
+        },
+        {
+          "code": "gu.chotil"
+        },
+        {
+          "code": "gu.dhimatwo"
+        },
+        {
+          "code": "gu.gambhirpura"
+        },
+        {
+          "code": "gu.golgam"
+        },
+        {
+          "code": "gu.janavada"
+        },
+        {
+          "code": "gu.khimnavas"
+        },
+        {
+          "code": "gu.kundaliya"
+        },
+        {
+          "code": "gu.lalpura"
+        },
+        {
+          "code": "gu.madkaone"
+        },
+        {
+          "code": "gu.mavsari"
+        },
+        {
+          "code": "gu.morikha"
+        },
+        {
+          "code": "gu.rachena"
+        },
+        {
+          "code": "gu.radhaneshda"
+        },
+        {
+          "code": "gu.rampuravav"
+        },
+        {
+          "code": "gu.sanval"
+        },
+        {
+          "code": "gu.sapreda"
+        },
+        {
+          "code": "gu.tadav"
+        },
+        {
+          "code": "gu.tirthgam"
+        },
+        {
+          "code": "gu.uchpa"
+        },
+        {
+          "code": "gu.vasarada"
+        },
+        {
+          "code": "gu.vavone"
+        },
+        {
+          "code": "gu.vavdi"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "gu"
+        },
+        {
+          "code": "gu.ajapupurmota"
+        },
+        {
+          "code": "gu.ajapupurvanka"
+        },
+        {
+          "code": "gu.amirgadh"
+        },
+        {
+          "code": "gu.balundra"
+        },
+        {
+          "code": "gu.chiknvas"
+        },
+        {
+          "code": "gu.dabhela"
+        },
+        {
+          "code": "gu.dabheli"
+        },
+        {
+          "code": "gu.deri"
+        },
+        {
+          "code": "gu.dhanpuraphc"
+        },
+        {
+          "code": "gu.dhanpurasc"
+        },
+        {
+          "code": "gu.dholiya"
+        },
+        {
+          "code": "gu.gadhada"
+        },
+        {
+          "code": "gu.ganji"
+        },
+        {
+          "code": "gu.gawra"
+        },
+        {
+          "code": "gu.ghanghu"
+        },
+        {
+          "code": "gu.ghanta"
+        },
+        {
+          "code": "gu.jethi"
+        },
+        {
+          "code": "gu.juniroh"
+        },
+        {
+          "code": "gu.junisarotari"
+        },
+        {
+          "code": "gu.kakvada"
+        },
+        {
+          "code": "gu.kanpura"
+        },
+        {
+          "code": "gu.kansara"
+        },
+        {
+          "code": "gu.kapasiya"
+        },
+        {
+          "code": "gu.karjamota"
+        },
+        {
+          "code": "gu.kharaphc"
+        },
+        {
+          "code": "gu.khari"
+        },
+        {
+          "code": "gu.khemrajiya"
+        },
+        {
+          "code": "gu.khuniya"
+        },
+        {
+          "code": "gu.rabariya"
+        },
+        {
+          "code": "gu.sarotra"
+        },
+        {
+          "code": "gu.sonvadi"
+        },
+        {
+          "code": "gu.surela"
+        },
+        {
+          "code": "gu.uplaghoda"
+        },
+        {
+          "code": "gu.upalobandh"
+        },
+        {
+          "code": "gu.vagdadi"
+        },
+        {
+          "code": "gu.balodhan"
+        },
+        {
+          "code": "gu.bedasc"
+        },
+        {
+          "code": "gu.chembuva"
+        },
+        {
+          "code": "gu.jasanvada"
+        },
+        {
+          "code": "gu.khara"
+        },
+        {
+          "code": "gu.mera"
+        },
+        {
+          "code": "gu.runiphc"
+        },
+        {
+          "code": "gu.runisc"
+        },
+        {
+          "code": "gu.sanva"
+        },
+        {
+          "code": "gu.sutharnesdi"
+        },
+        {
+          "code": "gu.tetarva"
+        },
+        {
+          "code": "gu.undai"
+        },
+        {
+          "code": "gu.vadpag"
+        },
+        {
+          "code": "gu.aderan"
+        },
+        {
+          "code": "gu.ambajithree"
+        },
+        {
+          "code": "gu.bamnoj"
+        },
+        {
+          "code": "gu.beda"
+        },
+        {
+          "code": "gu.bhadramal"
+        },
+        {
+          "code": "gu.bhankhri"
+        },
+        {
+          "code": "gu.hadad"
+        },
+        {
+          "code": "gu.jamru"
+        },
+        {
+          "code": "gu.jetvaas"
+        },
+        {
+          "code": "gu.kanbiyavaas"
+        },
+        {
+          "code": "gu.kansa"
+        },
+        {
+          "code": "gu.khermal"
+        },
+        {
+          "code": "gu.kundel"
+        },
+        {
+          "code": "gu.machkoda"
+        },
+        {
+          "code": "gu.magvasphc"
+        },
+        {
+          "code": "gu.magvassc"
+        },
+        {
+          "code": "gu.mandali"
+        },
+        {
+          "code": "gu.motapipodara"
+        },
+        {
+          "code": "gu.motasada"
+        },
+        {
+          "code": "gu.nagel"
+        },
+        {
+          "code": "gu.pancha"
+        },
+        {
+          "code": "gu.pethapur"
+        },
+        {
+          "code": "gu.rangpur"
+        },
+        {
+          "code": "gu.ranpur"
+        },
+        {
+          "code": "gu.sanali"
+        },
+        {
+          "code": "gu.sekda"
+        },
+        {
+          "code": "gu.taleti"
+        },
+        {
+          "code": "gu.toda"
+        },
+        {
+          "code": "gu.vadvera"
+        },
+        {
+          "code": "gu.vekri"
+        },
+        {
+          "code": "gu.viramveri"
+        },
+        {
+          "code": "gu.arakhi"
+        },
+        {
+          "code": "gu.bhadlikantha"
+        },
+        {
+          "code": "gu.bhakharmoti"
+        },
+        {
+          "code": "gu.dhaneri"
+        },
+        {
+          "code": "gu.godh"
+        },
+        {
+          "code": "gu.jegol"
+        },
+        {
+          "code": "gu.motimahudi"
+        },
+        {
+          "code": "gu.nandotrathakorvasone"
+        },
+        {
+          "code": "gu.nilpur"
+        },
+        {
+          "code": "gu.odhva"
+        },
+        {
+          "code": "gu.ramsida"
+        },
+        {
+          "code": "gu.santarvada"
+        },
+        {
+          "code": "gu.utampura"
+        },
+        {
+          "code": "gu.vaghrol"
+        },
+        {
+          "code": "gu.aashiya"
+        },
+        {
+          "code": "gu.anupgadh"
+        },
+        {
+          "code": "gu.bhanjana"
+        },
+        {
+          "code": "gu.dhakhaone"
+        },
+        {
+          "code": "gu.dharnodharphc"
+        },
+        {
+          "code": "gu.dharnodharsc"
+        },
+        {
+          "code": "gu.hadta"
+        },
+        {
+          "code": "gu.jadi"
+        },
+        {
+          "code": "gu.jivana"
+        },
+        {
+          "code": "gu.jorapura"
+        },
+        {
+          "code": "gu.kumar"
+        },
+        {
+          "code": "gu.ramuna"
+        },
+        {
+          "code": "gu.runi"
+        },
+        {
+          "code": "gu.saral"
+        },
+        {
+          "code": "gu.thavarone"
+        },
+        {
+          "code": "gu.thavartwo"
+        },
+        {
+          "code": "gu.valer"
+        },
+        {
+          "code": "gu.vinchivadi"
+        },
+        {
+          "code": "gu.agathala"
+        },
+        {
+          "code": "gu.agthala"
+        },
+        {
+          "code": "gu.cyhitroda"
+        },
+        {
+          "code": "gu.dhunsol"
+        },
+        {
+          "code": "gu.godha"
+        },
+        {
+          "code": "gu.jadiyaliphc"
+        },
+        {
+          "code": "gu.jadiyalisc"
+        },
+        {
+          "code": "gu.jasra"
+        },
+        {
+          "code": "gu.kamoda"
+        },
+        {
+          "code": "gu.kamodiphc"
+        },
+        {
+          "code": "gu.kamodisc"
+        },
+        {
+          "code": "gu.kherola"
+        },
+        {
+          "code": "gu.kuda"
+        },
+        {
+          "code": "gu.lavana"
+        },
+        {
+          "code": "gu.lavanaone"
+        },
+        {
+          "code": "gu.lavanatwo"
+        },
+        {
+          "code": "gu.madal"
+        },
+        {
+          "code": "gu.motakapra"
+        },
+        {
+          "code": "gu.nandla"
+        },
+        {
+          "code": "gu.nani"
+        },
+        {
+          "code": "gu.pepluphc"
+        },
+        {
+          "code": "gu.peplusc"
+        },
+        {
+          "code": "gu.sergadh"
+        },
+        {
+          "code": "gu.vasnavatam"
+        },
+        {
+          "code": "gu.aasodar"
+        },
+        {
+          "code": "gu.bevta"
+        },
+        {
+          "code": "gu.bhachar"
+        },
+        {
+          "code": "gu.bhalasara"
+        },
+        {
+          "code": "gu.bhapi"
+        },
+        {
+          "code": "gu.bhorol"
+        },
+        {
+          "code": "gu.charda"
+        },
+        {
+          "code": "gu.dantiya"
+        },
+        {
+          "code": "gu.deduva"
+        },
+        {
+          "code": "gu.dipda"
+        },
+        {
+          "code": "gu.dudhva"
+        },
+        {
+          "code": "gu.duva"
+        },
+        {
+          "code": "gu.ghodasar"
+        },
+        {
+          "code": "gu.jamda"
+        },
+        {
+          "code": "gu.jetdaphc"
+        },
+        {
+          "code": "gu.jetdasc"
+        },
+        {
+          "code": "gu.khoda"
+        },
+        {
+          "code": "gu.lunal"
+        },
+        {
+          "code": "gu.luvanaphc"
+        },
+        {
+          "code": "gu.luvanasc"
+        },
+        {
+          "code": "gu.miyal"
+        },
+        {
+          "code": "gu.morthal"
+        },
+        {
+          "code": "gu.motipavadphc"
+        },
+        {
+          "code": "gu.motipavadsc"
+        },
+        {
+          "code": "gu.nagla"
+        },
+        {
+          "code": "gu.nanol"
+        },
+        {
+          "code": "gu.naroli"
+        },
+        {
+          "code": "gu.radka"
+        },
+        {
+          "code": "gu.rahone"
+        },
+        {
+          "code": "gu.rajkot"
+        },
+        {
+          "code": "gu.rampuratharad"
+        },
+        {
+          "code": "gu.ranesari"
+        },
+        {
+          "code": "gu.sanaviya"
+        },
+        {
+          "code": "gu.savpura"
+        },
+        {
+          "code": "gu.undarana"
+        },
+        {
+          "code": "gu.vadgamda"
+        },
+        {
+          "code": "gu.valadar"
+        },
+        {
+          "code": "gu.vami"
+        },
+        {
+          "code": "gu.akoli"
+        },
+        {
+          "code": "gu.bhakhari"
+        },
+        {
+          "code": "gu.bukna"
+        },
+        {
+          "code": "gu.chandarva"
+        },
+        {
+          "code": "gu.chothanesada"
+        },
+        {
+          "code": "gu.chotil"
+        },
+        {
+          "code": "gu.dhimatwo"
+        },
+        {
+          "code": "gu.gambhirpura"
+        },
+        {
+          "code": "gu.golgam"
+        },
+        {
+          "code": "gu.janavada"
+        },
+        {
+          "code": "gu.khimnavas"
+        },
+        {
+          "code": "gu.kundaliya"
+        },
+        {
+          "code": "gu.lalpura"
+        },
+        {
+          "code": "gu.madkaone"
+        },
+        {
+          "code": "gu.mavsari"
+        },
+        {
+          "code": "gu.morikha"
+        },
+        {
+          "code": "gu.rachena"
+        },
+        {
+          "code": "gu.radhaneshda"
+        },
+        {
+          "code": "gu.rampuravav"
+        },
+        {
+          "code": "gu.sanval"
+        },
+        {
+          "code": "gu.sapreda"
+        },
+        {
+          "code": "gu.tadav"
+        },
+        {
+          "code": "gu.tirthgam"
+        },
+        {
+          "code": "gu.uchpa"
+        },
+        {
+          "code": "gu.vasarada"
+        },
+        {
+          "code": "gu.vavone"
+        },
+        {
+          "code": "gu.vavdi"
+        }
+      ]
+    }
+  ]
+}

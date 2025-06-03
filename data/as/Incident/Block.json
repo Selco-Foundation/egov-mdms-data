@@ -1,0 +1,90 @@
+{
+  "tenantId": "as",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "udalguri.udalguri",
+      "name": "Udalguri",
+      "districtCode": "UDALGURI",
+      "active": true
+    },
+    {
+      "code": "udalguri.khoirabari",
+      "name": "Khoirabari",
+      "districtCode": "UDALGURI",
+      "active": true
+    },
+    {
+      "code": "udalguri.orang",
+      "name": "Orang",
+      "districtCode": "UDALGURI",
+      "active": true
+    },
+    {
+      "code": "chirang.ballamguri",
+      "name": "Ballamguri",
+      "districtCode": "CHIRANG",
+      "active": true
+    },
+    {
+      "code": "chirang.sidli",
+      "name": "Sidli",
+      "districtCode": "CHIRANG",
+      "active": true
+    },
+    {
+      "code": "baksa.barama",
+      "name": "Barama",
+      "districtCode": "BAKSA",
+      "active": true
+    },
+    {
+      "code": "baksa.tamulpur",
+      "name": "Tamulpur",
+      "districtCode": "BAKSA",
+      "active": true
+    },
+    {
+      "code": "baksa.mushalpur",
+      "name": "Mushalpur",
+      "districtCode": "BAKSA",
+      "active": true
+    },
+    {
+      "code": "baksa.nizkaurbaha",
+      "name": "Niz Kaurbaha",
+      "districtCode": "BAKSA",
+      "active": true
+    },
+    {
+      "code": "baksa.jalah",
+      "name": "Jalah",
+      "districtCode": "BAKSA",
+      "active": true
+    },
+    {
+      "code": "kokrajhar.gossaigaon",
+      "name": "Gossaigaon",
+      "districtCode": "KOKRAJHAR",
+      "active": true
+    },
+    {
+      "code": "kokrajhar.dotoma",
+      "name": "Dotoma",
+      "districtCode": "KOKRAJHAR",
+      "active": true
+    },
+    {
+      "code": "kokrajhar.balajan",
+      "name": "Balajan",
+      "districtCode": "KOKRAJHAR",
+      "active": true
+    },
+    {
+      "code": "kokrajhar.kachugaon",
+      "name": "Kachugaon",
+      "districtCode": "KOKRAJHAR",
+      "active": true
+    }
+  ]
+}

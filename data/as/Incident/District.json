@@ -1,0 +1,31 @@
+{
+  "tenantId": "as",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "UDALGURI",
+      "name": "Udalguri",
+      "active": true
+    },
+    {
+      "code": "CHIRANG",
+      "name": "Chirang",
+      "active": true
+    },
+    {
+      "code": "BAKSA",
+      "name": "Baksa",
+      "active": true
+    },
+    {
+      "code": "KOKRAJHAR",
+      "name": "Kokrajhar",
+      "active": true
+    },
+    {
+      "code": "KOKRAJHAR",
+      "name": "Kokrajhar",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tenantId": "gj",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "BANASKANTHA",
+      "name": "Banaskantha",
+      "active": true
+    }
+  ]
+}

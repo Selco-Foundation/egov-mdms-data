@@ -1,0 +1,1229 @@
+{
+  "tenantId": "gj",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "gj"
+        },
+        {
+          "code": "gj.ajapupurmota"
+        },
+        {
+          "code": "gj.ajapupurvanka"
+        },
+        {
+          "code": "gj.amirgadh"
+        },
+        {
+          "code": "gj.balundra"
+        },
+        {
+          "code": "gj.chiknvas"
+        },
+        {
+          "code": "gj.dabhela"
+        },
+        {
+          "code": "gj.dabheli"
+        },
+        {
+          "code": "gj.deri"
+        },
+        {
+          "code": "gj.dhanpuraphc"
+        },
+        {
+          "code": "gj.dhanpurasc"
+        },
+        {
+          "code": "gj.dholiya"
+        },
+        {
+          "code": "gj.gadhada"
+        },
+        {
+          "code": "gj.ganji"
+        },
+        {
+          "code": "gj.gawra"
+        },
+        {
+          "code": "gj.ghanghu"
+        },
+        {
+          "code": "gj.ghanta"
+        },
+        {
+          "code": "gj.jethi"
+        },
+        {
+          "code": "gj.juniroh"
+        },
+        {
+          "code": "gj.junisarotari"
+        },
+        {
+          "code": "gj.kakvada"
+        },
+        {
+          "code": "gj.kanpura"
+        },
+        {
+          "code": "gj.kansara"
+        },
+        {
+          "code": "gj.kapasiya"
+        },
+        {
+          "code": "gj.karjamota"
+        },
+        {
+          "code": "gj.kharaphc"
+        },
+        {
+          "code": "gj.khari"
+        },
+        {
+          "code": "gj.khemrajiya"
+        },
+        {
+          "code": "gj.khuniya"
+        },
+        {
+          "code": "gj.rabariya"
+        },
+        {
+          "code": "gj.sarotra"
+        },
+        {
+          "code": "gj.sonvadi"
+        },
+        {
+          "code": "gj.surela"
+        },
+        {
+          "code": "gj.uplaghoda"
+        },
+        {
+          "code": "gj.upalobandh"
+        },
+        {
+          "code": "gj.vagdadi"
+        },
+        {
+          "code": "gj.balodhan"
+        },
+        {
+          "code": "gj.bedasc"
+        },
+        {
+          "code": "gj.chembuva"
+        },
+        {
+          "code": "gj.jasanvada"
+        },
+        {
+          "code": "gj.khara"
+        },
+        {
+          "code": "gj.mera"
+        },
+        {
+          "code": "gj.runiphc"
+        },
+        {
+          "code": "gj.runisc"
+        },
+        {
+          "code": "gj.sanva"
+        },
+        {
+          "code": "gj.sutharnesdi"
+        },
+        {
+          "code": "gj.tetarva"
+        },
+        {
+          "code": "gj.undai"
+        },
+        {
+          "code": "gj.vadpag"
+        },
+        {
+          "code": "gj.aderan"
+        },
+        {
+          "code": "gj.ambajithree"
+        },
+        {
+          "code": "gj.bamnoj"
+        },
+        {
+          "code": "gj.beda"
+        },
+        {
+          "code": "gj.bhadramal"
+        },
+        {
+          "code": "gj.bhankhri"
+        },
+        {
+          "code": "gj.hadad"
+        },
+        {
+          "code": "gj.jamru"
+        },
+        {
+          "code": "gj.jetvaas"
+        },
+        {
+          "code": "gj.kanbiyavaas"
+        },
+        {
+          "code": "gj.kansa"
+        },
+        {
+          "code": "gj.khermal"
+        },
+        {
+          "code": "gj.kundel"
+        },
+        {
+          "code": "gj.machkoda"
+        },
+        {
+          "code": "gj.magvasphc"
+        },
+        {
+          "code": "gj.magvassc"
+        },
+        {
+          "code": "gj.mandali"
+        },
+        {
+          "code": "gj.motapipodara"
+        },
+        {
+          "code": "gj.motasada"
+        },
+        {
+          "code": "gj.nagel"
+        },
+        {
+          "code": "gj.pancha"
+        },
+        {
+          "code": "gj.pethapur"
+        },
+        {
+          "code": "gj.rangpur"
+        },
+        {
+          "code": "gj.ranpur"
+        },
+        {
+          "code": "gj.sanali"
+        },
+        {
+          "code": "gj.sekda"
+        },
+        {
+          "code": "gj.taleti"
+        },
+        {
+          "code": "gj.toda"
+        },
+        {
+          "code": "gj.vadvera"
+        },
+        {
+          "code": "gj.vekri"
+        },
+        {
+          "code": "gj.viramveri"
+        },
+        {
+          "code": "gj.arakhi"
+        },
+        {
+          "code": "gj.bhadlikantha"
+        },
+        {
+          "code": "gj.bhakharmoti"
+        },
+        {
+          "code": "gj.dhaneri"
+        },
+        {
+          "code": "gj.godh"
+        },
+        {
+          "code": "gj.jegol"
+        },
+        {
+          "code": "gj.motimahudi"
+        },
+        {
+          "code": "gj.nandotrathakorvasone"
+        },
+        {
+          "code": "gj.nilpur"
+        },
+        {
+          "code": "gj.odhva"
+        },
+        {
+          "code": "gj.ramsida"
+        },
+        {
+          "code": "gj.santarvada"
+        },
+        {
+          "code": "gj.utampura"
+        },
+        {
+          "code": "gj.vaghrol"
+        },
+        {
+          "code": "gj.aashiya"
+        },
+        {
+          "code": "gj.anupgadh"
+        },
+        {
+          "code": "gj.bhanjana"
+        },
+        {
+          "code": "gj.dhakhaone"
+        },
+        {
+          "code": "gj.dharnodharphc"
+        },
+        {
+          "code": "gj.dharnodharsc"
+        },
+        {
+          "code": "gj.hadta"
+        },
+        {
+          "code": "gj.jadi"
+        },
+        {
+          "code": "gj.jivana"
+        },
+        {
+          "code": "gj.jorapura"
+        },
+        {
+          "code": "gj.kumar"
+        },
+        {
+          "code": "gj.ramuna"
+        },
+        {
+          "code": "gj.runi"
+        },
+        {
+          "code": "gj.saral"
+        },
+        {
+          "code": "gj.thavarone"
+        },
+        {
+          "code": "gj.thavartwo"
+        },
+        {
+          "code": "gj.valer"
+        },
+        {
+          "code": "gj.vinchivadi"
+        },
+        {
+          "code": "gj.agathala"
+        },
+        {
+          "code": "gj.agthala"
+        },
+        {
+          "code": "gj.cyhitroda"
+        },
+        {
+          "code": "gj.dhunsol"
+        },
+        {
+          "code": "gj.godha"
+        },
+        {
+          "code": "gj.jadiyaliphc"
+        },
+        {
+          "code": "gj.jadiyalisc"
+        },
+        {
+          "code": "gj.jasra"
+        },
+        {
+          "code": "gj.kamoda"
+        },
+        {
+          "code": "gj.kamodiphc"
+        },
+        {
+          "code": "gj.kamodisc"
+        },
+        {
+          "code": "gj.kherola"
+        },
+        {
+          "code": "gj.kuda"
+        },
+        {
+          "code": "gj.lavana"
+        },
+        {
+          "code": "gj.lavanaone"
+        },
+        {
+          "code": "gj.lavanatwo"
+        },
+        {
+          "code": "gj.madal"
+        },
+        {
+          "code": "gj.motakapra"
+        },
+        {
+          "code": "gj.nandla"
+        },
+        {
+          "code": "gj.nani"
+        },
+        {
+          "code": "gj.pepluphc"
+        },
+        {
+          "code": "gj.peplusc"
+        },
+        {
+          "code": "gj.sergadh"
+        },
+        {
+          "code": "gj.vasnavatam"
+        },
+        {
+          "code": "gj.aasodar"
+        },
+        {
+          "code": "gj.bevta"
+        },
+        {
+          "code": "gj.bhachar"
+        },
+        {
+          "code": "gj.bhalasara"
+        },
+        {
+          "code": "gj.bhapi"
+        },
+        {
+          "code": "gj.bhorol"
+        },
+        {
+          "code": "gj.charda"
+        },
+        {
+          "code": "gj.dantiya"
+        },
+        {
+          "code": "gj.deduva"
+        },
+        {
+          "code": "gj.dipda"
+        },
+        {
+          "code": "gj.dudhva"
+        },
+        {
+          "code": "gj.duva"
+        },
+        {
+          "code": "gj.ghodasar"
+        },
+        {
+          "code": "gj.jamda"
+        },
+        {
+          "code": "gj.jetdaphc"
+        },
+        {
+          "code": "gj.jetdasc"
+        },
+        {
+          "code": "gj.khoda"
+        },
+        {
+          "code": "gj.lunal"
+        },
+        {
+          "code": "gj.luvanaphc"
+        },
+        {
+          "code": "gj.luvanasc"
+        },
+        {
+          "code": "gj.miyal"
+        },
+        {
+          "code": "gj.morthal"
+        },
+        {
+          "code": "gj.motipavadphc"
+        },
+        {
+          "code": "gj.motipavadsc"
+        },
+        {
+          "code": "gj.nagla"
+        },
+        {
+          "code": "gj.nanol"
+        },
+        {
+          "code": "gj.naroli"
+        },
+        {
+          "code": "gj.radka"
+        },
+        {
+          "code": "gj.rahone"
+        },
+        {
+          "code": "gj.rajkot"
+        },
+        {
+          "code": "gj.rampuratharad"
+        },
+        {
+          "code": "gj.ranesari"
+        },
+        {
+          "code": "gj.sanaviya"
+        },
+        {
+          "code": "gj.savpura"
+        },
+        {
+          "code": "gj.undarana"
+        },
+        {
+          "code": "gj.vadgamda"
+        },
+        {
+          "code": "gj.valadar"
+        },
+        {
+          "code": "gj.vami"
+        },
+        {
+          "code": "gj.akoli"
+        },
+        {
+          "code": "gj.bhakhari"
+        },
+        {
+          "code": "gj.bukna"
+        },
+        {
+          "code": "gj.chandarva"
+        },
+        {
+          "code": "gj.chothanesada"
+        },
+        {
+          "code": "gj.chotil"
+        },
+        {
+          "code": "gj.dhimatwo"
+        },
+        {
+          "code": "gj.gambhirpura"
+        },
+        {
+          "code": "gj.golgam"
+        },
+        {
+          "code": "gj.janavada"
+        },
+        {
+          "code": "gj.khimnavas"
+        },
+        {
+          "code": "gj.kundaliya"
+        },
+        {
+          "code": "gj.lalpura"
+        },
+        {
+          "code": "gj.madkaone"
+        },
+        {
+          "code": "gj.mavsari"
+        },
+        {
+          "code": "gj.morikha"
+        },
+        {
+          "code": "gj.rachena"
+        },
+        {
+          "code": "gj.radhaneshda"
+        },
+        {
+          "code": "gj.rampuravav"
+        },
+        {
+          "code": "gj.sanval"
+        },
+        {
+          "code": "gj.sapreda"
+        },
+        {
+          "code": "gj.tadav"
+        },
+        {
+          "code": "gj.tirthgam"
+        },
+        {
+          "code": "gj.uchpa"
+        },
+        {
+          "code": "gj.vasarada"
+        },
+        {
+          "code": "gj.vavone"
+        },
+        {
+          "code": "gj.vavdi"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "gj"
+        },
+        {
+          "code": "gj.ajapupurmota"
+        },
+        {
+          "code": "gj.ajapupurvanka"
+        },
+        {
+          "code": "gj.amirgadh"
+        },
+        {
+          "code": "gj.balundra"
+        },
+        {
+          "code": "gj.chiknvas"
+        },
+        {
+          "code": "gj.dabhela"
+        },
+        {
+          "code": "gj.dabheli"
+        },
+        {
+          "code": "gj.deri"
+        },
+        {
+          "code": "gj.dhanpuraphc"
+        },
+        {
+          "code": "gj.dhanpurasc"
+        },
+        {
+          "code": "gj.dholiya"
+        },
+        {
+          "code": "gj.gadhada"
+        },
+        {
+          "code": "gj.ganji"
+        },
+        {
+          "code": "gj.gawra"
+        },
+        {
+          "code": "gj.ghanghu"
+        },
+        {
+          "code": "gj.ghanta"
+        },
+        {
+          "code": "gj.jethi"
+        },
+        {
+          "code": "gj.juniroh"
+        },
+        {
+          "code": "gj.junisarotari"
+        },
+        {
+          "code": "gj.kakvada"
+        },
+        {
+          "code": "gj.kanpura"
+        },
+        {
+          "code": "gj.kansara"
+        },
+        {
+          "code": "gj.kapasiya"
+        },
+        {
+          "code": "gj.karjamota"
+        },
+        {
+          "code": "gj.kharaphc"
+        },
+        {
+          "code": "gj.khari"
+        },
+        {
+          "code": "gj.khemrajiya"
+        },
+        {
+          "code": "gj.khuniya"
+        },
+        {
+          "code": "gj.rabariya"
+        },
+        {
+          "code": "gj.sarotra"
+        },
+        {
+          "code": "gj.sonvadi"
+        },
+        {
+          "code": "gj.surela"
+        },
+        {
+          "code": "gj.uplaghoda"
+        },
+        {
+          "code": "gj.upalobandh"
+        },
+        {
+          "code": "gj.vagdadi"
+        },
+        {
+          "code": "gj.balodhan"
+        },
+        {
+          "code": "gj.bedasc"
+        },
+        {
+          "code": "gj.chembuva"
+        },
+        {
+          "code": "gj.jasanvada"
+        },
+        {
+          "code": "gj.khara"
+        },
+        {
+          "code": "gj.mera"
+        },
+        {
+          "code": "gj.runiphc"
+        },
+        {
+          "code": "gj.runisc"
+        },
+        {
+          "code": "gj.sanva"
+        },
+        {
+          "code": "gj.sutharnesdi"
+        },
+        {
+          "code": "gj.tetarva"
+        },
+        {
+          "code": "gj.undai"
+        },
+        {
+          "code": "gj.vadpag"
+        },
+        {
+          "code": "gj.aderan"
+        },
+        {
+          "code": "gj.ambajithree"
+        },
+        {
+          "code": "gj.bamnoj"
+        },
+        {
+          "code": "gj.beda"
+        },
+        {
+          "code": "gj.bhadramal"
+        },
+        {
+          "code": "gj.bhankhri"
+        },
+        {
+          "code": "gj.hadad"
+        },
+        {
+          "code": "gj.jamru"
+        },
+        {
+          "code": "gj.jetvaas"
+        },
+        {
+          "code": "gj.kanbiyavaas"
+        },
+        {
+          "code": "gj.kansa"
+        },
+        {
+          "code": "gj.khermal"
+        },
+        {
+          "code": "gj.kundel"
+        },
+        {
+          "code": "gj.machkoda"
+        },
+        {
+          "code": "gj.magvasphc"
+        },
+        {
+          "code": "gj.magvassc"
+        },
+        {
+          "code": "gj.mandali"
+        },
+        {
+          "code": "gj.motapipodara"
+        },
+        {
+          "code": "gj.motasada"
+        },
+        {
+          "code": "gj.nagel"
+        },
+        {
+          "code": "gj.pancha"
+        },
+        {
+          "code": "gj.pethapur"
+        },
+        {
+          "code": "gj.rangpur"
+        },
+        {
+          "code": "gj.ranpur"
+        },
+        {
+          "code": "gj.sanali"
+        },
+        {
+          "code": "gj.sekda"
+        },
+        {
+          "code": "gj.taleti"
+        },
+        {
+          "code": "gj.toda"
+        },
+        {
+          "code": "gj.vadvera"
+        },
+        {
+          "code": "gj.vekri"
+        },
+        {
+          "code": "gj.viramveri"
+        },
+        {
+          "code": "gj.arakhi"
+        },
+        {
+          "code": "gj.bhadlikantha"
+        },
+        {
+          "code": "gj.bhakharmoti"
+        },
+        {
+          "code": "gj.dhaneri"
+        },
+        {
+          "code": "gj.godh"
+        },
+        {
+          "code": "gj.jegol"
+        },
+        {
+          "code": "gj.motimahudi"
+        },
+        {
+          "code": "gj.nandotrathakorvasone"
+        },
+        {
+          "code": "gj.nilpur"
+        },
+        {
+          "code": "gj.odhva"
+        },
+        {
+          "code": "gj.ramsida"
+        },
+        {
+          "code": "gj.santarvada"
+        },
+        {
+          "code": "gj.utampura"
+        },
+        {
+          "code": "gj.vaghrol"
+        },
+        {
+          "code": "gj.aashiya"
+        },
+        {
+          "code": "gj.anupgadh"
+        },
+        {
+          "code": "gj.bhanjana"
+        },
+        {
+          "code": "gj.dhakhaone"
+        },
+        {
+          "code": "gj.dharnodharphc"
+        },
+        {
+          "code": "gj.dharnodharsc"
+        },
+        {
+          "code": "gj.hadta"
+        },
+        {
+          "code": "gj.jadi"
+        },
+        {
+          "code": "gj.jivana"
+        },
+        {
+          "code": "gj.jorapura"
+        },
+        {
+          "code": "gj.kumar"
+        },
+        {
+          "code": "gj.ramuna"
+        },
+        {
+          "code": "gj.runi"
+        },
+        {
+          "code": "gj.saral"
+        },
+        {
+          "code": "gj.thavarone"
+        },
+        {
+          "code": "gj.thavartwo"
+        },
+        {
+          "code": "gj.valer"
+        },
+        {
+          "code": "gj.vinchivadi"
+        },
+        {
+          "code": "gj.agathala"
+        },
+        {
+          "code": "gj.agthala"
+        },
+        {
+          "code": "gj.cyhitroda"
+        },
+        {
+          "code": "gj.dhunsol"
+        },
+        {
+          "code": "gj.godha"
+        },
+        {
+          "code": "gj.jadiyaliphc"
+        },
+        {
+          "code": "gj.jadiyalisc"
+        },
+        {
+          "code": "gj.jasra"
+        },
+        {
+          "code": "gj.kamoda"
+        },
+        {
+          "code": "gj.kamodiphc"
+        },
+        {
+          "code": "gj.kamodisc"
+        },
+        {
+          "code": "gj.kherola"
+        },
+        {
+          "code": "gj.kuda"
+        },
+        {
+          "code": "gj.lavana"
+        },
+        {
+          "code": "gj.lavanaone"
+        },
+        {
+          "code": "gj.lavanatwo"
+        },
+        {
+          "code": "gj.madal"
+        },
+        {
+          "code": "gj.motakapra"
+        },
+        {
+          "code": "gj.nandla"
+        },
+        {
+          "code": "gj.nani"
+        },
+        {
+          "code": "gj.pepluphc"
+        },
+        {
+          "code": "gj.peplusc"
+        },
+        {
+          "code": "gj.sergadh"
+        },
+        {
+          "code": "gj.vasnavatam"
+        },
+        {
+          "code": "gj.aasodar"
+        },
+        {
+          "code": "gj.bevta"
+        },
+        {
+          "code": "gj.bhachar"
+        },
+        {
+          "code": "gj.bhalasara"
+        },
+        {
+          "code": "gj.bhapi"
+        },
+        {
+          "code": "gj.bhorol"
+        },
+        {
+          "code": "gj.charda"
+        },
+        {
+          "code": "gj.dantiya"
+        },
+        {
+          "code": "gj.deduva"
+        },
+        {
+          "code": "gj.dipda"
+        },
+        {
+          "code": "gj.dudhva"
+        },
+        {
+          "code": "gj.duva"
+        },
+        {
+          "code": "gj.ghodasar"
+        },
+        {
+          "code": "gj.jamda"
+        },
+        {
+          "code": "gj.jetdaphc"
+        },
+        {
+          "code": "gj.jetdasc"
+        },
+        {
+          "code": "gj.khoda"
+        },
+        {
+          "code": "gj.lunal"
+        },
+        {
+          "code": "gj.luvanaphc"
+        },
+        {
+          "code": "gj.luvanasc"
+        },
+        {
+          "code": "gj.miyal"
+        },
+        {
+          "code": "gj.morthal"
+        },
+        {
+          "code": "gj.motipavadphc"
+        },
+        {
+          "code": "gj.motipavadsc"
+        },
+        {
+          "code": "gj.nagla"
+        },
+        {
+          "code": "gj.nanol"
+        },
+        {
+          "code": "gj.naroli"
+        },
+        {
+          "code": "gj.radka"
+        },
+        {
+          "code": "gj.rahone"
+        },
+        {
+          "code": "gj.rajkot"
+        },
+        {
+          "code": "gj.rampuratharad"
+        },
+        {
+          "code": "gj.ranesari"
+        },
+        {
+          "code": "gj.sanaviya"
+        },
+        {
+          "code": "gj.savpura"
+        },
+        {
+          "code": "gj.undarana"
+        },
+        {
+          "code": "gj.vadgamda"
+        },
+        {
+          "code": "gj.valadar"
+        },
+        {
+          "code": "gj.vami"
+        },
+        {
+          "code": "gj.akoli"
+        },
+        {
+          "code": "gj.bhakhari"
+        },
+        {
+          "code": "gj.bukna"
+        },
+        {
+          "code": "gj.chandarva"
+        },
+        {
+          "code": "gj.chothanesada"
+        },
+        {
+          "code": "gj.chotil"
+        },
+        {
+          "code": "gj.dhimatwo"
+        },
+        {
+          "code": "gj.gambhirpura"
+        },
+        {
+          "code": "gj.golgam"
+        },
+        {
+          "code": "gj.janavada"
+        },
+        {
+          "code": "gj.khimnavas"
+        },
+        {
+          "code": "gj.kundaliya"
+        },
+        {
+          "code": "gj.lalpura"
+        },
+        {
+          "code": "gj.madkaone"
+        },
+        {
+          "code": "gj.mavsari"
+        },
+        {
+          "code": "gj.morikha"
+        },
+        {
+          "code": "gj.rachena"
+        },
+        {
+          "code": "gj.radhaneshda"
+        },
+        {
+          "code": "gj.rampuravav"
+        },
+        {
+          "code": "gj.sanval"
+        },
+        {
+          "code": "gj.sapreda"
+        },
+        {
+          "code": "gj.tadav"
+        },
+        {
+          "code": "gj.tirthgam"
+        },
+        {
+          "code": "gj.uchpa"
+        },
+        {
+          "code": "gj.vasarada"
+        },
+        {
+          "code": "gj.vavone"
+        },
+        {
+          "code": "gj.vavdi"
+        }
+      ]
+    }
+  ]
+}

@@ -19,10 +19,6 @@
         {
           "label": "ENGLISH",
           "value": "en_IN"
-        },
-        {
-          "label": "ಕನ್ನಡ",
-          "value": "ka_IN"
         }
       ],
       "localizationModules": [

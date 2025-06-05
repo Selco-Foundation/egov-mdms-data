@@ -917,7 +917,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Home",
-      "navigationURL": "/meghalaya-ui/employee",
+      "navigationURL": "/meghalaya/employee",
       "leftIcon": "action:home",
       "rightIcon": ""
     },
@@ -932,7 +932,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.MyComplaints",
-      "navigationURL": "/meghalaya-ui/employee/pgr/inbox",
+      "navigationURL": "/meghalaya/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -947,7 +947,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/meghalaya-ui/employee/pgr/complaint/create",
+      "navigationURL": "/meghalaya/employee/pgr/complaint/create",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
@@ -967,7 +967,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "/meghalaya-ui/employee/pt/inbox",
+      "navigationURL": "/meghalaya/employee/pt/inbox",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -1033,7 +1033,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/meghalaya-ui/employee/tl/inbox",
+      "navigationURL": "/meghalaya/employee/tl/inbox",
       "path": "TradeLicense.Search",
       "leftIcon": "places:business-center"
     },
@@ -1166,7 +1166,7 @@
       "enabled": false,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "/meghalaya-ui/employee/hrms/inbox",
+      "navigationURL": "/meghalaya/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -1181,7 +1181,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/meghalaya-ui/employee/pgr/inbox",
+      "navigationURL": "/meghalaya/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -1197,7 +1197,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/meghalaya-ui/employee/hrms/inbox",
+      "navigationURL": "/meghalaya/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -1213,7 +1213,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints",
-      "navigationURL": "/meghalaya-ui/citizen/pgr/complaints",
+      "navigationURL": "/meghalaya/citizen/pgr/complaints",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },
@@ -1228,7 +1228,7 @@
       "enabled": false,
       "serviceCode": "",
       "path": "Property Tax",
-      "navigationURL": "/meghalaya-ui/citizen",
+      "navigationURL": "/meghalaya/citizen",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -1242,7 +1242,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/meghalaya-ui/citizen/",
+      "navigationURL": "/meghalaya/citizen/",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -1258,7 +1258,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/meghalaya-ui/citizen",
+      "navigationURL": "/meghalaya/citizen",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
@@ -1307,7 +1307,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/meghalaya-ui/employee/pgr/complaint/create",
+      "navigationURL": "/meghalaya/employee/pgr/complaint/create",
       "quickAction": false,
       "leftIcon": "content:add",
       "rightIcon": ""
@@ -1328,7 +1328,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess And Search Properties",
-      "navigationURL": "/meghalaya-ui/employee/pt/inbox",
+      "navigationURL": "/meghalaya/employee/pt/inbox",
       "quickAction": false,
       "leftIcon": "communication:business",
       "rightIcon": ""
@@ -1344,7 +1344,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/meghalaya-ui/employee/pgr/inbox",
+      "navigationURL": "/meghalaya/employee/pgr/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -1360,7 +1360,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/meghalaya-ui/employee/tl/inbox",
+      "navigationURL": "/meghalaya/employee/tl/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -1375,7 +1375,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/meghalaya-ui/employee/tl/new-application",
+      "navigationURL": "/meghalaya/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -2587,7 +2587,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "AllComplaints",
-      "navigationURL": "/meghalaya-ui/employee/pgr/inbox",
+      "navigationURL": "/meghalaya/employee/pgr/inbox",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
@@ -2970,7 +2970,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.SearchTicket",
-      "navigationURL": "/meghalaya-ui/employee/im/inbox",
+      "navigationURL": "/meghalaya/employee/im/inbox",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },
@@ -2985,7 +2985,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "IM.New Ticket",
-      "navigationURL": "/meghalaya-ui/employee/im/incident/create",
+      "navigationURL": "/meghalaya/employee/im/incident/create",
       "leftIcon": "action:announcement",
       "rightIcon": ""
     },

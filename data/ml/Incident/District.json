@@ -3,62 +3,62 @@
   "moduleName": "Incident",
   "District": [
     {
-      "code": "NORTH GARO HILLS",
+      "code": "NORTHGAROHILLS",
       "name": "North Garo Hills",
       "active": true
     },
     {
-      "code": "WEST GARO HILLS",
+      "code": "WESTGAROHILLS",
       "name": "West Garo Hills",
       "active": true
     },
     {
-      "code": "RI BHOI",
+      "code": "RIBHOI",
       "name": "Ri Bhoi",
       "active": true
     },
     {
-      "code": "SOUTH GARO HILLS",
+      "code": "SOUTHGAROHILLS",
       "name": "South Garo Hills",
       "active": true
     },
     {
-      "code": "WEST JAINTIA HILLS",
+      "code": "WESTJAINTIAHILLS",
       "name": "West Jaintia Hills",
       "active": true
     },
     {
-      "code": "SOUTH WEST GARO HILLS",
+      "code": "SOUTHWESTGAROHILLS",
       "name": "South West Garo Hills",
       "active": true
     },
     {
-      "code": "EAST JAINTIA HILLS",
+      "code": "EASTJAINTIAHILLS",
       "name": "East Jaintia Hills",
       "active": true
     },
     {
-      "code": "WEST KHASI HILLS",
+      "code": "WESTKHASIHILLS",
       "name": "West Khasi Hills",
       "active": true
     },
     {
-      "code": "EAST KHASI HILLS",
+      "code": "EASTKHASIHILLS",
       "name": "East Khasi Hills",
       "active": true
     },
     {
-      "code": "SOUTH WEST KHASI HILLS",
+      "code": "SOUTHWESTKHASIHILLS",
       "name": "South West Khasi Hills",
       "active": true
     },
     {
-      "code": "EAST GARO HILLS",
+      "code": "EASTGAROHILLS",
       "name": "East Garo Hills",
       "active": true
     },
     {
-      "code": "EASTERN WEST KHASI HILLS",
+      "code": "EASTERNWESTKHASIHILLS",
       "name": "Eastern West Khasi Hills",
       "active": true
     }

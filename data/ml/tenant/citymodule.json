@@ -8,9 +8,1587 @@
       "active": true,
       "order": 2,
       "tenants": [
-        {"code":"ml"},
-        {"code":"ml.dummy"},
-        {"code":"ml.dummya"}
+        {
+          "code": "ml"
+        },
+        {
+          "code": "ml.digisinggre"
+        },
+        {
+          "code": "ml.samkalakgre"
+        },
+        {
+          "code": "ml.elaitchiapal"
+        },
+        {
+          "code": "ml.rajaapal"
+        },
+        {
+          "code": "ml.gosingpita"
+        },
+        {
+          "code": "ml.akemgre"
+        },
+        {
+          "code": "ml.aruakgre"
+        },
+        {
+          "code": "ml.gokulgre"
+        },
+        {
+          "code": "ml.damitdanggra"
+        },
+        {
+          "code": "ml.mongpanggro"
+        },
+        {
+          "code": "ml.rongkaminchi"
+        },
+        {
+          "code": "ml.jamgaonsorokpara"
+        },
+        {
+          "code": "ml.sepikol"
+        },
+        {
+          "code": "ml.kagrakgre"
+        },
+        {
+          "code": "ml.gambilapal"
+        },
+        {
+          "code": "ml.badaka"
+        },
+        {
+          "code": "ml.baksalpara"
+        },
+        {
+          "code": "ml.chibongga"
+        },
+        {
+          "code": "ml.chilpara"
+        },
+        {
+          "code": "ml.chotcholja"
+        },
+        {
+          "code": "ml.dokongsi"
+        },
+        {
+          "code": "ml.anogre"
+        },
+        {
+          "code": "ml.boldorenggre"
+        },
+        {
+          "code": "ml.manggakgre"
+        },
+        {
+          "code": "ml.marakgre"
+        },
+        {
+          "code": "ml.rombagre"
+        },
+        {
+          "code": "ml.tosekgre"
+        },
+        {
+          "code": "ml.waribokgre"
+        },
+        {
+          "code": "ml.boldakgre"
+        },
+        {
+          "code": "ml.babadamgalwanggre"
+        },
+        {
+          "code": "ml.chidekgre"
+        },
+        {
+          "code": "ml.mawrong"
+        },
+        {
+          "code": "ml.amjong"
+        },
+        {
+          "code": "ml.mawdem"
+        },
+        {
+          "code": "ml.bhoirymbong"
+        },
+        {
+          "code": "ml.barapanistdispensary"
+        },
+        {
+          "code": "ml.josipara"
+        },
+        {
+          "code": "ml.jijikapara"
+        },
+        {
+          "code": "ml.sesengpara"
+        },
+        {
+          "code": "ml.sangkni"
+        },
+        {
+          "code": "ml.posenggagre"
+        },
+        {
+          "code": "ml.bolchugre"
+        },
+        {
+          "code": "ml.gambegre"
+        },
+        {
+          "code": "ml.dakopgre"
+        },
+        {
+          "code": "ml.doldegre"
+        },
+        {
+          "code": "ml.taksu"
+        },
+        {
+          "code": "ml.mitapgre"
+        },
+        {
+          "code": "ml.ganchikalak"
+        },
+        {
+          "code": "ml.mibonpara"
+        },
+        {
+          "code": "ml.rongrikkimgre"
+        },
+        {
+          "code": "ml.rongchugre"
+        },
+        {
+          "code": "ml.bikonggre"
+        },
+        {
+          "code": "ml.bollonggre"
+        },
+        {
+          "code": "ml.damalasim"
+        },
+        {
+          "code": "ml.mangalpara"
+        },
+        {
+          "code": "ml.romgre"
+        },
+        {
+          "code": "ml.mowkaiaw"
+        },
+        {
+          "code": "ml.mowtyrshiah"
+        },
+        {
+          "code": "ml.raliang"
+        },
+        {
+          "code": "ml.mynska"
+        },
+        {
+          "code": "ml.khliehrangnah"
+        },
+        {
+          "code": "ml.pammanik"
+        },
+        {
+          "code": "ml.kyndongtuber"
+        },
+        {
+          "code": "ml.phramer"
+        },
+        {
+          "code": "ml.mooshrot"
+        },
+        {
+          "code": "ml.psiar"
+        },
+        {
+          "code": "ml.mukroh"
+        },
+        {
+          "code": "ml.thangrain"
+        },
+        {
+          "code": "ml.saphai"
+        },
+        {
+          "code": "ml.shilliangmyntang"
+        },
+        {
+          "code": "ml.damalgre"
+        },
+        {
+          "code": "ml.watregre"
+        },
+        {
+          "code": "ml.harigaon"
+        },
+        {
+          "code": "ml.mukdangra"
+        },
+        {
+          "code": "ml.gandhipara"
+        },
+        {
+          "code": "ml.andharkona"
+        },
+        {
+          "code": "ml.garodubha"
+        },
+        {
+          "code": "ml.godalgre"
+        },
+        {
+          "code": "ml.murchapani"
+        },
+        {
+          "code": "ml.mynso"
+        },
+        {
+          "code": "ml.huroi"
+        },
+        {
+          "code": "ml.nongryngkoh"
+        },
+        {
+          "code": "ml.shangpung"
+        },
+        {
+          "code": "ml.sahsniang"
+        },
+        {
+          "code": "ml.dabakgre"
+        },
+        {
+          "code": "ml.narongkol"
+        },
+        {
+          "code": "ml.damjonggre"
+        },
+        {
+          "code": "ml.thapadarenchi"
+        },
+        {
+          "code": "ml.thapabisrampur"
+        },
+        {
+          "code": "ml.thakurvilla"
+        },
+        {
+          "code": "ml.tingbagttim"
+        },
+        {
+          "code": "ml.waramja"
+        },
+        {
+          "code": "ml.upperjambal"
+        },
+        {
+          "code": "ml.imsambal"
+        },
+        {
+          "code": "ml.rajasimla"
+        },
+        {
+          "code": "ml.lowerchimaimpel"
+        },
+        {
+          "code": "ml.nilwagre"
+        },
+        {
+          "code": "ml.rongsaawe"
+        },
+        {
+          "code": "ml.ramchengga"
+        },
+        {
+          "code": "ml.jatrakona"
+        },
+        {
+          "code": "ml.tynhiang"
+        },
+        {
+          "code": "ml.seinduli"
+        },
+        {
+          "code": "ml.umsohpieng"
+        },
+        {
+          "code": "ml.nongmisei"
+        },
+        {
+          "code": "ml.riangdim"
+        },
+        {
+          "code": "ml.umdang"
+        },
+        {
+          "code": "ml.mallangkona"
+        },
+        {
+          "code": "ml.tynghor"
+        },
+        {
+          "code": "ml.marngor"
+        },
+        {
+          "code": "ml.ujenggre"
+        },
+        {
+          "code": "ml.wajadagre"
+        },
+        {
+          "code": "ml.mawmuthoh"
+        },
+        {
+          "code": "ml.zekabari"
+        },
+        {
+          "code": "ml.hallidayganj"
+        },
+        {
+          "code": "ml.rochonpara"
+        },
+        {
+          "code": "ml.batabari"
+        },
+        {
+          "code": "ml.rajabala"
+        },
+        {
+          "code": "ml.belbarisatsella"
+        },
+        {
+          "code": "ml.thakimagre"
+        },
+        {
+          "code": "ml.bamundanga"
+        },
+        {
+          "code": "ml.cheransongma"
+        },
+        {
+          "code": "ml.masangpani"
+        },
+        {
+          "code": "ml.moulakandi"
+        },
+        {
+          "code": "ml.rongkhongre"
+        },
+        {
+          "code": "ml.chenggapara"
+        },
+        {
+          "code": "ml.phershakandi"
+        },
+        {
+          "code": "ml.chisakgre"
+        },
+        {
+          "code": "ml.darrang"
+        },
+        {
+          "code": "ml.muktapur"
+        },
+        {
+          "code": "ml.pasadwar"
+        },
+        {
+          "code": "ml.mupyut"
+        },
+        {
+          "code": "ml.khonglah"
+        },
+        {
+          "code": "ml.syndai"
+        },
+        {
+          "code": "ml.trangblang"
+        },
+        {
+          "code": "ml.jongkipara"
+        },
+        {
+          "code": "ml.marok"
+        },
+        {
+          "code": "ml.rangrigre"
+        },
+        {
+          "code": "ml.bhajamara"
+        },
+        {
+          "code": "ml.hallaidigang"
+        },
+        {
+          "code": "ml.mangchim"
+        },
+        {
+          "code": "ml.chibinang"
+        },
+        {
+          "code": "ml.wahkaliar"
+        },
+        {
+          "code": "ml.umwai"
+        },
+        {
+          "code": "ml.majai"
+        },
+        {
+          "code": "ml.mawphu"
+        },
+        {
+          "code": "ml.mustoh"
+        },
+        {
+          "code": "ml.dkhiah"
+        },
+        {
+          "code": "ml.kairang"
+        },
+        {
+          "code": "ml.byndihati"
+        },
+        {
+          "code": "ml.ummat"
+        },
+        {
+          "code": "ml.chiehruphi"
+        },
+        {
+          "code": "ml.moolamylliang"
+        },
+        {
+          "code": "ml.narwan"
+        },
+        {
+          "code": "ml.muallian"
+        },
+        {
+          "code": "ml.sakhain"
+        },
+        {
+          "code": "ml.jalaphet"
+        },
+        {
+          "code": "ml.samasi"
+        },
+        {
+          "code": "ml.lelad"
+        },
+        {
+          "code": "ml.bataw"
+        },
+        {
+          "code": "ml.lumshnong"
+        },
+        {
+          "code": "ml.pamrapaithlu"
+        },
+        {
+          "code": "ml.rymbai"
+        },
+        {
+          "code": "ml.damas"
+        },
+        {
+          "code": "ml.dainadubi"
+        },
+        {
+          "code": "ml.manikganj"
+        },
+        {
+          "code": "ml.adokgre"
+        },
+        {
+          "code": "ml.bajengdoba"
+        },
+        {
+          "code": "ml.kharkutta"
+        },
+        {
+          "code": "ml.rumnong"
+        },
+        {
+          "code": "ml.sualmari"
+        },
+        {
+          "code": "ml.belbaribetasing"
+        },
+        {
+          "code": "ml.betasing"
+        },
+        {
+          "code": "ml.garobadha"
+        },
+        {
+          "code": "ml.uppercherra"
+        },
+        {
+          "code": "ml.mellimphc"
+        },
+        {
+          "code": "ml.wahlong"
+        },
+        {
+          "code": "ml.rangsakona"
+        },
+        {
+          "code": "ml.laittyra"
+        },
+        {
+          "code": "ml.khonjoy"
+        },
+        {
+          "code": "ml.mawthawpdah"
+        },
+        {
+          "code": "ml.rangthong"
+        },
+        {
+          "code": "ml.sohlap"
+        },
+        {
+          "code": "ml.jengjal"
+        },
+        {
+          "code": "ml.kharang"
+        },
+        {
+          "code": "ml.krang"
+        },
+        {
+          "code": "ml.kut"
+        },
+        {
+          "code": "ml.laitkor"
+        },
+        {
+          "code": "ml.lawmei"
+        },
+        {
+          "code": "ml.lempluh"
+        },
+        {
+          "code": "ml.liewlong"
+        },
+        {
+          "code": "ml.lyngkien"
+        },
+        {
+          "code": "ml.tyrna"
+        },
+        {
+          "code": "ml.mawbeh"
+        },
+        {
+          "code": "ml.mawlat"
+        },
+        {
+          "code": "ml.mawlyndiar"
+        },
+        {
+          "code": "ml.mawlyngad"
+        },
+        {
+          "code": "ml.mawlyngngot"
+        },
+        {
+          "code": "ml.mawngap"
+        },
+        {
+          "code": "ml.mawpdang"
+        },
+        {
+          "code": "ml.mawsadang"
+        },
+        {
+          "code": "ml.mawpynthih"
+        },
+        {
+          "code": "ml.mawpyrshong"
+        },
+        {
+          "code": "ml.kynroh"
+        },
+        {
+          "code": "ml.mawtawar"
+        },
+        {
+          "code": "ml.sohbar"
+        },
+        {
+          "code": "ml.nohron"
+        },
+        {
+          "code": "ml.nonghali"
+        },
+        {
+          "code": "ml.nongkrem"
+        },
+        {
+          "code": "ml.nongtrai"
+        },
+        {
+          "code": "ml.phlangwanbroi"
+        },
+        {
+          "code": "ml.pingwait"
+        },
+        {
+          "code": "ml.pynter"
+        },
+        {
+          "code": "ml.pyrnai"
+        },
+        {
+          "code": "ml.rangshken"
+        },
+        {
+          "code": "ml.shella"
+        },
+        {
+          "code": "ml.sawsymper"
+        },
+        {
+          "code": "ml.sohryngkham"
+        },
+        {
+          "code": "ml.sonatola"
+        },
+        {
+          "code": "ml.syntein"
+        },
+        {
+          "code": "ml.syntung"
+        },
+        {
+          "code": "ml.thangsning"
+        },
+        {
+          "code": "ml.thieddieng"
+        },
+        {
+          "code": "ml.thynroit"
+        },
+        {
+          "code": "ml.tyngnger"
+        },
+        {
+          "code": "ml.tynring"
+        },
+        {
+          "code": "ml.tyrsad"
+        },
+        {
+          "code": "ml.umniuhtmar"
+        },
+        {
+          "code": "ml.umphyrnai"
+        },
+        {
+          "code": "ml.umthlong"
+        },
+        {
+          "code": "ml.mawsahew"
+        },
+        {
+          "code": "ml.laitlyngkot"
+        },
+        {
+          "code": "ml.norek"
+        },
+        {
+          "code": "ml.lyngkyrdem"
+        },
+        {
+          "code": "ml.lawbahhwc"
+        },
+        {
+          "code": "ml.mawlynrei"
+        },
+        {
+          "code": "ml.nongkynrih"
+        },
+        {
+          "code": "ml.nongmensong"
+        },
+        {
+          "code": "ml.nongthymmai"
+        },
+        {
+          "code": "ml.nongtyngur"
+        },
+        {
+          "code": "ml.snalgre"
+        },
+        {
+          "code": "ml.rari"
+        },
+        {
+          "code": "ml.umlympung"
+        },
+        {
+          "code": "ml.umrynjah"
+        },
+        {
+          "code": "ml.asil"
+        },
+        {
+          "code": "ml.lawsohtun"
+        },
+        {
+          "code": "ml.rynjahstatedispensary"
+        },
+        {
+          "code": "ml.shastridispensary"
+        },
+        {
+          "code": "ml.marmainphc"
+        },
+        {
+          "code": "ml.nongjlak"
+        },
+        {
+          "code": "ml.sohkrot"
+        },
+        {
+          "code": "ml.langtor"
+        },
+        {
+          "code": "ml.sarong"
+        },
+        {
+          "code": "ml.manai"
+        },
+        {
+          "code": "ml.mawshut"
+        },
+        {
+          "code": "ml.pyndengdombah"
+        },
+        {
+          "code": "ml.mawkarah"
+        },
+        {
+          "code": "ml.mawnai"
+        },
+        {
+          "code": "ml.dongkiingding"
+        },
+        {
+          "code": "ml.umpdem"
+        },
+        {
+          "code": "ml.nongthyllep"
+        },
+        {
+          "code": "ml.kynshi"
+        },
+        {
+          "code": "ml.myriaw"
+        },
+        {
+          "code": "ml.rambrai"
+        },
+        {
+          "code": "ml.pariong"
+        },
+        {
+          "code": "ml.diengiei"
+        },
+        {
+          "code": "ml.jamge"
+        },
+        {
+          "code": "ml.nongurweilyngkut"
+        },
+        {
+          "code": "ml.pomlum"
+        },
+        {
+          "code": "ml.koksinengsat"
+        },
+        {
+          "code": "ml.saminindikkim"
+        },
+        {
+          "code": "ml.simsengbongga"
+        },
+        {
+          "code": "ml.maweit"
+        },
+        {
+          "code": "ml.pongtung"
+        },
+        {
+          "code": "ml.mawkliaw"
+        },
+        {
+          "code": "ml.lawbahphc"
+        },
+        {
+          "code": "ml.ryngku"
+        },
+        {
+          "code": "ml.khatarshnongkhrang"
+        },
+        {
+          "code": "ml.pdengshakap"
+        },
+        {
+          "code": "ml.dawki"
+        },
+        {
+          "code": "ml.dagalapal"
+        },
+        {
+          "code": "ml.dobu"
+        },
+        {
+          "code": "ml.songsak"
+        },
+        {
+          "code": "ml.jarain"
+        },
+        {
+          "code": "ml.bamkamar"
+        },
+        {
+          "code": "ml.khanduli"
+        },
+        {
+          "code": "ml.mihmyntdu"
+        },
+        {
+          "code": "ml.moobakhon"
+        },
+        {
+          "code": "ml.diengpasoh"
+        },
+        {
+          "code": "ml.smit"
+        },
+        {
+          "code": "ml.moodymmai"
+        },
+        {
+          "code": "ml.mawsiatkham"
+        },
+        {
+          "code": "ml.mustem"
+        },
+        {
+          "code": "ml.laitkseh"
+        },
+        {
+          "code": "ml.mawkadiang"
+        },
+        {
+          "code": "ml.nongkynjang"
+        },
+        {
+          "code": "ml.umyiap"
+        },
+        {
+          "code": "ml.sangriang"
+        },
+        {
+          "code": "ml.mawdumdum"
+        },
+        {
+          "code": "ml.kynsew"
+        },
+        {
+          "code": "ml.tyrshang"
+        },
+        {
+          "code": "ml.porkadoh"
+        },
+        {
+          "code": "ml.miangshang"
+        },
+        {
+          "code": "ml.jakrem"
+        },
+        {
+          "code": "ml.umjarainmawkyrwat"
+        },
+        {
+          "code": "ml.phlangkynshi"
+        },
+        {
+          "code": "ml.wahiajer"
+        },
+        {
+          "code": "ml.nongliput"
+        },
+        {
+          "code": "ml.ranibari"
+        },
+        {
+          "code": "ml.jirangstdispensary"
+        },
+        {
+          "code": "ml.puksohra"
+        },
+        {
+          "code": "ml.rangmaw"
+        },
+        {
+          "code": "ml.nongnah"
+        },
+        {
+          "code": "ml.mawsaw"
+        },
+        {
+          "code": "ml.rangblang"
+        },
+        {
+          "code": "ml.umjarainwahkaji"
+        },
+        {
+          "code": "ml.nongspung"
+        },
+        {
+          "code": "ml.mawrohmawlaimawroh"
+        },
+        {
+          "code": "ml.dambukaga"
+        },
+        {
+          "code": "ml.darangboldak"
+        },
+        {
+          "code": "ml.dimapara"
+        },
+        {
+          "code": "ml.emangare"
+        },
+        {
+          "code": "ml.nongkhroh"
+        },
+        {
+          "code": "ml.gasuapara"
+        },
+        {
+          "code": "ml.karukol"
+        },
+        {
+          "code": "ml.mahadeo"
+        },
+        {
+          "code": "ml.nengkong"
+        },
+        {
+          "code": "ml.rongruasim"
+        },
+        {
+          "code": "ml.iapngar"
+        },
+        {
+          "code": "ml.jamanar"
+        },
+        {
+          "code": "ml.mawtari"
+        },
+        {
+          "code": "ml.pynthor"
+        },
+        {
+          "code": "ml.raitong"
+        },
+        {
+          "code": "ml.thadrang"
+        },
+        {
+          "code": "ml.tyrso"
+        },
+        {
+          "code": "ml.umlaper"
+        },
+        {
+          "code": "ml.umsawnongbri"
+        },
+        {
+          "code": "ml.umsawnongkharai"
+        },
+        {
+          "code": "ml.kongthong"
+        },
+        {
+          "code": "ml.wahlang"
+        },
+        {
+          "code": "ml.ladmawphlang"
+        },
+        {
+          "code": "ml.laitnongkseh"
+        },
+        {
+          "code": "ml.lyngkhoi"
+        },
+        {
+          "code": "ml.mawkdok"
+        },
+        {
+          "code": "ml.mawkma"
+        },
+        {
+          "code": "ml.mawrah"
+        },
+        {
+          "code": "ml.thainthynroh"
+        },
+        {
+          "code": "ml.umdiengpoh"
+        },
+        {
+          "code": "ml.chibokapal"
+        },
+        {
+          "code": "ml.nengkram"
+        },
+        {
+          "code": "ml.nongbakapal"
+        },
+        {
+          "code": "ml.nongchram"
+        },
+        {
+          "code": "ml.pakkregre"
+        },
+        {
+          "code": "ml.rongdudamit"
+        },
+        {
+          "code": "ml.rongmil"
+        },
+        {
+          "code": "ml.dambomrok"
+        },
+        {
+          "code": "ml.darugre"
+        },
+        {
+          "code": "ml.naringgre"
+        },
+        {
+          "code": "ml.chamcham"
+        },
+        {
+          "code": "ml.iapmala"
+        },
+        {
+          "code": "ml.iongkaluh"
+        },
+        {
+          "code": "ml.jalyiah"
+        },
+        {
+          "code": "ml.moolamanoh"
+        },
+        {
+          "code": "ml.mukhaialong"
+        },
+        {
+          "code": "ml.rngad"
+        },
+        {
+          "code": "ml.sohkymphor"
+        },
+        {
+          "code": "ml.bodaapal"
+        },
+        {
+          "code": "ml.bolsong"
+        },
+        {
+          "code": "ml.chengalma"
+        },
+        {
+          "code": "ml.dobaapal"
+        },
+        {
+          "code": "ml.khaldang"
+        },
+        {
+          "code": "ml.sarapara"
+        },
+        {
+          "code": "ml.sildubi"
+        },
+        {
+          "code": "ml.dalupara"
+        },
+        {
+          "code": "ml.darongre"
+        },
+        {
+          "code": "ml.jongchetpara"
+        },
+        {
+          "code": "ml.joyfar"
+        },
+        {
+          "code": "ml.mellimhwc"
+        },
+        {
+          "code": "ml.rongsangabagre"
+        },
+        {
+          "code": "ml.okkapara"
+        },
+        {
+          "code": "ml.kulang"
+        },
+        {
+          "code": "ml.maheshkola"
+        },
+        {
+          "code": "ml.mawpud"
+        },
+        {
+          "code": "ml.nongkynbah"
+        },
+        {
+          "code": "ml.nongrynniang"
+        },
+        {
+          "code": "ml.phlangdiloin"
+        },
+        {
+          "code": "ml.photjaud"
+        },
+        {
+          "code": "ml.shngimawlein"
+        },
+        {
+          "code": "ml.amindagre"
+        },
+        {
+          "code": "ml.baljek"
+        },
+        {
+          "code": "ml.gonchudare"
+        },
+        {
+          "code": "ml.halchati"
+        },
+        {
+          "code": "ml.mynkrem"
+        },
+        {
+          "code": "ml.rakabah"
+        },
+        {
+          "code": "ml.thadbamon"
+        },
+        {
+          "code": "ml.rimrangpara"
+        },
+        {
+          "code": "ml.nonglatem"
+        },
+        {
+          "code": "ml.mynsngad"
+        },
+        {
+          "code": "ml.nongjngi"
+        },
+        {
+          "code": "ml.mupliang"
+        },
+        {
+          "code": "ml.sohmynting"
+        },
+        {
+          "code": "ml.mukhla"
+        },
+        {
+          "code": "ml.nongbareh"
+        },
+        {
+          "code": "ml.saitsama"
+        },
+        {
+          "code": "ml.sanaro"
+        },
+        {
+          "code": "ml.byrki"
+        },
+        {
+          "code": "ml.langja"
+        },
+        {
+          "code": "ml.lawbyrtun"
+        },
+        {
+          "code": "ml.mawdoh"
+        },
+        {
+          "code": "ml.mawlangniang"
+        },
+        {
+          "code": "ml.mawlangsu"
+        },
+        {
+          "code": "ml.mawlieh"
+        },
+        {
+          "code": "ml.mawsyrpat"
+        },
+        {
+          "code": "ml.nongjri"
+        },
+        {
+          "code": "ml.loomkrywiang"
+        },
+        {
+          "code": "ml.baridua"
+        },
+        {
+          "code": "ml.killing"
+        },
+        {
+          "code": "ml.kynjoinumran"
+        },
+        {
+          "code": "ml.kyrdemkulai"
+        },
+        {
+          "code": "ml.marmainhwc"
+        },
+        {
+          "code": "ml.mawbsein"
+        },
+        {
+          "code": "ml.nartiang"
+        },
+        {
+          "code": "ml.mawlang"
+        },
+        {
+          "code": "ml.mawlein"
+        },
+        {
+          "code": "ml.mawlyndep"
+        },
+        {
+          "code": "ml.nangbah"
+        },
+        {
+          "code": "ml.narang"
+        },
+        {
+          "code": "ml.pahambir"
+        },
+        {
+          "code": "ml.pilingkata"
+        },
+        {
+          "code": "ml.sonidan"
+        },
+        {
+          "code": "ml.khliehtyrshi"
+        },
+        {
+          "code": "ml.umling"
+        },
+        {
+          "code": "ml.umroi"
+        },
+        {
+          "code": "ml.umsawlum"
+        },
+        {
+          "code": "ml.umshaken"
+        },
+        {
+          "code": "ml.umsohphria"
+        },
+        {
+          "code": "ml.umsong"
+        },
+        {
+          "code": "ml.umtrew"
+        },
+        {
+          "code": "ml.byrnihat"
+        },
+        {
+          "code": "ml.kyrdem"
+        },
+        {
+          "code": "ml.marngar"
+        },
+        {
+          "code": "ml.mawhati"
+        },
+        {
+          "code": "ml.mawlaisnai"
+        },
+        {
+          "code": "ml.umden"
+        },
+        {
+          "code": "ml.umtrai"
+        },
+        {
+          "code": "ml.warmawsaw"
+        },
+        {
+          "code": "ml.barato"
+        },
+        {
+          "code": "ml.patharkhmah"
+        },
+        {
+          "code": "ml.umsning"
+        },
+        {
+          "code": "ml.nongpoh"
+        },
+        {
+          "code": "ml.iooksi"
+        },
+        {
+          "code": "ml.hollaidanga"
+        },
+        {
+          "code": "ml.bolkinggre"
+        },
+        {
+          "code": "ml.chiading"
+        },
+        {
+          "code": "ml.damborongdeng"
+        },
+        {
+          "code": "ml.dawagre"
+        },
+        {
+          "code": "ml.dolwari"
+        },
+        {
+          "code": "ml.gitokgre"
+        },
+        {
+          "code": "ml.pedeldoba"
+        },
+        {
+          "code": "ml.belguri"
+        },
+        {
+          "code": "ml.mandalgre"
+        },
+        {
+          "code": "ml.nengkra"
+        },
+        {
+          "code": "ml.nidanpur"
+        },
+        {
+          "code": "ml.rongbinggre"
+        },
+        {
+          "code": "ml.jangrapara"
+        },
+        {
+          "code": "ml.sampalgre"
+        },
+        {
+          "code": "ml.naguapara"
+        },
+        {
+          "code": "ml.tombolgre"
+        },
+        {
+          "code": "ml.bansamgre"
+        },
+        {
+          "code": "ml.hatogaon"
+        },
+        {
+          "code": "ml.rongbokgre"
+        },
+        {
+          "code": "ml.mangsang"
+        },
+        {
+          "code": "ml.rongrong"
+        },
+        {
+          "code": "ml.samanda"
+        },
+        {
+          "code": "ml.rangsagre"
+        },
+        {
+          "code": "ml.nengmandalgre"
+        },
+        {
+          "code": "ml.rongjeng"
+        },
+        {
+          "code": "ml.civilhospitalwilliamnagar"
+        },
+        {
+          "code": "ml.siju"
+        },
+        {
+          "code": "ml.dangar"
+        },
+        {
+          "code": "ml.mawlong"
+        },
+        {
+          "code": "ml.ichamati"
+        },
+        {
+          "code": "ml.districttbcenter"
+        },
+        {
+          "code": "ml.williamnagarfortybeddedcoronacarecentre"
+        },
+        {
+          "code": "ml.williamnagartwentysixbeddedisolationward"
+        },
+        {
+          "code": "ml.saipung"
+        },
+        {
+          "code": "ml.umkiang"
+        },
+        {
+          "code": "ml.lowersambrak"
+        },
+        {
+          "code": "ml.gabil"
+        },
+        {
+          "code": "ml.wageasi"
+        },
+        {
+          "code": "ml.anangpara"
+        },
+        {
+          "code": "ml.rengsinpara"
+        },
+        {
+          "code": "ml.ranikor"
+        },
+        {
+          "code": "ml.hullukona"
+        },
+        {
+          "code": "ml.kuligaon"
+        },
+        {
+          "code": "ml.kambakpara"
+        },
+        {
+          "code": "ml.gilajuri"
+        },
+        {
+          "code": "ml.sangdong"
+        },
+        {
+          "code": "ml.waramsongam"
+        },
+        {
+          "code": "ml.babadam"
+        },
+        {
+          "code": "ml.jakhang"
+        },
+        {
+          "code": "ml.kynrud"
+        },
+        {
+          "code": "ml.wahkaji"
+        },
+        {
+          "code": "ml.caminodispensary"
+        },
+        {
+          "code": "ml.mamadelamorecarecentre"
+        },
+        {
+          "code": "ml.tolegre"
+        },
+        {
+          "code": "ml.nengja"
+        },
+        {
+          "code": "ml.aggrenggittim"
+        },
+        {
+          "code": "ml.rugapara"
+        },
+        {
+          "code": "ml.rongrengpal"
+        },
+        {
+          "code": "ml.debajani"
+        },
+        {
+          "code": "ml.gopinathkilla"
+        },
+        {
+          "code": "ml.kalaichar"
+        },
+        {
+          "code": "ml.nogorpara"
+        },
+        {
+          "code": "ml.zikzak"
+        },
+        {
+          "code": "ml.salmanpara"
+        },
+        {
+          "code": "ml.rongrenggredispensary"
+        },
+        {
+          "code": "ml.dengnanggre"
+        },
+        {
+          "code": "ml.dingrepa"
+        },
+        {
+          "code": "ml.shnongrim"
+        },
+        {
+          "code": "ml.tuber"
+        },
+        {
+          "code": "ml.nongum"
+        },
+        {
+          "code": "ml.nonglang"
+        },
+        {
+          "code": "ml.aradonga"
+        },
+        {
+          "code": "ml.wahrit"
+        },
+        {
+          "code": "ml.madanmaroid"
+        },
+        {
+          "code": "ml.turachristianhospital"
+        }
       ]
     },
     {
@@ -20,9 +1598,1587 @@
       "active": true,
       "order": 2,
       "tenants": [
-        {"code":"ml"},
-        {"code":"ml.dummy"},
-        {"code":"ml.dummya"}
+        {
+          "code": "ml"
+        },
+        {
+          "code": "ml.digisinggre"
+        },
+        {
+          "code": "ml.samkalakgre"
+        },
+        {
+          "code": "ml.elaitchiapal"
+        },
+        {
+          "code": "ml.rajaapal"
+        },
+        {
+          "code": "ml.gosingpita"
+        },
+        {
+          "code": "ml.akemgre"
+        },
+        {
+          "code": "ml.aruakgre"
+        },
+        {
+          "code": "ml.gokulgre"
+        },
+        {
+          "code": "ml.damitdanggra"
+        },
+        {
+          "code": "ml.mongpanggro"
+        },
+        {
+          "code": "ml.rongkaminchi"
+        },
+        {
+          "code": "ml.jamgaonsorokpara"
+        },
+        {
+          "code": "ml.sepikol"
+        },
+        {
+          "code": "ml.kagrakgre"
+        },
+        {
+          "code": "ml.gambilapal"
+        },
+        {
+          "code": "ml.badaka"
+        },
+        {
+          "code": "ml.baksalpara"
+        },
+        {
+          "code": "ml.chibongga"
+        },
+        {
+          "code": "ml.chilpara"
+        },
+        {
+          "code": "ml.chotcholja"
+        },
+        {
+          "code": "ml.dokongsi"
+        },
+        {
+          "code": "ml.anogre"
+        },
+        {
+          "code": "ml.boldorenggre"
+        },
+        {
+          "code": "ml.manggakgre"
+        },
+        {
+          "code": "ml.marakgre"
+        },
+        {
+          "code": "ml.rombagre"
+        },
+        {
+          "code": "ml.tosekgre"
+        },
+        {
+          "code": "ml.waribokgre"
+        },
+        {
+          "code": "ml.boldakgre"
+        },
+        {
+          "code": "ml.babadamgalwanggre"
+        },
+        {
+          "code": "ml.chidekgre"
+        },
+        {
+          "code": "ml.mawrong"
+        },
+        {
+          "code": "ml.amjong"
+        },
+        {
+          "code": "ml.mawdem"
+        },
+        {
+          "code": "ml.bhoirymbong"
+        },
+        {
+          "code": "ml.barapanistdispensary"
+        },
+        {
+          "code": "ml.josipara"
+        },
+        {
+          "code": "ml.jijikapara"
+        },
+        {
+          "code": "ml.sesengpara"
+        },
+        {
+          "code": "ml.sangkni"
+        },
+        {
+          "code": "ml.posenggagre"
+        },
+        {
+          "code": "ml.bolchugre"
+        },
+        {
+          "code": "ml.gambegre"
+        },
+        {
+          "code": "ml.dakopgre"
+        },
+        {
+          "code": "ml.doldegre"
+        },
+        {
+          "code": "ml.taksu"
+        },
+        {
+          "code": "ml.mitapgre"
+        },
+        {
+          "code": "ml.ganchikalak"
+        },
+        {
+          "code": "ml.mibonpara"
+        },
+        {
+          "code": "ml.rongrikkimgre"
+        },
+        {
+          "code": "ml.rongchugre"
+        },
+        {
+          "code": "ml.bikonggre"
+        },
+        {
+          "code": "ml.bollonggre"
+        },
+        {
+          "code": "ml.damalasim"
+        },
+        {
+          "code": "ml.mangalpara"
+        },
+        {
+          "code": "ml.romgre"
+        },
+        {
+          "code": "ml.mowkaiaw"
+        },
+        {
+          "code": "ml.mowtyrshiah"
+        },
+        {
+          "code": "ml.raliang"
+        },
+        {
+          "code": "ml.mynska"
+        },
+        {
+          "code": "ml.khliehrangnah"
+        },
+        {
+          "code": "ml.pammanik"
+        },
+        {
+          "code": "ml.kyndongtuber"
+        },
+        {
+          "code": "ml.phramer"
+        },
+        {
+          "code": "ml.mooshrot"
+        },
+        {
+          "code": "ml.psiar"
+        },
+        {
+          "code": "ml.mukroh"
+        },
+        {
+          "code": "ml.thangrain"
+        },
+        {
+          "code": "ml.saphai"
+        },
+        {
+          "code": "ml.shilliangmyntang"
+        },
+        {
+          "code": "ml.damalgre"
+        },
+        {
+          "code": "ml.watregre"
+        },
+        {
+          "code": "ml.harigaon"
+        },
+        {
+          "code": "ml.mukdangra"
+        },
+        {
+          "code": "ml.gandhipara"
+        },
+        {
+          "code": "ml.andharkona"
+        },
+        {
+          "code": "ml.garodubha"
+        },
+        {
+          "code": "ml.godalgre"
+        },
+        {
+          "code": "ml.murchapani"
+        },
+        {
+          "code": "ml.mynso"
+        },
+        {
+          "code": "ml.huroi"
+        },
+        {
+          "code": "ml.nongryngkoh"
+        },
+        {
+          "code": "ml.shangpung"
+        },
+        {
+          "code": "ml.sahsniang"
+        },
+        {
+          "code": "ml.dabakgre"
+        },
+        {
+          "code": "ml.narongkol"
+        },
+        {
+          "code": "ml.damjonggre"
+        },
+        {
+          "code": "ml.thapadarenchi"
+        },
+        {
+          "code": "ml.thapabisrampur"
+        },
+        {
+          "code": "ml.thakurvilla"
+        },
+        {
+          "code": "ml.tingbagttim"
+        },
+        {
+          "code": "ml.waramja"
+        },
+        {
+          "code": "ml.upperjambal"
+        },
+        {
+          "code": "ml.imsambal"
+        },
+        {
+          "code": "ml.rajasimla"
+        },
+        {
+          "code": "ml.lowerchimaimpel"
+        },
+        {
+          "code": "ml.nilwagre"
+        },
+        {
+          "code": "ml.rongsaawe"
+        },
+        {
+          "code": "ml.ramchengga"
+        },
+        {
+          "code": "ml.jatrakona"
+        },
+        {
+          "code": "ml.tynhiang"
+        },
+        {
+          "code": "ml.seinduli"
+        },
+        {
+          "code": "ml.umsohpieng"
+        },
+        {
+          "code": "ml.nongmisei"
+        },
+        {
+          "code": "ml.riangdim"
+        },
+        {
+          "code": "ml.umdang"
+        },
+        {
+          "code": "ml.mallangkona"
+        },
+        {
+          "code": "ml.tynghor"
+        },
+        {
+          "code": "ml.marngor"
+        },
+        {
+          "code": "ml.ujenggre"
+        },
+        {
+          "code": "ml.wajadagre"
+        },
+        {
+          "code": "ml.mawmuthoh"
+        },
+        {
+          "code": "ml.zekabari"
+        },
+        {
+          "code": "ml.hallidayganj"
+        },
+        {
+          "code": "ml.rochonpara"
+        },
+        {
+          "code": "ml.batabari"
+        },
+        {
+          "code": "ml.rajabala"
+        },
+        {
+          "code": "ml.belbarisatsella"
+        },
+        {
+          "code": "ml.thakimagre"
+        },
+        {
+          "code": "ml.bamundanga"
+        },
+        {
+          "code": "ml.cheransongma"
+        },
+        {
+          "code": "ml.masangpani"
+        },
+        {
+          "code": "ml.moulakandi"
+        },
+        {
+          "code": "ml.rongkhongre"
+        },
+        {
+          "code": "ml.chenggapara"
+        },
+        {
+          "code": "ml.phershakandi"
+        },
+        {
+          "code": "ml.chisakgre"
+        },
+        {
+          "code": "ml.darrang"
+        },
+        {
+          "code": "ml.muktapur"
+        },
+        {
+          "code": "ml.pasadwar"
+        },
+        {
+          "code": "ml.mupyut"
+        },
+        {
+          "code": "ml.khonglah"
+        },
+        {
+          "code": "ml.syndai"
+        },
+        {
+          "code": "ml.trangblang"
+        },
+        {
+          "code": "ml.jongkipara"
+        },
+        {
+          "code": "ml.marok"
+        },
+        {
+          "code": "ml.rangrigre"
+        },
+        {
+          "code": "ml.bhajamara"
+        },
+        {
+          "code": "ml.hallaidigang"
+        },
+        {
+          "code": "ml.mangchim"
+        },
+        {
+          "code": "ml.chibinang"
+        },
+        {
+          "code": "ml.wahkaliar"
+        },
+        {
+          "code": "ml.umwai"
+        },
+        {
+          "code": "ml.majai"
+        },
+        {
+          "code": "ml.mawphu"
+        },
+        {
+          "code": "ml.mustoh"
+        },
+        {
+          "code": "ml.dkhiah"
+        },
+        {
+          "code": "ml.kairang"
+        },
+        {
+          "code": "ml.byndihati"
+        },
+        {
+          "code": "ml.ummat"
+        },
+        {
+          "code": "ml.chiehruphi"
+        },
+        {
+          "code": "ml.moolamylliang"
+        },
+        {
+          "code": "ml.narwan"
+        },
+        {
+          "code": "ml.muallian"
+        },
+        {
+          "code": "ml.sakhain"
+        },
+        {
+          "code": "ml.jalaphet"
+        },
+        {
+          "code": "ml.samasi"
+        },
+        {
+          "code": "ml.lelad"
+        },
+        {
+          "code": "ml.bataw"
+        },
+        {
+          "code": "ml.lumshnong"
+        },
+        {
+          "code": "ml.pamrapaithlu"
+        },
+        {
+          "code": "ml.rymbai"
+        },
+        {
+          "code": "ml.damas"
+        },
+        {
+          "code": "ml.dainadubi"
+        },
+        {
+          "code": "ml.manikganj"
+        },
+        {
+          "code": "ml.adokgre"
+        },
+        {
+          "code": "ml.bajengdoba"
+        },
+        {
+          "code": "ml.kharkutta"
+        },
+        {
+          "code": "ml.rumnong"
+        },
+        {
+          "code": "ml.sualmari"
+        },
+        {
+          "code": "ml.belbaribetasing"
+        },
+        {
+          "code": "ml.betasing"
+        },
+        {
+          "code": "ml.garobadha"
+        },
+        {
+          "code": "ml.uppercherra"
+        },
+        {
+          "code": "ml.mellimphc"
+        },
+        {
+          "code": "ml.wahlong"
+        },
+        {
+          "code": "ml.rangsakona"
+        },
+        {
+          "code": "ml.laittyra"
+        },
+        {
+          "code": "ml.khonjoy"
+        },
+        {
+          "code": "ml.mawthawpdah"
+        },
+        {
+          "code": "ml.rangthong"
+        },
+        {
+          "code": "ml.sohlap"
+        },
+        {
+          "code": "ml.jengjal"
+        },
+        {
+          "code": "ml.kharang"
+        },
+        {
+          "code": "ml.krang"
+        },
+        {
+          "code": "ml.kut"
+        },
+        {
+          "code": "ml.laitkor"
+        },
+        {
+          "code": "ml.lawmei"
+        },
+        {
+          "code": "ml.lempluh"
+        },
+        {
+          "code": "ml.liewlong"
+        },
+        {
+          "code": "ml.lyngkien"
+        },
+        {
+          "code": "ml.tyrna"
+        },
+        {
+          "code": "ml.mawbeh"
+        },
+        {
+          "code": "ml.mawlat"
+        },
+        {
+          "code": "ml.mawlyndiar"
+        },
+        {
+          "code": "ml.mawlyngad"
+        },
+        {
+          "code": "ml.mawlyngngot"
+        },
+        {
+          "code": "ml.mawngap"
+        },
+        {
+          "code": "ml.mawpdang"
+        },
+        {
+          "code": "ml.mawsadang"
+        },
+        {
+          "code": "ml.mawpynthih"
+        },
+        {
+          "code": "ml.mawpyrshong"
+        },
+        {
+          "code": "ml.kynroh"
+        },
+        {
+          "code": "ml.mawtawar"
+        },
+        {
+          "code": "ml.sohbar"
+        },
+        {
+          "code": "ml.nohron"
+        },
+        {
+          "code": "ml.nonghali"
+        },
+        {
+          "code": "ml.nongkrem"
+        },
+        {
+          "code": "ml.nongtrai"
+        },
+        {
+          "code": "ml.phlangwanbroi"
+        },
+        {
+          "code": "ml.pingwait"
+        },
+        {
+          "code": "ml.pynter"
+        },
+        {
+          "code": "ml.pyrnai"
+        },
+        {
+          "code": "ml.rangshken"
+        },
+        {
+          "code": "ml.shella"
+        },
+        {
+          "code": "ml.sawsymper"
+        },
+        {
+          "code": "ml.sohryngkham"
+        },
+        {
+          "code": "ml.sonatola"
+        },
+        {
+          "code": "ml.syntein"
+        },
+        {
+          "code": "ml.syntung"
+        },
+        {
+          "code": "ml.thangsning"
+        },
+        {
+          "code": "ml.thieddieng"
+        },
+        {
+          "code": "ml.thynroit"
+        },
+        {
+          "code": "ml.tyngnger"
+        },
+        {
+          "code": "ml.tynring"
+        },
+        {
+          "code": "ml.tyrsad"
+        },
+        {
+          "code": "ml.umniuhtmar"
+        },
+        {
+          "code": "ml.umphyrnai"
+        },
+        {
+          "code": "ml.umthlong"
+        },
+        {
+          "code": "ml.mawsahew"
+        },
+        {
+          "code": "ml.laitlyngkot"
+        },
+        {
+          "code": "ml.norek"
+        },
+        {
+          "code": "ml.lyngkyrdem"
+        },
+        {
+          "code": "ml.lawbahhwc"
+        },
+        {
+          "code": "ml.mawlynrei"
+        },
+        {
+          "code": "ml.nongkynrih"
+        },
+        {
+          "code": "ml.nongmensong"
+        },
+        {
+          "code": "ml.nongthymmai"
+        },
+        {
+          "code": "ml.nongtyngur"
+        },
+        {
+          "code": "ml.snalgre"
+        },
+        {
+          "code": "ml.rari"
+        },
+        {
+          "code": "ml.umlympung"
+        },
+        {
+          "code": "ml.umrynjah"
+        },
+        {
+          "code": "ml.asil"
+        },
+        {
+          "code": "ml.lawsohtun"
+        },
+        {
+          "code": "ml.rynjahstatedispensary"
+        },
+        {
+          "code": "ml.shastridispensary"
+        },
+        {
+          "code": "ml.marmainphc"
+        },
+        {
+          "code": "ml.nongjlak"
+        },
+        {
+          "code": "ml.sohkrot"
+        },
+        {
+          "code": "ml.langtor"
+        },
+        {
+          "code": "ml.sarong"
+        },
+        {
+          "code": "ml.manai"
+        },
+        {
+          "code": "ml.mawshut"
+        },
+        {
+          "code": "ml.pyndengdombah"
+        },
+        {
+          "code": "ml.mawkarah"
+        },
+        {
+          "code": "ml.mawnai"
+        },
+        {
+          "code": "ml.dongkiingding"
+        },
+        {
+          "code": "ml.umpdem"
+        },
+        {
+          "code": "ml.nongthyllep"
+        },
+        {
+          "code": "ml.kynshi"
+        },
+        {
+          "code": "ml.myriaw"
+        },
+        {
+          "code": "ml.rambrai"
+        },
+        {
+          "code": "ml.pariong"
+        },
+        {
+          "code": "ml.diengiei"
+        },
+        {
+          "code": "ml.jamge"
+        },
+        {
+          "code": "ml.nongurweilyngkut"
+        },
+        {
+          "code": "ml.pomlum"
+        },
+        {
+          "code": "ml.koksinengsat"
+        },
+        {
+          "code": "ml.saminindikkim"
+        },
+        {
+          "code": "ml.simsengbongga"
+        },
+        {
+          "code": "ml.maweit"
+        },
+        {
+          "code": "ml.pongtung"
+        },
+        {
+          "code": "ml.mawkliaw"
+        },
+        {
+          "code": "ml.lawbahphc"
+        },
+        {
+          "code": "ml.ryngku"
+        },
+        {
+          "code": "ml.khatarshnongkhrang"
+        },
+        {
+          "code": "ml.pdengshakap"
+        },
+        {
+          "code": "ml.dawki"
+        },
+        {
+          "code": "ml.dagalapal"
+        },
+        {
+          "code": "ml.dobu"
+        },
+        {
+          "code": "ml.songsak"
+        },
+        {
+          "code": "ml.jarain"
+        },
+        {
+          "code": "ml.bamkamar"
+        },
+        {
+          "code": "ml.khanduli"
+        },
+        {
+          "code": "ml.mihmyntdu"
+        },
+        {
+          "code": "ml.moobakhon"
+        },
+        {
+          "code": "ml.diengpasoh"
+        },
+        {
+          "code": "ml.smit"
+        },
+        {
+          "code": "ml.moodymmai"
+        },
+        {
+          "code": "ml.mawsiatkham"
+        },
+        {
+          "code": "ml.mustem"
+        },
+        {
+          "code": "ml.laitkseh"
+        },
+        {
+          "code": "ml.mawkadiang"
+        },
+        {
+          "code": "ml.nongkynjang"
+        },
+        {
+          "code": "ml.umyiap"
+        },
+        {
+          "code": "ml.sangriang"
+        },
+        {
+          "code": "ml.mawdumdum"
+        },
+        {
+          "code": "ml.kynsew"
+        },
+        {
+          "code": "ml.tyrshang"
+        },
+        {
+          "code": "ml.porkadoh"
+        },
+        {
+          "code": "ml.miangshang"
+        },
+        {
+          "code": "ml.jakrem"
+        },
+        {
+          "code": "ml.umjarainmawkyrwat"
+        },
+        {
+          "code": "ml.phlangkynshi"
+        },
+        {
+          "code": "ml.wahiajer"
+        },
+        {
+          "code": "ml.nongliput"
+        },
+        {
+          "code": "ml.ranibari"
+        },
+        {
+          "code": "ml.jirangstdispensary"
+        },
+        {
+          "code": "ml.puksohra"
+        },
+        {
+          "code": "ml.rangmaw"
+        },
+        {
+          "code": "ml.nongnah"
+        },
+        {
+          "code": "ml.mawsaw"
+        },
+        {
+          "code": "ml.rangblang"
+        },
+        {
+          "code": "ml.umjarainwahkaji"
+        },
+        {
+          "code": "ml.nongspung"
+        },
+        {
+          "code": "ml.mawrohmawlaimawroh"
+        },
+        {
+          "code": "ml.dambukaga"
+        },
+        {
+          "code": "ml.darangboldak"
+        },
+        {
+          "code": "ml.dimapara"
+        },
+        {
+          "code": "ml.emangare"
+        },
+        {
+          "code": "ml.nongkhroh"
+        },
+        {
+          "code": "ml.gasuapara"
+        },
+        {
+          "code": "ml.karukol"
+        },
+        {
+          "code": "ml.mahadeo"
+        },
+        {
+          "code": "ml.nengkong"
+        },
+        {
+          "code": "ml.rongruasim"
+        },
+        {
+          "code": "ml.iapngar"
+        },
+        {
+          "code": "ml.jamanar"
+        },
+        {
+          "code": "ml.mawtari"
+        },
+        {
+          "code": "ml.pynthor"
+        },
+        {
+          "code": "ml.raitong"
+        },
+        {
+          "code": "ml.thadrang"
+        },
+        {
+          "code": "ml.tyrso"
+        },
+        {
+          "code": "ml.umlaper"
+        },
+        {
+          "code": "ml.umsawnongbri"
+        },
+        {
+          "code": "ml.umsawnongkharai"
+        },
+        {
+          "code": "ml.kongthong"
+        },
+        {
+          "code": "ml.wahlang"
+        },
+        {
+          "code": "ml.ladmawphlang"
+        },
+        {
+          "code": "ml.laitnongkseh"
+        },
+        {
+          "code": "ml.lyngkhoi"
+        },
+        {
+          "code": "ml.mawkdok"
+        },
+        {
+          "code": "ml.mawkma"
+        },
+        {
+          "code": "ml.mawrah"
+        },
+        {
+          "code": "ml.thainthynroh"
+        },
+        {
+          "code": "ml.umdiengpoh"
+        },
+        {
+          "code": "ml.chibokapal"
+        },
+        {
+          "code": "ml.nengkram"
+        },
+        {
+          "code": "ml.nongbakapal"
+        },
+        {
+          "code": "ml.nongchram"
+        },
+        {
+          "code": "ml.pakkregre"
+        },
+        {
+          "code": "ml.rongdudamit"
+        },
+        {
+          "code": "ml.rongmil"
+        },
+        {
+          "code": "ml.dambomrok"
+        },
+        {
+          "code": "ml.darugre"
+        },
+        {
+          "code": "ml.naringgre"
+        },
+        {
+          "code": "ml.chamcham"
+        },
+        {
+          "code": "ml.iapmala"
+        },
+        {
+          "code": "ml.iongkaluh"
+        },
+        {
+          "code": "ml.jalyiah"
+        },
+        {
+          "code": "ml.moolamanoh"
+        },
+        {
+          "code": "ml.mukhaialong"
+        },
+        {
+          "code": "ml.rngad"
+        },
+        {
+          "code": "ml.sohkymphor"
+        },
+        {
+          "code": "ml.bodaapal"
+        },
+        {
+          "code": "ml.bolsong"
+        },
+        {
+          "code": "ml.chengalma"
+        },
+        {
+          "code": "ml.dobaapal"
+        },
+        {
+          "code": "ml.khaldang"
+        },
+        {
+          "code": "ml.sarapara"
+        },
+        {
+          "code": "ml.sildubi"
+        },
+        {
+          "code": "ml.dalupara"
+        },
+        {
+          "code": "ml.darongre"
+        },
+        {
+          "code": "ml.jongchetpara"
+        },
+        {
+          "code": "ml.joyfar"
+        },
+        {
+          "code": "ml.mellimhwc"
+        },
+        {
+          "code": "ml.rongsangabagre"
+        },
+        {
+          "code": "ml.okkapara"
+        },
+        {
+          "code": "ml.kulang"
+        },
+        {
+          "code": "ml.maheshkola"
+        },
+        {
+          "code": "ml.mawpud"
+        },
+        {
+          "code": "ml.nongkynbah"
+        },
+        {
+          "code": "ml.nongrynniang"
+        },
+        {
+          "code": "ml.phlangdiloin"
+        },
+        {
+          "code": "ml.photjaud"
+        },
+        {
+          "code": "ml.shngimawlein"
+        },
+        {
+          "code": "ml.amindagre"
+        },
+        {
+          "code": "ml.baljek"
+        },
+        {
+          "code": "ml.gonchudare"
+        },
+        {
+          "code": "ml.halchati"
+        },
+        {
+          "code": "ml.mynkrem"
+        },
+        {
+          "code": "ml.rakabah"
+        },
+        {
+          "code": "ml.thadbamon"
+        },
+        {
+          "code": "ml.rimrangpara"
+        },
+        {
+          "code": "ml.nonglatem"
+        },
+        {
+          "code": "ml.mynsngad"
+        },
+        {
+          "code": "ml.nongjngi"
+        },
+        {
+          "code": "ml.mupliang"
+        },
+        {
+          "code": "ml.sohmynting"
+        },
+        {
+          "code": "ml.mukhla"
+        },
+        {
+          "code": "ml.nongbareh"
+        },
+        {
+          "code": "ml.saitsama"
+        },
+        {
+          "code": "ml.sanaro"
+        },
+        {
+          "code": "ml.byrki"
+        },
+        {
+          "code": "ml.langja"
+        },
+        {
+          "code": "ml.lawbyrtun"
+        },
+        {
+          "code": "ml.mawdoh"
+        },
+        {
+          "code": "ml.mawlangniang"
+        },
+        {
+          "code": "ml.mawlangsu"
+        },
+        {
+          "code": "ml.mawlieh"
+        },
+        {
+          "code": "ml.mawsyrpat"
+        },
+        {
+          "code": "ml.nongjri"
+        },
+        {
+          "code": "ml.loomkrywiang"
+        },
+        {
+          "code": "ml.baridua"
+        },
+        {
+          "code": "ml.killing"
+        },
+        {
+          "code": "ml.kynjoinumran"
+        },
+        {
+          "code": "ml.kyrdemkulai"
+        },
+        {
+          "code": "ml.marmainhwc"
+        },
+        {
+          "code": "ml.mawbsein"
+        },
+        {
+          "code": "ml.nartiang"
+        },
+        {
+          "code": "ml.mawlang"
+        },
+        {
+          "code": "ml.mawlein"
+        },
+        {
+          "code": "ml.mawlyndep"
+        },
+        {
+          "code": "ml.nangbah"
+        },
+        {
+          "code": "ml.narang"
+        },
+        {
+          "code": "ml.pahambir"
+        },
+        {
+          "code": "ml.pilingkata"
+        },
+        {
+          "code": "ml.sonidan"
+        },
+        {
+          "code": "ml.khliehtyrshi"
+        },
+        {
+          "code": "ml.umling"
+        },
+        {
+          "code": "ml.umroi"
+        },
+        {
+          "code": "ml.umsawlum"
+        },
+        {
+          "code": "ml.umshaken"
+        },
+        {
+          "code": "ml.umsohphria"
+        },
+        {
+          "code": "ml.umsong"
+        },
+        {
+          "code": "ml.umtrew"
+        },
+        {
+          "code": "ml.byrnihat"
+        },
+        {
+          "code": "ml.kyrdem"
+        },
+        {
+          "code": "ml.marngar"
+        },
+        {
+          "code": "ml.mawhati"
+        },
+        {
+          "code": "ml.mawlaisnai"
+        },
+        {
+          "code": "ml.umden"
+        },
+        {
+          "code": "ml.umtrai"
+        },
+        {
+          "code": "ml.warmawsaw"
+        },
+        {
+          "code": "ml.barato"
+        },
+        {
+          "code": "ml.patharkhmah"
+        },
+        {
+          "code": "ml.umsning"
+        },
+        {
+          "code": "ml.nongpoh"
+        },
+        {
+          "code": "ml.iooksi"
+        },
+        {
+          "code": "ml.hollaidanga"
+        },
+        {
+          "code": "ml.bolkinggre"
+        },
+        {
+          "code": "ml.chiading"
+        },
+        {
+          "code": "ml.damborongdeng"
+        },
+        {
+          "code": "ml.dawagre"
+        },
+        {
+          "code": "ml.dolwari"
+        },
+        {
+          "code": "ml.gitokgre"
+        },
+        {
+          "code": "ml.pedeldoba"
+        },
+        {
+          "code": "ml.belguri"
+        },
+        {
+          "code": "ml.mandalgre"
+        },
+        {
+          "code": "ml.nengkra"
+        },
+        {
+          "code": "ml.nidanpur"
+        },
+        {
+          "code": "ml.rongbinggre"
+        },
+        {
+          "code": "ml.jangrapara"
+        },
+        {
+          "code": "ml.sampalgre"
+        },
+        {
+          "code": "ml.naguapara"
+        },
+        {
+          "code": "ml.tombolgre"
+        },
+        {
+          "code": "ml.bansamgre"
+        },
+        {
+          "code": "ml.hatogaon"
+        },
+        {
+          "code": "ml.rongbokgre"
+        },
+        {
+          "code": "ml.mangsang"
+        },
+        {
+          "code": "ml.rongrong"
+        },
+        {
+          "code": "ml.samanda"
+        },
+        {
+          "code": "ml.rangsagre"
+        },
+        {
+          "code": "ml.nengmandalgre"
+        },
+        {
+          "code": "ml.rongjeng"
+        },
+        {
+          "code": "ml.civilhospitalwilliamnagar"
+        },
+        {
+          "code": "ml.siju"
+        },
+        {
+          "code": "ml.dangar"
+        },
+        {
+          "code": "ml.mawlong"
+        },
+        {
+          "code": "ml.ichamati"
+        },
+        {
+          "code": "ml.districttbcenter"
+        },
+        {
+          "code": "ml.williamnagarfortybeddedcoronacarecentre"
+        },
+        {
+          "code": "ml.williamnagartwentysixbeddedisolationward"
+        },
+        {
+          "code": "ml.saipung"
+        },
+        {
+          "code": "ml.umkiang"
+        },
+        {
+          "code": "ml.lowersambrak"
+        },
+        {
+          "code": "ml.gabil"
+        },
+        {
+          "code": "ml.wageasi"
+        },
+        {
+          "code": "ml.anangpara"
+        },
+        {
+          "code": "ml.rengsinpara"
+        },
+        {
+          "code": "ml.ranikor"
+        },
+        {
+          "code": "ml.hullukona"
+        },
+        {
+          "code": "ml.kuligaon"
+        },
+        {
+          "code": "ml.kambakpara"
+        },
+        {
+          "code": "ml.gilajuri"
+        },
+        {
+          "code": "ml.sangdong"
+        },
+        {
+          "code": "ml.waramsongam"
+        },
+        {
+          "code": "ml.babadam"
+        },
+        {
+          "code": "ml.jakhang"
+        },
+        {
+          "code": "ml.kynrud"
+        },
+        {
+          "code": "ml.wahkaji"
+        },
+        {
+          "code": "ml.caminodispensary"
+        },
+        {
+          "code": "ml.mamadelamorecarecentre"
+        },
+        {
+          "code": "ml.tolegre"
+        },
+        {
+          "code": "ml.nengja"
+        },
+        {
+          "code": "ml.aggrenggittim"
+        },
+        {
+          "code": "ml.rugapara"
+        },
+        {
+          "code": "ml.rongrengpal"
+        },
+        {
+          "code": "ml.debajani"
+        },
+        {
+          "code": "ml.gopinathkilla"
+        },
+        {
+          "code": "ml.kalaichar"
+        },
+        {
+          "code": "ml.nogorpara"
+        },
+        {
+          "code": "ml.zikzak"
+        },
+        {
+          "code": "ml.salmanpara"
+        },
+        {
+          "code": "ml.rongrenggredispensary"
+        },
+        {
+          "code": "ml.dengnanggre"
+        },
+        {
+          "code": "ml.dingrepa"
+        },
+        {
+          "code": "ml.shnongrim"
+        },
+        {
+          "code": "ml.tuber"
+        },
+        {
+          "code": "ml.nongum"
+        },
+        {
+          "code": "ml.nonglang"
+        },
+        {
+          "code": "ml.aradonga"
+        },
+        {
+          "code": "ml.wahrit"
+        },
+        {
+          "code": "ml.madanmaroid"
+        },
+        {
+          "code": "ml.turachristianhospital"
+        }
       ]
     }
   ]

@@ -3,8 +3,63 @@
   "moduleName": "Incident",
   "District": [
     {
-      "code": "RAICHUR",
-      "name": "Raichur",
+      "code": "NORTH GARO HILLS",
+      "name": "North Garo Hills",
+      "active": true
+    },
+    {
+      "code": "WEST GARO HILLS",
+      "name": "West Garo Hills",
+      "active": true
+    },
+    {
+      "code": "RI BHOI",
+      "name": "Ri Bhoi",
+      "active": true
+    },
+    {
+      "code": "SOUTH GARO HILLS",
+      "name": "South Garo Hills",
+      "active": true
+    },
+    {
+      "code": "WEST JAINTIA HILLS",
+      "name": "West Jaintia Hills",
+      "active": true
+    },
+    {
+      "code": "SOUTH WEST GARO HILLS",
+      "name": "South West Garo Hills",
+      "active": true
+    },
+    {
+      "code": "EAST JAINTIA HILLS",
+      "name": "East Jaintia Hills",
+      "active": true
+    },
+    {
+      "code": "WEST KHASI HILLS",
+      "name": "West Khasi Hills",
+      "active": true
+    },
+    {
+      "code": "EAST KHASI HILLS",
+      "name": "East Khasi Hills",
+      "active": true
+    },
+    {
+      "code": "SOUTH WEST KHASI HILLS",
+      "name": "South West Khasi Hills",
+      "active": true
+    },
+    {
+      "code": "EAST GARO HILLS",
+      "name": "East Garo Hills",
+      "active": true
+    },
+    {
+      "code": "EASTERN WEST KHASI HILLS",
+      "name": "Eastern West Khasi Hills",
       "active": true
     }
   ]

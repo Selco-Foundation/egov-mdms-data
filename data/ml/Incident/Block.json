@@ -3,9 +3,291 @@
   "moduleName": "Incident",
   "Block": [
     {
-      "code": "raichur.raichur",
-      "name": "Raichur",
-      "districtCode": "RAICHUR",
+      "code": "northgarohills.resubelpara",
+      "name": "Resubelpara",
+      "districtCode": "NORTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "northgarohills.kharkutta",
+      "name": "Kharkutta",
+      "districtCode": "NORTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westgarohills.rongram",
+      "name": "Rongram",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "ribhoi.bhoirymbong",
+      "name": "Bhoirymbong",
+      "districtCode": "RIBHOI",
+      "active": true
+    },
+    {
+      "code": "westgarohills.dalu",
+      "name": "Dalu",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westgarohills.gambegre",
+      "name": "Gambegre",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westgarohills.chokpot",
+      "name": "Chokpot",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "southgarohills.chokpot",
+      "name": "Chokpot",
+      "districtCode": "SOUTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westgarohills.dadenggre",
+      "name": "Dadenggre",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westjaintiahills.laskein",
+      "name": "Laskein",
+      "districtCode": "WESTJAINTIAHILLS",
+      "active": true
+    },
+    {
+      "code": "southwestgarohills.betasing",
+      "name": "Betasing",
+      "districtCode": "SOUTHWESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "eastjaintiahills.khliehriat",
+      "name": "khliehriat",
+      "districtCode": "EASTJAINTIAHILLS",
+      "active": true
+    },
+    {
+      "code": "westgarohills.selsella",
+      "name": "Selsella",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "southgarohills.baghmara",
+      "name": "Baghmara",
+      "districtCode": "SOUTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "southgarohills.gasuapara",
+      "name": "Gasuapara",
+      "districtCode": "SOUTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westkhasihills.mawshynrut",
+      "name": "Mawshynrut",
+      "districtCode": "WESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.mawryngkneng",
+      "name": "Mawryngkneng",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "westjaintiahills.amlarem",
+      "name": "Amlarem",
+      "districtCode": "WESTJAINTIAHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.shellabholaganj",
+      "name": "Shella Bholaganj",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastjaintiahills.saipung",
+      "name": "Saipung",
+      "districtCode": "EASTJAINTIAHILLS",
+      "active": true
+    },
+    {
+      "code": "southwestkhasihills.ranikor",
+      "name": "Ranikor",
+      "districtCode": "SOUTHWESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "southwestkhasihills.mawkyrwat",
+      "name": "Mawkyrwat",
+      "districtCode": "SOUTHWESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.mawkynrew",
+      "name": "Mawkynrew",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.mawphlang",
+      "name": "Mawphlang",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.mylliem",
+      "name": "Mylliem",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.laitkroh",
+      "name": "Laitkroh",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.mawsynram",
+      "name": "Mawsynram",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.pynursla",
+      "name": "Pynursla",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastgarohills.songsak",
+      "name": "Songsak",
+      "districtCode": "EASTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "northgarohills.songsak",
+      "name": "Songsak",
+      "districtCode": "NORTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "ribhoi.umling",
+      "name": "Umling",
+      "districtCode": "RIBHOI",
+      "active": true
+    },
+    {
+      "code": "westkhasihills.mawthadraishan",
+      "name": "Mawthadraishan",
+      "districtCode": "WESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "westkhasihills.mairang",
+      "name": "Mairang",
+      "districtCode": "WESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "westkhasihills.nongstoin",
+      "name": "Nongstoin",
+      "districtCode": "WESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "westjaintiahills.thadlaskein",
+      "name": "Thadlaskein",
+      "districtCode": "WESTJAINTIAHILLS",
+      "active": true
+    },
+    {
+      "code": "ribhoi.jirang",
+      "name": "Jirang",
+      "districtCode": "RIBHOI",
+      "active": true
+    },
+    {
+      "code": "southgarohills.rongara",
+      "name": "Rongara",
+      "districtCode": "SOUTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "ribhoi.umsning",
+      "name": "Umsning",
+      "districtCode": "RIBHOI",
+      "active": true
+    },
+    {
+      "code": "eastkhasihills.sohiong",
+      "name": "Sohiong",
+      "districtCode": "EASTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "eastgarohills.damborongjeng",
+      "name": "Dambo Rongjeng",
+      "districtCode": "EASTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "eastjaintiahills.thadlaskein",
+      "name": "Thadlaskein",
+      "districtCode": "EASTJAINTIAHILLS",
+      "active": true
+    },
+    {
+      "code": "ribhoi.mawlai",
+      "name": "Mawlai",
+      "districtCode": "RIBHOI",
+      "active": true
+    },
+    {
+      "code": "westgarohills.tikirkilla",
+      "name": "Tikirkilla",
+      "districtCode": "WESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "eastgarohills.samanda",
+      "name": "Samanda",
+      "districtCode": "EASTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "southwestgarohills.zikzak",
+      "name": "Zikzak",
+      "districtCode": "SOUTHWESTGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "westkhasihills.ranikor",
+      "name": "Ranikor",
+      "districtCode": "WESTKHASIHILLS",
+      "active": true
+    },
+    {
+      "code": "northgarohills.bajengdoba",
+      "name": "Bajengdoba",
+      "districtCode": "NORTHGAROHILLS",
+      "active": true
+    },
+    {
+      "code": "easternwestkhasihills.mairang",
+      "name": "Mairang",
+      "districtCode": "EASTERNWESTKHASIHILLS",
       "active": true
     }
   ]

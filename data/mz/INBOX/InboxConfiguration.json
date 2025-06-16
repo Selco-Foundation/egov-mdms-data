@@ -4,7 +4,7 @@
   "InboxQueryConfiguration": [
     {
       "module": "Incident",
-      "index": "im-services",
+      "index": "computed-sla-im-services",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
@@ -67,7 +67,15 @@
           "path": "Data.incident.auditDetails.createdTime",
           "defaultOrder": "ASC"
       },
-      "sourceFilterPathList": ["Data.incident", "Data.tenantId","Data.auditDetails","Data.currentProcessInstance"]
+      "sourceFilterPathList": [
+        "Data.incident",
+        "Data.tenantId",
+        "Data.auditDetails",
+        "Data.currentProcessInstance",
+        "Data.slaRemaining",
+        "Data.stateSLA",
+        "Data.totalSlaRemaining"
+      ]
     }
   ]
 }

@@ -49,6 +49,11 @@
               "action": "SUBMIT_REPORT_A",
               "nextState": "SUBMITTED_BY_FIELD_STAFF",
               "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            },
+            {
+              "action": "SUBMIT_REPORT_A_B",
+              "nextState": "SUBMITTED_BY_SUPERVISOR",
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
             }
           ]
         },

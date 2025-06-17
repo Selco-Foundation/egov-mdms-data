@@ -1,0 +1,26 @@
+{
+  "tenantId": "in",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "name": "Installation Report Part A Editor",
+      "description": "Can create, draft and submit Part A of the Installation Report"
+    },
+    {
+      "code": "INSTALLATION_REPORT_PART_A_REVIEWER",
+      "name": "Installation Report Part A Reviewer",
+      "description": "Can review Part A of the Installation Report"
+    },
+    {
+      "code": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "name": "Installation Report Part B Editor",
+      "description": "Can create, draft and submit Part B of the Installation Report"
+    },
+    {
+      "code": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "name": "Installation Report Approver QC Team",
+      "description": "Can approve or reject the final installation report"
+    }
+  ]
+}

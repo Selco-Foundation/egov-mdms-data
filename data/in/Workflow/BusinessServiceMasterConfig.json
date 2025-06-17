@@ -1,0 +1,11 @@
+{
+  "tenantId": "in",
+  "moduleName": "Workflow",
+  "BusinessServiceMasterConfig": [
+    {
+      "businessService": "FACILITY_INSTALLATION",
+      "active": "true",
+      "isStatelevel": "true"
+    }
+  ]
+}

@@ -379,6 +379,18 @@
       "name": "Jessami",
       "districtCode": "UKHRUL",
       "active": true
+    },
+    {
+      "code": "imphalwest.hiyangthang",
+      "name": "Hiyangthang",
+      "districtCode": "IMPHALWEST",
+      "active": true
+    },
+    {
+      "code": "kamjong.kasomkhullen",
+      "name": "Kasom Khullen",
+      "districtCode": "KAMJONG",
+      "active": true
     }
   ]
 }

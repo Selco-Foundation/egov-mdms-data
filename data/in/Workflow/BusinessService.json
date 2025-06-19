@@ -1,0 +1,162 @@
+{
+  "tenantId": "in",
+  "moduleName": "Workflow",
+  "BusinessService": [
+    {
+      "tenantId": "in",
+      "businessService": "FACILITY_INSTALLATION",
+      "business": "FACILITY_INSTALLATION",
+      "states": [
+        {
+          "state": null,
+          "applicationStatus": null,
+          "docUploadRequired": false,
+          "isStartState": true,
+          "isTerminateState": false,
+          "isStateUpdatable": false,
+          "actions": [
+            {
+              "action": "ASSIGN",
+              "nextState": "ASSIGNED_TO_FIELD_STAFF",
+              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "ASSIGNED_TO_FIELD_STAFF",
+          "applicationStatus": "ASSIGNED",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": true,
+          "actions": [
+            {
+              "action": "CREATE_AND_SAVE_DRAFT",
+              "nextState": "DRAFT_IN_PROGRESS",
+              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "DRAFT_IN_PROGRESS",
+          "applicationStatus": "DRAFT",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": true,
+          "actions": [
+            {
+              "action": "SUBMIT_REPORT_A",
+              "nextState": "SUBMITTED_BY_FIELD_STAFF",
+              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            },
+            {
+              "action": "SUBMIT_REPORT_A_B",
+              "nextState": "SUBMITTED_BY_SUPERVISOR",
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "SUBMITTED_BY_FIELD_STAFF",
+          "applicationStatus": "REPORT_A_SUBMITTED",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": false,
+          "actions": [
+            {
+              "action": "REJECT",
+              "nextState": "REJECTED_BY_FIELD_SUPERVISOR",
+              "roles": ["INSTALLATION_REPORT_PART_A_REVIEWER"]
+            },
+            {
+              "action": "SUBMIT_REPORT_B",
+              "nextState": "FINAL_REPORT_IN_PROGRESS",
+              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            },
+            {
+              "action": "CREATE_AND_SAVE_DRAFT",
+              "nextState": "SUBMITTED_BY_FIELD_STAFF",
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "REJECTED_BY_FIELD_SUPERVISOR",
+          "applicationStatus": "REPORT_A_REJECTED",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": true,
+          "actions": [
+            {
+              "action": "SUBMIT_REPORT_A",
+              "nextState": "SUBMITTED_BY_FIELD_STAFF",
+              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "FINAL_REPORT_IN_PROGRESS",
+          "applicationStatus": "REPORT_B_DRAFT",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": true,
+          "actions": [
+            {
+              "action": "SUBMIT_REPORT_B",
+              "nextState": "SUBMITTED_BY_SUPERVISOR",
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "SUBMITTED_BY_SUPERVISOR",
+          "applicationStatus": "REPORT_B_SUBMITTED",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": false,
+          "actions": [
+            {
+              "action": "REJECT_AND_ASSIGN_FOR_FIELD_QC",
+              "nextState": "REJECTED_BY_QC_SPOC",
+              "roles": ["INSTALLATION_REPORT_APPROVER_QC_TEAM"]
+            },
+            {
+              "action": "APPROVE",
+              "nextState": "APPROVED_BY_QC_SPOC",
+              "roles": ["INSTALLATION_REPORT_APPROVER_QC_TEAM"]
+            }
+          ]
+        },
+        {
+          "state": "REJECTED_BY_QC_SPOC",
+          "applicationStatus": "REPORT_B_REJECTED",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": true,
+          "actions": [
+            {
+              "action": "SUBMIT_REPORT_B",
+              "nextState": "SUBMITTED_BY_SUPERVISOR",
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
+            }
+          ]
+        },
+        {
+          "state": "APPROVED_BY_QC_SPOC",
+          "applicationStatus": "REPORT_APPROVED",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": true,
+          "isStateUpdatable": false,
+          "actions": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "tenantId": "in",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "role": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "actionid": 9001,
+      "actioncode": "",
+      "tenantId": "in",
+      "id": 1
+    },
+    {
+      "role": "INSTALLATION_REPORT_PART_A_REVIEWER",
+      "actionid": 9002,
+      "actioncode": "",
+      "tenantId": "in",
+      "id": 1
+    },
+    {
+      "role": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "actionid": 9003,
+      "actioncode": "",
+      "tenantId": "in",
+      "id": 1
+    },
+    {
+      "role": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "actionid": 9004,
+      "actioncode": "",
+      "tenantId": "in",
+      "id": 1
+    }
+  ]
+}

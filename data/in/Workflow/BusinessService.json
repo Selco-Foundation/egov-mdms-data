@@ -8,7 +8,7 @@
       "business": "FACILITY_INSTALLATION",
       "states": [
         {
-          "state": null,
+          "state": "SCHEDULED",
           "applicationStatus": null,
           "docUploadRequired": false,
           "isStartState": true,
@@ -16,9 +16,14 @@
           "isStateUpdatable": false,
           "actions": [
             {
-              "action": "ASSIGN",
+              "action": "ASSIGN_FIELD_STAFF",
               "nextState": "ASSIGNED_TO_FIELD_STAFF",
               "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+            },
+            {
+              "action": "ASSIGN_FIELD_SUPERVISOR",
+              "nextState": "ASSIGNED_TO_FIELD_SUPERVISOR",
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
             }
           ]
         },
@@ -31,27 +36,22 @@
           "isStateUpdatable": true,
           "actions": [
             {
-              "action": "CREATE_AND_SAVE_DRAFT",
-              "nextState": "DRAFT_IN_PROGRESS",
+              "action": "SUBMIT_REPORT_A",
+              "nextState": "SUBMITTED_BY_FIELD_STAFF",
               "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
             }
           ]
         },
         {
-          "state": "DRAFT_IN_PROGRESS",
-          "applicationStatus": "DRAFT",
+          "state": "ASSIGN_FIELD_SUPERVISOR",
+          "applicationStatus": "ASSIGNED",
           "docUploadRequired": false,
           "isStartState": false,
           "isTerminateState": false,
           "isStateUpdatable": true,
           "actions": [
             {
-              "action": "SUBMIT_REPORT_A",
-              "nextState": "SUBMITTED_BY_FIELD_STAFF",
-              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
-            },
-            {
-              "action": "SUBMIT_REPORT_A_B",
+              "action": "SUBMIT_REPORT_B",
               "nextState": "SUBMITTED_BY_SUPERVISOR",
               "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
             }
@@ -72,7 +72,7 @@
             },
             {
               "action": "SUBMIT_REPORT_B",
-              "nextState": "FINAL_REPORT_IN_PROGRESS",
+              "nextState": "SUBMITTED_BY_SUPERVISOR",
               "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
             },
             {
@@ -94,21 +94,6 @@
               "action": "SUBMIT_REPORT_A",
               "nextState": "SUBMITTED_BY_FIELD_STAFF",
               "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
-            }
-          ]
-        },
-        {
-          "state": "FINAL_REPORT_IN_PROGRESS",
-          "applicationStatus": "REPORT_B_DRAFT",
-          "docUploadRequired": false,
-          "isStartState": false,
-          "isTerminateState": false,
-          "isStateUpdatable": true,
-          "actions": [
-            {
-              "action": "SUBMIT_REPORT_B",
-              "nextState": "SUBMITTED_BY_SUPERVISOR",
-              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
             }
           ]
         },

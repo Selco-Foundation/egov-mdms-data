@@ -10,7 +10,7 @@
     {
       "name": "Out of Warranty - PO Shared",
       "code": "OUT_OF_WARRANTY",
-      "active": true,
+      "active": false,
       "additionalInputs": [
         {
           "type": "radio",
@@ -33,7 +33,7 @@
     {
       "name": "Awaiting Delivery of Part for Replacement",
       "code": "AWAITING_DELIVERY",
-      "active": true
+      "active": false
     },
     {
       "name": "Others",

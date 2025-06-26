@@ -74,11 +74,6 @@
               "action": "SUBMIT_REPORT_B",
               "nextState": "SUBMITTED_BY_SUPERVISOR",
               "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
-            },
-            {
-              "action": "CREATE_AND_SAVE_DRAFT",
-              "nextState": "SUBMITTED_BY_FIELD_STAFF",
-              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
             }
           ]
         },

@@ -1,6 +1,6 @@
 {
   "tenantId": "ml",
-  "modulename": "Incident",
+  "moduleName": "Incident",
   "ServiceDefs": [
     {
       "id": 393,

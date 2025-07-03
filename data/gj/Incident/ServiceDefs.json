@@ -1,13 +1,13 @@
 {
   "tenantId": "gj",
-  "moduleName": "Incident",
+  "modulename": "Incident",
   "ServiceDefs": [
     {
       "id": 393,
-      "name": "I Cannot Identify The Issue",
+      "name": "Technician Visit Needed",
       "active": true,
       "keywords": "Issue ,Technician Visit Needed",
-      "menuPath": "Technician Visit Needed",
+      "menuPath": "I Cannot Identify The Issue",
       "priority": "High",
       "slaHours": 264,
       "department": "O&M",

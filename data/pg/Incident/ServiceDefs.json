@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "Incident",
+  "modulename": "Incident",
   "ServiceDefs": [
     {
       "id": 393,

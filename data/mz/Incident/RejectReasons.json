@@ -3,25 +3,24 @@
   "moduleName": "Incident",
   "RejectReasons": [
     {
-      "name": "Duplicate Ticket",
-      "code": "DUPLICATE_TICKET",
-      "active": true
-    },
-    {
-      "name": "Educated End User",
       "code": "EDUCATED_END_USER",
+      "name": "Educated End User",
       "active": true
     },
     {
-      "name": "Others",
-      "code": "OTHERS",
-      "active": true,
-      "additionalInputs": [
-        {
-          "type": "textarea",
-          "key": "subReason"
-        }
-      ]
+      "code": "DUPLICATE_TICKET",
+      "name": "Duplicate Ticket",
+      "active": true
+    },
+    {
+      "code": "RESOLVED_SELCO_TEAM",
+      "name": "Resolved by SELCO Team",
+      "active": true
+    },
+    {
+      "code": "RESOLVED_BY_CRM",
+      "name": "Resolved by CRM",
+      "active": true
     }
   ]
 }

@@ -3,46 +3,46 @@
   "moduleName": "Incident",
   "SendBackReasons": [
     {
-      "name": "Incorrect Assignment",
       "code": "INCORRECT_ASSIGNMENT",
+      "name": "Incorrect Assignment",
       "active": true
     },
     {
-      "name": "Out of Warranty - PO Shared",
-      "code": "OUT_OF_WARRANTY",
-      "active": false,
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true,
       "additionalInputs": [
         {
-          "type": "radio",
           "key": "subReason",
-          "options": [
-            {
-              "name": "System Functional",
-              "code": "OUT_OF_WARRANTY_SYSTEM_FUNCTIONAL",
-              "active": true
-            },
-            {
-              "name": "System Not-Functional",
-              "code": "OUT_OF_WARRANTY_SYSTEM_NOT_FUNCTIONAL",
-              "active": true
-            }
-          ]
+          "type": "textarea"
         }
       ]
     },
     {
-      "name": "Awaiting Delivery of Part for Replacement",
       "code": "AWAITING_DELIVERY",
-      "active": false
+      "name": "Awaiting Delivery of Part for Replacement",
+      "active": true
     },
     {
-      "name": "Others",
-      "code": "OTHERS",
+      "code": "OUT_OF_WARRANTY",
+      "name": "Out of Warranty - PO Shared",
       "active": true,
       "additionalInputs": [
         {
-          "type": "textarea",
-          "key": "subReason"
+          "key": "subReason",
+          "type": "radio",
+          "options": [
+            {
+              "code": "OUT_OF_WARRANTY_SYSTEM_FUNCTIONAL",
+              "name": "System Functional",
+              "active": true
+            },
+            {
+              "code": "OUT_OF_WARRANTY_SYSTEM_NOT_FUNCTIONAL",
+              "name": "System Not-Functional",
+              "active": true
+            }
+          ]
         }
       ]
     }

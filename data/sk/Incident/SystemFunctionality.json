@@ -1,0 +1,16 @@
+{
+  "tenantId": "sk",
+  "moduleName": "Incident",
+  "SystemFunctionality": [
+    {
+      "code": "FUNCTIONAL",
+      "name": "Yes",
+      "active": true
+    },
+    {
+      "code": "NON_FUNCTIONAL",
+      "name": "No",
+      "active": true
+    }
+  ]
+}

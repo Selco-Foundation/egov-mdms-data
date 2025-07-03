@@ -3,6 +3,150 @@
   "modulename": "Incident",
   "ServiceDefs": [
     {
+      "id": 393,
+      "name": "Technician Visit Needed",
+      "active": true,
+      "keywords": "Issue ,Technician Visit Needed",
+      "menuPath": "I Cannot Identify The Issue",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "CannotIdentifyIssue"
+    },
+    {
+      "id": 335,
+      "name": "Device burned/blasted",
+      "active": true,
+      "keywords": "burned, blasted, device",
+      "menuPath": "RMS Device",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": true,
+      "serviceCode": "DeviceBurnedBlasted"
+    },
+    {
+      "id": 198,
+      "name": "Shifting",
+      "active": true,
+      "keywords": "Shifting",
+      "menuPath": "LIGHTNING ARRESTOR",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": true,
+      "serviceCode": "Shifting"
+    },
+    {
+      "id": 146,
+      "name": "Shifting",
+      "active": true,
+      "keywords": "shifting",
+      "menuPath": "BATTERY",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": true,
+      "serviceCode": "Shifting"
+    },
+    {
+      "id": 352,
+      "name": "Disconnected by Health centre",
+      "active": true,
+      "keywords": "disconnected, Health centre",
+      "menuPath": "INVERTER",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": true,
+      "serviceCode": "DisconnectedHealthCentre"
+    },
+    {
+      "id": 359,
+      "name": "Disconnected Cable",
+      "active": true,
+      "keywords": "Disconnected Cable, Inverter",
+      "menuPath": "INVERTER",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": true,
+      "serviceCode": "DisconnectedCable"
+    },
+    {
+      "id": 346,
+      "name": "Shifting",
+      "active": true,
+      "keywords": "shifting",
+      "menuPath": "PANEL",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": true,
+      "serviceCode": "Shifting"
+    },
+    {
+      "id": 391,
+      "name": "Not Working ",
+      "active": true,
+      "keywords": "Not Working",
+      "menuPath": "SOLAR WATER HEATER",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "NotWorking"
+    },
+    {
+      "id": 390,
+      "name": "Load Wiring Issues",
+      "active": true,
+      "keywords": "Load Wiring Issues, cable",
+      "menuPath": "CABLES",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "LoadWiringIssue"
+    },
+    {
+      "id": 392,
+      "name": "Fast Draining of Distilled Water",
+      "active": true,
+      "keywords": "Fast Draining of Distilled Water, Battery",
+      "menuPath": "BATTERY",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "FastDrainingDistilledWater"
+    },
+    {
+      "id": 389,
+      "name": "Electric Shock",
+      "active": true,
+      "keywords": "Error Code On Display, Inverter",
+      "menuPath": "INVERTER",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "ElectricShock"
+    },
+    {
+      "id": 388,
+      "name": "Error Code On Display",
+      "active": true,
+      "keywords": "Error Code On Display, Inverter",
+      "menuPath": "INVERTER",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "ErrorCodeDisplay"
+    },
+    {
       "id": 387,
       "name": "Broken",
       "active": true,
@@ -339,18 +483,6 @@
       "serviceCode": "LowBatteryWater"
     },
     {
-      "id": 359,
-      "name": "Disconnected Cable",
-      "active": true,
-      "keywords": "Disconnected Cable, Inverter",
-      "menuPath": "INVERTER",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "DisconnectedCable"
-    },
-    {
       "id": 358,
       "name": "Other",
       "active": true,
@@ -361,18 +493,6 @@
       "department": "O&M",
       "deprecated": false,
       "serviceCode": "Other"
-    },
-    {
-      "id": 357,
-      "name": "Mishandling",
-      "active": true,
-      "keywords": "Mishandling, Inverter",
-      "menuPath": "INVERTER",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "Mishandling"
     },
     {
       "id": 356,
@@ -423,30 +543,6 @@
       "serviceCode": "Mishandling"
     },
     {
-      "id": 352,
-      "name": "Disconnected by Health centre",
-      "active": true,
-      "keywords": "disconnected, Health centre",
-      "menuPath": "INVERTER",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "DisconnectedHealthCentre"
-    },
-    {
-      "id": 351,
-      "name": "Cable disconnected or loose cables",
-      "active": true,
-      "keywords": "cable, disconnected, loose",
-      "menuPath": "INVERTER",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "CableDisconnected"
-    },
-    {
       "id": 291,
       "name": "Other",
       "active": true,
@@ -469,18 +565,6 @@
       "department": "O&M",
       "deprecated": false,
       "serviceCode": "FanIssueInverter"
-    },
-    {
-      "id": 335,
-      "name": "Device burned/blasted",
-      "active": true,
-      "keywords": "burned, blasted, device",
-      "menuPath": "RMS Device",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "DeviceBurnedBlasted"
     },
     {
       "id": 350,
@@ -529,18 +613,6 @@
       "department": "O&M",
       "deprecated": false,
       "serviceCode": "PanelShifting"
-    },
-    {
-      "id": 346,
-      "name": "Shifting",
-      "active": true,
-      "keywords": "shifting",
-      "menuPath": "PANEL",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "Shifting"
     },
     {
       "id": 99,
@@ -815,7 +887,7 @@
       "priority": "High",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": false,
+      "deprecated": true,
       "serviceCode": "Shifting"
     },
     {
@@ -1021,18 +1093,6 @@
       "department": "O&M",
       "deprecated": true,
       "serviceCode": "Other"
-    },
-    {
-      "id": 146,
-      "name": "Shifting",
-      "active": true,
-      "keywords": "shifting",
-      "menuPath": "BATTERY",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "Shifting"
     },
     {
       "id": 147,
@@ -1525,18 +1585,6 @@
       "department": "O&M",
       "deprecated": true,
       "serviceCode": "Other"
-    },
-    {
-      "id": 198,
-      "name": "Shifting",
-      "active": true,
-      "keywords": "Shifting",
-      "menuPath": "LIGHTNING ARRESTOR",
-      "priority": "High",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "Shifting"
     },
     {
       "id": 199,
@@ -2893,18 +2941,6 @@
       "department": "O&M",
       "deprecated": false,
       "serviceCode": "OtherLight"
-    },
-    {
-      "id": 328,
-      "name": "Theft_Lights",
-      "active": true,
-      "keywords": "theft, light",
-      "menuPath": "LIGHTS & FANS",
-      "priority": "Low",
-      "slaHours": 264,
-      "department": "O&M",
-      "deprecated": false,
-      "serviceCode": "theftLight"
     },
     {
       "id": 329,

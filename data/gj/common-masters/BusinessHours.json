@@ -1,0 +1,42 @@
+{
+  "tenantId": "gj",
+  "moduleName": "common-masters",
+  "BusinessHours": [
+    {
+      "module": "common-masters",
+      "tenantId": "gj",
+      "BusinessHours": [
+        {
+          "day": "Monday",
+          "end": "17:00",
+          "start": "09:00"
+        },
+        {
+          "day": "Tuesday",
+          "end": "17:00",
+          "start": "09:00"
+        },
+        {
+          "day": "Wednesday",
+          "end": "17:00",
+          "start": "09:00"
+        },
+        {
+          "day": "Thursday",
+          "end": "17:00",
+          "start": "09:00"
+        },
+        {
+          "day": "Friday",
+          "end": "17:00",
+          "start": "09:00"
+        },
+        {
+          "day": "Saturday",
+          "end": "17:00",
+          "start": "09:00"
+        }
+      ]
+    }
+  ]
+}

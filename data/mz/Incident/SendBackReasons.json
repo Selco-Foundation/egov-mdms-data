@@ -3,11 +3,6 @@
   "moduleName": "Incident",
   "SendBackReasons": [
     {
-      "code": "INCORRECT_ASSIGNMENT",
-      "name": "Incorrect Assignment",
-      "active": true
-    },
-    {
       "code": "OTHERS",
       "name": "Others",
       "active": true,
@@ -19,32 +14,9 @@
       ]
     },
     {
-      "code": "AWAITING_DELIVERY",
-      "name": "Awaiting Delivery of Part for Replacement",
+      "code": "INCORRECT_ASSIGNMENT",
+      "name": "Incorrect Assignment",
       "active": true
-    },
-    {
-      "code": "OUT_OF_WARRANTY",
-      "name": "Out of Warranty - PO Shared",
-      "active": true,
-      "additionalInputs": [
-        {
-          "key": "subReason",
-          "type": "radio",
-          "options": [
-            {
-              "code": "OUT_OF_WARRANTY_SYSTEM_FUNCTIONAL",
-              "name": "System Functional",
-              "active": true
-            },
-            {
-              "code": "OUT_OF_WARRANTY_SYSTEM_NOT_FUNCTIONAL",
-              "name": "System Not-Functional",
-              "active": true
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -71,7 +71,7 @@
       "priority": "High",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": true,
+      "deprecated": false,
       "serviceCode": "DisconnectedCable"
     },
     {
@@ -1560,7 +1560,7 @@
       "slaHours": 264,
       "department": "O&M",
       "deprecated": false,
-      "serviceCode": "Broken"
+      "serviceCode": "LightningArrestorBroken"
     },
     {
       "id": 196,
@@ -1620,7 +1620,7 @@
       "slaHours": 264,
       "department": "O&M",
       "deprecated": false,
-      "serviceCode": "Broken"
+      "serviceCode": "EarthingConnectionBroken"
     },
     {
       "id": 205,

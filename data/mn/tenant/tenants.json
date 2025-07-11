@@ -8433,6 +8433,108 @@
       },
       "address": "Manipur",
       "contactNumber": "9612122296"
+    },
+    {
+      "code": "mn.impa",
+      "name": "Impa",
+      "description": "Impa",
+      "centreType": "THC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "THC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Impa",
+        "localName": null,
+        "districtCode": "TAMENGLONG",
+        "districtName": "Tamenglong",
+        "blockCode": "tamenglong.tousem",
+        "districtTenantCode": "mn.impa",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MN-2587815432",
+        "ddrName": null
+      },
+      "address": "Nagaland",
+      "contactNumber": "8732032331"
+    },
+    {
+      "code": "mn.kangjang",
+      "name": "Kangjang",
+      "description": "Kangjang",
+      "centreType": "THC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "THC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Kangjang",
+        "localName": null,
+        "districtCode": "SENAPATI",
+        "districtName": "Senapati",
+        "blockCode": "senapati.senapati",
+        "districtTenantCode": "mn.kangjang",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MN-2587815433",
+        "ddrName": null
+      },
+      "address": "Nagaland",
+      "contactNumber": "6009178460"
+    },
+    {
+      "code": "mn.phaitol",
+      "name": "Phaitol",
+      "description": "Phaitol",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "HWC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Phaitol",
+        "localName": null,
+        "districtCode": "TAMENGLONG",
+        "districtName": "Tamenglong",
+        "blockCode": "tamenglong.tousem",
+        "districtTenantCode": "mn.phaitol",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MN-2587815434",
+        "ddrName": null
+      },
+      "address": "Nagaland",
+      "contactNumber": "7629054341"
     }
   ]
 }

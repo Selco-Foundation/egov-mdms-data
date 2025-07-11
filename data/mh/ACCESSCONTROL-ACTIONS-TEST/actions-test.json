@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "mh",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
     {
@@ -923,7 +923,7 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "",
-      "tenantId": "pg",
+      "tenantId": "mh",
       "createdDate": null,
       "createdBy": null,
       "lastModifiedDate": null,
@@ -1284,7 +1284,7 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "",
-      "tenantId": "pg",
+      "tenantId": "mh",
       "createdDate": null,
       "createdBy": null,
       "lastModifiedDate": null,
@@ -1588,7 +1588,7 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "",
-      "tenantId": "pg",
+      "tenantId": "mh",
       "createdDate": null,
       "createdBy": null,
       "lastModifiedDate": null,
@@ -2154,7 +2154,7 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "",
-      "tenantId": "pg",
+      "tenantId": "mh",
       "createdDate": null,
       "createdBy": null,
       "lastModifiedDate": null,

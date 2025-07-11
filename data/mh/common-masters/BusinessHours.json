@@ -1,10 +1,10 @@
 {
-  "tenantId": "pg",
+  "tenantId": "mh",
   "moduleName": "common-masters",
   "BusinessHours": [
     {
       "module": "common-masters",
-      "tenantId": "pg",
+      "tenantId": "mh",
       "BusinessHours": [
         {
           "day": "Monday",

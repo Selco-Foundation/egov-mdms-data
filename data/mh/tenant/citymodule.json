@@ -1,0 +1,827 @@
+{
+  "tenantId": "mh",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mh"
+        },
+        {
+          "code": "mh.durgapura"
+        },
+        {
+          "code": "mh.tadali"
+        },
+        {
+          "code": "mh.visapur"
+        },
+        {
+          "code": "mh.kalmana"
+        },
+        {
+          "code": "mh.kothari"
+        },
+        {
+          "code": "mh.dongargaonkhadi"
+        },
+        {
+          "code": "mh.sawaribeed"
+        },
+        {
+          "code": "mh.nagari"
+        },
+        {
+          "code": "mh.madheli"
+        },
+        {
+          "code": "mh.kosarsar"
+        },
+        {
+          "code": "mh.shegaonbuj"
+        },
+        {
+          "code": "mh.bhisi"
+        },
+        {
+          "code": "mh.mudholi"
+        },
+        {
+          "code": "mh.neri"
+        },
+        {
+          "code": "mh.masal"
+        },
+        {
+          "code": "mh.moushi"
+        },
+        {
+          "code": "mh.talodhi"
+        },
+        {
+          "code": "mh.navegaonpandav"
+        },
+        {
+          "code": "mh.chougan"
+        },
+        {
+          "code": "mh.arheranwargaon"
+        },
+        {
+          "code": "mh.gangalwadi"
+        },
+        {
+          "code": "mh.nanhori"
+        },
+        {
+          "code": "mh.mahadinaleshwar"
+        },
+        {
+          "code": "mh.wasera"
+        },
+        {
+          "code": "mh.maroda"
+        },
+        {
+          "code": "mh.bembal"
+        },
+        {
+          "code": "mh.rajoli"
+        },
+        {
+          "code": "mh.jibgaon"
+        },
+        {
+          "code": "mh.vyahad"
+        },
+        {
+          "code": "mh.londholi"
+        },
+        {
+          "code": "mh.antargaon"
+        },
+        {
+          "code": "mh.manora"
+        },
+        {
+          "code": "mh.bhangaramtalodhi"
+        },
+        {
+          "code": "mh.kadholi"
+        },
+        {
+          "code": "mh.virurstation"
+        },
+        {
+          "code": "mh.dewada"
+        },
+        {
+          "code": "mh.nandaphata"
+        },
+        {
+          "code": "mh.naranda"
+        },
+        {
+          "code": "mh.pathari"
+        },
+        {
+          "code": "mh.shengaon"
+        },
+        {
+          "code": "mh.tohogaon"
+        },
+        {
+          "code": "mh.amirza"
+        },
+        {
+          "code": "mh.porla"
+        },
+        {
+          "code": "mh.potegaon"
+        },
+        {
+          "code": "mh.kunghada"
+        },
+        {
+          "code": "mh.lakhampuribori"
+        },
+        {
+          "code": "mh.markhanda"
+        },
+        {
+          "code": "mh.sundarnagar"
+        },
+        {
+          "code": "mh.adpalli"
+        },
+        {
+          "code": "mh.mahagaonaheri"
+        },
+        {
+          "code": "mh.jimalgatta"
+        },
+        {
+          "code": "mh.rangayapalli"
+        },
+        {
+          "code": "mh.deudgaon"
+        },
+        {
+          "code": "mh.bhakrondi"
+        },
+        {
+          "code": "mh.koregaon"
+        },
+        {
+          "code": "mh.godalwahi"
+        },
+        {
+          "code": "mh.kawha"
+        },
+        {
+          "code": "mh.nagral"
+        },
+        {
+          "code": "mh.walandi"
+        },
+        {
+          "code": "mh.hadothi"
+        },
+        {
+          "code": "mh.gudsur"
+        },
+        {
+          "code": "mh.mangrul"
+        },
+        {
+          "code": "mh.kingaon"
+        },
+        {
+          "code": "mh.kasarbalkund"
+        },
+        {
+          "code": "mh.satak"
+        },
+        {
+          "code": "mh.raipur"
+        },
+        {
+          "code": "mh.bhorgad"
+        },
+        {
+          "code": "mh.zilpa"
+        },
+        {
+          "code": "mh.chirvha"
+        },
+        {
+          "code": "mh.ghatpendhri"
+        },
+        {
+          "code": "mh.vehelgaon"
+        },
+        {
+          "code": "mh.pimparkhed"
+        },
+        {
+          "code": "mh.hiswalkh"
+        },
+        {
+          "code": "mh.bolthan"
+        },
+        {
+          "code": "mh.nanduri"
+        },
+        {
+          "code": "mh.bharam"
+        },
+        {
+          "code": "mh.kananwadi"
+        },
+        {
+          "code": "mh.dahiwad"
+        },
+        {
+          "code": "mh.salher"
+        },
+        {
+          "code": "mh.kapaleshwar"
+        },
+        {
+          "code": "mh.jaidar"
+        },
+        {
+          "code": "mh.ottur"
+        },
+        {
+          "code": "mh.chikhalohal"
+        },
+        {
+          "code": "mh.kelzar"
+        },
+        {
+          "code": "mh.nirpur"
+        },
+        {
+          "code": "mh.patoda"
+        },
+        {
+          "code": "mh.dapur"
+        },
+        {
+          "code": "mh.bramhangaon"
+        },
+        {
+          "code": "mh.navibej"
+        },
+        {
+          "code": "mh.vadnerbhairav"
+        },
+        {
+          "code": "mh.tirhalkhurd"
+        },
+        {
+          "code": "mh.borgaon"
+        },
+        {
+          "code": "mh.savargaon"
+        },
+        {
+          "code": "mh.talegaon"
+        },
+        {
+          "code": "mh.umbargavhan"
+        },
+        {
+          "code": "mh.anjaneri"
+        },
+        {
+          "code": "mh.umrale"
+        },
+        {
+          "code": "mh.lahavit"
+        },
+        {
+          "code": "mh.naigoan"
+        },
+        {
+          "code": "mh.virgaon"
+        },
+        {
+          "code": "mh.khedgaon"
+        },
+        {
+          "code": "mh.pimpadgaon"
+        },
+        {
+          "code": "mh.pangarne"
+        },
+        {
+          "code": "mh.mukhed"
+        },
+        {
+          "code": "mh.uswad"
+        },
+        {
+          "code": "mh.palkhed"
+        },
+        {
+          "code": "mh.taharabad"
+        },
+        {
+          "code": "mh.kalwadi"
+        },
+        {
+          "code": "mh.rohiletaltrambak"
+        },
+        {
+          "code": "mh.ozar"
+        },
+        {
+          "code": "mh.kasbesukene"
+        },
+        {
+          "code": "mh.ware"
+        },
+        {
+          "code": "mh.naydongri"
+        },
+        {
+          "code": "mh.somthane"
+        },
+        {
+          "code": "mh.kocharegaon"
+        },
+        {
+          "code": "mh.khamkhede"
+        },
+        {
+          "code": "mh.chikhli"
+        },
+        {
+          "code": "mh.kalamb"
+        },
+        {
+          "code": "mh.khalapur"
+        },
+        {
+          "code": "mh.lohap"
+        },
+        {
+          "code": "mh.chawak"
+        },
+        {
+          "code": "mh.varandh"
+        },
+        {
+          "code": "mh.pachad"
+        },
+        {
+          "code": "mh.dasgaon"
+        },
+        {
+          "code": "mh.nandavi"
+        },
+        {
+          "code": "mh.indapur"
+        },
+        {
+          "code": "mh.walvati"
+        },
+        {
+          "code": "mh.tala"
+        },
+        {
+          "code": "mh.mandada"
+        },
+        {
+          "code": "mh.mahagaontala"
+        },
+        {
+          "code": "mh.birwadi"
+        },
+        {
+          "code": "mh.gavhan"
+        },
+        {
+          "code": "mh.talegaonspt"
+        }
+      ]
+    },
+    {
+      "module": "IM",
+      "code": "IM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mh"
+        },
+        {
+          "code": "mh.durgapura"
+        },
+        {
+          "code": "mh.tadali"
+        },
+        {
+          "code": "mh.visapur"
+        },
+        {
+          "code": "mh.kalmana"
+        },
+        {
+          "code": "mh.kothari"
+        },
+        {
+          "code": "mh.dongargaonkhadi"
+        },
+        {
+          "code": "mh.sawaribeed"
+        },
+        {
+          "code": "mh.nagari"
+        },
+        {
+          "code": "mh.madheli"
+        },
+        {
+          "code": "mh.kosarsar"
+        },
+        {
+          "code": "mh.shegaonbuj"
+        },
+        {
+          "code": "mh.bhisi"
+        },
+        {
+          "code": "mh.mudholi"
+        },
+        {
+          "code": "mh.neri"
+        },
+        {
+          "code": "mh.masal"
+        },
+        {
+          "code": "mh.moushi"
+        },
+        {
+          "code": "mh.talodhi"
+        },
+        {
+          "code": "mh.navegaonpandav"
+        },
+        {
+          "code": "mh.chougan"
+        },
+        {
+          "code": "mh.arheranwargaon"
+        },
+        {
+          "code": "mh.gangalwadi"
+        },
+        {
+          "code": "mh.nanhori"
+        },
+        {
+          "code": "mh.mahadinaleshwar"
+        },
+        {
+          "code": "mh.wasera"
+        },
+        {
+          "code": "mh.maroda"
+        },
+        {
+          "code": "mh.bembal"
+        },
+        {
+          "code": "mh.rajoli"
+        },
+        {
+          "code": "mh.jibgaon"
+        },
+        {
+          "code": "mh.vyahad"
+        },
+        {
+          "code": "mh.londholi"
+        },
+        {
+          "code": "mh.antargaon"
+        },
+        {
+          "code": "mh.manora"
+        },
+        {
+          "code": "mh.bhangaramtalodhi"
+        },
+        {
+          "code": "mh.kadholi"
+        },
+        {
+          "code": "mh.virurstation"
+        },
+        {
+          "code": "mh.dewada"
+        },
+        {
+          "code": "mh.nandaphata"
+        },
+        {
+          "code": "mh.naranda"
+        },
+        {
+          "code": "mh.pathari"
+        },
+        {
+          "code": "mh.shengaon"
+        },
+        {
+          "code": "mh.tohogaon"
+        },
+        {
+          "code": "mh.amirza"
+        },
+        {
+          "code": "mh.porla"
+        },
+        {
+          "code": "mh.potegaon"
+        },
+        {
+          "code": "mh.kunghada"
+        },
+        {
+          "code": "mh.lakhampuribori"
+        },
+        {
+          "code": "mh.markhanda"
+        },
+        {
+          "code": "mh.sundarnagar"
+        },
+        {
+          "code": "mh.adpalli"
+        },
+        {
+          "code": "mh.mahagaonaheri"
+        },
+        {
+          "code": "mh.jimalgatta"
+        },
+        {
+          "code": "mh.rangayapalli"
+        },
+        {
+          "code": "mh.deudgaon"
+        },
+        {
+          "code": "mh.bhakrondi"
+        },
+        {
+          "code": "mh.koregaon"
+        },
+        {
+          "code": "mh.godalwahi"
+        },
+        {
+          "code": "mh.kawha"
+        },
+        {
+          "code": "mh.nagral"
+        },
+        {
+          "code": "mh.walandi"
+        },
+        {
+          "code": "mh.hadothi"
+        },
+        {
+          "code": "mh.gudsur"
+        },
+        {
+          "code": "mh.mangrul"
+        },
+        {
+          "code": "mh.kingaon"
+        },
+        {
+          "code": "mh.kasarbalkund"
+        },
+        {
+          "code": "mh.satak"
+        },
+        {
+          "code": "mh.raipur"
+        },
+        {
+          "code": "mh.bhorgad"
+        },
+        {
+          "code": "mh.zilpa"
+        },
+        {
+          "code": "mh.chirvha"
+        },
+        {
+          "code": "mh.ghatpendhri"
+        },
+        {
+          "code": "mh.vehelgaon"
+        },
+        {
+          "code": "mh.pimparkhed"
+        },
+        {
+          "code": "mh.hiswalkh"
+        },
+        {
+          "code": "mh.bolthan"
+        },
+        {
+          "code": "mh.nanduri"
+        },
+        {
+          "code": "mh.bharam"
+        },
+        {
+          "code": "mh.kananwadi"
+        },
+        {
+          "code": "mh.dahiwad"
+        },
+        {
+          "code": "mh.salher"
+        },
+        {
+          "code": "mh.kapaleshwar"
+        },
+        {
+          "code": "mh.jaidar"
+        },
+        {
+          "code": "mh.ottur"
+        },
+        {
+          "code": "mh.chikhalohal"
+        },
+        {
+          "code": "mh.kelzar"
+        },
+        {
+          "code": "mh.nirpur"
+        },
+        {
+          "code": "mh.patoda"
+        },
+        {
+          "code": "mh.dapur"
+        },
+        {
+          "code": "mh.bramhangaon"
+        },
+        {
+          "code": "mh.navibej"
+        },
+        {
+          "code": "mh.vadnerbhairav"
+        },
+        {
+          "code": "mh.tirhalkhurd"
+        },
+        {
+          "code": "mh.borgaon"
+        },
+        {
+          "code": "mh.savargaon"
+        },
+        {
+          "code": "mh.talegaon"
+        },
+        {
+          "code": "mh.umbargavhan"
+        },
+        {
+          "code": "mh.anjaneri"
+        },
+        {
+          "code": "mh.umrale"
+        },
+        {
+          "code": "mh.lahavit"
+        },
+        {
+          "code": "mh.naigoan"
+        },
+        {
+          "code": "mh.virgaon"
+        },
+        {
+          "code": "mh.khedgaon"
+        },
+        {
+          "code": "mh.pimpadgaon"
+        },
+        {
+          "code": "mh.pangarne"
+        },
+        {
+          "code": "mh.mukhed"
+        },
+        {
+          "code": "mh.uswad"
+        },
+        {
+          "code": "mh.palkhed"
+        },
+        {
+          "code": "mh.taharabad"
+        },
+        {
+          "code": "mh.kalwadi"
+        },
+        {
+          "code": "mh.rohiletaltrambak"
+        },
+        {
+          "code": "mh.ozar"
+        },
+        {
+          "code": "mh.kasbesukene"
+        },
+        {
+          "code": "mh.ware"
+        },
+        {
+          "code": "mh.naydongri"
+        },
+        {
+          "code": "mh.somthane"
+        },
+        {
+          "code": "mh.kocharegaon"
+        },
+        {
+          "code": "mh.khamkhede"
+        },
+        {
+          "code": "mh.chikhli"
+        },
+        {
+          "code": "mh.kalamb"
+        },
+        {
+          "code": "mh.khalapur"
+        },
+        {
+          "code": "mh.lohap"
+        },
+        {
+          "code": "mh.chawak"
+        },
+        {
+          "code": "mh.varandh"
+        },
+        {
+          "code": "mh.pachad"
+        },
+        {
+          "code": "mh.dasgaon"
+        },
+        {
+          "code": "mh.nandavi"
+        },
+        {
+          "code": "mh.indapur"
+        },
+        {
+          "code": "mh.walvati"
+        },
+        {
+          "code": "mh.tala"
+        },
+        {
+          "code": "mh.mandada"
+        },
+        {
+          "code": "mh.mahagaontala"
+        },
+        {
+          "code": "mh.birwadi"
+        },
+        {
+          "code": "mh.gavhan"
+        },
+        {
+          "code": "mh.talegaonspt"
+        }
+      ]
+    }
+  ]
+}

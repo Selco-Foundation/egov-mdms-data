@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Incident",
+  "RejectReasons": [
+    {
+      "code": "EDUCATED_END_USER",
+      "name": "Educated End User",
+      "active": true
+    },
+    {
+      "code": "DUPLICATE_TICKET",
+      "name": "Duplicate Ticket",
+      "active": true
+    },
+    {
+      "code": "RESOLVED_SELCO_TEAM",
+      "name": "Resolved by SELCO Team",
+      "active": true
+    },
+    {
+      "code": "RESOLVED_BY_CRM",
+      "name": "Resolved by CRM",
+      "active": true
+    }
+  ]
+}

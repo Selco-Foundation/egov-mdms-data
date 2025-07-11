@@ -1,0 +1,22 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Incident",
+  "SendBackReasons": [
+    {
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true,
+      "additionalInputs": [
+        {
+          "key": "subReason",
+          "type": "textarea"
+        }
+      ]
+    },
+    {
+      "code": "INCORRECT_ASSIGNMENT",
+      "name": "Incorrect Assignment",
+      "active": true
+    }
+  ]
+}

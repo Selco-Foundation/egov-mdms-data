@@ -2915,7 +2915,7 @@
       "priority": "Low",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": false,
+      "deprecated": true,
       "serviceCode": "burnedornotworkingindoorlight"
     },
     {
@@ -2927,7 +2927,7 @@
       "priority": "Low",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": false,
+      "deprecated": true,
       "serviceCode": "theftLight"
     },
     {
@@ -2951,7 +2951,7 @@
       "priority": "Low",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": false,
+      "deprecated": true,
       "serviceCode": "BurnedFan"
     },
     {
@@ -2963,7 +2963,7 @@
       "priority": "Low",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": false,
+      "deprecated": true,
       "serviceCode": "TheftFan"
     },
     {
@@ -2975,7 +2975,7 @@
       "priority": "Low",
       "slaHours": 264,
       "department": "O&M",
-      "deprecated": false,
+      "deprecated": true,
       "serviceCode": "OthertFan"
     },
     {

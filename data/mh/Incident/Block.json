@@ -1,0 +1,348 @@
+{
+  "tenantId": "mh",
+  "moduleName": "Incident",
+  "Block": [
+    {
+      "code": "chandrapur.chandrapur",
+      "name": "Chandrapur",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.ballarpur",
+      "name": "Ballarpur",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.bhadravati",
+      "name": "Bhadravati",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.warora",
+      "name": "Warora",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.chimur",
+      "name": "Chimur",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.nagbhid",
+      "name": "Nagbhid",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.brahmapuri",
+      "name": "Brahmapuri",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.sindewahi",
+      "name": "Sindewahi",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.mul",
+      "name": "Mul",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.saoli",
+      "name": "Saoli",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.gondpipari",
+      "name": "Gondpipari",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.rajura",
+      "name": "Rajura",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.korpana",
+      "name": "Korpana",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "chandrapur.jiwati",
+      "name": "Jiwati",
+      "districtCode": "CHANDRAPUR",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.gadchiroli",
+      "name": "Gadchiroli",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.chamorshi",
+      "name": "Chamorshi",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.mulchera",
+      "name": "Mulchera",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.aheri",
+      "name": "Aheri",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.sironcha",
+      "name": "Sironcha",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.kurkheda",
+      "name": "Kurkheda",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.armori",
+      "name": "Armori",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.wadsa",
+      "name": "Wadsa",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "gadchiroli.dhanora",
+      "name": "Dhanora",
+      "districtCode": "GADCHIROLI",
+      "active": true
+    },
+    {
+      "code": "latur.latur",
+      "name": "Latur",
+      "districtCode": "LATUR",
+      "active": true
+    },
+    {
+      "code": "latur.devni",
+      "name": "Devni",
+      "districtCode": "LATUR",
+      "active": true
+    },
+    {
+      "code": "latur.ahmadpur",
+      "name": "Ahmadpur",
+      "districtCode": "LATUR",
+      "active": true
+    },
+    {
+      "code": "latur.jalkot",
+      "name": "Jalkot",
+      "districtCode": "LATUR",
+      "active": true
+    },
+    {
+      "code": "latur.nilanga",
+      "name": "Nilanga",
+      "districtCode": "LATUR",
+      "active": true
+    },
+    {
+      "code": "nagpur.parseoni",
+      "name": "Parseoni",
+      "districtCode": "NAGPUR",
+      "active": true
+    },
+    {
+      "code": "nagpur.hingna",
+      "name": "Hingna",
+      "districtCode": "NAGPUR",
+      "active": true
+    },
+    {
+      "code": "nagpur.katol",
+      "name": "Katol",
+      "districtCode": "NAGPUR",
+      "active": true
+    },
+    {
+      "code": "nagpur.mauda",
+      "name": "Mauda",
+      "districtCode": "NAGPUR",
+      "active": true
+    },
+    {
+      "code": "nasik.nandgaon",
+      "name": "Nandgaon",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.kalwan",
+      "name": "Kalwan",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.yeola",
+      "name": "Yeola",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.igatpuri",
+      "name": "Igatpuri",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.deola",
+      "name": "Deola",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.baglan",
+      "name": "Baglan",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.malegaon",
+      "name": "Malegaon",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.sinnar",
+      "name": "Sinnar",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.chandvad",
+      "name": "Chandvad",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.surgana",
+      "name": "Surgana",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.dindori",
+      "name": "Dindori",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.trimbakeshwar",
+      "name": "Trimbakeshwar",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.nashik",
+      "name": "Nashik",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.niphad",
+      "name": "Niphad",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.chandwad",
+      "name": "Chandwad",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "nasik.trambakeshwar",
+      "name": "Trambakeshwar",
+      "districtCode": "NASIK",
+      "active": true
+    },
+    {
+      "code": "raighad.alibag",
+      "name": "Alibag",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.karjat",
+      "name": "Karjat",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.khalapur",
+      "name": "Khalapur",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.mahad",
+      "name": "Mahad",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.mangaon",
+      "name": "Mangaon",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.shrivardhan",
+      "name": "Shrivardhan",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.tala",
+      "name": "Tala",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "raighad.panvel",
+      "name": "Panvel",
+      "districtCode": "RAIGHAD",
+      "active": true
+    },
+    {
+      "code": "wardha.ashti",
+      "name": "Ashti",
+      "districtCode": "WARDHA",
+      "active": true
+    }
+  ]
+}

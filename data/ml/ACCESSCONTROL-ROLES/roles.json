@@ -82,10 +82,20 @@
       "name": "Complaint Resolver",
       "description": "One who will resolve complaints"
     },
-	{
+	  {
       "code": "TICKET_REPORT_VIEWER",
       "name": "Report Viewer",
       "description": "One who will view the reports of tickets"
+    },
+    {
+      "code": "COMPLAINT_FACILITATOR_1",
+      "name": "Complaint facilitator 1",
+      "description": "Person responsible to facilitate the complaint at level one"
+    },
+    {
+      "code": "COMPLAINT_FACILITATOR_2",
+      "name": "Complaint facilitator 2",
+      "description": "Person responsible to facilitate the complaint at level two"
     }
   ]
 }

@@ -69,13 +69,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7899108391"
+      "contactNumber": "9986087450"
     },
     {
       "code": "pg.shakawadisubcentre",
       "name": "Shakawadi",
       "description": "Shakawadi Sub Centre",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -103,13 +103,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8884930257"
+      "contactNumber": "8618006723"
     },
     {
       "code": "pg.wadlursubcentre",
       "name": "Wadlur",
       "description": "Wadlur Sub Centre",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -137,7 +137,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9342710884"
+      "contactNumber": "8310976658"
     },
     {
       "code": "pg.harijanwadaurbanprimaryhealthcentre",
@@ -171,13 +171,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6366401935"
+      "contactNumber": "9380985100"
     },
     {
       "code": "pg.bijanngerasubcentre",
       "name": "Bijenagera",
       "description": "Bijanngera Sub Centre",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -205,13 +205,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9902847800"
+      "contactNumber": "9632706555"
     },
     {
       "code": "pg.deosugursubcentre",
       "name": "Deosugur",
       "description": "Deosugur Sub Centre",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -273,7 +273,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900880876"
+      "contactNumber": "9449843202"
     },
     {
       "code": "pg.ragimangaddaurbanprimaryhealthcentre",
@@ -341,7 +341,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7899751921"
+      "contactNumber": "9113294721"
     },
     {
       "code": "pg.lbsnagarurbanprimaryhealthcentre",
@@ -381,7 +381,7 @@
       "code": "pg.wadwatti",
       "name": "Wadwatti",
       "description": "Wadwatti",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -409,13 +409,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8073065816"
+      "contactNumber": "8660972027"
     },
     {
       "code": "pg.kalmalasc",
       "name": "Kalmala HWC",
       "description": "Kalmala SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -483,7 +483,7 @@
       "code": "pg.matamarisc",
       "name": "Matamari HWC",
       "description": "Matamari SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -551,7 +551,7 @@
       "code": "pg.gillesugur",
       "name": "Gillesugur",
       "description": "Gillesugur",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -579,7 +579,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7019998949"
+      "contactNumber": "8792581578"
     },
     {
       "code": "pg.gillesuru",
@@ -619,7 +619,7 @@
       "code": "pg.bullapur",
       "name": "Bullapur",
       "description": "Bullapur",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -653,7 +653,7 @@
       "code": "pg.gandhala",
       "name": "Gandhala",
       "description": "Gandhala",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -715,13 +715,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9611381245"
+      "contactNumber": "8197109871"
     },
     {
       "code": "pg.mustur",
       "name": "Mustur HWC",
       "description": "Mustur",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -749,7 +749,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7975537552"
+      "contactNumber": "9632714656"
     },
     {
       "code": "pg.masarkal",
@@ -789,7 +789,7 @@
       "code": "pg.kopparsc",
       "name": "Koppar HWC",
       "description": "Koppar SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -817,13 +817,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6361438116"
+      "contactNumber": "9686967512"
     },
     {
       "code": "pg.yatgal",
       "name": "Yatgal",
       "description": "Yatgal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -925,7 +925,7 @@
       "code": "pg.karigudda",
       "name": "Karigudda",
       "description": "Karigudda",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -953,13 +953,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686544469"
+      "contactNumber": "9945518775"
     },
     {
       "code": "pg.galagsc",
       "name": "Galag HWC",
       "description": "Galag SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -987,13 +987,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6362813402"
+      "contactNumber": "7090408939"
     },
     {
       "code": "pg.ramnal",
       "name": "Ramnal",
       "description": "Ramnal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1021,7 +1021,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8147657092"
+      "contactNumber": "8073483650"
     },
     {
       "code": "pg.galagphc",
@@ -1061,7 +1061,7 @@
       "code": "pg.ramdurgajagatagal",
       "name": "Ramdurga Jagatagal",
       "description": "Ramdurga Jagatagal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1089,7 +1089,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110435937"
+      "contactNumber": "8151883279"
     },
     {
       "code": "pg.ramdurga",
@@ -1163,7 +1163,7 @@
       "code": "pg.nagadadinni",
       "name": "Nagadadinni",
       "description": "Nagadadinni",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1197,7 +1197,7 @@
       "code": "pg.sunkeshwarhal",
       "name": "Sunkeshwarhal",
       "description": "Sunkeshwarhal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1231,7 +1231,7 @@
       "code": "pg.bganekal",
       "name": "B Ganekal",
       "description": "B Ganekal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1259,13 +1259,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9353562445"
+      "contactNumber": "9148262147"
     },
     {
       "code": "pg.herundi",
       "name": "Herundi",
       "description": "Herundi",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1299,7 +1299,7 @@
       "code": "pg.karadigudda",
       "name": "Karadigudda",
       "description": "Karadigudda",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1333,7 +1333,7 @@
       "code": "pg.alkoda",
       "name": "Alkoda",
       "description": "Alkoda",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1367,7 +1367,7 @@
       "code": "pg.chikahonakoni",
       "name": "Chikahonakoni",
       "description": "Chikahonakoni",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1401,7 +1401,7 @@
       "code": "pg.harapursc",
       "name": "Harapur HWC",
       "description": "Harapur SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1429,7 +1429,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7353844249"
+      "contactNumber": "7259635256"
     },
     {
       "code": "pg.badarliphc",
@@ -1469,7 +1469,7 @@
       "code": "pg.badarlisc",
       "name": "Badarli HWC",
       "description": "Badarli SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1497,7 +1497,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9090702009"
+      "contactNumber": "9535054208"
     },
     {
       "code": "pg.harapurphc",
@@ -1531,7 +1531,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7026482868"
+      "contactNumber": "7892440992"
     },
     {
       "code": "pg.paparaocamp",
@@ -1571,7 +1571,7 @@
       "code": "pg.balganura",
       "name": "Balganur A",
       "description": "Balganur A",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1605,7 +1605,7 @@
       "code": "pg.goudanbhavi",
       "name": "Goudanbhavi",
       "description": "Goudanbhavi",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1633,7 +1633,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9108732889"
+      "contactNumber": "9902966826"
     },
     {
       "code": "pg.balaganur",
@@ -1673,7 +1673,7 @@
       "code": "pg.jawalgerasc",
       "name": "Jawalgera HWC",
       "description": "Jawalgera SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1701,7 +1701,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7019466387"
+      "contactNumber": "9964478473"
     },
     {
       "code": "pg.jawalgeraphc",
@@ -1735,13 +1735,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9964478473"
+      "contactNumber": "9886588178"
     },
     {
       "code": "pg.rhnoonesc",
       "name": "R H No 1 HWC",
       "description": "R H No 1 SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1775,7 +1775,7 @@
       "code": "pg.rhnotwosc",
       "name": "R H No 2 HWC",
       "description": "R H No 2 SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1837,13 +1837,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886414444"
+      "contactNumber": "9480840812"
     },
     {
       "code": "pg.salagundasc",
       "name": "Salagunda HWC",
       "description": "Salagunda SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1945,7 +1945,7 @@
       "code": "pg.thurvihalsc",
       "name": "Thurvihal HWC",
       "description": "Thurvihal SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -1979,7 +1979,7 @@
       "code": "pg.gandhinagar",
       "name": "Gandhinagar",
       "description": "Gandhinagar",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2075,13 +2075,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9008919787"
+      "contactNumber": "9110262358"
     },
     {
       "code": "pg.aidabavi",
       "name": "Aidabavi",
       "description": "Aidabavi",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2115,7 +2115,7 @@
       "code": "pg.gurguntasc",
       "name": "Gurgunta HWC",
       "description": "Gurgunta SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2143,7 +2143,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8197290524"
+      "contactNumber": "9686173483"
     },
     {
       "code": "pg.gurguntaphc",
@@ -2183,7 +2183,7 @@
       "code": "pg.huttisc",
       "name": "Hutti HWC",
       "description": "Hutti SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2251,7 +2251,7 @@
       "code": "pg.gejjalgettasc",
       "name": "Gejjalgetta HWC",
       "description": "Gejjalgetta SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2319,7 +2319,7 @@
       "code": "pg.maraldinni",
       "name": "Maraldinni",
       "description": "Maraldinni",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2353,7 +2353,7 @@
       "code": "pg.maskib",
       "name": "Maski B",
       "description": "Maski B",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2421,7 +2421,7 @@
       "code": "pg.yelagatta",
       "name": "Yelagatta",
       "description": "Yelagatta",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2449,7 +2449,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7353092683"
+      "contactNumber": "9972380585"
     },
     {
       "code": "pg.anwariphc",
@@ -2489,7 +2489,7 @@
       "code": "pg.antaragangi",
       "name": "Antaragangi",
       "description": "Antaragangi",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2523,7 +2523,7 @@
       "code": "pg.medikinal",
       "name": "Medikinal",
       "description": "Medikinal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2585,13 +2585,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7349370137"
+      "contactNumber": "7022267747"
     },
     {
       "code": "pg.bannigol",
       "name": "Bannigol",
       "description": "Bannigol",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2625,7 +2625,7 @@
       "code": "pg.makapursc",
       "name": "Makapur HWC",
       "description": "Makapur SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2687,13 +2687,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110262358"
+      "contactNumber": "6366401940"
     },
     {
       "code": "pg.ashihala",
       "name": "Ashihala",
       "description": "Ashihala",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2727,7 +2727,7 @@
       "code": "pg.bayyapurasc",
       "name": "Bayyapura HWC",
       "description": "Bayyapura SC",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2755,13 +2755,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8970380008"
+      "contactNumber": "9886491556"
     },
     {
       "code": "pg.ameengud",
       "name": "Ameengud",
       "description": "Ameengud",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2795,7 +2795,7 @@
       "code": "pg.athnoor",
       "name": "Athnoor",
       "description": "Athnoor",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2823,13 +2823,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686809925"
+      "contactNumber": "9008938244"
     },
     {
       "code": "pg.chagabhavi",
       "name": "Chagabhavi",
       "description": "Chagabhavi",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2857,13 +2857,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "95350 90402"
+      "contactNumber": "9945193394"
     },
     {
       "code": "pg.ganadinni",
       "name": "Ganadinni",
       "description": "Ganadinni",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2891,13 +2891,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "98456 78964"
+      "contactNumber": "9845678964"
     },
     {
       "code": "pg.halapur",
       "name": "Halapur",
       "description": "Halapur",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2931,7 +2931,7 @@
       "code": "pg.harwapur",
       "name": "Harwapur",
       "description": "Harwapur",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2965,7 +2965,7 @@
       "code": "pg.hirebadaradinni",
       "name": "Hirebadaradinni",
       "description": "Hirebadaradinni",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -2999,7 +2999,7 @@
       "code": "pg.jakkaldinni",
       "name": "Jakkaldinni",
       "description": "Jakkaldinni",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3027,13 +3027,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8861563393"
+      "contactNumber": "9008189752"
     },
     {
       "code": "pg.jeenoor",
       "name": "Jeenoor",
       "description": "Jeenoor",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3061,13 +3061,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9880349119"
+      "contactNumber": "7411827780"
     },
     {
       "code": "pg.madlapur",
       "name": "Madlapur",
       "description": "Madlapur",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3101,7 +3101,7 @@
       "code": "pg.nandihal",
       "name": "Nandihal",
       "description": "Nandihal",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3135,7 +3135,7 @@
       "code": "pg.neermanvi",
       "name": "Neermanvi",
       "description": "Neermanvi",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3197,7 +3197,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8105190021"
+      "contactNumber": "8722319991"
     },
     {
       "code": "pg.ballatagi",
@@ -3299,13 +3299,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980467005"
+      "contactNumber": "7349424071"
     },
     {
       "code": "pg.dummy",
       "name": "Dummy Primary Health Centre",
       "description": "Dummy Primary Health Centre",
-      "centreType": "Primary Health Centre",
+      "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "PHC",
@@ -3374,7 +3374,7 @@
       "code": "pg.athukur",
       "name": "Athukur",
       "description": "Athukur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3408,7 +3408,7 @@
       "code": "pg.elebichali",
       "name": "Elebichali",
       "description": "Elebichali",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3436,13 +3436,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7349372540"
+      "contactNumber": "9113616201"
     },
     {
       "code": "pg.chikasugur",
       "name": "Chikasugur",
       "description": "Chikasugur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3476,7 +3476,7 @@
       "code": "pg.dinni",
       "name": "Dinni",
       "description": "Dinni",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3510,7 +3510,7 @@
       "code": "pg.gadhar",
       "name": "Gadhar",
       "description": "Gadhar",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3544,7 +3544,7 @@
       "code": "pg.garaldinnisubcentre",
       "name": "Garaladinni HWC",
       "description": "Garaldinni Sub Centre",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3578,7 +3578,7 @@
       "code": "pg.hanumapur",
       "name": "Hanumapur",
       "description": "Hanumapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3606,13 +3606,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8660339839"
+      "contactNumber": "9480840535"
     },
     {
       "code": "pg.hosur",
       "name": "Hosur Raichur",
       "description": "Hosur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3640,13 +3640,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8197595999"
+      "contactNumber": "9108069444"
     },
     {
       "code": "pg.idapanursc",
       "name": "Idapanur HWC",
       "description": "Idapanur SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3680,7 +3680,7 @@
       "code": "pg.jagarkal",
       "name": "Jagarkal",
       "description": "Jagarkal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3714,7 +3714,7 @@
       "code": "pg.jvenkatapur",
       "name": "J Venkatapur",
       "description": "J.venkatapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3742,13 +3742,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9844786600"
+      "contactNumber": "9538276259"
     },
     {
       "code": "pg.kadloor",
       "name": "Kadloor",
       "description": "Kadloor",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3776,13 +3776,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8152084095"
+      "contactNumber": "9591863725"
     },
     {
       "code": "pg.katlatukur",
       "name": "Katlatukur",
       "description": "Katlatukur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3810,13 +3810,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8861012192"
+      "contactNumber": "9743636736"
     },
     {
       "code": "pg.lkdoddi",
       "name": "L K Doddi",
       "description": "L.k.doddi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3844,13 +3844,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620289545"
+      "contactNumber": "9686392804"
     },
     {
       "code": "pg.mmalkapur",
       "name": "M Malkapur",
       "description": "M.malkapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3884,7 +3884,7 @@
       "code": "pg.manjarla",
       "name": "Manjarla",
       "description": "Manjarla",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3912,13 +3912,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8747991384"
+      "contactNumber": "9731967317"
     },
     {
       "code": "pg.marched",
       "name": "Marched",
       "description": "Marched",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3946,13 +3946,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8073406329"
+      "contactNumber": "9886226956"
     },
     {
       "code": "pg.singanodi",
       "name": "Singanodi",
       "description": "Singanodi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -3986,7 +3986,7 @@
       "code": "pg.ukhanapur",
       "name": "U Khanapur Raichur",
       "description": "U.khanapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4020,7 +4020,7 @@
       "code": "pg.yedlapur",
       "name": "Yedlapur",
       "description": "Yedlapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4048,7 +4048,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980210646"
+      "contactNumber": "6361148965"
     },
     {
       "code": "pg.yapaldinniphc",
@@ -4082,13 +4082,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6360398257"
+      "contactNumber": "9886104436"
     },
     {
       "code": "pg.talameri",
       "name": "Talameri",
       "description": "Talameri",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4122,7 +4122,7 @@
       "code": "pg.turkanadona",
       "name": "Turkanadona",
       "description": "Turkanadona",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4150,13 +4150,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9164609538"
+      "contactNumber": "7676615959"
     },
     {
       "code": "pg.meerapur",
       "name": "Meerapur",
       "description": "Meerapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4190,7 +4190,7 @@
       "code": "pg.chandrabanda",
       "name": "Chandrabanda",
       "description": "Chandrabanda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4218,7 +4218,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986087450"
+      "contactNumber": "9986600524"
     },
     {
       "code": "pg.jmallapur",
@@ -4252,7 +4252,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9902550728"
+      "contactNumber": "9448677728"
     },
     {
       "code": "pg.zaheerabaduphc",
@@ -4292,7 +4292,7 @@
       "code": "pg.gunjahallisc",
       "name": "Gunjahalli HWC",
       "description": "Gunjahalli SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4360,7 +4360,7 @@
       "code": "pg.alopatichospitallbsnagarsubcentre",
       "name": "Alopathic Hospital LBS Nagar",
       "description": "Alopatic Hospital Lbs Nagar Sub Centre",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4388,13 +4388,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9844193931"
+      "contactNumber": "9480129624"
     },
     {
       "code": "pg.yapaldinnisc",
       "name": "Yapaldinni HWC",
       "description": "Yapaldinni SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4422,13 +4422,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886104436"
+      "contactNumber": "8792285210"
     },
     {
       "code": "pg.waddepalli",
       "name": "Waddepalli",
       "description": "Waddepalli",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4456,13 +4456,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9480840557"
+      "contactNumber": "9019115911"
     },
     {
       "code": "pg.yaragera",
       "name": "Yaragera",
       "description": "Yaragera",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4490,13 +4490,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686618414"
+      "contactNumber": "7975680146"
     },
     {
       "code": "pg.yermarus",
       "name": "Yermarus",
       "description": "Yermarus",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4524,7 +4524,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "960655145"
+      "contactNumber": "8310769422"
     },
     {
       "code": "pg.idapanurphc",
@@ -4558,13 +4558,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8197701727"
+      "contactNumber": "8904914565"
     },
     {
       "code": "pg.thoranadinnisc",
       "name": "Thoranadinni HWC",
       "description": "Thoranadinni SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4598,7 +4598,7 @@
       "code": "pg.janekal",
       "name": "Janekal",
       "description": "Janekal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4632,7 +4632,7 @@
       "code": "pg.watgul",
       "name": "Watgul",
       "description": "Watgul",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4666,7 +4666,7 @@
       "code": "pg.aroli",
       "name": "Aroli",
       "description": "Aroli",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4700,7 +4700,7 @@
       "code": "pg.bagalwada",
       "name": "Bagalwada",
       "description": "Bagalwada",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4728,13 +4728,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9972994703"
+      "contactNumber": "6361521301"
     },
     {
       "code": "pg.bmarched",
       "name": "B Marched",
       "description": "B.marched",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4762,13 +4762,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9967775278"
+      "contactNumber": "8073406329"
     },
     {
       "code": "pg.katarki",
       "name": "Katarki",
       "description": "Katarki",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4802,7 +4802,7 @@
       "code": "pg.kharabdinni",
       "name": "Kharabdinni",
       "description": "Kharabdinni",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4830,13 +4830,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8880381337"
+      "contactNumber": "7813974755"
     },
     {
       "code": "pg.kurdisc",
       "name": "Kurdi HWC",
       "description": "Kurdi SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4870,7 +4870,7 @@
       "code": "pg.ckotnekal",
       "name": "C Kotnekal",
       "description": "C.kotnekal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4898,13 +4898,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7337811108"
+      "contactNumber": "8088229213"
     },
     {
       "code": "pg.chikalparvi",
       "name": "Chikalparvi",
       "description": "Chikalparvi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4938,7 +4938,7 @@
       "code": "pg.kapagal",
       "name": "Kapagal",
       "description": "Kapagal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -4972,7 +4972,7 @@
       "code": "pg.goladinni",
       "name": "Goladinni",
       "description": "Goladinni",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5006,7 +5006,7 @@
       "code": "pg.hkotnekaldroomsubcentre",
       "name": "H Kotnekal Dr Room",
       "description": "H.kotnekal Dr. Room Sub Centre",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5034,7 +5034,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900269048"
+      "contactNumber": "8073348558"
     },
     {
       "code": "pg.kurdiphc",
@@ -5074,7 +5074,7 @@
       "code": "pg.hallihosur",
       "name": "Hallihosur",
       "description": "Hallihosur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5108,7 +5108,7 @@
       "code": "pg.kurakunda",
       "name": "Kurakunda",
       "description": "Kurakunda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5136,13 +5136,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8431419146"
+      "contactNumber": "7892192926"
     },
     {
       "code": "pg.harvi",
       "name": "Harvi",
       "description": "Harvi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5176,7 +5176,7 @@
       "code": "pg.heera",
       "name": "Heera",
       "description": "Heera",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5204,13 +5204,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620450208"
+      "contactNumber": "7259609291"
     },
     {
       "code": "pg.hirekotnekalsc",
       "name": "Hire Kotnekal HWC",
       "description": "Hire-kotnekal SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5244,7 +5244,7 @@
       "code": "pg.hirehangi",
       "name": "Hirehangi",
       "description": "Hirehangi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5272,13 +5272,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591560232"
+      "contactNumber": "9900233378"
     },
     {
       "code": "pg.byagawatsc",
       "name": "Byagawat HWC",
       "description": "Byagawat SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5312,7 +5312,7 @@
       "code": "pg.balllatagi",
       "name": "Balllatagi",
       "description": "Balllatagi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5380,7 +5380,7 @@
       "code": "pg.madagiri",
       "name": "Madagiri",
       "description": "Madagiri",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5408,13 +5408,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986780571"
+      "contactNumber": "9972782031"
     },
     {
       "code": "pg.mallat",
       "name": "Mallat",
       "description": "Mallat",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5448,7 +5448,7 @@
       "code": "pg.pamankallur",
       "name": "Pamankallur PHC",
       "description": "Pamankallur",
-      "centreType": "Sub centre",
+      "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5476,13 +5476,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8861195786"
+      "contactNumber": "9036986321"
     },
     {
       "code": "pg.pamankallurphc",
       "name": "Pamankallur HWC",
       "description": "Pamankallur PHC",
-      "centreType": "PHC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5516,7 +5516,7 @@
       "code": "pg.pothnalsc",
       "name": "Pothnal HWC",
       "description": "Pothnal SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5550,7 +5550,7 @@
       "code": "pg.pothnaldrroomsubcentre",
       "name": "Pothnal Dr Room",
       "description": "Pothnal Dr. Room Sub Centre",
-      "centreType": "Sub centre",
+      "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5584,7 +5584,7 @@
       "code": "pg.rbanda",
       "name": "R Banda",
       "description": "R.banda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5612,13 +5612,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9632496487"
+      "contactNumber": "9591447848"
     },
     {
       "code": "pg.sadapur",
       "name": "Sadapur",
       "description": "Sadapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5646,13 +5646,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8951555886"
+      "contactNumber": "7892072836"
     },
     {
       "code": "pg.sangapur",
       "name": "Sangapur HWC",
       "description": "Sangapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5680,13 +5680,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8073563854"
+      "contactNumber": "8904108742"
     },
     {
       "code": "pg.tadkal",
       "name": "Tadkal Raichur",
       "description": "Tadkal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5714,7 +5714,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8618897081"
+      "contactNumber": "8217253699"
     },
     {
       "code": "pg.arakera",
@@ -5748,13 +5748,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9535928371"
+      "contactNumber": "9535928644"
     },
     {
       "code": "pg.hbudur",
       "name": "H Budur",
       "description": "H. Budur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5788,7 +5788,7 @@
       "code": "pg.gandal",
       "name": "Gandal",
       "description": "Gandal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5816,13 +5816,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8217282636"
+      "contactNumber": "7760500950"
     },
     {
       "code": "pg.gugal",
       "name": "Gugal",
       "description": "Gugal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5850,13 +5850,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9880558523"
+      "contactNumber": "8088155301"
     },
     {
       "code": "pg.hemanal",
       "name": "Hemanal",
       "description": "Hemanal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5884,13 +5884,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8050535954"
+      "contactNumber": "9110883540"
     },
     {
       "code": "pg.hemnur",
       "name": "Hemnur",
       "description": "Hemnur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5918,13 +5918,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8861028981"
+      "contactNumber": "7892668246"
     },
     {
       "code": "pg.chinchodisc",
       "name": "Chinchodi HWC",
       "description": "Chinchodi SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5952,13 +5952,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8970087683"
+      "contactNumber": "9972957562"
     },
     {
       "code": "pg.jalahallia",
       "name": "Jalahalli A",
       "description": "Jalahalli-a",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -5986,13 +5986,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9353562445"
+      "contactNumber": "9741281456"
     },
     {
       "code": "pg.jalahallib",
       "name": "Jalahalli B",
       "description": "Jalahalli-b",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6026,7 +6026,7 @@
       "code": "pg.joladhedgi",
       "name": "Jolad Hedgi",
       "description": "Jolad Hedgi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6054,13 +6054,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9740651653"
+      "contactNumber": "9900285815"
     },
     {
       "code": "pg.kothadoddi",
       "name": "Kothadoddi",
       "description": "Kothadoddi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6094,7 +6094,7 @@
       "code": "pg.kydigera",
       "name": "Kydigera",
       "description": "Kydigera",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6128,7 +6128,7 @@
       "code": "pg.maladkal",
       "name": "Maladkal",
       "description": "Maladkal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6156,13 +6156,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9742185830"
+      "contactNumber": "8073334580"
     },
     {
       "code": "pg.mundaragi",
       "name": "Mundaragi",
       "description": "Mundaragi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6196,7 +6196,7 @@
       "code": "pg.nganekal",
       "name": "N.Ganekal",
       "description": "N.ganekal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6230,7 +6230,7 @@
       "code": "pg.shavanthgera",
       "name": "Shavanthgera",
       "description": "Shavanthgera",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6264,7 +6264,7 @@
       "code": "pg.wandli",
       "name": "Wandli",
       "description": "Wandli",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6332,7 +6332,7 @@
       "code": "pg.gabbursc",
       "name": "Gabbur HWC",
       "description": "Gabbur SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6360,7 +6360,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8317315457"
+      "contactNumber": "9945213954"
     },
     {
       "code": "pg.ganadala",
@@ -6394,7 +6394,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9611381245"
+      "contactNumber": "8217282636"
     },
     {
       "code": "pg.hbudoor",
@@ -6428,13 +6428,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8431010137"
+      "contactNumber": "9901547509"
     },
     {
       "code": "pg.masarkalsc",
       "name": "Masarkal HWC",
       "description": "Masarkal SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6462,7 +6462,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9036474838"
+      "contactNumber": "7892517605"
     },
     {
       "code": "pg.koppar",
@@ -6496,7 +6496,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6366401989"
+      "contactNumber": "6361438116"
     },
     {
       "code": "pg.ragalaparvi",
@@ -6536,7 +6536,7 @@
       "code": "pg.phcvasatigruhaturvihalone",
       "name": "Vasati Gruha Turvihal 1",
       "description": "Phc Vasati Gruha Turvihal -1",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6564,13 +6564,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8970576846"
+      "contactNumber": "9008919787"
     },
     {
       "code": "pg.phcvasatigruhaturvihaltwo",
       "name": "Vasati Gruha Turvihal 2",
       "description": "Phc Vasati Gruha Turvihal - 2",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6604,7 +6604,7 @@
       "code": "pg.gorebalsindhanur",
       "name": "Gorebal HWC",
       "description": "Gorebal Sindhanur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6638,7 +6638,7 @@
       "code": "pg.hampanal",
       "name": "Hampanal",
       "description": "Hampanal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6672,7 +6672,7 @@
       "code": "pg.hogranal",
       "name": "Hogranal",
       "description": "Hogranal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6706,7 +6706,7 @@
       "code": "pg.hanchnalcamp",
       "name": "Hanchnalcamp",
       "description": "Hanchnalcamp",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6740,7 +6740,7 @@
       "code": "pg.guddadur",
       "name": "Guddadur",
       "description": "Guddadur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6768,13 +6768,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986293124"
+      "contactNumber": "9480840640"
     },
     {
       "code": "pg.ambhamath",
       "name": "Ambhamath",
       "description": "Ambhamath",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6808,7 +6808,7 @@
       "code": "pg.arahalli",
       "name": "Arahalli",
       "description": "Arahalli",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6836,13 +6836,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9353483900"
+      "contactNumber": "7760726108"
     },
     {
       "code": "pg.gunda",
       "name": "Gunda HWC",
       "description": "Gunda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6870,13 +6870,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7022874361"
+      "contactNumber": "8073575378"
     },
     {
       "code": "pg.bhogapur",
       "name": "Bhogapur",
       "description": "Bhogapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6910,7 +6910,7 @@
       "code": "pg.butaladinni",
       "name": "Butaladinni",
       "description": "Butaladinni",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6944,7 +6944,7 @@
       "code": "pg.goreballingasugur",
       "name": "Gorebal PHC",
       "description": "Gorebal Lingasugur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -6972,13 +6972,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110620286"
+      "contactNumber": "9480840647"
     },
     {
       "code": "pg.huda",
       "name": "Huda",
       "description": "Huda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7012,7 +7012,7 @@
       "code": "pg.jalihal",
       "name": "Jalihal",
       "description": "Jalihal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7046,7 +7046,7 @@
       "code": "pg.jalwadgi",
       "name": "Jalwadgi",
       "description": "Jalwadgi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7080,7 +7080,7 @@
       "code": "pg.kalmangi",
       "name": "Kalmangi",
       "description": "Kalmangi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7114,7 +7114,7 @@
       "code": "pg.laxmicamp",
       "name": "Laxmicamp",
       "description": "Laxmicamp",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7148,7 +7148,7 @@
       "code": "pg.madisirwar",
       "name": "Madisirwar",
       "description": "Madisirwar",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7182,7 +7182,7 @@
       "code": "pg.mukunda",
       "name": "Mukunda",
       "description": "Mukunda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7216,7 +7216,7 @@
       "code": "pg.pagadadinni",
       "name": "Pagadadinni",
       "description": "Pagadadinni",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7250,7 +7250,7 @@
       "code": "pg.ramathanal",
       "name": "Ramathanal",
       "description": "Ramathanal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7278,13 +7278,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7411347242"
+      "contactNumber": "9110435937"
     },
     {
       "code": "pg.rawadakunda",
       "name": "Rawadakunda",
       "description": "Rawadakunda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7312,13 +7312,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9916261111"
+      "contactNumber": "9880783496"
     },
     {
       "code": "pg.sidrampur",
       "name": "Sidrampur",
       "description": "Sidrampur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7352,7 +7352,7 @@
       "code": "pg.thidigol",
       "name": "Thidigol",
       "description": "Thidigol",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7386,7 +7386,7 @@
       "code": "pg.umaloti",
       "name": "Umaloti",
       "description": "Umaloti",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7420,7 +7420,7 @@
       "code": "pg.verupapur",
       "name": "Verupapur",
       "description": "Verupapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7454,7 +7454,7 @@
       "code": "pg.hunkunti",
       "name": "Hunkunti",
       "description": "Hunkunti",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7488,7 +7488,7 @@
       "code": "pg.jakaramadu",
       "name": "Jakaramadu",
       "description": "Jakaramadu",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7516,13 +7516,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9739363740"
+      "contactNumber": "7090239885"
     },
     {
       "code": "pg.karadkal",
       "name": "Karadkal",
       "description": "Karadkal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7556,7 +7556,7 @@
       "code": "pg.amdihal",
       "name": "Amdihal",
       "description": "Amdihal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7590,7 +7590,7 @@
       "code": "pg.ankushdoddi",
       "name": "Ankushdoddi",
       "description": "Ankushdoddi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7618,13 +7618,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9880743447"
+      "contactNumber": "9980715507"
     },
     {
       "code": "pg.nagarapur",
       "name": "Nagarapur",
       "description": "Nagarapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7652,13 +7652,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7760169896"
+      "contactNumber": "9148514550"
     },
     {
       "code": "pg.halbhavi",
       "name": "Halbhavi",
       "description": "Halbhavi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7692,7 +7692,7 @@
       "code": "pg.sarjapur",
       "name": "Sarjapur",
       "description": "Sarjapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7720,7 +7720,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7483098915"
+      "contactNumber": "9900506093"
     },
     {
       "code": "pg.nagarahalphc",
@@ -7754,13 +7754,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8971351695"
+      "contactNumber": "9481538121"
     },
     {
       "code": "pg.chitapur",
       "name": "Chitapur",
       "description": "Chitapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7788,13 +7788,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9606565144"
+      "contactNumber": "9845177391"
     },
     {
       "code": "pg.dbhagapur",
       "name": "D Bhagapur",
       "description": "D.bhagapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7828,7 +7828,7 @@
       "code": "pg.dbhupur",
       "name": "D Bhupur",
       "description": "D.bhupur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7862,7 +7862,7 @@
       "code": "pg.echanalsc",
       "name": "Echanal HWC",
       "description": "Echanal SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7924,13 +7924,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6366401946"
+      "contactNumber": "9663236708"
     },
     {
       "code": "pg.gonawatla",
       "name": "Gonawatla",
       "description": "Gonawatla",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7964,7 +7964,7 @@
       "code": "pg.gudihal",
       "name": "Gudihal",
       "description": "Gudihal",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -7992,13 +7992,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886605581"
+      "contactNumber": "9844565709"
     },
     {
       "code": "pg.kasabalingasugurusubcentre",
       "name": "Kasaba Lingasugur",
       "description": "Kasaba Lingasuguru Sub Centre",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8026,13 +8026,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8217293073"
+      "contactNumber": "9591387170"
     },
     {
       "code": "pg.kota",
       "name": "Kota",
       "description": "Kota",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8100,7 +8100,7 @@
       "code": "pg.narakaldinni",
       "name": "Narakaldinni",
       "description": "Narakaldinni",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8162,13 +8162,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9606754300"
+      "contactNumber": "8618467966"
     },
     {
       "code": "pg.mavinbhavi",
       "name": "Mavinbhavi",
       "description": "Mavinbhavi",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8202,7 +8202,7 @@
       "code": "pg.mednapur",
       "name": "Mednapur",
       "description": "Mednapur",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8236,7 +8236,7 @@
       "code": "pg.mudgala",
       "name": "Mudgal A",
       "description": "Mudgal-a",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8270,7 +8270,7 @@
       "code": "pg.mudgalb",
       "name": "Mudgal B",
       "description": "Mudgal-b",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8304,7 +8304,7 @@
       "code": "pg.nagarahalsc",
       "name": "Nagarahal",
       "description": "Nagarahal SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8366,13 +8366,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9972031788"
+      "contactNumber": "9448070639"
     },
     {
       "code": "pg.roudalbanda",
       "name": "Rodalabanda HWC",
       "description": "Roudalbanda",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8400,13 +8400,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6361310012"
+      "contactNumber": "9632496487"
     },
     {
       "code": "pg.sajjalguddasc",
       "name": "Sajjalgudda HWC",
       "description": "Sajjalgudda SC",
-      "centreType": "Sub centre",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "SC",
@@ -8434,7 +8434,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9739406002"
+      "contactNumber": "9480840695"
     },
     {
       "code": "pg.frumudagal",
@@ -8468,13 +8468,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6366401941"
+      "contactNumber": "9480840795"
     },
     {
       "code": "pg.bayyapura",
       "name": "Bayyapura HWC",
       "description": "Bayyapura",
-      "centreType": "PHC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "PHC",
@@ -8502,7 +8502,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9731706432"
+      "contactNumber": "9886491556"
     },
     {
       "code": "pg.echanalphc",
@@ -8536,7 +8536,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8884996550"
+      "contactNumber": "7829561238"
     },
     {
       "code": "pg.lingasugurtalukahospital",
@@ -8570,7 +8570,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986515047"
+      "contactNumber": "9986902135"
     },
     {
       "code": "pg.manvitalukahospital",
@@ -8604,7 +8604,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8431707940"
+      "contactNumber": "9741568789"
     },
     {
       "code": "pg.sindhanurtalukahospital",
@@ -8638,13 +8638,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7760301476"
+      "contactNumber": "9480085856"
     },
     {
       "code": "pg.anwari",
       "name": "Anwari",
       "description": "Anwari",
-      "centreType": "SC",
+      "centreType": "HWC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
       "type": "PHC",
@@ -8678,7 +8678,7 @@
       "code": "pg.bagalkot",
       "name": "Bagalkot",
       "description": "Bagalkot",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8740,7 +8740,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845984445"
+      "contactNumber": "9448729684"
     },
     {
       "code": "pg.kamatagi",
@@ -8774,7 +8774,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980835186"
+      "contactNumber": "9448183316"
     },
     {
       "code": "pg.hiresinganagutti",
@@ -8808,7 +8808,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900837524"
+      "contactNumber": "9482476234"
     },
     {
       "code": "pg.chittaragi",
@@ -8842,7 +8842,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886619547"
+      "contactNumber": "9611342514"
     },
     {
       "code": "pg.kandagall",
@@ -8876,7 +8876,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9731000836"
+      "contactNumber": "9845571896"
     },
     {
       "code": "pg.togunshi",
@@ -8910,7 +8910,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481526511"
+      "contactNumber": "9972059529"
     },
     {
       "code": "pg.halakurki",
@@ -8944,7 +8944,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481729132"
+      "contactNumber": "9632604934"
     },
     {
       "code": "pg.katageri",
@@ -8978,7 +8978,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9742127452"
+      "contactNumber": "8129278840"
     },
     {
       "code": "pg.kulagericross",
@@ -9012,7 +9012,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9113947429"
+      "contactNumber": "9008919636"
     },
     {
       "code": "pg.mustigeri",
@@ -9080,7 +9080,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9000043642"
+      "contactNumber": "9901915731"
     },
     {
       "code": "pg.malali",
@@ -9284,7 +9284,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6360047482"
+      "contactNumber": "9739817896"
     },
     {
       "code": "pg.halagali",
@@ -9386,7 +9386,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9148680538"
+      "contactNumber": "9844974466"
     },
     {
       "code": "pg.shirolmudhol",
@@ -9420,7 +9420,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620804258"
+      "contactNumber": "9535676783"
     },
     {
       "code": "pg.aihole",
@@ -9454,7 +9454,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9035299021"
+      "contactNumber": "8197767926"
     },
     {
       "code": "pg.gudur",
@@ -9556,13 +9556,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9844253015"
+      "contactNumber": "9740754011"
     },
     {
       "code": "pg.centerteradal",
       "name": "Center Teradal",
       "description": "Center Teradal",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -9596,7 +9596,7 @@
       "code": "pg.rabakavi",
       "name": "Rabakavi",
       "description": "Rabakavi",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -9664,7 +9664,7 @@
       "code": "pg.jamakhandi",
       "name": "Jamakhandi",
       "description": "Jamakhandi",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -9726,7 +9726,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9448897146"
+      "contactNumber": "9901228668"
     },
     {
       "code": "pg.gothe",
@@ -9828,7 +9828,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9844253015"
+      "contactNumber": "9008714108"
     },
     {
       "code": "pg.marol",
@@ -9930,7 +9930,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9108953733"
+      "contactNumber": "9731773560"
     },
     {
       "code": "pg.pattadkall",
@@ -10032,7 +10032,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7795779573"
+      "contactNumber": "6361213060"
     },
     {
       "code": "pg.talur",
@@ -10066,7 +10066,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7795779573"
+      "contactNumber": "9980969793"
     },
     {
       "code": "pg.bhagewadi",
@@ -10134,7 +10134,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481567716"
+      "contactNumber": "8370844106"
     },
     {
       "code": "pg.ravihal",
@@ -10168,7 +10168,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9448341483"
+      "contactNumber": "8152975427"
     },
     {
       "code": "pg.orvayi",
@@ -10304,7 +10304,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9901782540"
+      "contactNumber": "8762752593"
     },
     {
       "code": "pg.sangankalu",
@@ -10406,7 +10406,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7411192999"
+      "contactNumber": "9591862045"
     },
     {
       "code": "pg.sindavala",
@@ -10440,7 +10440,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845843895"
+      "contactNumber": "6362627972"
     },
     {
       "code": "pg.yaragudi",
@@ -10542,7 +10542,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9164164544"
+      "contactNumber": "9663934492"
     },
     {
       "code": "pg.devasamudra",
@@ -10576,7 +10576,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "973339893"
+      "contactNumber": "9743339893"
     },
     {
       "code": "pg.kuruvalli",
@@ -10610,7 +10610,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9164797702"
+      "contactNumber": "9380111756"
     },
     {
       "code": "pg.bandri",
@@ -10644,7 +10644,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9482994354"
+      "contactNumber": "7353920464"
     },
     {
       "code": "pg.vittalapur",
@@ -10780,7 +10780,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686817978"
+      "contactNumber": "9844511008"
     },
     {
       "code": "pg.madlur",
@@ -10814,7 +10814,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686817978"
+      "contactNumber": "8123361434"
     },
     {
       "code": "pg.inchal",
@@ -10848,7 +10848,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9448842049"
+      "contactNumber": "9535692792"
     },
     {
       "code": "pg.tallur",
@@ -10984,7 +10984,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7795865046"
+      "contactNumber": "9886839855"
     },
     {
       "code": "pg.budanur",
@@ -11018,7 +11018,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9538773051"
+      "contactNumber": "8884136394"
     },
     {
       "code": "pg.chachadi",
@@ -11052,7 +11052,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9343380424"
+      "contactNumber": "9972942534"
     },
     {
       "code": "pg.hosurphc",
@@ -11222,7 +11222,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481741574"
+      "contactNumber": "6361469613"
     },
     {
       "code": "pg.hirekumbi",
@@ -11256,7 +11256,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "98481654266"
+      "contactNumber": "9848165426"
     },
     {
       "code": "pg.inamhongal",
@@ -11358,7 +11358,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9916819001"
+      "contactNumber": "8722402035"
     },
     {
       "code": "pg.budarkatti",
@@ -11494,7 +11494,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686817978"
+      "contactNumber": "9591739572"
     },
     {
       "code": "pg.hulkund",
@@ -11630,7 +11630,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591027250"
+      "contactNumber": "9900483656"
     },
     {
       "code": "pg.katkol",
@@ -11670,7 +11670,7 @@
       "code": "pg.ramnagar",
       "name": "Ram Nagar",
       "description": "Ram Nagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -11698,7 +11698,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9740816310"
+      "contactNumber": "8147686267"
     },
     {
       "code": "pg.vadagov",
@@ -11766,7 +11766,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9442693443"
+      "contactNumber": "9448693443"
     },
     {
       "code": "pg.kadoli",
@@ -11800,7 +11800,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9449488241"
+      "contactNumber": "9591027250"
     },
     {
       "code": "pg.basapur",
@@ -11834,7 +11834,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7795103885"
+      "contactNumber": "8050621156"
     },
     {
       "code": "pg.daddi",
@@ -11868,7 +11868,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8050621156"
+      "contactNumber": "9481323745"
     },
     {
       "code": "pg.sankratti",
@@ -11902,7 +11902,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9742118811"
+      "contactNumber": "8217316550"
     },
     {
       "code": "pg.satti",
@@ -11936,7 +11936,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481403873"
+      "contactNumber": "9738330264"
     },
     {
       "code": "pg.haliyal",
@@ -11970,7 +11970,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8970603978"
+      "contactNumber": "9972708099"
     },
     {
       "code": "pg.pachapur",
@@ -12004,7 +12004,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8050505641"
+      "contactNumber": "9535004495"
     },
     {
       "code": "pg.sulebhavi",
@@ -12038,13 +12038,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9036656368"
+      "contactNumber": "8618466368"
     },
     {
       "code": "pg.chougalewaditilakwadi",
       "name": "Chougalewadi",
       "description": "Chougalewadi/Tilakwadi",
-      "centreType": "PHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -12072,7 +12072,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9741691978"
+      "contactNumber": "9844526381"
     },
     {
       "code": "pg.arjunwada",
@@ -12106,7 +12106,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7975091911"
+      "contactNumber": "8217046060"
     },
     {
       "code": "pg.badakundri",
@@ -12310,7 +12310,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9611916295"
+      "contactNumber": "9945639108"
     },
     {
       "code": "pg.ankalagi",
@@ -12514,7 +12514,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686913646"
+      "contactNumber": "9611409307"
     },
     {
       "code": "pg.ashoknagarkhanapur",
@@ -12786,13 +12786,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6360316597"
+      "contactNumber": "9632041567"
     },
     {
       "code": "pg.rkmininagar",
       "name": "Rukmini Nagar",
       "description": "Rkmini Nagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -12990,7 +12990,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110454195"
+      "contactNumber": "6361853337"
     },
     {
       "code": "pg.hallur",
@@ -13160,7 +13160,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9538216927"
+      "contactNumber": "9480657079"
     },
     {
       "code": "pg.tavag",
@@ -13296,7 +13296,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9741958952"
+      "contactNumber": "8904848507"
     },
     {
       "code": "pg.ukhanapurhukkeri",
@@ -13466,7 +13466,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8123197415"
+      "contactNumber": "8073650280"
     },
     {
       "code": "pg.sadhalaga",
@@ -13534,7 +13534,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620590048"
+      "contactNumber": "6360955420"
     },
     {
       "code": "pg.benadi",
@@ -13602,7 +13602,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9901872681"
+      "contactNumber": "9740640084"
     },
     {
       "code": "pg.mangur",
@@ -13806,7 +13806,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9036666011"
+      "contactNumber": "9900980332"
     },
     {
       "code": "pg.hebbalone",
@@ -14248,7 +14248,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7406472935"
+      "contactNumber": "6366401155"
     },
     {
       "code": "pg.byakud",
@@ -14316,7 +14316,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7259217223"
+      "contactNumber": "8722865473"
     },
     {
       "code": "pg.madhabhavi",
@@ -14418,7 +14418,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6363528086"
+      "contactNumber": "9448555165"
     },
     {
       "code": "pg.thelsanga",
@@ -14452,7 +14452,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986749678"
+      "contactNumber": "9008769804"
     },
     {
       "code": "pg.ainapurathani",
@@ -14588,7 +14588,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9019778879"
+      "contactNumber": "9980880632"
     },
     {
       "code": "pg.changlera",
@@ -14656,7 +14656,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8217558818"
+      "contactNumber": "7892144840"
     },
     {
       "code": "pg.hudgi",
@@ -14724,7 +14724,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7829132505"
+      "contactNumber": "8088234589"
     },
     {
       "code": "pg.kodambal",
@@ -14860,7 +14860,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980918790"
+      "contactNumber": "9036561141"
     },
     {
       "code": "pg.hallikhedk",
@@ -15030,7 +15030,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8150941055"
+      "contactNumber": "9916734880"
     },
     {
       "code": "pg.manthal",
@@ -15370,7 +15370,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9483974570"
+      "contactNumber": "9035345319"
     },
     {
       "code": "pg.beeri",
@@ -15506,7 +15506,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8549060234"
+      "contactNumber": "7204124073"
     },
     {
       "code": "pg.bhatambra",
@@ -15540,7 +15540,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9449138959"
+      "contactNumber": "9591091211"
     },
     {
       "code": "pg.ujalamba",
@@ -16050,7 +16050,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900627478"
+      "contactNumber": "8971184768"
     },
     {
       "code": "pg.kasavarahatti",
@@ -16322,7 +16322,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7899663911"
+      "contactNumber": "7022223293"
     },
     {
       "code": "pg.gulilalu",
@@ -16424,7 +16424,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986625454"
+      "contactNumber": "9663657733"
     },
     {
       "code": "pg.godabanahal",
@@ -16526,7 +16526,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "88892911423"
+      "contactNumber": "8892911423"
     },
     {
       "code": "pg.rangenahalli",
@@ -16730,7 +16730,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7829321272"
+      "contactNumber": "9008856264"
     },
     {
       "code": "pg.khandenahalli",
@@ -16764,7 +16764,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686852897"
+      "contactNumber": "7829321272"
     },
     {
       "code": "pg.adivala",
@@ -16866,7 +16866,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980046983"
+      "contactNumber": "9916469220"
     },
     {
       "code": "pg.doddachhelluru",
@@ -16900,7 +16900,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9916334443"
+      "contactNumber": "8861470572"
     },
     {
       "code": "pg.goudihalli",
@@ -16934,7 +16934,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9449173102"
+      "contactNumber": "9036616674"
     },
     {
       "code": "pg.gunderi",
@@ -17036,7 +17036,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8660167495"
+      "contactNumber": "7259378116"
     },
     {
       "code": "pg.talya",
@@ -17138,7 +17138,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9483528397"
+      "contactNumber": "8660167495"
     },
     {
       "code": "pg.shivapura",
@@ -17274,7 +17274,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9538780300"
+      "contactNumber": "9740817496"
     },
     {
       "code": "pg.thalikatte",
@@ -17308,7 +17308,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886619547"
+      "contactNumber": "9945688014"
     },
     {
       "code": "pg.ramagiri",
@@ -17342,7 +17342,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620954117"
+      "contactNumber": "7829110197"
     },
     {
       "code": "pg.devigere",
@@ -17478,7 +17478,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980221706"
+      "contactNumber": "8861423042"
     },
     {
       "code": "pg.mallappanahally",
@@ -17512,7 +17512,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "88892911423"
+      "contactNumber": "9731994060"
     },
     {
       "code": "pg.ballalasamudra",
@@ -17580,7 +17580,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9071129569"
+      "contactNumber": "9731349577"
     },
     {
       "code": "pg.chikkobanahalli",
@@ -17614,7 +17614,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8867678023"
+      "contactNumber": "9008864689"
     },
     {
       "code": "pg.kondlahalli",
@@ -17716,7 +17716,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9731349577"
+      "contactNumber": "9611531537"
     },
     {
       "code": "pg.nagasamudra",
@@ -17818,7 +17818,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9743525659"
+      "contactNumber": "9483950566"
     },
     {
       "code": "pg.nelagetanahatti",
@@ -17852,7 +17852,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9731000836"
+      "contactNumber": "8867678023"
     },
     {
       "code": "pg.thalluku",
@@ -17886,7 +17886,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9743525659"
+      "contactNumber": "9483142577"
     },
     {
       "code": "pg.kalamarahalli",
@@ -17920,7 +17920,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9916334443"
+      "contactNumber": "9902599200"
     },
     {
       "code": "pg.siddeswaranadurga",
@@ -18056,7 +18056,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7406069831"
+      "contactNumber": "9916331974"
     },
     {
       "code": "pg.jajur",
@@ -18158,7 +18158,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8660354161"
+      "contactNumber": "7846955633"
     },
     {
       "code": "pg.mathodu",
@@ -18328,7 +18328,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9449318911"
+      "contactNumber": "9845726313"
     },
     {
       "code": "pg.mishrikoti",
@@ -18402,7 +18402,7 @@
       "code": "pg.anandnagar",
       "name": "Anand Nagar",
       "description": "Anand Nagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18436,7 +18436,7 @@
       "code": "pg.ayodhyanagar",
       "name": "Ayodhya Nagar",
       "description": "Ayodhya Nagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18464,13 +18464,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986025486"
+      "contactNumber": "9449738035"
     },
     {
       "code": "pg.heggeri",
       "name": "Heggeri",
       "description": "Heggeri",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18538,7 +18538,7 @@
       "code": "pg.bharalotri",
       "name": "Bharalotri",
       "description": "Bharalotri",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18566,13 +18566,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9738018145"
+      "contactNumber": "9448850918"
     },
     {
       "code": "pg.hdmcmaternityhospital",
       "name": "HDMC Hospital",
       "description": "Hdmc Maternity Hospital",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18600,7 +18600,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481526511"
+      "contactNumber": "9986929175"
     },
     {
       "code": "pg.koliwad",
@@ -18634,7 +18634,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8073390655"
+      "contactNumber": "9980201824"
     },
     {
       "code": "pg.ingalahalli",
@@ -18736,7 +18736,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9449441160"
+      "contactNumber": "8197665139"
     },
     {
       "code": "pg.javoor",
@@ -18810,7 +18810,7 @@
       "code": "pg.doddaker",
       "name": "Doddaker",
       "description": "Doddaker",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18838,13 +18838,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986205486"
+      "contactNumber": "9986025486"
     },
     {
       "code": "pg.gandhiwad",
       "name": "Gandhi Wad",
       "description": "Gandhi Wad",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -18878,7 +18878,7 @@
       "code": "pg.ganeshpethhospital",
       "name": "Ganesh Peth Hospital",
       "description": "Ganesh Peth Hospital",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -19008,7 +19008,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8553506674"
+      "contactNumber": "8746875665"
     },
     {
       "code": "pg.yaraguppi",
@@ -19042,7 +19042,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8762583666"
+      "contactNumber": "6366706886"
     },
     {
       "code": "pg.baradawad",
@@ -19076,7 +19076,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9071199040"
+      "contactNumber": "9980238088"
     },
     {
       "code": "pg.ingalagi",
@@ -19116,7 +19116,7 @@
       "code": "pg.sadarsopa",
       "name": "Sadarsopa",
       "description": "Sadarsopa",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -19150,7 +19150,7 @@
       "code": "pg.purohitnagar",
       "name": "Purohit Nagar",
       "description": "Purohit Nagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -19184,7 +19184,7 @@
       "code": "pg.ramalingeshwarnagar",
       "name": "Ramalingeshwar Nagar",
       "description": "Ramalingeshwar Nagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -19212,7 +19212,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8904885366"
+      "contactNumber": "9901782980"
     },
     {
       "code": "pg.sangmeshwar",
@@ -19246,7 +19246,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9019098245"
+      "contactNumber": "9986847181"
     },
     {
       "code": "pg.saunshi",
@@ -19382,7 +19382,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886187167"
+      "contactNumber": "8310295855"
     },
     {
       "code": "pg.yavagal",
@@ -19450,7 +19450,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9902761369"
+      "contactNumber": "9844464853"
     },
     {
       "code": "pg.belavanki",
@@ -19484,7 +19484,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620500415"
+      "contactNumber": "9164232425"
     },
     {
       "code": "pg.bellatti",
@@ -19552,7 +19552,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481917725"
+      "contactNumber": "9739364501"
     },
     {
       "code": "pg.balehosur",
@@ -19586,7 +19586,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9739239443"
+      "contactNumber": "9742887613"
     },
     {
       "code": "pg.yalavatti",
@@ -19654,7 +19654,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9739239443"
+      "contactNumber": "9620111318"
     },
     {
       "code": "pg.suranagi",
@@ -19960,7 +19960,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8971022153"
+      "contactNumber": "9740391391"
     },
     {
       "code": "pg.shantageri",
@@ -20062,7 +20062,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277513587"
+      "contactNumber": "9980641951"
     },
     {
       "code": "pg.hulakoti",
@@ -20232,7 +20232,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481729132"
+      "contactNumber": "9886115014"
     },
     {
       "code": "pg.jantlishirur",
@@ -20572,7 +20572,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277511586"
+      "contactNumber": "8310835768"
     },
     {
       "code": "pg.karjagi",
@@ -20776,7 +20776,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6361304134"
+      "contactNumber": "8147585782"
     },
     {
       "code": "pg.adur",
@@ -20844,7 +20844,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9113009601"
+      "contactNumber": "8095899282"
     },
     {
       "code": "pg.baichavalli",
@@ -20912,7 +20912,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8618037647"
+      "contactNumber": "8050423550"
     },
     {
       "code": "pg.hirebhendigeri",
@@ -21082,7 +21082,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7411190385"
+      "contactNumber": "9108646604"
     },
     {
       "code": "pg.kalasur",
@@ -21116,7 +21116,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7899999949"
+      "contactNumber": "8310338190"
     },
     {
       "code": "pg.hosaritti",
@@ -21184,7 +21184,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110665565"
+      "contactNumber": "6362506941"
     },
     {
       "code": "pg.havanur",
@@ -21218,7 +21218,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9663330094"
+      "contactNumber": "7829251738"
     },
     {
       "code": "pg.shirgoda",
@@ -21252,7 +21252,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8141463209"
+      "contactNumber": "8147463209"
     },
     {
       "code": "pg.chikkanshihosur",
@@ -21286,7 +21286,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8147463209"
+      "contactNumber": "7026232897"
     },
     {
       "code": "pg.shadaguppi",
@@ -21320,7 +21320,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6366137334"
+      "contactNumber": "8951262451"
     },
     {
       "code": "pg.sheshagiri",
@@ -21422,7 +21422,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8073785681"
+      "contactNumber": "7875994384"
     },
     {
       "code": "pg.itagiranebennur",
@@ -21490,7 +21490,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686342525"
+      "contactNumber": "8660156318"
     },
     {
       "code": "pg.makanur",
@@ -21728,7 +21728,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110626044"
+      "contactNumber": "9591833468"
     },
     {
       "code": "pg.hansbhavi",
@@ -22068,7 +22068,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7019742813"
+      "contactNumber": "9900183511"
     },
     {
       "code": "pg.aladagere",
@@ -22102,7 +22102,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886131305"
+      "contactNumber": "9916171882"
     },
     {
       "code": "pg.kadur",
@@ -22136,7 +22136,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7349337674"
+      "contactNumber": "9886427432"
     },
     {
       "code": "pg.aremallapur",
@@ -22170,7 +22170,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9742913811"
+      "contactNumber": "9482961697"
     },
     {
       "code": "pg.haranagiri",
@@ -22204,7 +22204,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9972826508"
+      "contactNumber": "9845826847"
     },
     {
       "code": "pg.devaragudda",
@@ -22272,7 +22272,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900803843"
+      "contactNumber": "8660228134"
     },
     {
       "code": "pg.naregal",
@@ -22544,7 +22544,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9008447528"
+      "contactNumber": "8050502038"
     },
     {
       "code": "pg.dundashi",
@@ -22612,7 +22612,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7975873170"
+      "contactNumber": "9902808435"
     },
     {
       "code": "pg.awradb",
@@ -22748,7 +22748,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591700210"
+      "contactNumber": "7760647388"
     },
     {
       "code": "pg.sonth",
@@ -22816,7 +22816,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686843383"
+      "contactNumber": "9538430160"
     },
     {
       "code": "pg.shriinivasasaradagi",
@@ -23190,7 +23190,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591391670"
+      "contactNumber": "9380777930"
     },
     {
       "code": "pg.kolkunda",
@@ -23326,7 +23326,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8660306545"
+      "contactNumber": "9886112546"
     },
     {
       "code": "pg.salebeeranalli",
@@ -23428,7 +23428,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6361955044"
+      "contactNumber": "7975110180"
     },
     {
       "code": "pg.rudanor",
@@ -23462,7 +23462,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9740479500"
+      "contactNumber": "9980405640"
     },
     {
       "code": "pg.miriyana",
@@ -23530,7 +23530,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9535775772"
+      "contactNumber": "9740479500"
     },
     {
       "code": "pg.mogha",
@@ -23972,7 +23972,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7016830470"
+      "contactNumber": "9916659385"
     },
     {
       "code": "pg.nalwar",
@@ -24006,7 +24006,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9483452333"
+      "contactNumber": "9483212266"
     },
     {
       "code": "pg.rawor",
@@ -24040,7 +24040,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9535861949"
+      "contactNumber": "8971950803"
     },
     {
       "code": "pg.naribol",
@@ -24176,7 +24176,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9108740052"
+      "contactNumber": "8123533743"
     },
     {
       "code": "pg.ijeri",
@@ -24244,7 +24244,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9880097850"
+      "contactNumber": "8861119062"
     },
     {
       "code": "pg.jeretagi",
@@ -24312,7 +24312,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8861119062"
+      "contactNumber": "7760840743"
     },
     {
       "code": "pg.aralagundagi",
@@ -24482,7 +24482,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7760077770"
+      "contactNumber": "9108740052"
     },
     {
       "code": "pg.badadal",
@@ -24550,7 +24550,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980140173"
+      "contactNumber": "7760675585"
     },
     {
       "code": "pg.revoor",
@@ -24584,7 +24584,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980140173"
+      "contactNumber": "9741097388"
     },
     {
       "code": "pg.desaikallur",
@@ -24618,7 +24618,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7760077770"
+      "contactNumber": "7829132505"
     },
     {
       "code": "pg.karajagi",
@@ -24720,7 +24720,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7760077770"
+      "contactNumber": "9611222563"
     },
     {
       "code": "pg.mannur",
@@ -24822,7 +24822,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9741536232"
+      "contactNumber": "9900508999"
     },
     {
       "code": "pg.golab",
@@ -24992,7 +24992,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845812358"
+      "contactNumber": "8105815086"
     },
     {
       "code": "pg.padasawalgi",
@@ -25026,7 +25026,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845812358"
+      "contactNumber": "7019205078"
     },
     {
       "code": "pg.hirolli",
@@ -25060,7 +25060,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845812358"
+      "contactNumber": "9945638907"
     },
     {
       "code": "pg.vksalagar",
@@ -25298,7 +25298,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900803843"
+      "contactNumber": "9449506204"
     },
     {
       "code": "pg.talakal",
@@ -25434,7 +25434,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9110454195"
+      "contactNumber": "9741115787"
     },
     {
       "code": "pg.bhagyanagara",
@@ -25536,7 +25536,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9741115787"
+      "contactNumber": "9972843551"
     },
     {
       "code": "pg.benakal",
@@ -25570,7 +25570,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591547488"
+      "contactNumber": "9900185406"
     },
     {
       "code": "pg.shirurkukanur",
@@ -25638,7 +25638,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277498523"
+      "contactNumber": "9513889656"
     },
     {
       "code": "pg.hulagi",
@@ -25706,7 +25706,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277498523"
+      "contactNumber": "9916609591"
     },
     {
       "code": "pg.sanganal",
@@ -25944,7 +25944,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8861875858"
+      "contactNumber": "8861943393"
     },
     {
       "code": "pg.hirebommanal",
@@ -25978,7 +25978,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9741717172"
+      "contactNumber": "9538749527"
     },
     {
       "code": "pg.gunnal",
@@ -26046,7 +26046,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845299495"
+      "contactNumber": "6360686408"
     },
     {
       "code": "pg.bennurkaratagi",
@@ -26114,7 +26114,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845299425"
+      "contactNumber": "9113995133"
     },
     {
       "code": "pg.muslapur",
@@ -26182,7 +26182,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845299425"
+      "contactNumber": "9845299495"
     },
     {
       "code": "pg.musturphc",
@@ -26386,7 +26386,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8660518239"
+      "contactNumber": "9663659426"
     },
     {
       "code": "pg.chalagera",
@@ -26420,7 +26420,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277498545"
+      "contactNumber": "9986096991"
     },
     {
       "code": "pg.hosakeradaggi",
@@ -26760,7 +26760,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277506124"
+      "contactNumber": "8277506199"
     },
     {
       "code": "pg.angadi",
@@ -26794,7 +26794,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277506117"
+      "contactNumber": "9008350812"
     },
     {
       "code": "pg.gersoppa",
@@ -26828,7 +26828,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7483612134"
+      "contactNumber": "7019810970"
     },
     {
       "code": "pg.hosad",
@@ -26998,7 +26998,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8660488909"
+      "contactNumber": "9113027237"
     },
     {
       "code": "pg.devalmakki",
@@ -27032,7 +27032,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9008350812"
+      "contactNumber": "9686428217"
     },
     {
       "code": "pg.siddar",
@@ -27072,7 +27072,7 @@
       "code": "pg.karwar",
       "name": "Karwar",
       "description": "Karwar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -27270,7 +27270,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686760116"
+      "contactNumber": "9741646301"
     },
     {
       "code": "pg.samsi",
@@ -27406,7 +27406,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9481463679"
+      "contactNumber": "9972037213"
     },
     {
       "code": "pg.santeguli",
@@ -27508,7 +27508,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8971081966"
+      "contactNumber": "9019523457"
     },
     {
       "code": "pg.hattikeri",
@@ -27848,7 +27848,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9900340093"
+      "contactNumber": "9535607920"
     },
     {
       "code": "pg.halaga",
@@ -27916,7 +27916,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7892206966"
+      "contactNumber": "9740527247"
     },
     {
       "code": "pg.belse",
@@ -27984,7 +27984,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277506126"
+      "contactNumber": "9449394822"
     },
     {
       "code": "pg.hankon",
@@ -28126,7 +28126,7 @@
       "code": "pg.dandeli",
       "name": "Dandeli",
       "description": "Dandeli",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -28256,7 +28256,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9880713855"
+      "contactNumber": "7353008950"
     },
     {
       "code": "pg.dasanakoppa",
@@ -28426,7 +28426,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9482088357"
+      "contactNumber": "8660958254"
     },
     {
       "code": "pg.kakkalli",
@@ -28460,7 +28460,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7353545352"
+      "contactNumber": "9964042678"
     },
     {
       "code": "pg.mensi",
@@ -28494,7 +28494,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9008704581"
+      "contactNumber": "9481459130"
     },
     {
       "code": "pg.hulekal",
@@ -28732,7 +28732,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8095431191"
+      "contactNumber": "9481009678"
     },
     {
       "code": "pg.kiravatti",
@@ -28766,7 +28766,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7338212580"
+      "contactNumber": "9483320133"
     },
     {
       "code": "pg.kyadagi",
@@ -28800,7 +28800,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9483320133"
+      "contactNumber": "9980832664"
     },
     {
       "code": "pg.hegadekatte",
@@ -28834,7 +28834,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7975406081"
+      "contactNumber": "8277506140"
     },
     {
       "code": "pg.korlakai",
@@ -28868,7 +28868,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277506140"
+      "contactNumber": "8277506389"
     },
     {
       "code": "pg.kolsirsi",
@@ -28902,7 +28902,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8277506140"
+      "contactNumber": "9945731994"
     },
     {
       "code": "pg.herur",
@@ -28936,7 +28936,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9945731994"
+      "contactNumber": "9620358202"
     },
     {
       "code": "pg.kansur",
@@ -29004,7 +29004,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9449622652"
+      "contactNumber": "6361644503"
     },
     {
       "code": "pg.nagatibasapura",
@@ -29310,7 +29310,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9739868612"
+      "contactNumber": "8050833984"
     },
     {
       "code": "pg.magimavinahalli",
@@ -29412,7 +29412,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8310169690"
+      "contactNumber": "8971267400"
     },
     {
       "code": "pg.bachigondanhalli",
@@ -29582,7 +29582,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886614745"
+      "contactNumber": "9739868612"
     },
     {
       "code": "pg.alabur",
@@ -29616,7 +29616,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8970626416"
+      "contactNumber": "9886614745"
     },
     {
       "code": "pg.moregere",
@@ -29650,7 +29650,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9739868612"
+      "contactNumber": "7406002327"
     },
     {
       "code": "pg.hakkandi",
@@ -29752,7 +29752,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "6363164237"
+      "contactNumber": "9901155185"
     },
     {
       "code": "pg.thimmalapura",
@@ -29922,7 +29922,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8618769246"
+      "contactNumber": "8197123675"
     },
     {
       "code": "pg.hosahalli",
@@ -29990,7 +29990,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9844324489"
+      "contactNumber": "9886033551"
     },
     {
       "code": "pg.harakanalu",
@@ -30024,7 +30024,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8105560004"
+      "contactNumber": "7760130463"
     },
     {
       "code": "pg.kanchikere",
@@ -30126,7 +30126,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8105560004"
+      "contactNumber": "9449761348"
     },
     {
       "code": "pg.mathihalli",
@@ -30194,7 +30194,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9964621988"
+      "contactNumber": "9535363035"
     },
     {
       "code": "pg.punabagatta",
@@ -30262,7 +30262,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7847885994"
+      "contactNumber": "9538198953"
     },
     {
       "code": "pg.alagilavada",
@@ -30364,13 +30364,13 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9844324489"
+      "contactNumber": "9901941252"
     },
     {
       "code": "pg.darga",
       "name": "Darga",
       "description": "Darga",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -30404,7 +30404,7 @@
       "code": "pg.shantinagar",
       "name": "Shantinagar",
       "description": "Shantinagar",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -30438,7 +30438,7 @@
       "code": "pg.umaraj",
       "name": "Umaraj",
       "description": "Umaraj",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -30466,7 +30466,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9740899176"
+      "contactNumber": "9632950516"
     },
     {
       "code": "pg.honaganhalli",
@@ -30500,7 +30500,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620590048"
+      "contactNumber": "9902814335"
     },
     {
       "code": "pg.ronihal",
@@ -30840,7 +30840,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9901768628"
+      "contactNumber": "9611464434"
     },
     {
       "code": "pg.bantanur",
@@ -30874,7 +30874,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7349226032"
+      "contactNumber": "9916805555"
     },
     {
       "code": "pg.kariganur",
@@ -31078,7 +31078,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8217572224"
+      "contactNumber": "8660755475"
     },
     {
       "code": "pg.korawardr",
@@ -31282,7 +31282,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9686817978"
+      "contactNumber": "9632623745"
     },
     {
       "code": "pg.jainapurvijayapura",
@@ -31424,7 +31424,7 @@
       "code": "pg.yogapur",
       "name": "Yogapur",
       "description": "Yogapur",
-      "centreType": "UHC",
+      "centreType": "UPHC",
       "pincode": null,
       "imageId": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -31520,7 +31520,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9448154481"
+      "contactNumber": "7892159121"
     },
     {
       "code": "pg.tamba",
@@ -31690,7 +31690,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9986504432"
+      "contactNumber": "9353620375"
     },
     {
       "code": "pg.chikbevanur",
@@ -31860,7 +31860,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8296209728"
+      "contactNumber": "8147374263"
     },
     {
       "code": "pg.zalaki",
@@ -31928,7 +31928,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8073224201"
+      "contactNumber": "8073244204"
     },
     {
       "code": "pg.yankanchi",
@@ -31996,7 +31996,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9945499198"
+      "contactNumber": "9964255739"
     },
     {
       "code": "pg.horti",
@@ -32132,7 +32132,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9448805543"
+      "contactNumber": "9880546787"
     },
     {
       "code": "pg.gogi",
@@ -32404,7 +32404,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9845049678"
+      "contactNumber": "7349610988"
     },
     {
       "code": "pg.kurkunda",
@@ -32472,7 +32472,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7019205078"
+      "contactNumber": "8884983325"
     },
     {
       "code": "pg.naganur",
@@ -32540,7 +32540,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9901912672"
+      "contactNumber": "962033873"
     },
     {
       "code": "pg.guttibasaveshwar",
@@ -32574,7 +32574,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "7019285549"
+      "contactNumber": "9632112220"
     },
     {
       "code": "pg.devargonal",
@@ -32642,7 +32642,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9902563207"
+      "contactNumber": "9845458684"
     },
     {
       "code": "pg.hasanapura",
@@ -32676,7 +32676,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9620333873"
+      "contactNumber": "8904020269"
     },
     {
       "code": "pg.hemanoor",
@@ -32948,7 +32948,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886507259"
+      "contactNumber": "9591484903"
     },
     {
       "code": "pg.kandakur",
@@ -32982,7 +32982,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8560471355"
+      "contactNumber": "7483857901"
     },
     {
       "code": "pg.gajarkot",
@@ -33016,7 +33016,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886278559"
+      "contactNumber": "8880888255"
     },
     {
       "code": "pg.kotagera",
@@ -33050,7 +33050,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8880888255"
+      "contactNumber": "8310551442"
     },
     {
       "code": "pg.pethammapur",
@@ -33118,7 +33118,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8880888255"
+      "contactNumber": "7406008841"
     },
     {
       "code": "pg.yaragola",

@@ -1,0 +1,41 @@
+{
+  "tenantId": "mh",
+  "moduleName": "Incident",
+  "District": [
+    {
+      "code": "CHANDRAPUR",
+      "name": "Chandrapur",
+      "active": true
+    },
+    {
+      "code": "GADCHIROLI",
+      "name": "Gadchiroli",
+      "active": true
+    },
+    {
+      "code": "LATUR",
+      "name": "Latur",
+      "active": true
+    },
+    {
+      "code": "NAGPUR",
+      "name": "Nagpur",
+      "active": true
+    },
+    {
+      "code": "NASIK",
+      "name": "Nasik",
+      "active": true
+    },
+    {
+      "code": "RAIGHAD",
+      "name": "Raighad",
+      "active": true
+    },
+    {
+      "code": "WARDHA",
+      "name": "Wardha",
+      "active": true
+    }
+  ]
+}

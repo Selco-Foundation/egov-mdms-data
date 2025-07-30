@@ -2976,7 +2976,7 @@
       "slaHours": 264,
       "department": "O&M",
       "deprecated": true,
-      "serviceCode": "OthertFan"
+      "serviceCode": "OtherFans"
     },
     {
       "id": 332,
@@ -3121,6 +3121,18 @@
       "department": "O&M",
       "deprecated": false,
       "serviceCode": "BurnedPump"
+    },
+    {
+      "id": 394,
+      "name": "Not Working",
+      "active": true,
+      "keywords": "Not Working, Solar Water Pump",
+      "menuPath": "SOLAR WATER PUMP",
+      "priority": "High",
+      "slaHours": 264,
+      "department": "O&M",
+      "deprecated": false,
+      "serviceCode": "NotWorking"
     }
   ]
 }

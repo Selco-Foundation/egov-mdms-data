@@ -8,10 +8,28 @@
       "business": "FACILITY_INSTALLATION",
       "states": [
         {
-          "state": "SCHEDULED",
+          "state": null,
           "applicationStatus": null,
           "docUploadRequired": false,
           "isStartState": true,
+          "isTerminateState": false,
+          "isStateUpdatable": false,
+          "actions": [
+            {
+              "action": "SCHEDULED",
+              "nextState": "SCHEDULED",
+              "roles": [
+                "INSTALLATION_REPORT_PART_A_EDITOR",
+                "INSTALLATION_REPORT_PART_B_EDITOR"
+              ]
+            }
+          ]
+        },
+        {
+          "state": "SCHEDULED",
+          "applicationStatus": null,
+          "docUploadRequired": false,
+          "isStartState": false,
           "isTerminateState": false,
           "isStateUpdatable": false,
           "actions": [
@@ -73,7 +91,7 @@
             {
               "action": "SUBMIT_REPORT_B",
               "nextState": "SUBMITTED_BY_SUPERVISOR",
-              "roles": ["INSTALLATION_REPORT_PART_A_EDITOR"]
+              "roles": ["INSTALLATION_REPORT_PART_B_EDITOR"]
             }
           ]
         },

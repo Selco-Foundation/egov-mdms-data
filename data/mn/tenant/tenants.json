@@ -8535,6 +8535,40 @@
       },
       "address": "Nagaland",
       "contactNumber": "7629054341"
+    },
+    {
+      "code": "mn.tousem",
+      "name": "Tousem",
+      "description": "Tousem",
+      "centreType": "PHC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "PHC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Tousem",
+        "localName": null,
+        "districtCode": "TAMENGLONG",
+        "districtName": "Tamenglong",
+        "blockCode": "tamenglong.tousem",
+        "districtTenantCode": "mn.tousem",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MN-3142132228",
+        "ddrName": null
+      },
+      "address": "Nagaland",
+      "contactNumber": "8730933343"
     }
   ]
 }

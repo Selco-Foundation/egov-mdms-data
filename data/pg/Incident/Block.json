@@ -327,24 +327,6 @@
       "active": true
     },
     {
-      "code": "kalaburgi.aland",
-      "name": "Aland",
-      "districtCode": "KALABURGI",
-      "active": true
-    },
-    {
-      "code": "kalaburgi.chittapur",
-      "name": "Chittapur",
-      "districtCode": "KALABURGI",
-      "active": true
-    },
-    {
-      "code": "kalaburgi.jewargi",
-      "name": "Jewargi",
-      "districtCode": "KALABURGI",
-      "active": true
-    },
-    {
       "code": "kodagu.somwarpet",
       "name": "Somwarpet",
       "districtCode": "KODAGU",

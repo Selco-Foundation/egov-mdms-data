@@ -144,31 +144,6 @@
           "isStateUpdatable": false,
           "actions": [
             {
-              "action": "REJECT_AND_ASSIGN_FOR_FIELD_QC",
-              "nextState": "REJECTED_BY_QC_SPOC",
-              "roles": ["INSTALLATION_REPORT_APPROVER_QC_TEAM"]
-            },
-            {
-              "action": "APPROVE",
-              "nextState": "APPROVED_BY_QC_SPOC",
-              "roles": ["INSTALLATION_REPORT_APPROVER_QC_TEAM"]
-            },
-            {
-              "action": "FLAG_FOR_QC",
-              "nextState": "PENDING_APPROVAL_FLAGGED_FOR_QC",
-              "roles": ["INSTALLATION_REPORT_APPROVER_QC_TEAM"]
-            }
-          ]
-        },
-        {
-          "state": "PENDING_APPROVAL_FLAGGED_FOR_QC",
-          "applicationStatus": "FLAGGED_FOR_QC",
-          "docUploadRequired": false,
-          "isStartState": false,
-          "isTerminateState": false,
-          "isStateUpdatable": false,
-          "actions": [
-            {
               "action": "REMOVE_FLAG",
               "nextState": "SUBMITTED_BY_SUPERVISOR",
               "roles": ["INSTALLATION_REPORT_APPROVER_QC_TEAM"]

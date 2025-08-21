@@ -61,6 +61,21 @@
           "path": "Data.incident.incidentId, Data.incident.district, Data.incident.reporter.userName",
           "isMandatory": false,
           "operator": "MULTI_MATCH"
+        },
+        {
+          "name": "district",
+          "path": "Data.incident.district.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "block",
+          "path": "Data.incident.block.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "systemFunctional",
+          "path": "Data.incident.systemFunctional.keyword",
+          "isMandatory": false
         }
       ],
       "sortBy": {

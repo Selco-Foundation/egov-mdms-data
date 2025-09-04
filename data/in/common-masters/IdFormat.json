@@ -1,0 +1,42 @@
+{
+    "tenantId": "in",
+    "moduleName": "common-masters",
+    "IdFormat": [
+        {
+            "format": "PROJ/[cy:yyyy]/[SEQ_PROJECT_ID]",
+            "idname": "project.number"
+        },
+        {
+            "format": "PROJFACILITY/[cy:yyyy]/[SEQ_PROJECT_ID]",
+            "idname": "project.facility.id"
+        },
+        {
+            "format": "PROJSTAFF/[cy:yyyy]/[SEQ_PROJECTSTAFF_ID]",
+            "idname": "project.staff.id"
+        },
+        {
+            "format": "IN-[SEQ_EGOV_COMMON_[TENANT_ID]]",
+            "idname": "org.code"
+        },
+        {
+            "format": "DOCUMENT-[SEQ_DOCUMENT_ID]",
+            "idname": "documentId"
+        },
+        {
+            "format": "ASSET-[SEQ_ASSET_ID]",
+            "idname": "assetId"
+        },
+        {
+            "format": "FAC/[cy:yyyy]/[SEQ_FAC_ID]",
+            "idname": "facility.id"
+        },
+        {
+            "format": "SR/ORG/[cy:dd-MM-yyyy]/[SEQ_ORG_APP_NUM]",
+            "idname": "org.application.number"
+        },
+        {
+            "format": "SR/FUNC/[cy:dd-MM-yyyy]/[SEQ_FUNC_APP_NUM]",
+            "idname": "function.application.number"
+        }
+    ]
+}

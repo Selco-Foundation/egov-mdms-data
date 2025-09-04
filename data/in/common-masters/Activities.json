@@ -1,0 +1,26 @@
+{
+  "tenantId": "in",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "code": "MT",
+      "name": "Maintenance",
+      "active": true
+    },
+    {
+      "code": "HO",
+      "name": "Handover",
+      "active": true
+    },
+    {
+      "code": "QC",
+      "name": "QC",
+      "active": true
+    },
+    {
+      "code": "INS",
+      "name": "Installation",
+      "active": true
+    }
+  ]
+}

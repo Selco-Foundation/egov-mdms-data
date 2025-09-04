@@ -1,0 +1,40 @@
+{
+  "tenantId": "in",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "city": {
+        "code": "KA-RCH-7628347416",
+        "name": "India",
+        "captcha": null,
+        "ddrName": null,
+        "latitude": null,
+        "ulbGrade": null,
+        "blockCode": "India",
+        "localName": null,
+        "longitude": null,
+        "regionName": null,
+        "districtCode": "India",
+        "districtName": "Hyd ",
+        "shapeFileLocation": null,
+        "districtTenantCode": "in.India"
+      },
+      "code": "in.hyd",
+      "name": "India",
+      "type": "PHC",
+      "logoId": null,
+      "address": "Telangana",
+      "imageId": null,
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "centreType": "PHC",
+      "twitterUrl": null,
+      "description": "India",
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "contactNumber": "8088172614"
+    }
+  ]
+}

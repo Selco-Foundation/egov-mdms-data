@@ -1,0 +1,21 @@
+{
+  "tenantId": "in",
+  "moduleName": "common-masters",
+  "ProjectType": [
+    {
+      "code": "MT",
+      "name": "Med Tech",
+      "active": true
+    },
+    {
+      "code": "CRE",
+      "name": "Climate Resilience Enterprise",
+      "active": true
+    },
+    {
+      "code": "E4H",
+      "name": "Energy 4 Health",
+      "active": true
+    }
+  ]
+}

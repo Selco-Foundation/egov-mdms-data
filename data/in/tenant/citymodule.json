@@ -1,0 +1,18 @@
+{
+  "tenantId": "in",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "code": "QC",
+      "order": 1,
+      "active": true,
+      "module": "QC",
+      "tenants": [
+        {
+          "code": "in"
+        }
+      ],
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png"
+    }
+  ]
+}

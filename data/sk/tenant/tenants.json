@@ -2281,40 +2281,6 @@
       "contactNumber": "7018097316"
     },
     {
-      "code": "sk.naganamgor",
-      "name": "Naga Namgor",
-      "description": "Naga Namgor",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Naga Namgor",
-        "localName": null,
-        "districtCode": "NORTHSIKKIM",
-        "districtName": "North Sikkim",
-        "blockCode": "northsikkim.mangan",
-        "districtTenantCode": "sk.naganamgor",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000085",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "8391900531"
-    },
-    {
       "code": "sk.singhik",
       "name": "Singhik",
       "description": "Singhik",

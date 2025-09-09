@@ -3,6 +3,50 @@
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
     {
+      "id": 4008,
+      "url": "/facility-service/v2/facility/create",
+      "code": "None",
+      "name": "Create facility",
+      "path": "",
+      "enabled": false,
+      "displayName": "Create facility",
+      "orderNumber": 1,
+      "serviceCode": "facility-service"
+    },
+    {
+      "id": 4007,
+      "url": "/template/facilityIngestionTemplateWithData",
+      "code": "None",
+      "name": "Facility template",
+      "path": "",
+      "enabled": false,
+      "displayName": "Facility template",
+      "orderNumber": 1,
+      "serviceCode": "ingestion-service"
+    },
+    {
+      "id": 4006,
+      "url": "/ingest/facilitiesValidateData",
+      "code": "None",
+      "name": "Facility validate",
+      "path": "",
+      "enabled": false,
+      "displayName": "Facility validate",
+      "orderNumber": 1,
+      "serviceCode": "ingestion-service"
+    },
+    {
+      "id": 4005,
+      "url": "/ingest/createFacilityAndUpdateProject",
+      "code": "None",
+      "name": "Facility upload",
+      "path": "",
+      "enabled": false,
+      "displayName": "Facility upload",
+      "orderNumber": 1,
+      "serviceCode": "ingestion-service"
+    },
+    {
       "id": 4004,
       "url": "/ingest/facilities",
       "code": "None",

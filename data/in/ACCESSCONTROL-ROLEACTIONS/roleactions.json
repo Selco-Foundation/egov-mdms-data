@@ -3,6 +3,34 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "id": 1262,
+      "actionid": 4008,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1261,
+      "actionid": 4007,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1260,
+      "actionid": 4006,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1259,
+      "actionid": 4005,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
       "id": 1258,
       "actionid": 4004,
       "rolecode": "PROJECT_MANAGER",

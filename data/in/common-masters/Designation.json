@@ -1,0 +1,12 @@
+{
+  "tenantId": "in",
+  "moduleName": "common-masters",
+  "Designation": [
+    {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "description": "Superintending Engineer ( B&R)",
+      "active": true
+    }
+  ]
+}

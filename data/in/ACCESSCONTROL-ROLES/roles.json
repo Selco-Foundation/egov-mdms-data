@@ -21,6 +21,21 @@
       "code": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
       "name": "Installation Report Approver QC Team",
       "description": "Can approve or reject the final installation report"
+    },
+    {
+      "code": "PROJECT_MANAGER",
+      "name": "Project manager",
+      "description": "Person who is responsible for program rollout in a region"
+    },
+    {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Employee"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "System Administrator. Can change all master data and has access to all the system screens."
     }
   ]
 }

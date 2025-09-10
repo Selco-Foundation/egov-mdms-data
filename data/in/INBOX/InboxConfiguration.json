@@ -1,0 +1,101 @@
+{
+  "tenantId": "in",
+  "moduleName": "INBOX",
+  "InboxQueryConfiguration": [
+    {
+        "index": "project-services",
+        "module": "Project",
+        "sortBy": {
+          "path": "Data.auditDetails.createdTime",
+          "defaultOrder": "ASC"
+        },
+        "sourceFilterPathList": [],
+        "allowedSearchCriteria": [
+          {
+            "name": "boundary",
+            "path": "Data.address.boundary.keyword",
+            "operator": "EQUAL",
+            "isMandatory": false
+          },
+          {
+            "name": "projectSubType",
+            "path": "Data.projectSubType.keyword",
+            "isMandatory": false
+          },
+          {
+            "name": "parent",
+            "path": "Data.parent.keyword",
+            "isMandatory": false
+          },
+          {
+            "name": "id",
+            "path": "Data.id.keyword",
+            "operator": "terms",
+            "isMandatory": false
+          },
+          {
+            "name": "referenceId",
+            "path": "Data.referenceID.keyword",
+            "isMandatory": false
+          },
+          {
+            "name": "name",
+            "path": "Data.name.keyword",
+            "operator": "WILDCARD",
+            "isMandatory": false
+          },
+          {
+            "name": "projectType",
+            "path": "Data.projectType.keyword",
+            "isMandatory": false
+          },
+          {
+            "name": "startDate",
+            "path": "Data.startDate",
+            "operator": "GTE",
+            "isMandatory": false
+          },
+          {
+            "name": "endDate",
+            "path": "Data.endDate",
+            "operator": "LTE",
+            "isMandatory": false
+          },
+          {
+            "name": "lastModifiedTime",
+            "path": "Data.auditDetails.lastModifiedTime",
+            "operator": "GTE",
+            "isMandatory": false
+          },
+          {
+            "name": "createdTime",
+            "path": "Data.auditDetails.createdTime",
+            "operator": "GTE",
+            "isMandatory": false
+          },
+          {
+            "name": "createdTime",
+            "path": "Data.auditDetails.createdTime",
+            "operator": "LTE",
+            "isMandatory": false
+          },
+          {
+            "name": "search",
+            "path": "Data.facility.facility_name",
+            "operator": "MULTI_MATCH",
+            "isMandatory": false
+          },
+          {
+            "name": "district",
+            "path": "Data.address.district.keyword",
+            "isMandatory": false
+          },
+          {
+            "name": "block",
+            "path": "Data.address.block.keyword",
+            "isMandatory": false
+          }
+        ]
+    }
+  ]
+}

@@ -3,32 +3,620 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
-      "role": "INSTALLATION_REPORT_PART_A_EDITOR",
-      "actionid": 9001,
-      "actioncode": "",
+      "id": 1262,
+      "actionid": 4008,
+      "rolecode": "PROJECT_MANAGER",
       "tenantId": "in",
-      "id": 1
+      "actioncode": ""
     },
     {
-      "role": "INSTALLATION_REPORT_PART_A_REVIEWER",
-      "actionid": 9002,
-      "actioncode": "",
+      "id": 1261,
+      "actionid": 4007,
+      "rolecode": "PROJECT_MANAGER",
       "tenantId": "in",
-      "id": 1
+      "actioncode": ""
     },
     {
-      "role": "INSTALLATION_REPORT_PART_B_EDITOR",
-      "actionid": 9003,
-      "actioncode": "",
+      "id": 1260,
+      "actionid": 4006,
+      "rolecode": "PROJECT_MANAGER",
       "tenantId": "in",
-      "id": 1
+      "actioncode": ""
     },
     {
-      "role": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
-      "actionid": 9004,
-      "actioncode": "",
+      "id": 1259,
+      "actionid": 4005,
+      "rolecode": "PROJECT_MANAGER",
       "tenantId": "in",
-      "id": 1
+      "actioncode": ""
+    },
+    {
+      "id": 1258,
+      "actionid": 4004,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1257,
+      "actionid": 4003,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1256,
+      "actionid": 4002,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1255,
+      "actionid": 701,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1254,
+      "actionid": 698,
+      "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1253,
+      "actionid": 698,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+        "id": 1252,
+        "actionid": 4001,
+        "rolecode": "INSTALLATION_REPORT_PART_A_REVIEWER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1251,
+        "actionid": 4000,
+        "rolecode": "INSTALLATION_REPORT_PART_A_REVIEWER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1250,
+        "actionid": 4000,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1249,
+        "actionid": 4001,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1248,
+        "actionid": 4001,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1247,
+        "actionid": 4000,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1246,
+        "actionid": 4000,
+        "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1245,
+        "actionid": 4001,
+        "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1244,
+        "actionid": 4001,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1243,
+        "actionid": 4000,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+      "id": 1238,
+      "actionid": 701,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1235,
+      "actionid": 701,
+      "rolecode": "INSTALLATION_REPORT_PART_A_REVIEWER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1231,
+      "actionid": 2567,
+      "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1230,
+      "actionid": 954,
+      "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1229,
+      "actionid": 870,
+      "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1228,
+      "actionid": 701,
+      "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1227,
+      "actionid": 604,
+      "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1226,
+      "actionid": 604,
+      "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1225,
+      "actionid": 701,
+      "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1224,
+      "actionid": 870,
+      "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1223,
+      "actionid": 954,
+      "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1222,
+      "actionid": 2567,
+      "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1221,
+      "actionid": 2567,
+      "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1220,
+      "actionid": 954,
+      "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1219,
+      "actionid": 870,
+      "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1218,
+      "actionid": 701,
+      "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+      "id": 1217,
+      "actionid": 604,
+      "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+        "id": 1216,
+        "actionid": 2572,
+        "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1215,
+        "actionid": 2572,
+        "rolecode": "INSTALLATION_REPORT_PART_A_REVIEWER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1214,
+        "actionid": 2572,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1213,
+        "actionid": 2572,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+      "id": 1212,
+      "actionid": 2572,
+      "rolecode": "PROJECT_MANAGER",
+      "tenantId": "in",
+      "actioncode": ""
+    },
+    {
+        "id": 1211,
+        "actionid": 2571,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1210,
+        "actionid": 2571,
+        "rolecode": "INSTALLATION_REPORT_PART_A_REVIEWER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1209,
+        "actionid": 2571,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1208,
+        "actionid": 2571,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1207,
+        "actionid": 2571,
+        "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1206,
+        "actionid": 2569,
+        "rolecode": "INSTALLATION_REPORT_APPROVER_QC_TEAM",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1205,
+        "actionid": 2569,
+        "rolecode": "INSTALLATION_REPORT_PART_A_REVIEWER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1204,
+        "actionid": 2565,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1203,
+        "actionid": 2401,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1202,
+        "actionid": 2563,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1201,
+        "actionid": 2562,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1200,
+        "actionid": 2561,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1199,
+        "actionid": 2560,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1198,
+        "actionid": 2559,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1197,
+        "actionid": 1528,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1196,
+        "actionid": 1531,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1195,
+        "actionid": 1734,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1194,
+        "actionid": 2568,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1193,
+        "actionid": 2569,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1192,
+        "actionid": 2570,
+        "rolecode": "INSTALLATION_REPORT_PART_B_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1191,
+        "actionid": 2570,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1190,
+        "actionid": 2569,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1189,
+        "actionid": 2568,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1188,
+        "actionid": 1734,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1187,
+        "actionid": 1531,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1186,
+        "actionid": 1528,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1185,
+        "actionid": 2559,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1184,
+        "actionid": 2560,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1183,
+        "actionid": 2561,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1182,
+        "actionid": 2562,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1181,
+        "actionid": 2563,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1180,
+        "actionid": 2401,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1179,
+        "actionid": 2565,
+        "rolecode": "INSTALLATION_REPORT_PART_A_EDITOR",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1178,
+        "actionid": 2565,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1177,
+        "actionid": 2401,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1176,
+        "actionid": 2563,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1175,
+        "actionid": 2562,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1174,
+        "actionid": 2561,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1173,
+        "actionid": 2560,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1172,
+        "actionid": 2559,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1171,
+        "actionid": 1528,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1170,
+        "actionid": 1531,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1169,
+        "actionid": 1734,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1168,
+        "actionid": 2568,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1167,
+        "actionid": 2569,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
+    },
+    {
+        "id": 1166,
+        "actionid": 2570,
+        "rolecode": "PROJECT_MANAGER",
+        "tenantId": "in",
+        "actioncode": ""
     }
   ]
 }

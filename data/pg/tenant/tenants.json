@@ -2724,13 +2724,13 @@
       "contactNumber": "9964281214"
     },
     {
-      "code": "pg.bayyapurasc",
-      "name": "Bayyapura HWC",
-      "description": "Bayyapura SC",
-      "centreType": "HWC",
+      "code": "pg.bayyapuraphc",
+      "name": "Bayyapura PHC",
+      "description": "Bayyapura PHC",
+      "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
+      "type": "PHC",
       "logoId": null,
       "imageId": null,
       "twitterUrl": null,
@@ -2739,23 +2739,23 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Bayyapura SC",
+        "name": "Bayyapura PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.lingasugur",
-        "districtTenantCode": "pg.bayyapurasc",
+        "districtTenantCode": "pg.bayyapuraphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
         "latitude": null,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "KA-1115246728",
+        "code": "KA-1115246660",
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9886491556"
+      "contactNumber": "9731706432"
     },
     {
       "code": "pg.ameengud",
@@ -15238,7 +15238,7 @@
     },
     {
       "code": "pg.kamthana",
-      "name": "Kamthana",
+      "name": "Kamthana-Bidar",
       "description": "Kamthana",
       "centreType": "PHC",
       "pincode": null,
@@ -17100,7 +17100,7 @@
         "latitude": null,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "KA-7284164469",
+        "code": "KA-8588243165",
         "ddrName": null
       },
       "address": "Karnataka",
@@ -17275,40 +17275,6 @@
       },
       "address": "Karnataka",
       "contactNumber": "9740817496"
-    },
-    {
-      "code": "pg.thalikatte",
-      "name": "Chitrahalli",
-      "description": "Thalikatte",
-      "centreType": "PHC",
-      "pincode": null,
-      "imageId": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "PHC",
-      "logoId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Thalikatte",
-        "localName": null,
-        "districtCode": "CHITRADURGA",
-        "districtName": "Chitradurga",
-        "blockCode": "chitradurga.holalkere",
-        "districtTenantCode": "pg.thalikatte",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "KA-8588243165",
-        "ddrName": null
-      },
-      "address": "Karnataka",
-      "contactNumber": "9945688014"
     },
     {
       "code": "pg.ramagiri",
@@ -23534,7 +23500,7 @@
     },
     {
       "code": "pg.mogha",
-      "name": "Mogha-Chincholi",
+      "name": "Mogha-Chincholi PHC",
       "description": "Mogha-Chincholi",
       "centreType": "PHC",
       "pincode": null,
@@ -53285,40 +53251,6 @@
       "contactNumber": "8310589259"
     },
     {
-      "code": "pg.itagi",
-      "name": "Itagi",
-      "description": "Itagi",
-      "centreType": "SC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Itagi",
-        "localName": null,
-        "districtCode": "GADAG",
-        "districtName": "Gadag",
-        "blockCode": "gadag.ron",
-        "districtTenantCode": "pg.itagi",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "KA-3838327140",
-        "ddrName": null
-      },
-      "address": "Karnataka",
-      "contactNumber": "8861966242"
-    },
-    {
       "code": "pg.jakkali",
       "name": "Jakkali",
       "description": "Jakkali",
@@ -56244,7 +56176,7 @@
     },
     {
       "code": "pg.kanakapur",
-      "name": "Kanakapur",
+      "name": "Kanakapur-Chincholi",
       "description": "Kanakapur",
       "centreType": "SC",
       "pincode": null,
@@ -57196,7 +57128,7 @@
     },
     {
       "code": "pg.moghachincholi",
-      "name": "Mogha-Chincholi",
+      "name": "Mogha-Chincholi SC",
       "description": "Mogha-Chincholi",
       "centreType": "SC",
       "pincode": null,

@@ -37,40 +37,6 @@
       "contactNumber": "0111-1111111"
     },
     {
-      "code": "sk.sakyongpentong",
-      "name": "Sakyong Pentong",
-      "description": "Sakyong Pentong",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Sakyong Pentong",
-        "localName": null,
-        "districtCode": "MANGAN",
-        "districtName": "Mangan",
-        "blockCode": "mangan.passingdong",
-        "districtTenantCode": "sk.sakyongpentong",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000097",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "8710036011"
-    },
-    {
       "code": "sk.mellidaraphc",
       "name": "Melli Dara PHC",
       "description": "Melli Dara PHC",
@@ -2927,40 +2893,6 @@
       "contactNumber": "8167328990"
     },
     {
-      "code": "sk.gnathang",
-      "name": "Gnathang",
-      "description": "Gnathang",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Gnathang",
-        "localName": null,
-        "districtCode": "PAKYONG",
-        "districtName": "Pakyong",
-        "blockCode": "pakyong.rongli",
-        "districtTenantCode": "sk.gnathang",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000203",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "8967399572"
-    },
-    {
       "code": "sk.northregu",
       "name": "North Regu",
       "description": "North Regu",
@@ -4729,40 +4661,6 @@
       "contactNumber": "8145274136"
     },
     {
-      "code": "sk.karmatarfarek",
-      "name": "Karmatar Farek",
-      "description": "Karmatar Farek",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Karmatar Farek",
-        "localName": null,
-        "districtCode": "GYALSHING",
-        "districtName": "Gyalshing",
-        "blockCode": "gyalshing.dentam",
-        "districtTenantCode": "sk.karmatarfarek",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000016",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "9733042373"
-    },
-    {
       "code": "sk.rorathang",
       "name": "Rorathang",
       "description": "Rorathang",
@@ -5169,40 +5067,6 @@
       },
       "address": "Sikkim",
       "contactNumber": "9593608874"
-    },
-    {
-      "code": "sk.phadamchen",
-      "name": "Phadamchen",
-      "description": "Phadamchen",
-      "centreType": "HWC",
-      "pincode": null,
-      "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "HWC",
-      "logoId": null,
-      "imageId": null,
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Phadamchen",
-        "localName": null,
-        "districtCode": "PAKYONG",
-        "districtName": "Pakyong",
-        "blockCode": "pakyong.rongli",
-        "districtTenantCode": "sk.phadamchen",
-        "regionName": null,
-        "ulbGrade": null,
-        "longitude": null,
-        "latitude": null,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "SK-IN1110000215",
-        "ddrName": null
-      },
-      "address": "Sikkim",
-      "contactNumber": "7586081740"
     },
     {
       "code": "sk.dangeythang",

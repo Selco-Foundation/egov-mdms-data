@@ -96,6 +96,11 @@
       "code": "COMPLAINT_FACILITATOR_2",
       "name": "Complaint facilitator 2",
       "description": "Person responsible to facilitate the complaint at level two"
+    },
+    {
+      "code": "STATE_POC",
+      "name": "State POC",
+      "description": "State Point of Contact for escalation management"
     }
   ]
 }

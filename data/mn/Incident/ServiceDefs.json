@@ -3121,6 +3121,150 @@
       "department": "O&M",
       "deprecated": false,
       "serviceCode": "BurnedPump"
-    }
+    },
+    {
+    "id": 401,
+    "name": "Error code on display",
+    "active": true,
+    "keywords": "error, display",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "Errorcodeondisplay"
+  },
+  {
+    "id": 402,
+    "name": "Error Light Indicators (Red & Orange)",
+    "active": true,
+    "keywords": "error, light, indicators",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "ErrorLightIndicatorsRedOrange"
+  },
+  {
+    "id": 403,
+    "name": "Display broken",
+    "active": true,
+    "keywords": "display, broken",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "Displaybroken"
+  },
+  {
+    "id": 404,
+    "name": "Continuous buzzer",
+    "active": true,
+    "keywords": "continuous, buzzer",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "Continuousbuzzer"
+  },
+  {
+    "id": 405,
+    "name": "Theft",
+    "active": true,
+    "keywords": "theft",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "Theft"
+  },
+  {
+    "id": 406,
+    "name": "Disconnected by Health Centre",
+    "active": true,
+    "keywords": "disconnected, health centre",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "DisconnectedbyHealthCentre"
+  },
+  {
+    "id": 407,
+    "name": "Input & Output Cable Damage",
+    "active": true,
+    "keywords": "cable, damage",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "InputOutputCableDamage"
+  },
+  {
+    "id": 408,
+    "name": "Input & Output Cable disconnected or loose cables",
+    "active": true,
+    "keywords": "cable, disconnected, loose",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "InputOutputCabledisconnectedorloosecables"
+  },
+  {
+    "id": 409,
+    "name": "Burnt (or) Damaged",
+    "active": true,
+    "keywords": "burnt, damaged",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "BurntorDamaged"
+  },
+  {
+    "id": 410,
+    "name": "No Display",
+    "active": true,
+    "keywords": "no, display",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "Medium",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "NoDisplay"
+  },
+  {
+    "id": 411,
+    "name": "Non readable display characters",
+    "active": true,
+    "keywords": "display, unreadable",
+    "menuPath": "CHARGE CONTROLLER",
+    "priority": "Medium",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "Nonreadabledisplaycharacters"
+  },
+  {
+    "id": 412,
+    "name": "Charge Controller",
+    "active": true,
+    "keywords": "charge, controller",
+    "menuPath": "Shifting",
+    "priority": "High",
+    "slaHours": 264,
+    "department": "O&M",
+    "deprecated": false,
+    "serviceCode": "ChargeController"
+  }
   ]
 }

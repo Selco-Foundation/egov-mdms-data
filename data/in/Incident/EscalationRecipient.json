@@ -1,0 +1,40 @@
+{
+  "tenantId": "in",
+  "moduleName": "Incident",
+  "EscalationRecipient": [
+    {
+      "id": 1,
+      "escalationLevel": "LEVEL_ONE",
+      "recipientRoles": [
+        {
+          "role": "STATE_POC",
+          "boundaryLevel": "state",
+          "workflowStates": [
+            "PENDING_RESOLUTION"
+          ]
+        },
+        {
+          "role": "CENTRAL_POC",
+          "boundaryLevel": "country",
+          "workflowStates": [
+            "PENDING_RESOLUTION",
+            "RESOLVED"
+          ]
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": 2,
+      "escalationLevel": "LEVEL_TWO",
+      "recipientRoles": [
+        {
+          "role": "CENTRAL_ONM_PROJECT_MANAGER",
+          "boundaryLevel": "country",
+          "workflowStates": ["PENDING_RESOLUTION"]
+        }
+      ],
+      "active": true
+    }
+  ]
+}

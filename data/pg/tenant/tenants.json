@@ -651,7 +651,7 @@
     },
     {
       "code": "pg.gandhala",
-      "name": "Gandhala",
+      "name": "Ganadhal HWC",
       "description": "Gandhala",
       "centreType": "HWC",
       "pincode": null,
@@ -685,7 +685,7 @@
     },
     {
       "code": "pg.ganadhal",
-      "name": "Ganadhal",
+      "name": "Ganadhal PHC",
       "description": "Ganadhal",
       "centreType": "PHC",
       "pincode": null,

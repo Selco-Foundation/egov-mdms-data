@@ -75451,6 +75451,40 @@
       },
       "address": "Karnataka",
       "contactNumber": "8904115633"
+    },
+    {
+      "code": "pg.roudalbandahwc",
+      "name": "Roudalbanda",
+      "description": "Roudalbanda",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "SC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Roudalbanda",
+        "localName": null,
+        "districtCode": "RAICHUR",
+        "districtName": "Raichur",
+        "blockCode": "raichur.lingasugur",
+        "districtTenantCode": "pg.roudalbandahwc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KA-1324878667",
+        "ddrName": null
+      },
+      "address": "Karnataka",
+      "contactNumber": "6361310012"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "tenantId": "in",
+  "module": "Incident",
+  "EscalationLevel": [
+    {
+      "id": 1,
+      "escalationLevel": "LEVEL_ONE",
+      "breachThresholdInHours": 0,
+      "active": true
+    },
+    {
+      "id": 2,
+      "escalationLevel": "LEVEL_TWO",
+      "breachThresholdInHours": -16,
+      "active": true
+    }
+  ]
+}

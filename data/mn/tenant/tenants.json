@@ -8535,6 +8535,40 @@
       },
       "address": "Nagaland",
       "contactNumber": "7629054341"
+    },
+    {
+      "code": "mn.uchekon",
+      "name": "Uchekon",
+      "description": "Uchekon",
+      "centreType": "HWC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "HWC",
+      "logoId": null,
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Uchekon",
+        "localName": null,
+        "districtCode": "IMPHALEAST",
+        "districtName": "Imphal East",
+        "blockCode": "imphaleast.keiraobitra",
+        "districtTenantCode": "mn.uchekon",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MN-4161325131",
+        "ddrName": null
+      },
+      "address": "Mainpur",
+      "contactNumber": "8787765953"
     }
   ]
 }

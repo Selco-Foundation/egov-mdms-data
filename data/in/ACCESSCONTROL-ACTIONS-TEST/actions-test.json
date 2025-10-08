@@ -102,7 +102,7 @@
         "rightIcon": "",
         "createdDate": null,
         "displayName": "Home",
-        "orderNumber": 1
+        "orderNumber": 1,
         "queryParams": "",
         "serviceCode": "QC",
         "parentModule": "rainmaker-in",

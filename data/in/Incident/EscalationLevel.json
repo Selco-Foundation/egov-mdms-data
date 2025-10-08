@@ -4,14 +4,26 @@
   "EscalationLevel": [
     {
       "id": 1,
-      "escalationLevel": "LEVEL_ONE",
+      "escalationLevel": "LEVEL_ZERO",
       "breachThresholdInHours": 0,
+      "breachThresholdInPercentage": 70,
+      "breachCalculationStrategy": "percentage",
       "active": true
     },
     {
       "id": 2,
+      "escalationLevel": "LEVEL_ONE",
+      "breachThresholdInHours": 0,
+      "breachThresholdInPercentage": 0,
+      "breachCalculationStrategy": "number",
+      "active": true
+    },
+    {
+      "id": 3,
       "escalationLevel": "LEVEL_TWO",
       "breachThresholdInHours": -16,
+      "breachThresholdInPercentage": 0,
+      "breachCalculationStrategy": "number",
       "active": true
     }
   ]

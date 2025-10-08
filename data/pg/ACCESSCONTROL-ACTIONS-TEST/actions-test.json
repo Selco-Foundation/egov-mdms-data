@@ -2995,6 +2995,17 @@
       "serviceCode": "inbox",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1987,
+      "url": "/im-services/user/login/_report",
+      "code": "null",
+      "name": "User Login Report",
+      "path": "",
+      "enabled": true,
+      "displayName": "User login Report",
+      "orderNumber": 0,
+      "serviceCode": "im-services"
     }
   ]
 }

@@ -11,33 +11,17 @@
         {
           "escalationLevel": "LEVEL_ZERO",
           "workflowStates": [
-            "PENDINGFORASSIGNMENT",
-            "PENDINGRESOLUTION",
-            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
-            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY",
-            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
-            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+            "OUT_OF_WARRANTY",
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
           ]
         },
         {
           "escalationLevel": "LEVEL_ONE",
           "workflowStates": [
             "PENDINGFORASSIGNMENT",
-            "PENDINGRESOLUTION",
             "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
-            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY",
             "PENDING_RESOLUTION_SPARE_PART_NEEDED",
-            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
-          ]
-        },
-        {
-          "escalationLevel": "LEVEL_TWO",
-          "workflowStates": [
-            "PENDINGFORASSIGNMENT",
             "PENDINGRESOLUTION",
-            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
-            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY",
-            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
             "PENDING_RESOLUTION_OUT_OF_WARRANTY"
           ]
         }
@@ -50,22 +34,20 @@
       "boundaryLevel": "state",
       "escalations": [
         {
-          "escalationLevel": "LEVEL_ZERO",
-          "workflowStates": [
-            "OUT_OF_WARRANTY"
-          ]
-        },
-        {
           "escalationLevel": "LEVEL_ONE",
           "workflowStates": [
-            "PENDINGFORASSIGNMENT",
+            "OUT_OF_WARRANTY",
             "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
           ]
         },
         {
           "escalationLevel": "LEVEL_TWO",
           "workflowStates": [
-            "PENDINGFORASSIGNMENT"
+            "PENDINGFORASSIGNMENT",
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
+            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDINGRESOLUTION",
+            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
           ]
         }
       ]
@@ -77,17 +59,9 @@
       "boundaryLevel": "country",
       "escalations": [
         {
-          "escalationLevel": "LEVEL_ZERO",
-          "workflowStates": [
-            "OUT_OF_WARRANTY"
-          ]
-        },
-        {
           "escalationLevel": "LEVEL_ONE",
           "workflowStates": [
-            "PENDINGFORASSIGNMENT",
-            "PENDINGRESOLUTION",
-            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
+            "OUT_OF_WARRANTY",
             "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
           ]
         },
@@ -95,10 +69,9 @@
           "escalationLevel": "LEVEL_TWO",
           "workflowStates": [
             "PENDINGFORASSIGNMENT",
-            "PENDINGRESOLUTION",
             "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
-            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY",
             "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDINGRESOLUTION",
             "PENDING_RESOLUTION_OUT_OF_WARRANTY"
           ]
         }
@@ -111,16 +84,10 @@
       "boundaryLevel": "state",
       "escalations": [
         {
-          "escalationLevel": "LEVEL_ONE",
-          "workflowStates": [
-            "PENDINGFORASSIGNMENT"
-          ]
-        },
-        {
           "escalationLevel": "LEVEL_TWO",
           "workflowStates": [
             "PENDINGFORASSIGNMENT",
-            "PENDING_RESOLUTION_SPARE_PART_NEEDED"
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED"
           ]
         }
       ]
@@ -132,16 +99,10 @@
       "boundaryLevel": "country",
       "escalations": [
         {
-          "escalationLevel": "LEVEL_ONE",
-          "workflowStates": [
-            "PENDINGFORASSIGNMENT"
-          ]
-        },
-        {
           "escalationLevel": "LEVEL_TWO",
           "workflowStates": [
             "PENDINGFORASSIGNMENT",
-            "PENDING_RESOLUTION_SPARE_PART_NEEDED"
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED"
           ]
         }
       ]
@@ -155,7 +116,8 @@
         {
           "escalationLevel": "LEVEL_TWO",
           "workflowStates": [
-            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+            "OUT_OF_WARRANTY",
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
           ]
         }
       ]
@@ -169,7 +131,8 @@
         {
           "escalationLevel": "LEVEL_TWO",
           "workflowStates": [
-            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+            "OUT_OF_WARRANTY",
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
           ]
         }
       ]

@@ -21,6 +21,156 @@
       "code": "KOKRAJHAR",
       "name": "Kokrajhar",
       "active": true
+    },
+       {
+      "code": "NAGAON",
+      "name": "Nagaon",
+      "active": true
+    },
+    {
+      "code": "BISWANATH",
+      "name": "Biswanath",
+      "active": true
+    },
+    {
+      "code": "DARRANG",
+      "name": "Darrang",
+      "active": true
+    },
+    {
+      "code": "SONITPUR",
+      "name": "Sonitpur",
+      "active": true
+    },
+    {
+      "code": "MARIGAON",
+      "name": "Marigaon",
+      "active": true
+    },
+    {
+      "code": "HOJAI",
+      "name": "Hojai",
+      "active": true
+    },
+    {
+      "code": "CACHAR",
+      "name": "Cachar",
+      "active": true
+    },
+    {
+      "code": "DIMAHASAO",
+      "name": "Dima Hasao",
+      "active": true
+    },
+    {
+      "code": "KAMRUPMETRO",
+      "name": "Kamrup Metro",
+      "active": true
+    },
+    {
+      "code": "NALBARI",
+      "name": "Nalbari",
+      "active": true
+    },
+    {
+      "code": "KAMRUPRURAL",
+      "name": "Kamrup Rural",
+      "active": true
+    },
+    {
+      "code": "KARBIANGLONG",
+      "name": "Karbi Anglong",
+      "active": true
+    },
+    {
+      "code": "KARIMGANJ",
+      "name": "Karimganj",
+      "active": true
+    },
+    {
+      "code": "WESTKARBIANGLONG",
+      "name": "West Karbi Anglong",
+      "active": true
+    },
+    {
+      "code": "HAILAKANDI",
+      "name": "Hailakandi",
+      "active": true
+    },
+    {
+      "code": "CHARAIDEO",
+      "name": "Charaideo",
+      "active": true
+    },
+    {
+      "code": "DIBRUGARH",
+      "name": "Dibrugarh",
+      "active": true
+    },
+    {
+      "code": "LAKHIMPUR",
+      "name": "Lakhimpur",
+      "active": true
+    },
+    {
+      "code": "SIVASAGAR",
+      "name": "Sivasagar",
+      "active": true
+    },
+    {
+      "code": "TINSUKIA",
+      "name": "Tinsukia",
+      "active": true
+    },
+    {
+      "code": "DHEMAJI",
+      "name": "Dhemaji",
+      "active": true
+    },
+    {
+      "code": "GOLAGHAT",
+      "name": "Golaghat",
+      "active": true
+    },
+    {
+      "code": "JORHAT",
+      "name": "Jorhat",
+      "active": true
+    },
+    {
+      "code": "MAJULI",
+      "name": "Majuli",
+      "active": true
+    },
+    {
+      "code": "BARPETA",
+      "name": "Barpeta",
+      "active": true
+    },
+    {
+      "code": "BONGAIGAON",
+      "name": "Bongaigaon",
+      "active": true
+    },
+    {
+      "code": "DHUBRI",
+      "name": "Dhubri",
+      "active": true
+    },
+    {
+      "code": "GOALPARA",
+      "name": "Goalpara",
+      "active": true
+    },
+    {
+      "code": "KAMRUP",
+      "name": "Kamrup",
+      "active": true
+    },
+    {
+      "code": "SOUTHSALMARAMANCACHAR",
+      "name": "South Salmara Mancachar",
+      "active": true
     }
   ]
 }

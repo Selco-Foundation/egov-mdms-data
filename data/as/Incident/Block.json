@@ -85,6 +85,1476 @@
       "name": "Kachugaon",
       "districtCode": "KOKRAJHAR",
       "active": true
+    },
+    {
+      "code": "nagaon.batadrava",
+      "name": "Batadrava",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "biswanath.behali",
+      "name": "Behali",
+      "districtCode": "BISWANATH",
+      "active": true
+    },
+    {
+      "code": "nagaon.dolongghat",
+      "name": "Dolongghat",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.laokhowa",
+      "name": "Laokhowa",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.raha",
+      "name": "Raha",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.juria",
+      "name": "Juria",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.kathiatoli",
+      "name": "Kathiatoli",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "biswanath.pubchaiduar",
+      "name": "Pub Chaiduar",
+      "districtCode": "BISWANATH",
+      "active": true
+    },
+    {
+      "code": "biswanath.baghmara",
+      "name": "Baghmara",
+      "districtCode": "BISWANATH",
+      "active": true
+    },
+    {
+      "code": "biswanath.sakomatha",
+      "name": "Sakomatha",
+      "districtCode": "BISWANATH",
+      "active": true
+    },
+    {
+      "code": "biswanath.biswanath",
+      "name": "Biswanath",
+      "districtCode": "BISWANATH",
+      "active": true
+    },
+    {
+      "code": "darrang.sipajhar",
+      "name": "Sipajhar",
+      "districtCode": "DARRANG",
+      "active": true
+    },
+    {
+      "code": "darrang.bechimari",
+      "name": "Bechimari",
+      "districtCode": "DARRANG",
+      "active": true
+    },
+    {
+      "code": "nagaon.pakhimoria",
+      "name": "Pakhimoria",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "darrang.dalgaonsialmari",
+      "name": "Dalgaon Sialmari",
+      "districtCode": "DARRANG",
+      "active": true
+    },
+    {
+      "code": "darrang.pubmangaldai",
+      "name": "Pub Mangaldai",
+      "districtCode": "DARRANG",
+      "active": true
+    },
+    {
+      "code": "darrang.pachimmangaldai",
+      "name": "Pachim Mangaldai",
+      "districtCode": "DARRANG",
+      "active": true
+    },
+    {
+      "code": "nagaon.barhampur",
+      "name": "Barhampur",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "sonitpur.tezpur",
+      "name": "Tezpur",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "marigaon.mayang",
+      "name": "Mayang",
+      "districtCode": "MARIGAON",
+      "active": true
+    },
+    {
+      "code": "sonitpur.dhekiajuli",
+      "name": "Dhekiajuli",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "hojai.lumding",
+      "name": "Lumding",
+      "districtCode": "HOJAI",
+      "active": true
+    },
+    {
+      "code": "hojai.binakandi",
+      "name": "Binakandi",
+      "districtCode": "HOJAI",
+      "active": true
+    },
+    {
+      "code": "hojai.lanka",
+      "name": "Lanka",
+      "districtCode": "HOJAI",
+      "active": true
+    },
+    {
+      "code": "marigaon.dolongghat",
+      "name": "Dolongghat",
+      "districtCode": "MARIGAON",
+      "active": true
+    },
+    {
+      "code": "marigaon.kapili",
+      "name": "Kapili",
+      "districtCode": "MARIGAON",
+      "active": true
+    },
+    {
+      "code": "marigaon.laharighat",
+      "name": "Laharighat",
+      "districtCode": "MARIGAON",
+      "active": true
+    },
+    {
+      "code": "sonitpur.balipara",
+      "name": "Balipara",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "marigaon.bhurbandha",
+      "name": "Bhurbandha",
+      "districtCode": "MARIGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.kapili",
+      "name": "Kapili",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.dagaon",
+      "name": "Dagaon",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.khagarijan",
+      "name": "Khagarijan",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.kathiatali",
+      "name": "Kathiatali",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.bajiagaon",
+      "name": "Bajiagaon",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.rupahi",
+      "name": "Rupahi",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "nagaon.kaliabor",
+      "name": "Kaliabor",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "biswanath.chaiduar",
+      "name": "Chaiduar",
+      "districtCode": "BISWANATH",
+      "active": true
+    },
+    {
+      "code": "darrang.kalaigaon",
+      "name": "Kalaigaon",
+      "districtCode": "DARRANG",
+      "active": true
+    },
+    {
+      "code": "nagaon.pachimkaliabor",
+      "name": "Pachim Kaliabor",
+      "districtCode": "NAGAON",
+      "active": true
+    },
+    {
+      "code": "sonitpur.bihaguri",
+      "name": "Bihaguri",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "sonitpur.gabhoru",
+      "name": "Gabhoru",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "sonitpur.naduar",
+      "name": "Naduar",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "sonitpur.rangapara",
+      "name": "Rangapara",
+      "districtCode": "SONITPUR",
+      "active": true
+    },
+    {
+      "code": "cachar.borkhola",
+      "name": "Borkhola",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.cedharban",
+      "name": "Cedharban",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.udharbond",
+      "name": "Udharbond",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.khatigorah",
+      "name": "Khatigorah",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.silchar",
+      "name": "Silchar",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.binakandi",
+      "name": "Binakandi",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.rajabazar",
+      "name": "Rajabazar",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.borjalenga",
+      "name": "Borjalenga",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.dholai",
+      "name": "Dholai",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.sonai",
+      "name": "Sonai",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.narsingpur",
+      "name": "Narsingpur",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.lakhipur",
+      "name": "Lakhipur",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.dholoni",
+      "name": "Dholoni",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "cachar.bholar",
+      "name": "Bholar",
+      "districtCode": "CACHAR",
+      "active": true
+    },
+    {
+      "code": "dimahasao.haranjajaw",
+      "name": "Haranjajaw",
+      "districtCode": "DIMAHASAO",
+      "active": true
+    },
+    {
+      "code": "dimahasao.haflong",
+      "name": "Haflong",
+      "districtCode": "DIMAHASAO",
+      "active": true
+    },
+    {
+      "code": "dimahasao.jatingavalley",
+      "name": "Jatinga Valley",
+      "districtCode": "DIMAHASAO",
+      "active": true
+    },
+    {
+      "code": "dimahasao.diyangvalley",
+      "name": "Diyang Valley",
+      "districtCode": "DIMAHASAO",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.dimoria",
+      "name": "Dimoria",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.ghysouthzone",
+      "name": "Ghy South Zone",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.ghywestzone",
+      "name": "Ghy West Zone",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.ghycapitalzone",
+      "name": "Ghy Capital Zone",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "nalbari.pubnalbari",
+      "name": "Pub Nalbari",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "kamruprural.rampur",
+      "name": "Rampur",
+      "districtCode": "KAMRUPRURAL",
+      "active": true
+    },
+    {
+      "code": "kamruprural.rangia",
+      "name": "Rangia",
+      "districtCode": "KAMRUPRURAL",
+      "active": true
+    },
+    {
+      "code": "kamruprural.bezera",
+      "name": "Bezera",
+      "districtCode": "KAMRUPRURAL",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.ghywardno23",
+      "name": "Ghy Ward no 23",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.ghywardno2",
+      "name": "Ghy Ward No 2",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "kamrupmetro.chandrapur",
+      "name": "Chandrapur",
+      "districtCode": "KAMRUPMETRO",
+      "active": true
+    },
+    {
+      "code": "karbianglong.diphu",
+      "name": "Diphu",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.rongmongve",
+      "name": "Rongmongve",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.langsomei",
+      "name": "Langsomei",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.howraghat",
+      "name": "Howraghat",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.lumbajong",
+      "name": "Lumbajong",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.bokajan",
+      "name": "Bokajan",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.samelangso",
+      "name": "Samelangso",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karbianglong.nilip",
+      "name": "Nilip",
+      "districtCode": "KARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "karimganj.patherkandi",
+      "name": "Patherkandi",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.lowaipoya",
+      "name": "Lowaipoya",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.kachuwadham",
+      "name": "Kachuwadham",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.girishgand",
+      "name": "Girishgand",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.badarpur",
+      "name": "Badarpur",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.nilambazar",
+      "name": "Nilambazar",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.ramkrishnanagar",
+      "name": "Ramkrishnanagar",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.dulopcherra",
+      "name": "Dulopcherra",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.mahakal",
+      "name": "Mahakal",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.badarpurdev",
+      "name": "Badarpur Dev",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "karimganj.southkarimganj",
+      "name": "South Karimganj",
+      "districtCode": "KARIMGANJ",
+      "active": true
+    },
+    {
+      "code": "westkarbianglong.chinthong",
+      "name": "Chinthong",
+      "districtCode": "WESTKARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "westkarbianglong.soeheng",
+      "name": "Soeheng",
+      "districtCode": "WESTKARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "westkarbianglong.amri",
+      "name": "Amri",
+      "districtCode": "WESTKARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "westkarbianglong.rongkhang",
+      "name": "Rongkhang",
+      "districtCode": "WESTKARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "westkarbianglong.zirikindeng",
+      "name": "Zirikindeng",
+      "districtCode": "WESTKARBIANGLONG",
+      "active": true
+    },
+    {
+      "code": "hailakandi.algapur",
+      "name": "Algapur",
+      "districtCode": "HAILAKANDI",
+      "active": true
+    },
+    {
+      "code": "hailakandi.hailakandi",
+      "name": "Hailakandi",
+      "districtCode": "HAILAKANDI",
+      "active": true
+    },
+    {
+      "code": "hailakandi.southhailakandi",
+      "name": "South Hailakandi",
+      "districtCode": "HAILAKANDI",
+      "active": true
+    },
+    {
+      "code": "hailakandi.katlichera",
+      "name": "Katlichera",
+      "districtCode": "HAILAKANDI",
+      "active": true
+    },
+    {
+      "code": "hailakandi.lala",
+      "name": "Lala",
+      "districtCode": "HAILAKANDI",
+      "active": true
+    },
+    {
+      "code": "charaideo.patsaku",
+      "name": "Patsaku",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "charaideo.mahmora",
+      "name": "Mahmora",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "charaideo.sapekhati",
+      "name": "Sapekhati",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "charaideo.lakuwa",
+      "name": "Lakuwa",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "charaideo.begnabari",
+      "name": "Begnabari",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "charaideo.desangpani",
+      "name": "Desangpani",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "charaideo.westabhaipur",
+      "name": "West Abhaipur",
+      "districtCode": "CHARAIDEO",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.barbaruah",
+      "name": "Barbaruah",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.panitola",
+      "name": "Panitola",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.tengakhat",
+      "name": "Tengakhat",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.tingkhong",
+      "name": "Tingkhong",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.lahoal",
+      "name": "Lahoal",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.dibrugarh",
+      "name": "Dibrugarh",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.khowang",
+      "name": "Khowang",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.naharani",
+      "name": "Naharani",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "dibrugarh.joypur",
+      "name": "Joypur",
+      "districtCode": "DIBRUGARH",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.saparigaon",
+      "name": "SapariGaon",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.lakhimpur",
+      "name": "Lakhimpur",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.boginadi",
+      "name": "Boginadi",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.bihpuria",
+      "name": "Bihpuria",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.karunabari",
+      "name": "Karunabari",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.dhakuakhana",
+      "name": "Dhakuakhana",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.nowboicha",
+      "name": "Nowboicha",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.narayanpur",
+      "name": "Narayanpur",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.telahi",
+      "name": "Telahi",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "lakhimpur.ghilamara",
+      "name": "Ghilamara",
+      "districtCode": "LAKHIMPUR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.amguri",
+      "name": "Amguri",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.demow",
+      "name": "Demow",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.nazira",
+      "name": "Nazira",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.sivasagar",
+      "name": "Sivasagar",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.kalugaon",
+      "name": "Kalugaon",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.gaurisagar",
+      "name": "Gaurisagar",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "sivasagar.gelaki",
+      "name": "Gelaki",
+      "districtCode": "SIVASAGAR",
+      "active": true
+    },
+    {
+      "code": "tinsukia.margherita",
+      "name": "Margherita",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.hapjan",
+      "name": "Hapjan",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.hopjan",
+      "name": "Hopjan",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.sadiya",
+      "name": "Sadiya",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.guijan",
+      "name": "Guijan",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.ketetong",
+      "name": "Ketetong",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.saikhowa",
+      "name": "Saikhowa",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "tinsukia.kakopathar",
+      "name": "Kakopathar",
+      "districtCode": "TINSUKIA",
+      "active": true
+    },
+    {
+      "code": "dhemaji.sissiborgaon",
+      "name": "Sissiborgaon",
+      "districtCode": "DHEMAJI",
+      "active": true
+    },
+    {
+      "code": "dhemaji.dhemaji",
+      "name": "Dhemaji",
+      "districtCode": "DHEMAJI",
+      "active": true
+    },
+    {
+      "code": "dhemaji.machkhowa",
+      "name": "Machkhowa",
+      "districtCode": "DHEMAJI",
+      "active": true
+    },
+    {
+      "code": "dhemaji.bordoloni",
+      "name": "Bordoloni",
+      "districtCode": "DHEMAJI",
+      "active": true
+    },
+    {
+      "code": "golaghat.golaghatwest",
+      "name": "Golaghat West",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.golaghatnorth",
+      "name": "Golaghat North",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.golaghateast",
+      "name": "Golaghat East",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.golaghatcentral",
+      "name": "Golaghat Central",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.gomariguri",
+      "name": "Gomariguri",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.kakodonga",
+      "name": "Kakodonga",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.morongi",
+      "name": "Morongi",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "golaghat.golaghatsouth",
+      "name": "Golaghat South",
+      "districtCode": "GOLAGHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.jorhatcentral",
+      "name": "Jorhat Central",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.northwestjorhat",
+      "name": "North West Jorhat",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.jorhat",
+      "name": "Jorhat",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.bakchung",
+      "name": "Bakchung",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.jorhateast",
+      "name": "Jorhat East",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.titabor",
+      "name": "Titabor",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "jorhat.melamati",
+      "name": "Melamati",
+      "districtCode": "JORHAT",
+      "active": true
+    },
+    {
+      "code": "majuli.kamlabari",
+      "name": "Kamlabari",
+      "districtCode": "MAJULI",
+      "active": true
+    },
+    {
+      "code": "majuli.majuli",
+      "name": "Majuli",
+      "districtCode": "MAJULI",
+      "active": true
+    },
+    {
+      "code": "majuli.ujahi",
+      "name": "Ujahi",
+      "districtCode": "MAJULI",
+      "active": true
+    },
+    {
+      "code": "barpeta.rupshi",
+      "name": "Rupshi",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.barpeta",
+      "name": "Barpeta",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.bajali",
+      "name": "Bajali",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.nityanada",
+      "name": "Nityanada",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.bhabanipur",
+      "name": "Bhabanipur",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.chenga",
+      "name": "Chenga",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.sarukhetri",
+      "name": "Sarukhetri",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.pakabetbari",
+      "name": "Pakabetbari",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.gobardhana",
+      "name": "Gobardhana",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.kolkachi",
+      "name": "Kolkachi",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.mandia",
+      "name": "Mandia",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.chakchaka",
+      "name": "Chakchaka",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "barpeta.ruposhi",
+      "name": "Ruposhi",
+      "districtCode": "BARPETA",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.srijangrum",
+      "name": "Srijangrum",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.dangtol",
+      "name": "Dangtol",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.boitamari",
+      "name": "Boitamari",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.manikpur",
+      "name": "Manikpur",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.topaplary",
+      "name": "Topaplary",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.brijangkam",
+      "name": "Brijangkam",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.bangaigaon",
+      "name": "Bangaigaon",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "dhubri.jamadarhat",
+      "name": "Jamadarhat",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.chaparsalkocha",
+      "name": "Chapar Salkocha",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.agomani",
+      "name": "Agomani",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.mahamaya",
+      "name": "Mahamaya",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "bongaigaon.pachumbaerchar",
+      "name": "Pachumbaerchar",
+      "districtCode": "BONGAIGAON",
+      "active": true
+    },
+    {
+      "code": "dhubri.nayeralga",
+      "name": "Nayeralga",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.bilasipara",
+      "name": "Bilasipara",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.golakganj",
+      "name": "Golakganj",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.gouripur",
+      "name": "Gouripur",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.debitala",
+      "name": "Debitala",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.raniganj",
+      "name": "Raniganj",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "dhubri.hatidhura",
+      "name": "Hatidhura",
+      "districtCode": "DHUBRI",
+      "active": true
+    },
+    {
+      "code": "goalpara.kharmuza",
+      "name": "Kharmuza",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.rongjuli",
+      "name": "Rongjuli",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.kushdhowa",
+      "name": "Kushdhowa",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.matia",
+      "name": "Matia",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.krishnai",
+      "name": "Krishnai",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.moilapathar",
+      "name": "Moila Pathar",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.urban",
+      "name": "Urban",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "kamrup.kamalpur",
+      "name": "Kamalpur",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.kamarpur",
+      "name": "Kamarpur",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.rangia",
+      "name": "Rangia",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.rampur",
+      "name": "Rampur",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.chayani",
+      "name": "Chayani",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.boko",
+      "name": "Boko",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.chamaria",
+      "name": "Chamaria",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.chaygaon",
+      "name": "Chaygaon",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.bongaon",
+      "name": "Bongaon",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.hajo",
+      "name": "Hajo",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.sualkuchi",
+      "name": "Sualkuchi",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.rani",
+      "name": "Rani",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.bihdiajajikona",
+      "name": "Bihdia jajikona",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.bangaon",
+      "name": "Bangaon",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.bezera",
+      "name": "Bezera",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.barantirangamati",
+      "name": "Baranti Rangamati",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "nalbari.barigogbanbang",
+      "name": "Barigog Banbang",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.kamarkuchi",
+      "name": "Kamarkuchi",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.samata",
+      "name": "Samata",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.madhupur",
+      "name": "Madhupur",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.posehimnalbari",
+      "name": "Posehim Nalbari",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.tihu",
+      "name": "Tihu",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.borbhage",
+      "name": "Borbhage",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.baokhetri",
+      "name": "Baokhetri",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "kamrup.mirza",
+      "name": "Mirza",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "nalbari.borkhetri",
+      "name": "Borkhetri",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.barkhetri",
+      "name": "Barkhetri",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "nalbari.paschimnalbari",
+      "name": "Paschim Nalbari",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "southsalmaramancachar.mankachar",
+      "name": "Mankachar",
+      "districtCode": "SOUTHSALMARAMANCACHAR",
+      "active": true
+    },
+    {
+      "code": "southsalmaramancachar.fekamari",
+      "name": "Fekamari",
+      "districtCode": "SOUTHSALMARAMANCACHAR",
+      "active": true
+    },
+    {
+      "code": "southsalmaramancachar.southsalmara",
+      "name": "South Salmara",
+      "districtCode": "SOUTHSALMARAMANCACHAR",
+      "active": true
+    },
+    {
+      "code": "goalpara.rangjuli",
+      "name": "Rangjuli",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.mornoi",
+      "name": "Mornoi",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.agia",
+      "name": "Agia",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "goalpara.lakhipur",
+      "name": "Lakhipur",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "kamrup.azara",
+      "name": "Azara",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.uparhalibphc",
+      "name": "Uparhali BPHC",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.uparhali",
+      "name": "Uparhali",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "nalbari.ghograpar",
+      "name": "Ghograpar",
+      "districtCode": "NALBARI",
+      "active": true
+    },
+    {
+      "code": "goalpara.jaleswar",
+      "name": "Jaleswar",
+      "districtCode": "GOALPARA",
+      "active": true
+    },
+    {
+      "code": "kamrup.diptinagarpath",
+      "name": "Diptinagar Path",
+      "districtCode": "KAMRUP",
+      "active": true
+    },
+    {
+      "code": "kamrup.amingaon",
+      "name": "Amingaon",
+      "districtCode": "KAMRUP",
+      "active": true
     }
   ]
 }

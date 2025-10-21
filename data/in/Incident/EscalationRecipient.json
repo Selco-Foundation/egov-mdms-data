@@ -12,10 +12,8 @@
           "escalationLevel": "LEVEL_ZERO",
           "workflowStates": [
             "PENDINGFORASSIGNMENT",
-            "PENDINGRESOLUTION",
             "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
-            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
-            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
           ]
         },
         {

@@ -1,0 +1,152 @@
+{
+  "tenantid": "in",
+  "moduleName": "Incident",
+  "EscalationRecipient": [
+    {
+      "id": 1,
+      "active": true,
+      "recipientRole": "STATE_POC",
+      "boundaryLevel": "state",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_ZERO",
+          "workflowStates": [
+            "PENDINGFORASSIGNMENT",
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
+          ]
+        },
+        {
+          "escalationLevel": "LEVEL_ONE",
+          "workflowStates": [
+            "PENDINGFORASSIGNMENT",
+            "PENDINGRESOLUTION",
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED",
+            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "active": true,
+      "recipientRole": "CENTRAL_POC",
+      "boundaryLevel": "state",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_ZERO",
+          "workflowStates": [
+            "PENDINGRESOLUTION",
+            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY",
+            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+          ]
+        },
+        {
+          "escalationLevel": "LEVEL_ONE",
+          "workflowStates": [
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
+          ]
+        },
+        {
+          "escalationLevel": "LEVEL_TWO",
+          "workflowStates": [
+            "PENDINGRESOLUTION",
+            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": true,
+      "recipientRole": "CENTRAL_POC",
+      "boundaryLevel": "country",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_ZERO",
+          "workflowStates": [
+            "PENDINGRESOLUTION",
+            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY",
+            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+          ]
+        },
+        {
+          "escalationLevel": "LEVEL_ONE",
+          "workflowStates": [
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
+          ]
+        },
+        {
+          "escalationLevel": "LEVEL_TWO",
+          "workflowStates": [
+            "PENDINGRESOLUTION",
+            "PENDING_RESOLUTION_SPARE_PART_NEEDED",
+            "PENDING_RESOLUTION_OUT_OF_WARRANTY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": true,
+      "recipientRole": "CENTRAL_ONM_PROJECT_MANAGER",
+      "boundaryLevel": "state",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_TWO",
+          "workflowStates": [
+            "PENDINGFORASSIGNMENT",
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "active": true,
+      "recipientRole": "CENTRAL_ONM_PROJECT_MANAGER",
+      "boundaryLevel": "country",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_TWO",
+          "workflowStates": [
+            "PENDINGFORASSIGNMENT",
+            "PENDING_ASSIGNMENT_SPARE_PART_NEEDED"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "active": true,
+      "recipientRole": "CENTRAL_OPERATIONS_LEAD",
+      "boundaryLevel": "state",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_TWO",
+          "workflowStates": [
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "active": true,
+      "recipientRole": "CENTRAL_OPERATIONS_LEAD",
+      "boundaryLevel": "country",
+      "escalations": [
+        {
+          "escalationLevel": "LEVEL_TWO",
+          "workflowStates": [
+            "PENDING_ASSIGNMENT_OUT_OF_WARRANTY"
+          ]
+        }
+      ]
+    }
+  ]
+}

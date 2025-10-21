@@ -36,6 +36,26 @@
       "code": "SUPERUSER",
       "name": "Super User",
       "description": "System Administrator. Can change all master data and has access to all the system screens."
+    },
+    {
+      "code": "STATE_POC",
+      "name": "State POC",
+      "description": "State Point of Contact for escalation management"
+    },
+    {
+      "code": "CENTRAL_POC",
+      "name": "Central POC",
+      "description": "Central Point of Contact for escalation management"
+    },
+    {
+      "code": "CENTRAL_ONM_PROJECT_MANAGER",
+      "name": "Central ONM Project Manager",
+      "description": "Central Operations and Maintenance Project Manager"
+    },
+    {
+      "code": "CENTRAL_OPERATIONS_LEAD",
+      "name": "Central Operation Lead",
+      "description": "Central Operations Lead for escalation management"
     }
   ]
 }

@@ -4,25 +4,25 @@
   "InboxQueryConfiguration": [
     {
       "module": "Incident",
-      "index": "computed-sla-im-services",
+      "index": "computed-sla-im-services-updated",
       "allowedSearchCriteria": [
         {
           "name": "tenantId",
           "path": "Data.incident.tenantId.keyword",
-          "isMandatory": true,
-          "operator": "EQUAL"
+          "operator": "EQUAL",
+          "isMandatory": true
         },
         {
           "name": "status",
           "path": "Data.incident.applicationStatus.keyword",
           "isMandatory": false
         },
-         {
+        {
           "name": "incidentType",
           "path": "Data.incident.incidentType.keyword",
           "isMandatory": false
         },
-           {
+        {
           "name": "phcType",
           "path": "Data.incident.phcType.keyword",
           "isMandatory": false
@@ -35,32 +35,32 @@
         {
           "name": "applicationNumber",
           "path": "Data.incident.incidentId.keyword",
-          "isMandatory": false,
-          "operator": "WILDCARD"
+          "operator": "WILDCARD",
+          "isMandatory": false
         },
         {
           "name": "fromDate",
           "path": "Data.incident.auditDetails.createdTime",
-          "isMandatory": false,
-          "operator": "GTE"
+          "operator": "GTE",
+          "isMandatory": false
         },
         {
           "name": "toDate",
           "path": "Data.incident.auditDetails.createdTime",
-          "isMandatory": false,
-          "operator": "LTE"
+          "operator": "LTE",
+          "isMandatory": false
         },
         {
           "name": "nearingSLA",
           "path": "sla_comparison",
-          "isMandatory": false,
-          "operator": "LTE"
+          "operator": "LTE",
+          "isMandatory": false
         },
         {
           "name": "search",
           "path": "Data.incident.incidentId, Data.incident.district, Data.incident.reporter.userName",
-          "isMandatory": false,
-          "operator": "MULTI_MATCH"
+          "operator": "MULTI_MATCH",
+          "isMandatory": false
         },
         {
           "name": "district",
@@ -76,11 +76,28 @@
           "name": "systemFunctional",
           "path": "Data.incident.systemFunctional.keyword",
           "isMandatory": false
+        },
+        {
+          "name": "slaRemaining",
+          "path": "Data.slaRemaining",
+          "operator": "gte",
+          "isMandatory": false
+        },
+        {
+          "name": "escalations",
+          "path": "Data.escalations.keyword",
+          "operator": "must_not",
+          "isMandatory": false
+        },
+        {
+          "name": "incidentSubType",
+          "path": "Data.incident.incidentSubType.keyword",
+          "isMandatory": false
         }
       ],
       "sortBy": {
-          "path": "Data.incident.auditDetails.createdTime",
-          "defaultOrder": "ASC"
+        "path": "Data.incident.auditDetails.createdTime",
+        "defaultOrder": "ASC"
       },
       "sourceFilterPathList": [
         "Data.incident",

@@ -113,9 +113,9 @@
       "description": "Central Operations and Maintenance Project Manager"
     },
     {
-      "code": "CENTRAL_OPERATIONS_LEAD",
-      "name": "Central Operation Lead",
-      "description": "Central Operations Lead for escalation management"
+      "code": "SENIOR_PROGRAM_MANAGER",
+      "name": "Senior Program Manager",
+      "description": "Senior Program Manager for escalation management"
     }
   ]
 }

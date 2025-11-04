@@ -107,7 +107,7 @@
     {
       "id": 6,
       "active": true,
-      "recipientRole": "CENTRAL_OPERATIONS_LEAD",
+      "recipientRole": "SENIOR_PROGRAM_MANAGER",
       "boundaryLevel": "state",
       "escalations": [
         {
@@ -121,7 +121,7 @@
     {
       "id": 7,
       "active": true,
-      "recipientRole": "CENTRAL_OPERATIONS_LEAD",
+      "recipientRole": "SENIOR_PROGRAM_MANAGER",
       "boundaryLevel": "country",
       "escalations": [
         {

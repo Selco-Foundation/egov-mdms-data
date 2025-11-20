@@ -21,8 +21,8 @@
       "active": true
     },
     {
-      "code": "chandel.khengjoy",
-      "name": "Khengjoy",
+      "code": "chandel.khengjoi",
+      "name": "Khengjoi",
       "districtCode": "CHANDEL",
       "active": true
     },
@@ -64,7 +64,7 @@
     },
     {
       "code": "imphaleast.keiraobitra",
-      "name": "Keiraobitra",
+      "name": "Keirao Bitra",
       "districtCode": "IMPHALEAST",
       "active": true
     },
@@ -77,24 +77,6 @@
     {
       "code": "imphaleast.sawombung",
       "name": "Sawombung",
-      "districtCode": "IMPHALEAST",
-      "active": true
-    },
-    {
-      "code": "imphaleast.porompat",
-      "name": "Porompat",
-      "districtCode": "IMPHALEAST",
-      "active": true
-    },
-    {
-      "code": "imphaleast.kairabitra",
-      "name": "Kairabitra",
-      "districtCode": "IMPHALEAST",
-      "active": true
-    },
-    {
-      "code": "imphaleast.khongsaiveng",
-      "name": "Khongsai Veng",
       "districtCode": "IMPHALEAST",
       "active": true
     },
@@ -165,12 +147,6 @@
       "active": true
     },
     {
-      "code": "imphalwest.patsoi",
-      "name": "Patsoi",
-      "districtCode": "IMPHALWEST",
-      "active": true
-    },
-    {
       "code": "kakching.kakching",
       "name": "Kakching",
       "districtCode": "KAKCHING",
@@ -219,21 +195,15 @@
       "active": true
     },
     {
-      "code": "pherzawl.pherzawl",
-      "name": "Pherzawl",
+      "code": "pherzawl.thanlon",
+      "name": "Thanlon",
       "districtCode": "PHERZAWL",
       "active": true
     },
     {
-      "code": "pherzawl.pherzwal",
-      "name": "Pherzwal",
+      "code": "pherzawl.tipaimukh",
+      "name": "Tipaimukh",
       "districtCode": "PHERZAWL",
-      "active": true
-    },
-    {
-      "code": "senapati.mao",
-      "name": "Mao",
-      "districtCode": "SENAPATI",
       "active": true
     },
     {
@@ -245,6 +215,12 @@
     {
       "code": "senapati.oinamhill",
       "name": "Oinam Hill",
+      "districtCode": "SENAPATI",
+      "active": true
+    },
+    {
+      "code": "senapati.oinam",
+      "name": "Oinam",
       "districtCode": "SENAPATI",
       "active": true
     },
@@ -285,20 +261,14 @@
       "active": true
     },
     {
-      "code": "senapati.wilong",
-      "name": "Wilong",
+      "code": "senapati.willong",
+      "name": "Willong",
       "districtCode": "SENAPATI",
       "active": true
     },
     {
       "code": "senapati.songsong",
       "name": "Songsong",
-      "districtCode": "SENAPATI",
-      "active": true
-    },
-    {
-      "code": "senapati.poamata",
-      "name": "Poamata",
       "districtCode": "SENAPATI",
       "active": true
     },
@@ -327,8 +297,8 @@
       "active": true
     },
     {
-      "code": "tengnoupal.chakpikarong",
-      "name": "Chakpikarong",
+      "code": "tengnoupal.moreh",
+      "name": "Moreh",
       "districtCode": "TENGNOUPAL",
       "active": true
     },
@@ -341,18 +311,6 @@
     {
       "code": "tengnoupal.moreh",
       "name": "Moreh",
-      "districtCode": "TENGNOUPAL",
-      "active": true
-    },
-    {
-      "code": "tengnoupal.kakching",
-      "name": "Kakching",
-      "districtCode": "TENGNOUPAL",
-      "active": true
-    },
-    {
-      "code": "tengnoupal.waikhong",
-      "name": "Waikhong",
       "districtCode": "TENGNOUPAL",
       "active": true
     },
@@ -378,12 +336,6 @@
       "code": "ukhrul.jessami",
       "name": "Jessami",
       "districtCode": "UKHRUL",
-      "active": true
-    },
-    {
-      "code": "imphalwest.hiyangthang",
-      "name": "Hiyangthang",
-      "districtCode": "IMPHALWEST",
       "active": true
     },
     {

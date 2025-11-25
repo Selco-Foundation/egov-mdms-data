@@ -1,0 +1,11 @@
+{
+  "tenantId": "in",
+  "module": "amc",
+  "AMCThresholds": [
+    {
+      "id": 1,
+      "status": "active",
+      "amc_visit_notice_period_in_days": 30
+    }
+  ]
+}

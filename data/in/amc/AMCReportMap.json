@@ -1,0 +1,12 @@
+{
+	"tenantId": "in",
+	"moduleName": "amc",
+	"AMCReportMap": [
+		{
+			"id": 1,
+			"status": "active",
+			"solar_solution_design_type": "",
+			"amc_report": ""
+		}
+	]
+}

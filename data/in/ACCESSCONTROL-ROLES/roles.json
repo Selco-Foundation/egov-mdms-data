@@ -56,6 +56,46 @@
       "code": "SENIOR_PROGRAM_MANAGER",
       "name": "Senior Program Manager",
       "description": "Senior Program Manager for escalation management"
+    },
+    {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Default role for all employees"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "System Administrator. Can change all master data and has access to all the system screens."
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "COMPLAINANT",
+      "name": "Complainant",
+      "description": "One who will create complaints"
+    },
+    {
+      "code": "COMPLAINT_ASSESSOR",
+      "name": "Complaint Assessor",
+      "description": "One who will assess & assign complaints"
+    },
+    {
+      "code": "COMPLAINT_RESOLVER",
+      "name": "Complaint Resolver",
+      "description": "One who will resolve complaints"
+    },
+    {
+      "code": "COMPLAINT_FACILITATOR_1",
+      "name": "Complaint facilitator 1",
+      "description": "Person responsible to facilitate the complaint at level one"
+    },
+    {
+      "code": "COMPLAINT_FACILITATOR_2",
+      "name": "Complaint facilitator 2",
+      "description": "Person responsible to facilitate the complaint at level two"
     }
   ]
 }

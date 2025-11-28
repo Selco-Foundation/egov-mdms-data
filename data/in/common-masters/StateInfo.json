@@ -5,181 +5,217 @@
       {
         "code": "KA",
         "name": "Karnataka",
+        "boundaryCode": "India_Karnataka",
         "active": true
       },
       {
         "code": "MH",
         "name": "Maharashtra",
+        "boundaryCode": "India_Maharashtra",
         "active": true
       },
       {
         "code": "MZ",
         "name": "Mizoram",
+        "boundaryCode": "India_Mizoram",
         "active": true
       },
       {
-        "code": "TN",
-        "name": "Tamil Nadu",
-        "active": true
-      },
-      {
-        "code": "KL",
-        "name": "Kerala",
-        "active": true
-      },
-      {
-        "code": "AP",
-        "name": "Andhra Pradesh",
-        "active": true
-      },
-      {
-        "code": "TS",
-        "name": "Telangana",
-        "active": true
-      },
-      {
-        "code": "GJ",
-        "name": "Gujarat",
-        "active": true
-      },
-      {
-        "code": "RJ",
-        "name": "Rajasthan",
-        "active": true
-      },
-      {
-        "code": "MP",
-        "name": "Madhya Pradesh",
-        "active": true
-      },
-      {
-        "code": "UP",
-        "name": "Uttar Pradesh",
-        "active": true
-      },
-      {
-        "code": "BR",
-        "name": "Bihar",
-        "active": true
-      },
-      {
-        "code": "WB",
-        "name": "West Bengal",
-        "active": true
-      },
-      {
-        "code": "OD",
+        "code": "OR",
         "name": "Odisha",
-        "active": true
-      },
-      {
-        "code": "JH",
-        "name": "Jharkhand",
-        "active": true
-      },
-      {
-        "code": "CG",
-        "name": "Chhattisgarh",
-        "active": true
-      },
-      {
-        "code": "HR",
-        "name": "Haryana",
-        "active": true
-      },
-      {
-        "code": "PB",
-        "name": "Punjab",
-        "active": true
-      },
-      {
-        "code": "HP",
-        "name": "Himachal Pradesh",
-        "active": true
-      },
-      {
-        "code": "UK",
-        "name": "Uttarakhand",
+        "boundaryCode": "India_Odisha",
         "active": true
       },
       {
         "code": "AS",
         "name": "Assam",
+        "boundaryCode": "India_Assam",
         "active": true
       },
       {
         "code": "MN",
         "name": "Manipur",
+        "boundaryCode": "India_Manipur",
         "active": true
       },
       {
         "code": "ML",
         "name": "Meghalaya",
+        "boundaryCode": "India_Meghalaya",
         "active": true
       },
       {
         "code": "NL",
         "name": "Nagaland",
-        "active": true
-      },
-      {
-        "code": "TR",
-        "name": "Tripura",
-        "active": true
-      },
-      {
-        "code": "AR",
-        "name": "Arunachal Pradesh",
+        "boundaryCode": "India_Nagaland",
         "active": true
       },
       {
         "code": "SK",
         "name": "Sikkim",
+        "boundaryCode": "India_Sikkim",
+        "active": true
+      },
+      {
+        "code": "TN",
+        "name": "Tamil Nadu",
+        "boundaryCode": "India_TamilNadu",
+        "active": true
+      },
+      {
+        "code": "KL",
+        "name": "Kerala",
+        "boundaryCode": "India_Kerala",
+        "active": true
+      },
+      {
+        "code": "AP",
+        "name": "Andhra Pradesh",
+        "boundaryCode": "India_AndhraPradesh",
+        "active": true
+      },
+      {
+        "code": "TS",
+        "name": "Telangana",
+        "boundaryCode": "India_Telangana",
+        "active": true
+      },
+      {
+        "code": "GJ",
+        "name": "Gujarat",
+        "boundaryCode": "India_Gujarat",
+        "active": true
+      },
+      {
+        "code": "RJ",
+        "name": "Rajasthan",
+        "boundaryCode": "India_Rajasthan",
+        "active": true
+      },
+      {
+        "code": "MP",
+        "name": "Madhya Pradesh",
+        "boundaryCode": "India_MadhyaPradesh",
+        "active": true
+      },
+      {
+        "code": "UP",
+        "name": "Uttar Pradesh",
+        "boundaryCode": "India_UttarPradesh",
+        "active": true
+      },
+      {
+        "code": "BR",
+        "name": "Bihar",
+        "boundaryCode": "India_Bihar",
+        "active": true
+      },
+      {
+        "code": "WB",
+        "name": "West Bengal",
+        "boundaryCode": "India_WestBengal",
+        "active": true
+      },
+      {
+        "code": "JH",
+        "name": "Jharkhand",
+        "boundaryCode": "India_Jharkhand",
+        "active": true
+      },
+      {
+        "code": "CG",
+        "name": "Chhattisgarh",
+        "boundaryCode": "India_Chhattisgarh",
+        "active": true
+      },
+      {
+        "code": "HR",
+        "name": "Haryana",
+        "boundaryCode": "India_Haryana",
+        "active": true
+      },
+      {
+        "code": "PB",
+        "name": "Punjab",
+        "boundaryCode": "India_Punjab",
+        "active": true
+      },
+      {
+        "code": "HP",
+        "name": "Himachal Pradesh",
+        "boundaryCode": "India_HimachalPradesh",
+        "active": true
+      },
+      {
+        "code": "UK",
+        "name": "Uttarakhand",
+        "boundaryCode": "India_Uttarakhand",
+        "active": true
+      },
+      {
+        "code": "TR",
+        "name": "Tripura",
+        "boundaryCode": "India_Tripura",
+        "active": true
+      },
+      {
+        "code": "AR",
+        "name": "Arunachal Pradesh",
+        "boundaryCode": "India_ArunachalPradesh",
         "active": true
       },
       {
         "code": "GA",
         "name": "Goa",
+        "boundaryCode": "India_Goa",
         "active": true
       },
       {
         "code": "DL",
         "name": "Delhi",
+        "boundaryCode": "India_Delhi",
         "active": true
       },
       {
         "code": "JK",
         "name": "Jammu and Kashmir",
+        "boundaryCode": "India_JammuandKashmir",
         "active": true
       },
       {
         "code": "LA",
         "name": "Ladakh",
+        "boundaryCode": "India_Ladakh",
         "active": true
       },
       {
         "code": "CH",
         "name": "Chandigarh",
+        "boundaryCode": "India_Chandigarh",
         "active": true
       },
       {
         "code": "PY",
         "name": "Puducherry",
+        "boundaryCode": "India_Puducherry",
         "active": true
       },
       {
         "code": "AN",
         "name": "Andaman and Nicobar Islands",
+        "boundaryCode": "India_AndamanandNicobarIslands",
         "active": true
       },
       {
         "code": "DN",
         "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "boundaryCode": "India_DadraandNagarHaveliandDamanandDiu",
         "active": true
       },
       {
         "code": "LD",
         "name": "Lakshadweep",
+        "boundaryCode": "India_Lakshadweep",
         "active": true
       }
   ]

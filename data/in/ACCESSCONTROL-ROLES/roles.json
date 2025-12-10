@@ -96,6 +96,11 @@
       "code": "COMPLAINT_FACILITATOR_2",
       "name": "Complaint facilitator 2",
       "description": "Person responsible to facilitate the complaint at level two"
+    },
+    {
+      "code": "RMS",
+      "name": "Rms",
+      "description": "Person responsible to facilitate the complaint at level two"
     }
   ]
 }

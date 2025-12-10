@@ -1,0 +1,161 @@
+{
+  "tenantId": "in",
+  "moduleName": "facility",
+  "FacilityType": [
+    {
+      "code": "Primary Health Center",
+      "name": "Primary Health Center",
+      "active": true
+    },
+    {
+      "code": "Urban Primary Health Center",
+      "name": "Urban Primary Health Center",
+      "active": true
+    },
+    {
+      "code": "Private Hospital",
+      "name": "Private Hospital",
+      "active": true
+    },
+    {
+      "code": "Dispensary",
+      "name": "Dispensary",
+      "active": true
+    },
+    {
+      "code": "Subsidiary Health Center",
+      "name": "Subsidiary Health Center",
+      "active": true
+    },
+    {
+      "code": "Taluka Hospital",
+      "name": "Taluka Hospital",
+      "active": true
+    },
+    {
+      "code": "Sub Center Delivery",
+      "name": "Sub Center Delivery",
+      "active": true
+    },
+    {
+      "code": "Health and Wellness Center",
+      "name": "Health and Wellness Center",
+      "active": true
+    },
+    {
+      "code": "Mini Primary Health Center",
+      "name": "Mini Primary Health Center",
+      "active": true
+    },
+    {
+      "code": "District Vaccine Storage",
+      "name": "District Vaccine Storage",
+      "active": true
+    },
+    {
+      "code": "Urban Health Center",
+      "name": "Urban Health Center",
+      "active": true
+    },
+    {
+      "code": "TB Center",
+      "name": "TB Center",
+      "active": true
+    },
+    {
+      "code": "Tribal Health Center",
+      "name": "Tribal Health Center",
+      "active": true
+    },
+    {
+      "code": "Palliative Care",
+      "name": "Palliative Care",
+      "active": true
+    },
+    {
+      "code": "City Hospital",
+      "name": "City Hospital",
+      "active": true
+    },
+    {
+      "code": "Maternity Hospital",
+      "name": "Maternity Hospital",
+      "active": true
+    },
+    {
+      "code": "Urban Health and Wellness Center",
+      "name": "Urban Health and Wellness Center",
+      "active": true
+    },
+    {
+      "code": "District Hospital",
+      "name": "District Hospital",
+      "active": true
+    },
+    {
+      "code": "Nursing Home",
+      "name": "Nursing Home",
+      "active": true
+    },
+    {
+      "code": "Ayurvedic Center",
+      "name": "Ayurvedic Center",
+      "active": true
+    },
+    {
+      "code": "State Dispensary",
+      "name": "State Dispensary",
+      "active": true
+    },
+    {
+      "code": "Block Primary Health Center",
+      "name": "Block Primary Health Center",
+      "active": true
+    },
+    {
+      "code": "Medical College",
+      "name": "Medical College",
+      "active": true
+    },
+    {
+      "code": "District Malaria Hospital",
+      "name": "District Malaria Hospital",
+      "active": true
+    },
+    {
+      "code": "Community Health Center",
+      "name": "Community Health Center",
+      "active": true
+    },
+    {
+      "code": "Sub Divisional Hospital",
+      "name": "Sub Divisional Hospital",
+      "active": true
+    },
+    {
+      "code": "Riverine Primary Health Center",
+      "name": "Riverine Primary Health Center",
+      "active": true
+    },
+    {
+      "code": "New Primary Health Center",
+      "name": "New Primary Health Center",
+      "active": true
+    },
+    {
+      "code": "Sub Center",
+      "name": "Sub Center",
+      "active": true
+    },
+    {
+      "code": "PHC",
+      "name": "Primary Health Centre",
+      "active": true
+    },
+    {
+      "code": "SC",
+      "name": "Sub Centre",
+      "active": true
+    }
+  ]
+}

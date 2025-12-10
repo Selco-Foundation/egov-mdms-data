@@ -3,6 +3,128 @@
   "moduleName": "INBOX",
   "InboxQueryConfiguration": [
     {
+      "index": "computed-sla-im-services-write",
+      "module": "Incident",
+      "sortBy": {
+        "path": "Data.incident.auditDetails.createdTime",
+        "defaultOrder": "ASC"
+      },
+      "sourceFilterPathList": [
+        "Data.incident",
+        "Data.tenantId",
+        "Data.auditDetails",
+        "Data.currentProcessInstance",
+        "Data.slaRemaining",
+        "Data.stateSLA",
+        "Data.totalSlaRemaining"
+      ],
+      "allowedSearchCriteria": [
+        {
+          "name": "tenantId",
+          "path": "Data.incident.tenantId.keyword",
+          "operator": "EQUAL",
+          "isMandatory": true
+        },
+        {
+          "name": "status",
+          "path": "Data.incident.applicationStatus.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "incidentType",
+          "path": "Data.incident.incidentType.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "phcType",
+          "path": "Data.incident.phcType.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "assignee",
+          "path": "Data.currentProcessInstance.assignes.userName.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "applicationNumber",
+          "path": "Data.incident.incidentId.keyword",
+          "operator": "WILDCARD",
+          "isMandatory": false
+        },
+        {
+          "name": "fromDate",
+          "path": "Data.incident.auditDetails.createdTime",
+          "operator": "GTE",
+          "isMandatory": false
+        },
+        {
+          "name": "toDate",
+          "path": "Data.incident.auditDetails.createdTime",
+          "operator": "LTE",
+          "isMandatory": false
+        },
+        {
+          "name": "nearingSLA",
+          "path": "sla_comparison",
+          "operator": "LTE",
+          "isMandatory": false
+        },
+        {
+          "name": "search",
+          "path": "Data.incident.incidentId, Data.incident.boundary.districtCode, Data.incident.reporter.userName",
+          "operator": "MULTI_MATCH",
+          "isMandatory": false
+        },
+        {
+          "name": "district",
+          "path": "Data.incident.boundary.districtCode.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "block",
+          "path": "Data.incident.boundary.blockCode.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "systemFunctional",
+          "path": "Data.incident.systemFunctional.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "slaRemaining",
+          "path": "Data.slaRemaining",
+          "operator": "gte",
+          "isMandatory": false
+        },
+        {
+          "name": "escalations",
+          "path": "Data.escalations.keyword",
+          "operator": "must_not",
+          "isMandatory": false
+        },
+        {
+          "name": "incidentSubType",
+          "path": "Data.incident.incidentSubType.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "country",
+          "path": "Data.incident.boundary.countryCode.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "state",
+          "path": "Data.incident.boundary.stateCode.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "facility",
+          "path": "Data.incident.boundary.facilityCode.keyword",
+          "isMandatory": false
+        }
+      ]
+    },
+    {
         "index": "project-services",
         "module": "Project",
         "sortBy": {

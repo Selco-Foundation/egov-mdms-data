@@ -1,0 +1,31 @@
+{
+  "tenantId": "in",
+  "moduleName": "common-masters",
+  "BoundaryLanguage": [
+    {
+      "label": "ಕನ್ನಡ",
+      "value": "ka_IN",
+      "boundaryCode": "India_Karnataka"
+    },
+    {
+      "label": "ଓଡ଼ିଆ",
+      "value": "or_IN",
+      "boundaryCode": "India_Odisha"
+    },
+    {
+      "label": "Mizo",
+      "value": "lus_IN",
+      "boundaryCode": "India_Mizoram"
+    },
+    {
+      "label": "मराठी",
+      "value": "mr_IN",
+      "boundaryCode": "India_Maharashtra"
+    },
+    {
+      "label": "ગુજરાતી",
+      "value": "gu_IN",
+      "boundaryCode": "India_Gujarat"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "tenantId": "in",
+  "moduleName": "data-ingestion",
+  "FacilityIngestionSchema": [
+    {
+      "id": 1,
+      "columns": [
+        {
+          "code": "facility_id",
+          "name": "Facility Id",
+          "type": "system_generated_id",
+          "required": false
+        },
+        {
+          "code": "boundaryCode",
+          "name": "Boundary Code",
+          "type": "string",
+          "required": true,
+          "svcSource": {
+            "key": "boundaryCode",
+            "path": "$",
+            "filterType": "ONE_OF"
+          }
+        },
+        {
+          "code": "facility_name",
+          "name": "Health Centre Name",
+          "type": "string",
+          "required": true
+        },
+        {
+          "code": "facility_type",
+          "name": "Type of HC",
+          "type": "string",
+          "required": true,
+          "mdmsSource": {
+            "path": "$.code",
+            "master": "FacilityType",
+            "module": "facility",
+            "filterType": "ONE_OF"
+          }
+        },
+        {
+          "code": "facility_details.hfr_id",
+          "name": "HFR ID",
+          "type": "Unique_Id",
+          "required": false
+        },
+        {
+          "code": "facility_details.nin_id",
+          "name": "NIN ID",
+          "type": "Unique_Id",
+          "required": false
+        },
+        {
+          "code": "None",
+          "name": "Vendor Code",
+          "type": "string",
+          "required": false
+        },
+        {
+          "code": "facility_details.solar_solution_design_type",
+          "name": "Solution Design Type",
+          "type": "string",
+          "required": true,
+          "mdmsSource": {
+            "path": "$.code",
+            "master": "SolarSolutionDesignType",
+            "module": "facility",
+            "filterType": "ONE_OF"
+          }
+        },
+        {
+          "code": "facility_details.pocName",
+          "name": "HC PoC Name",
+          "type": "string",
+          "pattern": "^[^\\\"$<>?\\\\~`!@#$%^()+={}\\[\\]*,:;“”‘’]*$",
+          "required": true
+        },
+        {
+          "code": "facility_details.pocContact",
+          "name": "HC PoC Contact number",
+          "type": "string",
+          "pattern": "^\\d{10}$",
+          "required": true
+        },
+        {
+          "code": "facility_details.pocDesignation",
+          "name": "HC PoC Designation",
+          "type": "string",
+          "pattern": "^[a-zA-Z\\s]+$",
+          "required": false
+        },
+        {
+          "code": "address.latitude",
+          "name": "Latitude",
+          "type": "number",
+          "required": false
+        },
+        {
+          "code": "address.longitude",
+          "name": "Longitude",
+          "type": "number",
+          "required": false
+        },
+        {
+          "code": "isActive",
+          "name": "Include in Project",
+          "type": "enum-yes-no",
+          "required": false
+        }
+      ],
+      "rowConstraints": [
+        {
+          "type": "atLeastOneRequired",
+          "fields": [
+            "HFR ID",
+            "NIN ID"
+          ],
+          "message": "At least one of HFR ID or NIN ID must be provided."
+        },
+        {
+          "type": "allOrNoneRequired",
+          "fields": [
+            "Latitude",
+            "Longitude"
+          ],
+          "message": "Latitude and Longitude allOrNoneRequired"
+        }
+      ]
+    }
+  ]
+}

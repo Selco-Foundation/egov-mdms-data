@@ -78,11 +78,13 @@
         {
           "name": "district",
           "path": "Data.incident.boundary.districtCode.keyword",
+          "operator": "SHOULD",
           "isMandatory": false
         },
         {
           "name": "block",
           "path": "Data.incident.boundary.blockCode.keyword",
+          "operator": "SHOULD",
           "isMandatory": false
         },
         {
@@ -110,16 +112,19 @@
         {
           "name": "country",
           "path": "Data.incident.boundary.countryCode.keyword",
+          "operator": "SHOULD",
           "isMandatory": false
         },
         {
           "name": "state",
           "path": "Data.incident.boundary.stateCode.keyword",
+          "operator": "SHOULD",
           "isMandatory": false
         },
         {
           "name": "facility",
           "path": "Data.incident.boundary.facilityCode.keyword",
+          "operator": "SHOULD",
           "isMandatory": false
         }
       ]

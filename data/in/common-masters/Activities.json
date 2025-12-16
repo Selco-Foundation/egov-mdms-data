@@ -1,25 +1,43 @@
 {
   "tenantId": "in",
   "moduleName": "common-masters",
-  "Department": [
-    {
-      "code": "MT",
-      "name": "Maintenance",
-      "active": true
-    },
-    {
-      "code": "HO",
-      "name": "Handover",
-      "active": true
-    },
-    {
-      "code": "QC",
-      "name": "QC",
-      "active": true
-    },
+  "Activities": [
     {
       "code": "INS",
       "name": "Installation",
+      "roles": [
+        {
+          "code": "INSTALLATION_SPOC",
+          "name": "Installation SPOC",
+          "tenantId": "in",
+          "description": ""
+        },
+        {
+          "code": "INSTALLATION_REVIEWER",
+          "name": "Installation Reviewer",
+          "tenantId": "in",
+          "description": ""
+        }
+      ],
+      "active": true
+    },
+    {
+      "code": "AMC",
+      "name": "AMC",
+      "roles": [
+        {
+          "code": "AMC_FIELD_STAFF",
+          "name": "AMC Field Staff",
+          "tenantId": "in",
+          "description": ""
+        },
+        {
+          "code": "AMC_REVIEWER",
+          "name": "AMC Reviewer",
+          "tenantId": "in",
+          "description": ""
+        }
+      ],
       "active": true
     }
   ]

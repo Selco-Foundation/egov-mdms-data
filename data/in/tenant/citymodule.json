@@ -3,6 +3,30 @@
   "moduleName": "tenant",
   "citymodule": [
     {
+      "code": "IM",
+      "order": 1,
+      "active": true,
+      "module": "IM",
+      "tenants": [
+        {
+          "code": "in"
+        }
+      ],
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png"
+    },
+    {
+      "code": "PM",
+      "order": 1,
+      "active": true,
+      "module": "PM",
+      "tenants": [
+        {
+          "code": "in"
+        }
+      ],
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png"
+    },
+    {
       "code": "QC",
       "order": 1,
       "active": true,

@@ -1,0 +1,90 @@
+{
+  "tenantId": "in",
+  "moduleName": "facility",
+  "SolarSolutionDesignType": [
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "SUB_CENTER_STAFF_QUARTERS",
+      "name": "Sub center + Staff Quaters",
+      "active": true,
+      "system_code": "DC"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_DELIVERY_CCP_DENTAL",
+      "name": "PHC With Delivery With Cold Chain and Dental Unit",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_DELIVERY_CCP_HYBRID",
+      "name": "PHC With Delivery With Cold Chain - Hybrid System",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_DELIVERY_NO_CCP",
+      "name": "PHC With Delivery Without Cold Chain",
+      "active": true,
+      "system_code": "HYBRID_THREE_PHASE"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_DELIVERY_WITH_CCP",
+      "name": "PHC With Delivery With Cold Chain",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_LAB_CCP_OR_LR",
+      "name": "PHC with Lab + Cold Chain (or) Lab + Labour Room",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_NO_DELIVERY_NO_CCP",
+      "name": "PHC Without Delivery Without Cold Chain",
+      "active": true,
+      "system_code": "HYBRID_SINGLE_PHASE"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "PHC_NO_DELIVERY_WITH_CCP",
+      "name": "PHC Without Delivery With Cold Chain",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "SC_LR_FRIDGE_NO_CCP",
+      "name": "SC - with labour room + Refrigerator & without cold chain point",
+      "active": true,
+      "system_code": "DC"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "SC_LR_WITH_CCP",
+      "name": "SC - with Labour room with cold chain point",
+      "active": true,
+      "system_code": "AC_OFF_GRID_THREE_PHASE"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "SC_NO_LR_FRIDGE_NO_CCP",
+      "name": "SC - without labour room + Refrigerator & without cold chain point",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    },
+    {
+      "url": "0114b303-5c68-49fc-9904-4ee212bd8f24",
+      "code": "SC_NO_LR_NO_CCP",
+      "name": "SC - without labour room & without cold chain point",
+      "active": true,
+      "system_code": "AC_OFF_GRID"
+    }
+  ]
+}

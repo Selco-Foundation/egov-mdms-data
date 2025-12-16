@@ -26,10 +26,7 @@
             "format": "ASSET-[SEQ_ASSET_ID]",
             "idname": "assetId"
         },
-        {
-            "format": "FAC/[cy:yyyy]/[SEQ_FAC_ID]",
-            "idname": "facility.id"
-        },
+        ,
         {
             "format": "SR/ORG/[cy:dd-MM-yyyy]/[SEQ_ORG_APP_NUM]",
             "idname": "org.application.number"
